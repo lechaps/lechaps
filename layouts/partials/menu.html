@@ -1,0 +1,10 @@
+  <!-- Menu -->
+  <nav id="menu">
+    <h2>Menu</h2>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      {{ range $num, $page := .Pages.ByWeight }}
+      <li><a href="{{ .Params.link }}" target="_blank">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>

@@ -1,0 +1,6 @@
+baseURL = "http://www.lechaps.com"
+languageCode = "fr-FR"
+title = "LeChaps Home"
+
+[params]
+description = "LeChaps Website, le site de LeChaps"
