@@ -1,1 +1,21 @@
-site_name: My Docs
+site_name: Le Chaps
+
+# Repository
+repo_name: Github 
+repo_url: https://github.com/lechaps/lechaps
+
+theme:
+  name: material
+
+copyright: "Version : Pyramid"
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://www.twitter.com/lechaps
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/lechaps03
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/romainchapon
+
