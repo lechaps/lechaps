@@ -1,4 +1,5 @@
 site_name: Le Chaps
+site_dir: public
 
 # Repository
 repo_name: Github 
