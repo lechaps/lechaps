@@ -1,17 +1,60 @@
 site_name: Le Chaps
+site_url: https://www.lechaps.com/
 site_dir: public
 
-# Repository
-repo_name: Github 
-repo_url: https://github.com/lechaps/lechaps
+#repo_name: Lechaps on Github 
+#repo_url: https://github.com/lechaps/lechaps
 
 theme:
   name: material
+  language: fr
+  icon:
+    logo: fontawesome/solid/book-open
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to system preference
+  font:
+    text: Nunito
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
+    #- toc.integrate
+    #- navigation.expand
 
 copyright: "Version : Pyramid"
 
+plugins:
+  - search
+  - privacy
+  - social
+  - minify:
+      minify_html: true
+  - glightbox
+  
+not_in_nav: |
+  /index.md
+  /jeux/*
+
 extra:
-  generator: false
+  #generator: false
   social:
     - icon: fontawesome/brands/x-twitter
       link: https://www.twitter.com/lechaps
@@ -19,4 +62,10 @@ extra:
       link: https://www.instagram.com/lechaps03
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/romainchapon
+    - icon: fontawesome/brands/github
+      link: https://github.com/lechaps
 
+markdown_extensions:
+  - tables
+  - footnotes
+  - attr_list
