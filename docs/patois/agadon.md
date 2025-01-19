@@ -2,13 +2,20 @@
 
 ## Définition
 
-Expression signifiant _regarde donc_, utilisée pour attirer l'attention et désigner un objet, une action ou une personne. Souvent écrite dans sa forme la plus simple - _agadon_  - nous lui préférons une forme décomposée permettant à l'auteur de concevoir le chemin de prononciation employé pour arriver à sa forme finale : A'gad'don
+Expression utilisée pour signifier regarde donc, servant à attirer l’attention sur une personne, un objet, ou une action spécifique. Couramment simplifiée en **agadon**, la forme décomposée **a'gad'don** met en lumière l’évolution orale de la prononciation, illustrant un phrasé spontané et vivant.
 
 ## Exemple
 
-> A'gad'don, comment il s'est accatouflé.
+_A'gad'don, comment il s'est accatouflé._
+> Observe donc avec attention la chute des plus spectaculaires de notre ami.
 
-Traduction française : "Observe donc avec attention la chute des plus spectaculaires de notre ami."
+## Équivalent
+
+Regarde donc, observe.
+
+## Origine
+
+L’expression provient d’un phrasé familier et oral, souvent employé pour insister sur un fait remarquable ou inviter quelqu’un à prêter attention à une scène ou un détail précis. La décomposition phonétique reflète une intonation naturelle et ancrée.
 
 ## Lien
 

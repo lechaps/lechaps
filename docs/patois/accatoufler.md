@@ -1,18 +1,24 @@
-# s'Accatoufler
+# Accatoufler (s')
 
 ## Définition
 
-Verbe transitif, employé dans sa forme participative pour signifier _tomber_ voire _s'effondrer_. Il signifie généralement une lourde chute sans dégat. Par extension, il peut désigner pour une personne le fait de s'asseoir de manière peu discrète, sans préter attention aux alentours.
+Verbe désignant l’action de tomber ou de s’effondrer lourdement, généralement sans causer de dégâts. Par extension, il peut également évoquer le fait de s’asseoir ou de se poser brusquement et sans discrétion, souvent de manière inattentive ou peu élégante.
 
 ## Exemple
 
-> J'me suis accatoufler là, comme une merde.
+_J'me suis accatoufler là, comme une merde._
+> Je me suis effondré en ces lieux, tel un être totalement dénué de prestance.
 
-Traduction française : "Je me suis effondré en ces lieux, tel un être totalement dénué de prestance"
+_Ah ben tu t'es accatouflé mais y'avait ma pogne !_
+> Vous venez d’abaisser votre séant sur ma main.
 
-> Ah ben tu t'es accatouflé mais y'avait ma pogne !
+## Équivalent
 
-Traduction française : "Vous venez d’abaisser votre séant sur ma main"
+Tomber, s’écrouler, s’affaler.
+
+## Origine
+
+L’expression illustre une chute ou un effondrement soudain et souvent bruyant, donnant l’idée d’un poids qui s’abat sans retenue. L’emploi élargi pour décrire un comportement nonchalant ou désinvolte en s’asseyant ajoute une nuance humoristique.
 
 ## Lien
 

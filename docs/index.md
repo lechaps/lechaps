@@ -2,6 +2,6 @@
 
 Bienvenue sur le site du Chaps
 
-Auvergnat (un peu), bourbonnais (beaucoup), arbitre, joueur, citoyen, informaticien, architecte, pongiste, badiste, guitariste, acteur, papa...Il n'y a pas d'ordre à cette liste, d'ailleurs il n'est pas certain qu'elle soit complète. Est-t-il nécessaire qu'elle le soit ?  Bref je vous remercie d'être venu jusqu'ici et vous souhaite un bon moment avec mes écrits et mes pensées.
+Auvergnat 🌋 (un peu), bourbonnais 🏰 (beaucoup), parodien 🚜 (surtout), mais avant tout citoyen du monde 🌍, je partage ici ce qui m'anime : des passions variées, des projets créatifs et des expériences uniques. Geek 🖥️, papa ❤️, amateur de vin 🍷, arbitre ⚖️, acteur 🎬, architecte 💡, comédien 🎭, badiste 🏸, guitariste 🎸, chroniqueur radio 🎙️...ce blog est un mélange des genres à mon image.
 
-Vous retrouvez dans le menu les différentes sections du site selon un tri tout à fait personnel. Je vous laisse découvrir.
+Explorez les différentes sections du site via un menu organisé selon mes envies (et un peu de logique 🧠). Bonne visite et au plaisir !

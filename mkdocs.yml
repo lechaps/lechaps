@@ -39,7 +39,7 @@ theme:
     #- toc.integrate
     #- navigation.expand
 
-copyright: "Version : Pyramid"
+copyright: "Version : Pergola"
 
 plugins:
   - search
@@ -52,6 +52,7 @@ plugins:
 not_in_nav: |
   /index.md
   /jeux/*
+  /lois de la tech/*
 
 extra:
   #generator: false

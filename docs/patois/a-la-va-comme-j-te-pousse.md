@@ -2,13 +2,20 @@
 
 ## Définition
 
-Expression utilisée pour désigner quelque chose réalisée à la va-vite, sans application, sans entrain ni intérêt.
+Expression utilisée pour qualifier une action réalisée rapidement, sans soin particulier, et souvent sans véritable envie ni effort. Elle traduit une manière de faire bâclée ou négligée, où l'on s'efforce de terminer quelque chose sans s'y investir pleinement.
 
 ## Exemple
 
-> C'est d'la merde, il y a fait à la va comme j'te pousse.
+_Regarde, il y a fait à la va comme j'te pousse._
+> Il convient d’admettre que je demeure peu convaincu par le fruit de ses travaux compte tenu du faible entrain dont il a fait montre.
 
-Traduction française : "Il convient d’admettre que je demeure peu convaincu par le fruit de ses travaux compte tenu du faible entrain dont il a fait montre."
+## Équivalent
+
+Fait à la va-vite, sans sérieux, à l'arrache.
+
+## Origine
+
+L'expression évoque l'idée de pousser ou d'avancer sans soin, juste pour "faire passer", sans considération pour la qualité ou le détail.
 
 ## Lien
 

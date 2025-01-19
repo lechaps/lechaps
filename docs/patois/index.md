@@ -4,7 +4,7 @@ Un dictionnaire des mots et expressions d'autrefois et autres bizzareries. Un re
 
 Quelques rappels sur le patois du bourbonnais :
 
-* La syllabe _re_ se prononce _eur_ en patois Bourbonnais. Par exemeple "bredin" est devenu "berdin".
+* La syllabe _re_ se prononce _eur_ en patois Bourbonnais. Par exemeple "bredin" se prononce "beurdin".
 
 Pour ceux qui voudraient en savoir plus voici quelques références :
 

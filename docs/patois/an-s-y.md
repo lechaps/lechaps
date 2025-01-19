@@ -2,13 +2,20 @@
 
 ## Définition
 
-Prononcée An'z'y, cette expression est utilisée pour marquer des encouragements à l'effort. La meilleure traduction vient de l'anglais avec l'expressions _let's go_.
+_Prononcée "An'z'y"_. Expression utilisée pour encourager à l’action ou pour signifier qu’il est temps de se mettre à une tâche. Elle exprime un élan collectif ou individuel, souvent accompagné d’une certaine urgence ou d’un rappel à l’efficacité. On pourrait la comparer à l’anglais _let’s go_ ou au français _allons-y_.
 
 ## Exemple
 
-> An s'y ! On n'a pas que ça à faire.
+An s'y ! On n'a pas que ça à faire.
+> Allons-y, mes chers camarades, car le temps nous est compté !
 
-Traduction française : "Allons-y, mes chers camarades, car le temps nous est compté !"
+## Équivalent
+
+Allons-y, on y va, en avant !
+
+## Origine
+
+L’expression illustre une contraction orale souvent utilisée dans un cadre rural pour inciter à l’effort commun. Elle traduit à la fois une motivation et une certaine efficacité dans l’action.
 
 ## Lien
 

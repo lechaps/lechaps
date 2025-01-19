@@ -2,14 +2,21 @@
 
 ## Définition
 
-Employé dans sa forme participative dans le sens de _couver une maladie_ pour signifier un état global "patraque". Il signifie aussi un état d'incubation par l'accumulation de fatigue ou de froid. Par extension, il peut désigner un état général d'abattement ou de lassitude, souvent attribué à un effort excessif ou à une fatigue prolongée.
+Terme populaire employé pour décrire un état de santé fragile, souvent lié à une sensation de couver une maladie. Il traduit un état global de fatigue, de lassitude ou d’abattement, parfois causé par un effort prolongé, l’exposition au froid ou l’accumulation de fatigue.
 
 ## Exemple
 
-> Oh là là, ce matin y'a pas moyen. Je suis totalement acabouéler.
+_Oh là là, ce matin y'a pas moyen. Je suis totalement acabouéler._
+> Diantre, il m’est ce matin absolument impossible de quitter ma couche, tant je suis accablé de langueur
 
-Traduction française : "Diantre, il m’est ce matin absolument impossible de quitter ma couche, tant je suis accablé de langueur"
+## Équivalent
+
+Patraque, mal fichu, épuisé, affaibli.
+
+## Origine
+
+Le terme évoque l’idée d’un corps affaibli, en phase d’incubation d’un mal ou d’un épuisement généralisé. Par extension, il illustre aussi une lassitude profonde due aux conditions extérieures ou aux efforts excessifs.
 
 ## Lien
 
-[Définition de "patraque" de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9P1000){ target="_blank_" }
+* [Définition de "patraque" de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9P1000){ target="_blank" }
