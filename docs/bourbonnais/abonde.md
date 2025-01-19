@@ -37,5 +37,6 @@ L’expression "faire de l’abonde" dérive de l’idée d’abondance, prenant
 ## Lien
 
 * [Définition du verber "abonder" de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9A0096){ target="_blank" }
+* [Définition du dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1A0002.html){ target="_blank" }
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/abonde){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/abonde){ target="_blank" }

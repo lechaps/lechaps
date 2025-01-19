@@ -6,7 +6,7 @@ _Prononcée "An'z'y"_. Expression utilisée pour encourager à l’action ou pou
 
 ## Exemple
 
-An s'y ! On n'a pas que ça à faire.
+_An s'y ! On n'a pas que ça à faire._
 > Allons-y, mes chers camarades, car le temps nous est compté !
 
 ## Équivalent

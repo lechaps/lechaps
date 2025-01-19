@@ -7,8 +7,12 @@
 
 ## Exemple
 
+### 1. Dans le sens d'aplatir
+
 _Agale moi s'te bosse._
 > Je sollicite de ta part quelques légers tapotements sur l’excroissance qui altère la planéité du sol.
+
+### 2. Dans le sens d'affaiblissement
 
 _Ouh, je l'ai vu l'aut' jour et je l'ai trouvé sacrément agalé._
 > Oh, le pauvre homme, que j’ai croisé récemment ; le passage du temps commence visiblement à imprimer sa marque sur sa personne.

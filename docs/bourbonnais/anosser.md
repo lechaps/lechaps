@@ -6,7 +6,7 @@ Verbe utilisé comme synonyme de s’étouffer ou suffoquer, généralement en r
 
 ## Exemple
 
-C'est sec cet'affaire, je m'suis anossé.
+_C'est sec cet'affaire, je m'suis anossé._
 > Il semblerait que ce mets manque quelque peu de moelleux, car je me suis légèrement étranglé en le dégustant
 
 ## Équivalent

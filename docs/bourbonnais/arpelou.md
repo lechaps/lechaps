@@ -9,7 +9,14 @@ Terme utilisé pour désigner une personne, avec des connotations qui varient se
 
 ## Exemple
 
-Il a levé l'hors-jeu et il ose se justifier, cet'arpelou !
+### 1. Dans le sens positif
+
+_A'gad'don, toujours à se faufiler partout, cet arpelou, mais il est malin !_
+> Regardez, toujours prompt à se glisser partout, cet espiègle personnage, mais il faut reconnaître qu’il est ingénieux !
+
+### 2. Dans le sens négatif
+
+_Il a levé l'hors-jeu et il ose se justifier, cet'arpelou !_
 > Fichtre, il semble que l'arbitre ait pris la décision de signaler un hors-jeu, une décision qui paraît, à tout le moins, manquer de probité !
 
 ## Équivalent
