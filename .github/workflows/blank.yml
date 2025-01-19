@@ -23,20 +23,18 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
-      # Hugo
-      - name: Hugo setup
-        uses: peaceiris/actions-hugo@v2.4.13
-        with:
-          hugo-version: 'latest'
-      
+
+      # MkDocs Setup
+      - name: MkDocs setup
+        run: pip install mkdocs mkdocs-material "mkdocs-material[imaging]" mkdocs-minify-plugin mkdocs-glightbox
+            
       # Clean and don't fail
       - name: Clean public directory
         run: rm -rf public
 
-      # Builds the site using the latest version of Hugo
+      # Builds the site using MkDocs
       - name: Build
-        run: hugo --minify
+        run: mkdocs build
     
       # Deploy
       - name: Deploy to Server
