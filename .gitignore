@@ -2,3 +2,4 @@ public/
 !/public/.htaccess
 .cache/
 pythonenv/
+.DS_Store
