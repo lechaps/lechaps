@@ -1,8 +1,8 @@
-# À peu près
+# À-peu-près
 
 ## Définition
 
-Expression utilisée pour décrire quelque chose ou quelqu’un qui est correct, convenable, mais sans atteindre un niveau d’excellence ou de distinction. Elle évoque une certaine approximation ou un résultat satisfaisant sans plus.
+Employé comme adjectif, "à-peu-près" décrit quelque chose ou quelqu’un de correct, acceptable, ou passable, sans atteindre un niveau d’excellence ou de distinction. Cet usage bourbonnais met en avant une idée de suffisance minimale, sans la connotation de flou ou d’imprécision présente dans l’usage académique où "à-peu-près" (substantif ou adverbe) est souvent péjoratif.
 
 ## Exemple
 
@@ -11,11 +11,12 @@ _Le Toine, c'est un gars à peu prêt, mais l'autre c'est un arcandier._
 
 ## Équivalent
 
-Passable, acceptable, moyen.
+Passable, acceptable, moyen, convenable.
 
 ## Origine
 
-L’expression met en avant l’idée d’une approximation ou d’un effort limité, où l’essentiel est accompli sans chercher à exceller.
+L’usage bourbonnais transforme l’expression adverbiale ou nominale en adjectif, donnant au terme une dimension descriptive spécifique. Il reflète un pragmatisme rural ou populaire, où l’effort "à peu près" est souvent jugé suffisant pour des tâches du quotidien, sans la rigueur académique qui rejette les approximations.  
+Contrairement à l’Académie Française, qui associe à-peu-près à un manque de rigueur ou à des approximations parfois critiquées, cette version bourbonnaise valorise un usage plus indulgent et concret, adapté aux réalités du quotidien.
 
 ## Lien
 

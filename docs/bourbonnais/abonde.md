@@ -1,6 +1,6 @@
 # Abonde
 
-## Définition 
+## Définition
 
 Issu du verbe abonder, le terme "abonde" est utilisé principalement dans l’expression faire de l’abonde, qui peut avoir deux sens distincts selon le contexte :
 
