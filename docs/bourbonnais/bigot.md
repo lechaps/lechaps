@@ -7,7 +7,7 @@ Désigne une pioche à deux dents, utilisée principalement pour extraire des po
 ## Exemple
 
 _Reste pas planté là, va m'cher le bigot qu'j'arrache les tartouffes._
-> Ne demeurez pas immobile ainsi, je vous prie, allez donc me chercher la marre que je puisse extraire les tubercules.
+> Ne demeurez pas immobile ainsi, je vous prie, allez donc me chercher la pioche que je puisse extraire les tubercules.
 
 ## Équivalent
 

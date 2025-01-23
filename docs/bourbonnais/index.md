@@ -1,6 +1,6 @@
-# Mon dictionnaire du patois
+# Mon carnet de mots perdus et de merveilles intemporelles
 
-Un dictionnaire des mots et expressions d'autrefois et autres bizzareries. Un recueil de mots glanés auprès des mes grands-parents, parents et autres odyssées intemporelles...
+Plongez dans un lexique des mots et expressions d’antan, parsemé de curiosités et d’étrangetés. Une collection de termes puisés dans les souvenirs de mes grands-parents, de mes parents, et au fil de voyages dans le temps. Un petit trésor de singularités pour redécouvrir la richesse de notre langue parlée et son histoire.  
 
 Quelques rappels sur le patois du bourbonnais :
 
