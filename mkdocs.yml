@@ -52,7 +52,6 @@ plugins:
 not_in_nav: |
   /index.md
   /jeux/*
-  /lois de la tech/*
 
 extra:
   #generator: false
