@@ -1,11 +1,10 @@
 # Parkinson
 
-> Le travail s'étend de manière à occuper tout le temps disponible pour son achèvement
+> Le travail s'étend de manière à occuper tout le temps disponible pour son achèvement.
 
-> Les organisations donnent une importance disproportionnée à des questions futiles
+> Les organisations donnent une importance disproportionnée à des questions futiles.
 
-> Plus on a le temps pour effectuer une tâche, plus cette tâche prend du temps
-
+> Plus on a le temps pour effectuer une tâche, plus cette tâche prend du temps.
 
 C'est à cause de cette loi qu'à l'école tu révisais les contrôles la veille et tu attendais le dernier moment pour faire les devoirs.
 
