@@ -11,7 +11,7 @@ _Il a levé l'hors-jeu, cet'arcandier !_
 
 ## Équivalent
 
-Bon à rien, escroc, charlatan, tricheur.
+Bon à rien, escroc, charlatan, tricheur, vaurien.
 
 ## Origine
 

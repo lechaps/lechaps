@@ -13,3 +13,4 @@ Pour ceux qui voudraient en savoir plus voici quelques références :
 * [Laurent Carcone](https://zerotrois.fr/baignereau/bourbonnais/patois){ target="_blank" }
 * [Lexilogos](https://www.lexilogos.com/bourbonnais_dictionnaire.htm){ target="_blank" }
 * [Définition du dictionnaire des régionalismes de France - le Y](https://drf.4h-conseil.fr/pages/D1Y0001.html){ target="_blank" }
+* [Lexique du patois Creusois - proche du patois bourbonnais](https://fresselineshier.fr/wp-content/uploads/2020/12/Le-Patois-de-Fresselines.pdf){ target="_blank" }
