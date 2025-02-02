@@ -4,6 +4,13 @@
 
 Terme utilisé pour désigner une barrique ou un tonneau, généralement employé dans des contextes informels et souvent lié au stockage de boissons, notamment alcoolisées.
 
+Les tailles connues :
+
+* une barne : 50L
+* un quart : 100L
+* la pièce : 250L
+* la tonne : au dessus de 250L
+
 ## Exemple
 
 _Ah ben si il fait soif on peut toujours attaquer la barne._

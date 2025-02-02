@@ -2,16 +2,16 @@
 
 ## Définition
 
-Désigne une arrière-cuisine, une pièce adjacente à la cuisine principale. La bassie est utilisée pour des tâches domestiques spécifiques telles que le stockage de nourriture, la préparation culinaire, la fabrication de beurre, ou d'autres activités ménagères nécessitant un espace dédié.
+Désigne une arrière-cuisine, une pièce adjacente à la cuisine principale. La bassie est utilisée pour des tâches domestiques spécifiques telles que le stockage de nourriture, la fabrication de beurre, ou d'autres activités ménagères nécessitant un espace dédié. Il s'agit de la pièce la plus bas de plafond et la plus froide pour la convervation des aliements.
 
 ## Exemple
 
-_Va m'cher le pain à la bassie._
-> Auriez-vous l’amabilité de m’apporter le pain depuis l’arrière-cuisine ?
+_Va m'cher l'fromage  à la bassie._
+> Auriez-vous l’amabilité de m’apporter le fromage depuis l’arrière-cuisine.
 
 ## Équivalent
 
-Arrière-cuisine, cellier, office.
+Arrière-cuisine, cellier.
 
 ## Origine
 

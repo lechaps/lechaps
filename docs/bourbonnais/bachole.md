@@ -7,7 +7,7 @@
 
 ## Exemple
 
-_Allez, ressers-m'en une bachol._
+_Allez, ressers-m'en une bachole._
 > Puis-je vous demander de bien vouloir me resservir un verre de cette exquise boisson, qu’il convient, néanmoins, de consommer avec modération ?
 
 ## Équivalent

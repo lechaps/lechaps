@@ -1,3 +1,3 @@
 # goutter
 
-Dégoutterça fuit, ça goutte sur la figure
+Dégoutter ça fuit, ça goutte sur la figure

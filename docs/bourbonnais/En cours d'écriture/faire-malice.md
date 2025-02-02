@@ -1,5 +1,5 @@
 # malice(faire)
 
-Faire honte
+Faire honte, vexer.
 
 Quand je vois ça, ça me fait malice

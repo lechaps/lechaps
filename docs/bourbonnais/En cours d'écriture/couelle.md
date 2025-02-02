@@ -1,3 +1,6 @@
 # Couelle
 
-une paire de sabeau
+- une paire de sabeau
+- petite pière à aiguiser la faux
+
+
