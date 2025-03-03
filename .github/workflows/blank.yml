@@ -27,10 +27,6 @@ jobs:
       # MkDocs Setup
       - name: MkDocs setup
         run: pip install mkdocs mkdocs-material "mkdocs-material[imaging]" mkdocs-minify-plugin mkdocs-glightbox
-            
-      # Clean and don't fail
-      - name: Clean public directory
-        run: rm -rf public
 
       # Builds the site using MkDocs
       - name: Build
