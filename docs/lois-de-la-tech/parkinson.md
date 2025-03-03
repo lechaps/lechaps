@@ -1,18 +1,23 @@
 # Parkinson
 
-> Le travail s'étend de manière à occuper tout le temps disponible pour son achèvement.
+La **loi de Parkinson** est une règle implacable qui explique pourquoi **plus on a de temps pour accomplir une tâche, plus elle s’étire pour occuper tout ce temps.**  
 
-## Dérivées
+> Le travail s’étale toujours de manière à occuper tout le temps disponible pour le réaliser
 
-« un bureaucrate entend multiplier ses subordonnés, pas ses rivaux »
+## En gros, ça signifie quoi ?
 
-« les bureaucrates se créent mutuellement du travail. »
+- Si on **se donne une semaine** pour une tâche qui pourrait être faite en **un jour**, on prendra **toute la semaine**.  
+- Plus un **délai est long**, plus on **procrastine, complexifie et rajoute des étapes inutiles.**  
+- Parkinson a également mis en évidence **les travers des bureaucraties** :  
+  - **Un bureaucrate entend multiplier ses subordonnés, pas ses rivaux** – Plutôt que d'améliorer l'efficacité, **les administrations gonflent leur effectif**, créant plus de niveaux hiérarchiques au lieu d’optimiser le travail.  
+  - **Les bureaucrates se créent mutuellement du travail** – Chaque département produit des tâches supplémentaires pour les autres, **auto-alimentant une machine inefficace.**  
+  - **Théorie de la futilité** – **Les organisations passent un temps disproportionné sur des questions futiles**, car elles sont **plus simples à traiter** que les vrais problèmes (ex : discuter trois heures de la couleur d’un logo au lieu de prendre une décision stratégique).  
 
-Théorie de la futilité : « les organisations donnent une importance disproportionnée à des questions futiles. »
+## Pourquoi c’est inspirant ?
 
-## Démonstration
+Parce que ça nous rappelle que :  
+✅ **Fixer des délais plus courts force à être plus efficace.**  
+✅ **La bureaucratie aime se compliquer la vie** – Réduire les échelons et simplifier les processus sont des solutions contre l’inefficacité.  
+✅ **L’essentiel doit primer sur l’accessoire** – Passer du temps sur des détails insignifiants empêche d’avancer sur ce qui compte vraiment.  
 
-À l'origine, la loi de Parkinson est fondée sur une observation concernant l'augmentation constante du nombre de fonctionnaires au sein du bureau des affaires coloniales britanniques (5 à 7 % par an), sans augmentation proportionnelle du travail global effectué.
-Certains chercheurs ont noté que les personnes qui ont des échéances plus lointaines ont tendance à utiliser ce temps supplémentaire pour réfléchir à la tâche et pour mieux la planifier, plutôt que de procrastiner.
-De plus, cette loi ne prend pas en compte les différences individuelles dans la gestion du temps, les habitudes de travail et les objectifs personnels, qui peuvent varier considérablement d'une personne à l'autre.
-
+Bref, la **loi de Parkinson** est un rappel puissant : **moins de temps, moins de bureaucratie et plus de priorisation permettent d’être bien plus efficace.** ⏳🚀

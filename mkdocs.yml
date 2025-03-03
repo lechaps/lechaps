@@ -39,7 +39,7 @@ theme:
     #- toc.integrate
     #- navigation.expand
 
-copyright: "Version : Pergola"
+copyright: "Version : MF 158"
 
 plugins:
   - search
