@@ -2,7 +2,7 @@
 
 La **loi de Carson** est une règle essentielle pour tous ceux qui veulent être productifs sans s’épuiser.  
 
-> Un travail réalisé en contenu prend moins de temps et d’énergie que lorsqu’il est réalisé en plusieurs fois
+> Un travail réalisé en continu prend moins de temps et d’énergie que lorsqu’il est réalisé en plusieurs fois
 
 ## En gros, ça signifie quoi ?
 
