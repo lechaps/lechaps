@@ -2,7 +2,7 @@
 
 La **loi de Conway** est une règle fascinante qui explique pourquoi les structures d’une organisation influencent directement ce qu’elle crée.  
 
-> **Un système logiciel reflète inévitablement la structure de l’organisation qui l’a conçu
+> Les organisations qui conçoivent des systèmes sont contraintes de produire des designs qui sont des copies de la structure de communication de leur organisation
 
 ## En gros, ça signifie quoi ?
 
