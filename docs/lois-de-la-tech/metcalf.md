@@ -2,7 +2,7 @@
 
 La **loi de Metcalfe** est une règle simple mais incroyablement puissante qui explique pourquoi les réseaux prennent autant de valeur à mesure qu’ils grandissent.  
 
-> La valeur d’un réseau est proportionnelle au carré du nombre de ses utilisateurs 
+> La valeur d’un réseau est proportionnelle au carré du nombre de ses utilisateurs
 
 ## Formellement
 

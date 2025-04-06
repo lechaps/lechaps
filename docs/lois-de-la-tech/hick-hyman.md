@@ -1,4 +1,4 @@
-# hick-hyman
+# Hick-hyman
 
 La **loi de Hick-Hyman** est une règle essentielle qui explique pourquoi **plus on a de choix, plus on met de temps à décider.**  
 
