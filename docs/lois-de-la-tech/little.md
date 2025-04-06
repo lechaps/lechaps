@@ -4,7 +4,7 @@ La **loi de Little** est une règle simple mais ultra-puissante qui s’applique
 
 > Le nombre d’éléments dans un système dépend du taux d’arrivée et du temps moyen qu’ils y passent
 
-## Formellement 
+## Formellement
 
 > L = λ × W
 
