@@ -19,4 +19,3 @@ Parce que ça nous rappelle que :
 ✅ **Les leaders et managers doivent clarifier les attentes pour éviter frustration et inefficacité.**  
 
 Bref, la **loi de Gilbert** est un rappel puissant : **ce n’est pas le travail qui fatigue le plus, mais l’incertitude sur ce qu’il faut faire.** 🎯🚀
-
