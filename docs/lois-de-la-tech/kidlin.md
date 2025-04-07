@@ -1,27 +1,35 @@
 # Kidlin
 
-La **loi de Kidlin** est une règle simple mais puissante qui explique pourquoi **écrire un problème, c’est déjà commencer à le résoudre.**  
+La **loi de Kidlin** est une règle simple mais puissante :  
+**« Si vous écrivez clairement le problème, la question est à moitié résolue. »**
 
-> Si tu ne peux pas écrire clairement ton problème, c’est que tu ne l’as pas bien compris
+Autrement dit, **écrire un problème, c’est déjà commencer à le résoudre.**  
 
-## En gros, ça signifie quoi ?
+> « Si tu ne peux pas écrire clairement ton problème, c’est que tu ne l’as pas bien compris. »
 
-- **Les problèmes flous restent des problèmes.** Tant qu’on ne peut pas **les formuler clairement**, on ne peut pas vraiment les résoudre.  
-- **Écrire noir sur blanc** une difficulté permet de :  
-  - **Clarifier la pensée** et structurer ce qui semble confus.  
-  - **Voir les vraies causes** plutôt que de tourner en rond avec des émotions ou des suppositions.  
-  - **Se détacher de la panique** et voir la situation avec plus de recul.  
-- Ce principe rejoint les mots de **Nicolas Boileau (1674)** :  
-  > **Ce qui se conçoit bien s’énonce clairement,**  
-  > **Et les mots pour le dire arrivent aisément.**
+## En gros, ça veut dire quoi ?
 
-Autrement dit, **si une idée est bien comprise, elle s’exprime avec fluidité et évidence.**  
+- **Un problème flou reste un problème.** Tant qu’on ne peut pas **le formuler clairement**, il est très difficile de le résoudre.  
+- **Mettre par écrit** une difficulté permet de :  
+  - **Clarifier sa pensée** et structurer ce qui semble confus.  
+  - **Identifier les vraies causes**, au lieu de tourner en rond avec émotions et suppositions.  
+  - **Prendre du recul**, sortir de la panique et voir la situation plus objectivement.  
+
+Ce principe rejoint les mots de **Nicolas Boileau (1674)** :  
+> **« Ce qui se conçoit bien s’énonce clairement,**  
+> **Et les mots pour le dire arrivent aisément. »**
+
+Autrement dit, **ce qui est bien compris s’exprime naturellement.**
 
 ## Pourquoi c’est inspirant ?
 
 Parce que ça nous rappelle que :  
 ✅ **Un problème bien défini est un problème à moitié résolu.**  
 ✅ **Écrire, c’est organiser ses idées** – Ce qui semble énorme dans la tête devient souvent plus simple sur papier.  
-✅ **Le chaos mental peut être dompté** – Noter ses pensées aide à **réduire le stress et à trouver des solutions concrètes.**  
+✅ **Le chaos mental peut être dompté** – Noter ses pensées permet de **réduire le stress et de trouver des solutions concrètes.**
 
-Bref, la **loi de Kidlin** est un rappel puissant : **si tu veux régler un problème, commence par l’écrire clairement.** ✍️🎯🚀
+### Origine de la loi de Kidlin
+
+La « loi de Kidlin » tire son nom d’un **personnage fictif** inventé par l’auteur australien **James Clavell**, également scénariste du film *La Grande Évasion*. Bien qu’elle ne soit pas issue d’un cadre scientifique formel, cette « loi » est largement citée pour souligner le **pouvoir de la clarté mentale par l’écriture**.
+
+**En bref :** si tu veux régler un problème, **commence par l’écrire clairement.** ✍️🎯🚀
