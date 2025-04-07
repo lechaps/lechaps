@@ -1,6 +1,6 @@
-# Carson
+# Carlson
 
-La **loi de Carson** est une règle essentielle pour tous ceux qui veulent être productifs sans s’épuiser.  
+La **loi de Carlson** est une règle essentielle pour tous ceux qui veulent être productifs sans s’épuiser.  
 
 > Un travail réalisé en continu prend moins de temps et d’énergie que lorsqu’il est réalisé en plusieurs fois
 
@@ -17,4 +17,4 @@ Parce que ça nous rappelle que :
 ✅ **Limiter les interruptions booste la productivité** – Être dans un état de "flux" permet d’avancer plus vite et mieux.
 ✅ **Bien organiser son temps**, c’est aussi regrouper les tâches similaires – Travailler par blocs cohérents est plus efficace que de sauter du coq à l’âne.  
 
-Bref, la loi de Carson est une invitation à minimiser les coupures et à rester concentré sur une tâche jusqu’à son aboutissement. 💡🚀
+Bref, la loi de Carlson est une invitation à minimiser les coupures et à rester concentré sur une tâche jusqu’à son aboutissement. 💡🚀
