@@ -30,7 +30,7 @@ Pierre Dac
 
 ---
 
-> Patience et longueur de temps font plus que force ni de rage
+> Patience et longueur de temps font plus que force ni que rage
 
 Jean de la Fontaine
 
