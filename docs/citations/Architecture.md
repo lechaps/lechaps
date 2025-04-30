@@ -12,7 +12,7 @@ Winston Churchill
 
 ---
 
-> If you think good architecture is expansive, try bad architecture
+> If you think good architecture is expensive, try bad architecture
 
 Brian Foote and Joseph Yoder
 
