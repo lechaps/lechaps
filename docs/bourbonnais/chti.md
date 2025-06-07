@@ -12,7 +12,7 @@ L’usage de **ch’tit/ch'tite** varie en fonction du contexte, oscillant entre
 
 1. _Un ch’tit canon avant de partir ?_
    > Me permettez-vous de vous offrir un verre avant que nous ne prenions congé l’un de l’autre ?
-2. _Poua, c’est pas bon ça, c’est ch’ti !_ 
+2. _Poua, c’est pas bon ça, c’est ch’ti !_
    > Diantre ! Je suis navré, mais cela n’est guère à mon goût ; il me semble même que cette saveur est d’une âcreté prononcée !
 3. _Ah, ne me parle pas de l'autre ch'ti._
    > Je demeure méfiant à l’égard de cette personne, dont l’attitude laisse transparaître une certaine perfidie.

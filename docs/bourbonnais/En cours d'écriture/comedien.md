@@ -1,3 +1,0 @@
-# Comédien
-
-vagabond, nomade
