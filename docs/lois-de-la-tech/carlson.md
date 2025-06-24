@@ -18,3 +18,13 @@ Parce que ça nous rappelle que :
 ✅ **Bien organiser son temps**, c’est aussi regrouper les tâches similaires – Travailler par blocs cohérents est plus efficace que de sauter du coq à l’âne.  
 
 Bref, la loi de Carlson est une invitation à minimiser les coupures et à rester concentré sur une tâche jusqu’à son aboutissement. 💡🚀
+
+## D'où ça vient ?
+
+La **loi de Carlson** a été formulée par **Sune Carlson**, un économiste suédois, dans les années 1950.  
+Il a étudié la façon dont les cadres passaient leur temps au travail.Ses recherches ont montré que **les interruptions fragmentent l’attention et augmentent le coût cognitif** du travail.
+
+### Références
+
+- Sune Carlson (1951), [Executive Behaviour – étude pionnière sur l’emploi du temps des dirigeants](https://www.amazon.fr/Executive-Behaviour-Workload-Managing-Directors/dp/0405123175/)  
+- [Wikipedia](https://fr.wikipedia.org/wiki/Loi_de_Carlson)

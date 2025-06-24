@@ -19,3 +19,13 @@ Parce que ça nous rappelle que :
 ✅ **Se préparer, c’est la clé** – Ne pas attendre que la situation devienne ingérable avant d’agir.  
 
 Bref, la **loi de Dornbusch** est un avertissement puissant : **les problèmes mettent du temps à mûrir, mais quand ils explosent, c’est déjà trop tard pour improviser.** 🚀🔥
+
+## D'où ça vient ?
+
+La **loi de Dornbusch** doit son nom à **Rüdiger Dornbusch**, économiste germano-américain spécialiste des crises monétaires et des déséquilibres macroéconomiques.  
+Il a formulé cette idée dans les années 1990, en observant comment les **marchés financiers** réagissaient aux tensions économiques.
+
+### Références
+
+- [Wikipedia](https://fr.wikipedia.org/wiki/Rudiger_Dornbusch){ target="_blank" }
+- [Livre de macro-économie](https://www.amazon.fr/Macroeconomics-Rudiger-Dornbusch-ebook/dp/B0759THC2R)
