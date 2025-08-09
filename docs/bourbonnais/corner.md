@@ -1,7 +1,5 @@
 # Corner
 
-Verbe intransitif
-
 ## Définition
 
 Terme familier et régional signifiant **klaxonner**, c’est-à-dire **faire usage de son avertisseur sonore**, généralement en voiture. Le verbe imite le bruit du **klaxon** ou de la **corne**, d’où son usage imagé et sonore.
