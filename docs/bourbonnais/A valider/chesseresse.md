@@ -1,3 +1,0 @@
-# Chesseresse
-
-Sècheresse.

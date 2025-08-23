@@ -27,4 +27,3 @@ Ancrée dans les traditions gastronomiques du Sud-Ouest et du Massif Central, la
 * [Définition du dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages0/D1C0065.html){ target="_blank" }
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/chabrot){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/chabrot){ target="_blank" }
-* 
