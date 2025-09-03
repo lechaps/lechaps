@@ -2,7 +2,7 @@
 
 ## Définition
 
-Adverbe signifiant beaucoup, généralement utilisé dans des contextes familiers, mais le plus souvent rencontré sous une forme négative pour indiquer une faible quantité ou insuffisance.
+Adverbe signifiant **beaucoup**, généralement utilisé dans des contextes sous une forme négative pour indiquer une faible quantité ou insuffisance.
 
 ## Exemple
 
@@ -15,7 +15,7 @@ Beaucoup (affirmatif), pas grand-chose (négatif).
 
 ## Origine
 
-Dérivé de l’arabe maghrébin bzaf (beaucoup), le mot bezef s’est intégré dans l’argot français via les interactions culturelles, notamment en milieu urbain, et a évolué pour se concentrer sur son usage négatif dans la langue familière.
+Dérivé de l’arabe maghrébin bzaf (beaucoup), le mot bezef s’est intégré dans l’argot français et a évolué pour se concentrer sur son usage négatif dans la langue familière.
 
 ## Lien
 

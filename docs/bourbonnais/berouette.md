@@ -2,7 +2,7 @@
 
 ## Définition
 
-Terme familier utilisé pour désigner une brouette, un outil manuel doté d’une roue unique à l’avant et de poignées à l’arrière, utilisé pour transporter des charges. Ce mot appartient au langage populaire, avec une prononciation déformée ou régionalisée.
+Terme familier utilisé pour désigner une **brouette**, un outil manuel doté d’une roue unique à l’avant et de poignées à l’arrière, utilisé pour transporter des charges.
 
 ## Exemple
 
@@ -15,7 +15,7 @@ Brouette.
 
 ## Origine
 
-Le mot berouette est une déformation brouette, témoignant des variations linguistiques dans les usages du Bourbonnais.
+Le mot berouette est une déformation de _brouette_, témoignant des variations linguistiques et des prononciations déformées ou régionalisées.
 
 ## Lien
 

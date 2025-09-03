@@ -21,7 +21,7 @@ Détruire, ruiner, casser, gâcher, flinguer.
 
 ## Origine  
 
-Le verbe **bousiller** est issu du langage populaire et rural. Il est souvent employé dans des situations où une action, volontaire ou non, provoque un dommage. Son ton familier et expressif en fait un terme courant pour souligner une erreur ou un acte irréfléchi ayant des conséquences fâcheuses.  
+Le verbe **bousiller** souvent employé dans des situations où une action, volontaire ou non, provoque un dommage. Son ton familier et expressif en fait un terme courant pour souligner une erreur ou un acte irréfléchi ayant des conséquences fâcheuses.  
 
 ## Lien  
 

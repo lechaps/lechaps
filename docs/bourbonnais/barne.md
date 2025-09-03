@@ -22,7 +22,7 @@ Barrique, tonneau, fût.
 
 ## Origine
 
-L’expression provient du langage rurale, témoignant d’une association directe entre la barrique et son usage festif ou convivial dans les échanges du quotidien.
+L’expression témoigne d’une association directe entre la barrique et son usage festif ou convivial dans les échanges du quotidien.
 
 ## Lien
 

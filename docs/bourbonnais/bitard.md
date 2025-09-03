@@ -15,7 +15,7 @@ Saucisson, charcuterie.
 
 ## Origine
 
-Le mot bitard, utilisé dans le registre familier, semble trouver son origine dans une association visuelle entre la forme allongée et bombée du saucisson et des termes imagés souvent employés dans les expressions populaires. Cette désignation reflète un humour rural ou informel typique des contextes gastronomiques décontractés.
+Le mot _bitard_ semble trouver son origine dans une association visuelle entre la forme allongée et bombée du saucisson et une autre forme que l'on peut trouver dans dans une anatomie masculine généreuse et décomplexée. Cette désignation reflète un humour rural ou informel typique des contextes gastronomiques décontractés.
 
 ## Lien
 

@@ -30,4 +30,3 @@ Son usage est attesté depuis le XIXᵉ siècle, notamment dans la culture bourb
 * [Définition du dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1B0042.html){ target="_blank" }
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/berlaud){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/berlaud){ target="_blank" }
-* 

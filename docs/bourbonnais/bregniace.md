@@ -15,7 +15,7 @@ Le temps se gâte, il menace, ça tourne mal.
 
 ## Origine
 
-Le mot bregniace ou bergniace appartient au langage rural, utilisé principalement pour exprimer l’instabilité météorologique. Il reflète un lien étroit avec la vie à la campagne, où l’observation du ciel et des signes annonciateurs d’un changement de temps est essentielle pour adapter les activités agricoles.
+Le mot bregniace ou bergniace est utilisé principalement pour exprimer l’instabilité météorologique. Il reflète un lien étroit avec la vie à la campagne, où l’observation du ciel et des signes annonciateurs d’un changement de temps est essentielle pour adapter les activités agricoles.
 
 ## Lien
 

@@ -6,7 +6,7 @@ Désigne un beignet, généralement façonné en petite couronne et frit dans l�
 
 ## Exemple
 
-_T'as rien mangé ! C'est pas bon ? Allez, c'est trois fois rien, reprends donc des bignons._
+_T'as rien mangé ! C'est pas bon ? Allez, c'est trois fois rien, r'prends donc des bignons._
 > Vous n’avez presque rien mangé ! Ce mets ne serait-il pas à votre convenance ? Voyons, cela ne représente qu’une insignifiante portion ; je vous en prie, servez-vous donc à nouveau de ces délices.
 
 ## Équivalent

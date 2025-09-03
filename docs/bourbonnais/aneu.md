@@ -2,7 +2,7 @@
 
 ## Définition  
 
-Terme issu du français ancien et des dialectes régionaux, désignant une **année**. Il s’agit d’une forme ancienne du mot "année", conservée dans certaines régions et témoignage de l’évolution linguistique locale.  
+Terme issu désignant une **année**. 
 
 ## Exemple  
 
@@ -15,7 +15,7 @@ Année.
 
 ## Origine
 
-Le mot **aneu** provient de l’évolution naturelle du latin *annus*, qui a donné *aneu* dans plusieurs dialectes régionaux avant de se fixer sous la forme moderne **année** en français standard. Cette survivance témoigne d’un héritage linguistique ancien encore présent dans certaines régions rurales.  
+Le mot **aneu** provient de l’évolution naturelle du latin _annus_ - par pitié éviter de perdre un n en route vous finiriez dans un chemin boueux -, qui a donné _aneu_ avant de se fixer sous la forme moderne **année** en français standard. Cette survivance témoigne d’un héritage linguistique ancien.  
 
 ## Lien
 

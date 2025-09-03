@@ -15,7 +15,7 @@ Besace, sacoche, musette.
 
 ## Origine
 
-Le mot appartient au langage rural, évoquant un usage pratique et quotidien, souvent lié à la vie à la campagne ou à des activités nécessitant un sac robuste et fonctionnel.
+Le mot évoque un usage pratique et quotidien, souvent lié à la vie à la campagne ou à des activités nécessitant un sac robuste et fonctionnel.
 
 ## Lien
 

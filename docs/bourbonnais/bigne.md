@@ -2,8 +2,8 @@
 
 ## Définition
 
-1. Sens courant : Synonyme de beigne, désignant une gifle ou un coup donné au visage. Le terme est également lié au verbe bigner, qui signifie donner une gifle.
-2. Sens figuré : Désigne un hanneton, ce coléoptère maladroit et erratique, souvent utilisé comme métaphore pour décrire un comportement maladroit, excentrique, ou étourdi. L’expression "être étourdi comme un hanneton" illustre bien cette association avec l’insecte.
+1. Sens courant : Synonyme de **beigne**, désignant une **gifle** ou un coup donné au visage. Le terme est également lié au verbe bigner, qui signifie donner une gifle.
+2. Sens figuré : Désigne un **hanneton**, ce **coléoptère** maladroit et erratique, souvent utilisé comme métaphore pour décrire un comportement maladroit, excentrique, ou étourdi. L’expression "être étourdi comme un hanneton" illustre bien cette association avec l’insecte.
 
 ## Exemple
 

@@ -6,7 +6,7 @@ Désigne un paysan, un habitant des campagnes souvent associé à la vie rurale 
 
 ## Exemple
 
-_Peuh, au travail y'a qu'nous ! Les bouhoumes._
+_Peuh, y'a qu'nous qu'travaillons ! Les bouhoumes._
 > Voyons ! Les plus courageux au travail semble être sans nul doute notre corporation.
 
 ## Équivalent

@@ -2,7 +2,7 @@
 
 ## Définition
 
-Terme utilisé pour désigner une personne bavarde, qui parle abondamment, mais dont les propos sont souvent jugés sans grand intérêt ou pertinence. Ce mot appartient au registre familier, avec une connotation légèrement moqueuse ou agacée.
+Terme utilisé pour désigner une personne **bavarde**, qui parle abondamment, mais dont les propos sont souvent jugés sans grand intérêt ou pertinence.
 
 ## Exemple
 
@@ -15,7 +15,7 @@ Bavard, moulin à paroles, pipelette.
 
 ## Origine
 
-Le mot dérive du langage Bourbonnais, exprimant de manière imagée l’idée d’un flux ininterrompu de paroles souvent inutiles ou redondantes, avec une tonalité humoristique ou critique.
+Le mot exprime de manière imagée l’idée d’un flux ininterrompu de paroles souvent inutiles ou redondantes, avec une tonalité humoristique, moqueuse, voire critique.
 
 ## Lien
 

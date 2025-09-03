@@ -15,7 +15,7 @@ Fourche-bêche, pioche à deux dents.
 
 ## Origine
 
-Le mot bigot est issu du vocabulaire agricole, souvent utilisé dans les régions rurales. Il reflète l’importance des outils spécifiques dans les pratiques paysannes pour des tâches précises, comme le déterrage des tubercules.
+Le mot _bigot_ reflète l’importance des outils spécifiques dans les pratiques paysannes pour des tâches précises, comme le déterrage des tubercules.
 
 ## Lien
 

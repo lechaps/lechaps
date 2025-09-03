@@ -15,7 +15,7 @@ Allons-y, on y va, en avant !
 
 ## Origine
 
-L’expression illustre une contraction orale souvent utilisée dans un cadre rural pour inciter à l’effort commun. Elle traduit à la fois une motivation et une certaine efficacité dans l’action.
+L’expression illustre une contraction orale pour inciter à l’effort commun. Elle traduit à la fois une motivation et une certaine efficacité dans l’action.
 
 ## Lien
 

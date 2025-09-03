@@ -15,7 +15,7 @@ Veste, blouse, casaque.
 
 ## Origine
 
-Issu du langage rural, le mot biaude fait référence à un vêtement fonctionnel et typique des travailleurs manuels ou agricoles, soulignant son aspect utilitaire dans le quotidien des campagnes.
+Le mot _biaude_ fait référence à un vêtement fonctionnel et typique des travailleurs manuels ou agricoles, soulignant son aspect utilitaire dans le quotidien des campagnes.
 
 ## Lien
 

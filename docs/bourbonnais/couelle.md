@@ -10,7 +10,6 @@
 
 1. _Enfile ta couelle, on va aux champs._
    > Chaussez vos sabots, nous allons nous rendre aux champs pour y travailler.
-.
 
 2. _Attends un brin, faut que j’passe la faux à la couelle._
    > Patientez un instant, je dois aiguiser ma faux à l’aide de la petite pierre.

@@ -20,7 +20,7 @@
 
 ## Origine
 
-Le mot bregot ou bergot provient du langage rural, où le frelon est un insecte redouté pour sa piqûre et son impact sur les ruches. Il est possible que l’association avec l’apiculture provienne du fait que certaines personnes spécialisées dans la gestion des abeilles devaient aussi traiter la présence des frelons, prédateurs des ruches. Ainsi, dans certaines régions, le terme a pu désigner à la fois un insecte nuisible et celui qui s’en occupait, contribuant à la protection des colonies d’abeilles.
+Le frelon est un insecte redouté pour sa piqûre et son impact sur les ruches. Il est possible que l’association avec l’apiculture provienne du fait que certaines personnes spécialisées dans la gestion des abeilles devaient aussi traiter la présence des frelons, prédateurs des ruches. Ainsi, le terme désigne à la fois un insecte nuisible et celui qui s’en occupait, contribuant à la protection des colonies d’abeilles.
 
 ## Lien
 

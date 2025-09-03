@@ -24,7 +24,7 @@ _J'ai la goutte au nez avec ce vent de bisiau._
 
 ## Origine
 
-Le mot bisiau, enraciné dans les régions rurales, reflète à la fois des réalités sociales et climatiques. Dérivé de bise, il désigne un vent glacial et sec, enrichi de nuances locales liées à son intensité et sa direction. Par extension, il s’applique aussi à la petite noblesse ou bourgeoisie rurale, témoignant d’un imaginaire populaire où nature et société s’entrelacent.
+Le mot _bisiau_ reflète à la fois des réalités sociales et climatiques. Dérivé de bise, il désigne un vent glacial et sec, enrichi de nuances locales liées à son intensité et sa direction. Par extension, il s’applique aussi à la petite noblesse ou bourgeoisie rurale, témoignant d’un imaginaire populaire où nature et société s’entrelacent.
 
 ## Lien
 

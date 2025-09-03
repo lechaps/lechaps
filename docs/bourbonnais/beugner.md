@@ -2,7 +2,7 @@
 
 ## Définition
 
-Désigne le fait de se cogner ou de heurter quelque chose, volontairement ou par accident. Ce terme est souvent employé dans un registre familier pour exprimer un choc, qu’il soit mineur ou plus conséquent.
+Désigne le fait de se **cogner** ou de **heurter** quelque chose, volontairement ou par accident. Ce terme est souvent employé dans un registre familier pour exprimer un choc, qu’il soit mineur ou plus conséquent.
 
 ## Exemple
 
@@ -15,7 +15,7 @@ Heurter, cogner, accrocher.
 
 ## Origine
 
-Le mot beugner est une variation régionale du verbe heurter, souvent utilisée pour exprimer une action de manière informelle ou exaspérée, avec une touche de vulgarité ou de frustration.
+Le mot beugner est une variation du verbe _heurter_, souvent utilisée pour exprimer une action de manière informelle ou exaspérée, avec une touche de vulgarité ou de frustration.
 
 ## Lien
 

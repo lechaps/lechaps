@@ -9,8 +9,8 @@ Verbe désignant l’action de tomber ou de s’effondrer lourdement, générale
 _J'me suis accatoufler là, comme une merde._
 > Je me suis effondré en ces lieux, tel un être totalement dénué de prestance.
 
-_Ah ben tu t'es accatouflé mais y'avait ma pogne !_
-> Vous venez d’abaisser votre séant sur ma main.
+_Ah ben tu t'es accatouflé mais y'avait déjà quelqu'un !_
+> Vous venez d’abaisser votre séant mais cette place semblait déjà être prise.
 
 ## Équivalent
 

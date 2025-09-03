@@ -2,7 +2,7 @@
 
 ## Définition
 
-Expression employée pour marquer la réussite d’un effort consenti ou l’aboutissement d’une tâche exigeante. Elle traduit un soulagement ou une satisfaction à la suite d’un moment de travail, souvent physique, comme le transport d’une charge lourde ou l’installation après un exercice éprouvant. L’expression est typiquement utilisée dans des contextes ruraux ou familiers, notamment lors d’activités manuelles ou agricoles.
+Expression employée pour marquer la réussite d’un effort consenti ou l’aboutissement d’une tâche exigeante. Elle traduit un soulagement ou une satisfaction à la suite d’un moment de travail, souvent physique, comme le transport d’une charge lourde ou l’installation après un exercice éprouvant. L’expression est typiquement utilisée lors d’activités manuelles ou agricoles.
 
 ## Exemple
 

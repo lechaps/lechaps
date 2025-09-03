@@ -2,7 +2,7 @@
 
 ## Définition
 
-Verbe utilisé comme synonyme de s’étouffer ou suffoquer, généralement en rapport avec l’ingestion d’un aliment trop sec ou d’une situation où la respiration est momentanément gênée. L’expression est souvent employée de manière familière et humoristique pour décrire un moment d’inconfort passager.
+Verbe utilisé comme synonyme de _s’étouffer_ ou _suffoquer_, généralement en rapport avec l’ingestion d’un aliment trop sec ou d’une situation où la respiration est momentanément gênée. L’expression est employée pour décrire un moment d’inconfort passager.
 
 ## Exemple
 
