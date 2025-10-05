@@ -1,0 +1,3 @@
+# déniapé
+
+déchiré, déchiqueter

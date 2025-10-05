@@ -1,4 +1,4 @@
-# Maze
+# Mase ou Maze
 
 Fourmie
 

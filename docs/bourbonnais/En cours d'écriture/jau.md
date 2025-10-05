@@ -1,3 +1,5 @@
 # jau
 
-Contraire du chaponCe matin c'est le Jau qu'm'a réveillé
+Contraire du chapon
+
+Ce matin c'est le Jau qu'm'a réveillé
