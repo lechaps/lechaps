@@ -45,3 +45,9 @@ Jean de la Fontaine
 > 1/2 décision = Bordel au carré
 
 ---
+
+> Intelligent system are grown not design
+
+Kevin Kelly
+
+---
