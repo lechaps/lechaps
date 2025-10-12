@@ -26,3 +26,18 @@ Parce que cette loi s’applique **partout** :
 ✅ Dans les transports (fluidifier la circulation, réduire les bouchons)  
 
 Bref, la loi de Little est un rappel simple mais puissant : **si on veut moins d’attente et plus d’efficacité, il faut jouer sur l’arrivée des éléments et le temps de traitement**.
+
+## D’où ça vient ?
+
+La **loi de Little** (ou *Little’s Law*) porte le nom de **John D. C. Little**, **mathématicien et chercheur américain en ingénierie des systèmes**, né en 1928. Professeur au **MIT Sloan School of Management**, il est reconnu comme l’un des fondateurs de la **théorie des files d’attente** (*queueing theory*) et de l’**optimisation des processus**.
+
+Little formule cette loi en **1954** et la publie officiellement en **1961** dans un article intitulé *“A Proof for the Queuing Formula: L = λW”* (*Operations Research*, 1961). Il y démontre mathématiquement une relation simple mais universelle, qui relie **trois grandeurs fondamentales dans tout système où des éléments circulent** (clients, tâches, données, etc.).  
+
+Ce qui rend la loi de Little remarquable, c’est qu’elle **ne dépend d’aucune hypothèse sur la distribution des arrivées ou des durées** : elle est **universelle**. C’est pourquoi elle est aujourd’hui un **pilier de la gestion des flux**, du **management opérationnel**, de la **logistique**, mais aussi du **design des processus agiles**.
+
+📚 **Sources :**
+
+* J. D. C. Little, *“A Proof for the Queuing Formula: L = λW”*, *Operations Research*, Vol. 9, No. 3, 1961
+* MIT Sloan School of Management, *Faculty Biography: John D. C. Little*
+* D. Gross & C. M. Harris, *Fundamentals of Queueing Theory*, Wiley, 1998
+* Lean Enterprise Institute, *“Applying Little’s Law in Lean Systems”*, 2015

@@ -21,3 +21,16 @@ Parce que ça nous rappelle que :
 ✅ **Le surmenage détruit la performance** – Vouloir en faire trop **nuit à la qualité et à la motivation**.  
 
 Bref, la **loi d’Illich** est un rappel puissant : **au lieu de forcer, mieux vaut travailler avec équilibre et intelligence.** 🎯⏳🚀
+
+## D’où ça vient ?
+
+La **loi d’Illich** tire son nom de **Ivan Illich** (1926–2002), **philosophe, historien et penseur social autrichien**, connu pour sa critique des institutions modernes et de la société industrielle. Figure majeure de la pensée critique des années 1970, Illich a développé ce principe dans son essai ***Tools for Conviviality*** (1973) et surtout dans ***Energy and Equity*** (1974).
+
+Ce principe, souvent appelé **“seuil de contre-productivité”** ou **“loi de rendement décroissant social”**, est devenu la **loi d’Illich**. Elle est aujourd’hui citée en **écologie**, **management**, **innovation** ou **éducation**, pour rappeler qu’une croissance ou une optimisation sans limite finit par **annuler les bénéfices initiaux**.
+
+📚 **Sources :**
+
+* Ivan Illich, *Tools for Conviviality*, Harper & Row, 1973
+* Ivan Illich, *Energy and Equity*, Harper & Row, 1974
+* Ivan Illich, *Medical Nemesis: The Expropriation of Health*, Pantheon Books, 1975
+* The Guardian, *“Ivan Illich: The Philosopher Who Warned Against Overgrowth”*, 2019

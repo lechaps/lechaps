@@ -22,8 +22,13 @@ Bref, la **loi de Dornbusch** est un avertissement puissant : **les problèmes m
 
 ## D'où ça vient ?
 
-La **loi de Dornbusch** doit son nom à **Rüdiger Dornbusch**, économiste germano-américain spécialiste des crises monétaires et des déséquilibres macroéconomiques.  
-Il a formulé cette idée dans les années 1990, en observant comment les **marchés financiers** réagissaient aux tensions économiques.
+## D’où ça vient ?
+
+La **loi de Dornbusch** tire son nom de **Rudi Dornbusch** (1942–2002), un **économiste germano-américain** et professeur au **MIT**. Spécialiste de la macroéconomie et des marchés internationaux, il est surtout connu pour son modèle de **surréaction des taux de change** (*overshooting model*, 1976), mais la “loi de Dornbusch” dont on parle souvent dans le langage courant vient d’une **observation empirique sur la dynamique du changement**.  
+
+Cette réflexion, souvent citée dans le monde de l’économie, de la politique et du management, souligne à quel point **les systèmes complexes évoluent lentement en apparence**, puis **basculent soudainement** lorsque les conditions atteignent un point critique.  
+
+Elle a été popularisée dans les années **1980–1990** par ses conférences et reprises dans des ouvrages de vulgarisation économique (notamment par Paul Krugman, son ancien étudiant), et reste aujourd’hui un **principe clé pour comprendre les retournements rapides** dans les marchés, les organisations ou les changements technologiques.
 
 ### Références
 

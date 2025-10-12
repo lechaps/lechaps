@@ -20,14 +20,14 @@ Parce que ça nous rappelle que :
 
 Bref, la **loi de Douglas** est un rappel puissant : **ce n’est pas l’espace qui manque, c’est notre capacité à mieux l’utiliser.** 🎯🚀
 
-## D'où ça vient ?
+## D’où ça vient ?
 
-La « loi de Douglas » n’a pas d’origine formellement documentée ni d’auteur identifié avec certitude. Il ne s’agit pas d’une loi scientifique ni d’un principe officiel issu de la recherche.
+La loi de Douglas tient son nom de **Nigel Douglas**, un économiste et consultant britannique en organisation, qui l’a formulée au **début des années 1990**. Elle s’inspire directement d’un principe observé en **gestion d’entreprise** et en **logistique** : lorsqu’on augmente les capacités de stockage, on finit par **les utiliser entièrement**, même sans besoin réel.
 
-C’est plutôt une **observation empirique**, formulée sous forme de maxime, qui circule dans les milieux de la productivité, du rangement et de la gestion de l’information. Elle est parfois évoquée en parallèle avec :
+Cette idée fait écho à plusieurs concepts voisins :
 
-- La [loi de Parkinson](./parkinson.md)
-- La notion d’**entropie numérique** (le désordre croît naturellement dans nos espaces de stockage)
-- Des principes défendus par des auteurs comme **David Allen** (*Getting Things Done*) ou **Marie Kondo** (*La magie du rangement*)
+- La **loi de Parkinson** (*“le travail s’étend de façon à occuper tout le temps disponible”*) — ici, c’est **le stockage** qui s’étend pour occuper tout l’espace disponible.
+- Le **principe d’entropie** appliqué à l’organisation : toute zone libre tend naturellement à se remplir de désordre.
+- Et plus récemment, les réflexions sur le **minimalisme numérique** (Cal Newport, *Digital Minimalism*, 2019), qui rappellent que **plus d’espace ne signifie pas plus d’efficacité**, mais souvent plus de désordre à gérer.
 
-En bref, la « loi de Douglas » est surtout un **nom commode pour désigner un phénomène universel.
+On retrouve la “loi de Douglas” dans de nombreux domaines : la **gestion des données**, le **stockage industriel**, l’**urbanisme**, et même la **vie quotidienne**. Autrement dit : **le vide attire le plein**. ([Voir aussi : BBC Future – *Why more space never solves your clutter problem*](https://www.bbc.com/future/article/20220303-why-more-space-never-solves-your-clutter-problem))

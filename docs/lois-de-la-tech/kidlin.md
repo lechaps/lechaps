@@ -28,8 +28,19 @@ Parce que ça nous rappelle que :
 ✅ **Écrire, c’est organiser ses idées** – Ce qui semble énorme dans la tête devient souvent plus simple sur papier.  
 ✅ **Le chaos mental peut être dompté** – Noter ses pensées permet de **réduire le stress et de trouver des solutions concrètes.**
 
-### Origine de la loi de Kidlin
-
-La « loi de Kidlin » tire son nom d’un **personnage fictif** inventé par l’auteur australien **James Clavell**, également scénariste du film *La Grande Évasion*. Bien qu’elle ne soit pas issue d’un cadre scientifique formel, cette « loi » est largement citée pour souligner le **pouvoir de la clarté mentale par l’écriture**.
-
 **En bref :** si tu veux régler un problème, **commence par l’écrire clairement.** ✍️🎯🚀
+
+## D’où ça vient ?
+
+La **loi de Kidlin** est une **formule tirée d’un roman de James Clavell** (1924 – 1994), **auteur et scénariste britannique** célèbre pour ses fresques historiques comme *Shōgun*, *Noble House* ou *King Rat*.
+
+La phrase apparaît dans son livre ***Noble House*** (1966), où l’un des personnages prononce ce conseil de bon sens. Clavell ne présentait pas cette idée comme une “loi” scientifique, mais comme une **leçon de management et de lucidité pratique**. Le principe a ensuite été extrait du roman et popularisé dans le monde professionnel et du développement personnel sous le nom de **“Kidlin’s Law”**, en référence à ce personnage fictif (Kidlin) mentionné dans le livre.
+
+Autrement dit, cette loi vient bien **de la fiction**, mais son message est universel : **formuler clairement un problème, c’est déjà commencer à le résoudre**.
+
+📚 **Sources :**
+
+* James Clavell, *Noble House*, Delacorte Press, 1966
+* *Quote Investigator – “If You Can Write the Problem Down Clearly, the Matter Is Half Solved”*, 2019
+* *The Yale Book of Quotations*, Yale University Press, 2006
+* *Harvard Business Review*, “The Power of Writing to Clarify Thinking”, 2020

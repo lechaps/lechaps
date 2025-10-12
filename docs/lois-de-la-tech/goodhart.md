@@ -21,3 +21,18 @@ Parce que ça nous rappelle que :
 ✅ **L’impact compte plus que la métrique** – Une vraie réussite se mesure **dans les résultats réels, pas juste dans des nombres.**  
 
 Bref, la **loi de Goodhart** est un rappel puissant : **si on fixe un objectif uniquement sur une mesure, on risque d’en perdre le vrai sens.** 🎯📊
+
+## D’où ça vient ?
+
+La **loi de Goodhart** porte le nom de **Charles Goodhart**, **économiste britannique** et ancien **conseiller de la Banque d’Angleterre**. Il a formulé cette loi en **1975**, dans un document interne au Royaume-Uni intitulé *“Problems of Monetary Management: The U.K. Experience”*, alors qu’il travaillait sur les politiques monétaires et les indicateurs économiques.
+
+Goodhart observait que, dès qu’un indicateur devient un **objectif officiel de politique**, il **cesse d’être un bon indicateur**.  
+L’idée est simple mais puissante : les gens adaptent leur comportement pour atteindre les **chiffres fixés**, parfois **au détriment du sens ou de la qualité réelle**. Cette observation s’applique aussi bien à la **politique économique** qu’au **management**, à la **pédagogie** ou à la **gestion d’équipe**.  
+
+La loi de Goodhart est aujourd’hui considérée comme une **référence majeure en économie comportementale**, en **data management** et en **pilotage d’indicateurs de performance (KPI)**. Elle a inspiré de nombreuses réflexions modernes sur les dérives de la mesure, notamment la **Campbell’s Law** (Donald T. Campbell, 1979), qui en est une formulation voisine.
+
+### Références
+
+- [Charles Goodhart, Problems of Monetary Management: The U.K. Experience*, 1975, Papers in Monetary Economics (Reserve Bank of Australia)](https://link.springer.com/chapter/10.1007/978-1-349-17295-5_4){ target="_blank" }
+- [Donald T. Campbell, Assessing the Impact of Planned Social Change, 1979](https://www.sciencedirect.com/science/article/abs/pii/014971897990048X){ target="_blank" }
+- [M. Strathern, "Improving Ratings: Audit in the British University System", *European Review*, 1997](https://www.cambridge.org/core/journals/european-review/article/abs/improving-ratings-audit-in-the-british-university-system/FC2EE640C0C44E3DB87C29FB666E9AAB){ target="_blank" }
