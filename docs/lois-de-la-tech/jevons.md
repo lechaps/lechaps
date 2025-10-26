@@ -1,46 +1,40 @@
 # Jevons
 
-Le **paradoxe de Jevons** est une observation surprenante qui montre que **plus une ressource est utilisée efficacement, plus sa consommation totale peut augmenter**.
+Tu penses qu’améliorer l’efficacité énergétique fait forcément baisser la consommation ?  
+Tu crois qu’un moteur plus économe, un ordinateur plus performant ou une ampoule moins gourmande vont forcément sauver la planète ?  
+Félicitations, tu es sur le point de découvrir **le paradoxe de Jevons**.
 
 > À mesure que l'efficacité d'utilisation d'une ressource augmente, la consommation totale de cette ressource peut également augmenter.
 
-## En gros, ça signifie quoi ?
+Oui, c’est contre-intuitif — mais c’est vrai.  
+Quand **on rend quelque chose plus efficace, on le rend aussi plus accessible**, plus rentable, plus désirable. Et, sans s’en rendre compte, on finit par en consommer davantage.
 
-* **Améliorer l'efficacité** d'une ressource ne garantit pas une **réduction de sa consommation totale**.
-* Paradoxalement, **rendre une ressource plus efficace** peut la rendre **plus attractive**, incitant à une **utilisation accrue**.
-* Pourquoi ? Parce que :
+## Pourquoi le paradoxe de Jevons est si parlant
 
-  * **L'efficacité réduit le coût d'utilisation**, rendant la ressource plus accessible.
-  * **La demande augmente** en réponse à la baisse des coûts.
-  * **De nouveaux usages** émergent grâce à l'efficacité accrue.
-* Ce phénomène est observé dans divers domaines : **énergie, transport, agriculture, technologie...
+* **Un moteur qui consomme moins ?** Super, on roule plus loin.
+* **Des appareils plus économes ?** On en achète plus, on les laisse allumés plus longtemps.
+* **Des procédés plus efficaces ?** Ils ouvrent la porte à encore plus d’usages.
 
-## Pourquoi c’est inspirant ?
+Résultat : à force de chercher à « économiser », on finit souvent par **accélérer la dépense**.
+Ce n’est pas un bug, c’est une réaction humaine : quand quelque chose devient plus facile ou moins cher, on en abuse.
 
-Parce que cela nous rappelle que :
-✅ **L'efficacité seule ne suffit pas** – Il est crucial d'accompagner les gains d'efficacité de **mesures de régulation**.
-✅ **Comprendre les comportements** – Les **réactions humaines** face aux gains d'efficacité peuvent **contrecarrer les objectifs initiaux**.
-✅ **Adopter une approche systémique** – Pour une **consommation durable**, il faut considérer **l'ensemble du système** et non des éléments isolés.
+Le paradoxe de Jevons, c’est **une leçon d’humilité** :  
+On ne peut pas résoudre un problème en se contentant de le rendre plus efficace.  
+L’efficacité sans limites finit toujours par nourrir le problème qu’elle voulait résoudre.
 
-Bref, le **paradoxe de Jevons** nous enseigne que **les bonnes intentions ne garantissent pas les bons résultats**. Pour une consommation responsable, **l'efficacité doit s'accompagner de conscience et de régulation**. 🌱🔄
+## D’où vient le paradoxe de Jevons ?
 
-## D’où ça vient ?
+Ce principe remonte à William Stanley Jevons (1835–1882), économiste britannique.  
+En 1865, en pleine Révolution industrielle, il observe que les machines à vapeur consomment moins de charbon par unité d’énergie, mais que la consommation totale de charbon explose. Il formule ce principe dans son ouvrage _The Coal Question_ publié en 1865.
 
-La **loi de Jevons**, ou **paradoxe de Jevons**, vient de **William Stanley Jevons** (1835–1882), **économiste et logicien britannique**, l’un des fondateurs de la pensée économique moderne et de l’analyse marginaliste. Il a formulé ce principe dans son ouvrage ***The Coal Question*** publié en **1865**, à l’époque de la Révolution industrielle.
+Pourquoi ? Parce que l’efficacité rend l’usage plus rentable, donc tout le monde s’y met.
+Un siècle et demi plus tard, rien n’a changé : voitures, serveurs, smartphones — tout est plus performant… et tout consomme plus, au total.
 
-Jevons observait que les progrès techniques rendant l’utilisation du charbon **plus efficace** n’en réduisaient pas la consommation — au contraire, ils l’augmentaient. Car plus une ressource devient **facile, rapide ou rentable à utiliser**, plus **la demande totale** pour cette ressource tend à croître.
+Le paradoxe de Jevons, c’est un avertissement :
+L’efficacité seule ne sauvera rien si on ne change pas nos comportements.
+Faire mieux ne suffit pas — il faut aussi apprendre à faire moins.
 
-Autrement dit, **l’efficacité ne conduit pas forcément à la sobriété**, mais souvent à l’effet inverse : **une surconsommation liée à la baisse du coût d’usage**. Ce paradoxe, initialement observé avec le charbon et la machine à vapeur, s’applique aujourd’hui à de nombreux domaines :
+### Références
 
-* Les **voitures plus économes** en carburant encouragent souvent à **rouler davantage**.
-* Les **appareils numériques plus performants** stimulent **une utilisation plus intensive**.
-* Les **optimisations énergétiques** peuvent **accélérer la croissance de la demande globale** plutôt que la freiner.
-
-La loi de Jevons est devenue une référence en **économie de l’énergie**, en **écologie** et dans les débats sur la **croissance verte**. Elle nous rappelle que **l’efficacité technologique seule ne suffit pas à réduire l’impact environnemental** — elle doit s’accompagner de **maîtrise de la demande et de changement de comportements**.
-
-📚 **Sources :**
-
-* William Stanley Jevons, *The Coal Question: An Inquiry Concerning the Progress of the Nation, and the Probable Exhaustion of Our Coal Mines*, Macmillan, 1865
-* Blake Alcott, *“Jevons’ Paradox”*, *Ecological Economics*, 2005
-* The Economist, *“The Jevons Paradox: When Efficiency Makes Things Worse”*, 2011
-* Energy Policy Journal, *“Revisiting the Jevons Paradox in the Digital Age”*, 2020
+* [W. Stanley Jevons, The Coal Question: An Inquiry Concerning the Progress of the Nation, and the Probable Exhaustion of Our Coal-Mines, 1865](https://www.amazon.com/Coal-Question-Concerning-Exhaustion-Coal-Mines/dp/1616407638){ target="_blank" }
+* [Wikipédia](https://en.wikipedia.org/wiki/Jevons_paradox){ target="_blank" }

@@ -1,35 +1,37 @@
 # Gilbert
 
-La **loi de Gilbert** est une règle simple mais percutante qui met en évidence un problème fréquent dans le monde du travail : **le manque de clarté.**  
+Tu as déjà eu ce moment où tu bosses à fond sur un projet… pour découvrir plus tard que ce n’était pas ce qu’on attendait de toi ? Personne ne t’a rien dit de clair, tout le monde supposait que tu savais — et au final, tu passes plus de temps à deviner qu’à faire.  
+Bienvenue dans **la loi de Gilbert**.
 
-> Le plus grand problème au travail, c’est que personne ne te dit quoi faire
+> Le plus grand problème au travail, c’est que personne ne te dit quoi faire.
 
-## En gros, ça signifie quoi ?
+Autrement dit : **le vrai obstacle, ce n’est pas le travail lui-même, c’est le flou**.  
+On peut supporter la charge, mais pas l’incertitude.
 
-- **Beaucoup de frustrations** au travail viennent **moins de la charge de travail que du flou qui l’entoure.**  
-- Sans directives claires, on **perd du temps à deviner ce qui est attendu**, ce qui **ralentit la productivité** et crée de la confusion.  
-- On suppose souvent que **les attentes sont évidentes**, alors qu’en réalité, **chacun peut avoir une vision différente de ce qu’il faut faire**.  
-- Ce manque de communication **entraîne des erreurs, du stress et une sensation d’inefficacité.**  
+## Pourquoi la loi de Gilbert est si parlante
 
-## Pourquoi c’est inspirant ?
+* La plupart des frustrations au travail ne viennent pas de la quantité de tâches, mais du manque de clarté sur ce qu’il faut faire.
+* **Sans directives précises, on perd du temps à deviner les attentes**, on ralentit la productivité et on crée de la confusion.
+* Chacun pense que « c’est évident », mais chacun a sa propre définition de l’évidence.
+* Résultat : erreurs, stress, malentendus… et la sensation désagréable d’avancer dans le brouillard.
 
-Parce que ça nous rappelle que :  
-✅ **Une bonne communication est plus importante que la quantité de travail.**  
-✅ **Mieux vaut poser des questions que de perdre du temps à deviner.**  
-✅ **Les leaders et managers doivent clarifier les attentes pour éviter frustration et inefficacité.**  
+En résumé, la loi de Gilbert nous rappelle que **la clarté n’est pas un luxe** : c’est une condition de performance.
 
-Bref, la **loi de Gilbert** est un rappel puissant : **ce n’est pas le travail qui fatigue le plus, mais l’incertitude sur ce qu’il faut faire.** 🎯🚀
+## D’où vient la loi de Gilbert ?
 
-## D’où ça vient ?
+Ce principe vient du psychologue américain Thomas F. Gilbert (1927–1995), pionnier de la psychologie du travail et de la performance humaine. Considéré comme le père du Human Performance Technology (HPT), il a consacré sa carrière à comprendre pourquoi les gens échouent ou réussissent dans leur travail.  
 
-La **loi de Gilbert** tire son nom de **Thomas F. Gilbert** (1927–1995), psychologue américain et pionnier de la **psychologie du travail** et de la **performance humaine**. Considéré comme l’un des fondateurs du **Human Performance Technology (HPT)**, il a consacré sa carrière à comprendre **pourquoi les gens échouent ou réussissent dans leur travail**.
+Dans son ouvrage majeur, _Human Competence: Engineering Worthy Performance_ (1978), Gilbert démontre que les problèmes de performance viennent rarement des individus, mais de leur environnement : manque d’objectifs clairs, d’instructions précises, de feedback ou de ressources adaptées.
 
-Dans son ouvrage majeur *Human Competence: Engineering Worthy Performance* (1978), Gilbert montre que **les problèmes de performance viennent rarement des individus eux-mêmes**, mais bien plus souvent **de leur environnement** : manque d’objectifs clairs, d’instructions précises, de feedback ou de ressources adaptées.
+Autrement dit : **ce n’est pas la motivation qui manque, c’est la clarté**.  
+Même les personnes compétentes deviennent inefficaces si on ne leur dit pas clairement ce qu’on attend d’elles.  
 
-Autrement dit, **ce n’est pas la motivation qui manque, mais la clarté**. Quand les objectifs et les attentes sont flous, même les employés compétents se retrouvent inefficaces. Ce principe est devenu une référence en **management**, **formation** et **conduite du changement**, rappelant qu’**une bonne performance commence toujours par une bonne communication**.
+Ce principe est devenu une référence dans le management, la formation et la conduite du changement, rappelant que toute performance commence par une communication claire et partagée.  
+
+En somme, La loi de Gilbert nous rappelle que **l’ambiguïté use plus sûrement que l’effort**..
 
 ### Références
 
-- [Thomas F. Gilbert, *Human Competence: Engineering Worthy Performance*, McGraw-Hill, 1978](https://www.amazon.fr/Human-Competence-Engineering-Worthy-Performance/dp/0070232172){ target="_blank" }
-- [Geary Rummler & Alan Brache, *Improving Performance: How to Manage the White Space on the Organization Chart*, 1990](https://www.amazon.com/Improving-Performance-Manage-White-Organization/dp/1118143701){ target="_blank" }
-- [International Society for Performance Improvement (ISPI) – *Tribute to Thomas F. Gilbert*, 1995](https://books.google.fr/books?hl=fr&lr=&id=XKHkBdxvH8QC&oi=fnd&pg=PR35&dq=International+Society+for+Performance+Improvement+(ISPI)+%E2%80%93+*Tribute+to+Thomas+F.+Gilbert*,+1995&ots=uIGWwEW3iG&sig=pv50gcYuUEHOcKYR-Cx40D_x6fo#v=onepage&q&f=false){ target="_blank" }
+* [Thomas F. Gilbert, *Human Competence: Engineering Worthy Performance*, McGraw-Hill, 1978](https://www.amazon.fr/Human-Competence-Engineering-Worthy-Performance/dp/0070232172){ target="_blank" }
+* [Geary Rummler & Alan Brache, *Improving Performance: How to Manage the White Space on the Organization Chart*, 1990](https://www.amazon.com/Improving-Performance-Manage-White-Organization/dp/1118143701){ target="_blank" }
+* [International Society for Performance Improvement (ISPI) – *Tribute to Thomas F. Gilbert*, 1995](https://books.google.fr/books?hl=fr&lr=&id=XKHkBdxvH8QC&oi=fnd&pg=PR35&dq=International+Society+for+Performance+Improvement+(ISPI)+%E2%80%93+*Tribute+to+Thomas+F.+Gilbert*,+1995&ots=uIGWwEW3iG&sig=pv50gcYuUEHOcKYR-Cx40D_x6fo#v=onepage&q&f=false){ target="_blank" }

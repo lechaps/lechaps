@@ -1,59 +1,46 @@
 # Yerkes-Dodson
 
-La **loi de Yerkes-Dodson** est un principe fondamental en psychologie qui montre que **la motivation améliore la performance… jusqu’à un certain point.**  
+Tu as déjà remarqué que trop de pression fait tout dérailler ? Un peu de stress te motive, te concentre, t’aide à avancer. Mais quand la tension monte trop haut, tout s’effondre.  
+Bienvenue dans **la loi de Yerkes-Dodson**.
 
 > Trop peu de stress = pas assez de motivation  
 > Trop de stress = performance en chute libre  
 
-## En gros, ça signifie quoi ?
+Autrement dit : **le stress n’est pas l’ennemi — c’est le dosage qui fait la différence**.
 
-- Formulée par **Robert Yerkes et John Dodson** en 1908, cette loi explique que **notre performance augmente avec l’excitation (ou le stress)...mais seulement jusqu’à un niveau optimal.**
-- Ensuite, si le stress continue d’augmenter, **la performance chute** : on devient moins concentré, plus anxieux, moins efficace.
-  
-Concrètement :  
+## Pourquoi la loi de Yerkes-Dodson est si parlante
 
-- **Un peu de pression**, c’est bien : ça booste la concentration, l’énergie, la motivation.  
-- **Trop de pression**, c’est l’inverse : on se bloque, on fatigue, on perd nos moyens.
+* **Un peu de pression, c’est bien**. Elle te pousse à agir, te donne de l’énergie, t’aide à te dépasser.
+* **Trop de pression, c’est le crash**. L’attention se brouille, la fatigue s’installe, la performance chute.
+* **Tout est une question d’équilibre**. Le secret n’est pas d’éviter le stress, mais de le réguler.
 
-Voici comment ça se manifeste :  
+C’est ce qu’on appelle **le point optimal de stimulation** — ce moment où tu es concentré, confiant, motivé.  
+En dessous, tu t’endors.  
+Au-dessus, tu perds le contrôle.  
 
-- **Un étudiant motivé** travaillera mieux à l’approche d’un examen… mais trop de stress peut provoquer un blanc le jour J.  
-- **Un salarié stimulé par un challenge** sera plus productif… mais s’il croule sous les deadlines, il risque le burn-out.  
-- **Un athlète concentré** peut exceller en compétition… mais l’excès de pression peut lui faire rater l’épreuve.
+Et c’est valable partout :
 
-## Pourquoi c’est inspirant ?
+* L’étudiant qui révise mieux à la veille de l’examen… jusqu’à paniquer le jour J.
+* Le salarié motivé par un challenge, puis écrasé par les deadlines.
+* L’athlète au sommet de sa concentration… jusqu’à ce que la pression le paralyse.
 
-Parce que cette loi nous apprend à trouver **le juste équilibre** :  
-✅ **Le stress n’est pas toujours mauvais** – En petite dose, il peut nous pousser à donner le meilleur de nous-mêmes.  
-✅ **Trop, c’est trop** – Au-delà d’un certain point, la pression devient un frein, pas un moteur.  
-✅ **Écouter ses limites est une force** – Savoir doser ses efforts, ses pauses, ses défis, c’est la clé d’une performance durable.  
+## D’où vient la loi de Yerkes-Dodson ?
 
-Bref, la **loi de Yerkes-Dodson**, c’est un rappel puissant : **la meilleure performance naît d’un bon dosage entre motivation et sérénité.** 🎯🧠🔥
+Ce principe vient de deux psychologues américains : **Robert M. Yerkes** et **John D. Dodson**.
+En 1908, ils mènent une expérience sur des souris et découvrent quelque chose de fascinant : **La performance augmente avec le niveau de stimulation, mais seulement jusqu’à un certain point**. Au-delà, elle s’effondre.  
 
-## D’où ça vient ?
+Ils publient leurs résultats dans leur étude intitulée _The Relation of Strength of Stimulus to Rapidity of Habit-Formation_ publiée dans _The Journal of Comparative Neurology and Psychology_, et leur observation devient vite un pilier de la psychologie moderne.  
 
-La **loi de Yerkes-Dodson** vient de deux psychologues américains : **Robert M. Yerkes** (1876–1956) et **John D. Dodson** (1879–1955).
-Ils ont formulé ce principe en **1908**, à partir d’expériences menées sur l’**apprentissage et la performance** chez des souris, dans leur étude intitulée *“The Relation of Strength of Stimulus to Rapidity of Habit-Formation”* publiée dans le *Journal of Comparative Neurology and Psychology*.
+Depuis, **la courbe de Yerkes-Dodson** — en forme de U inversé — est devenue universelle :
 
-Leur observation est devenue un **principe fondamental de la psychologie expérimentale** :
+* **En management**, elle explique que la motivation doit être stimulée sans devenir écrasante.
+* **En éducation**, elle montre qu’un peu de défi aide à apprendre.
+* **En sport ou en psychologie du travail**, elle aide à comprendre où se situe le point d’équilibre entre stress et performance.
 
-> **Il existe un niveau optimal de stimulation ou de stress pour atteindre la performance maximale.**
-> Trop peu de pression → manque de motivation.
-> Trop de pression → surcharge, perte de contrôle et baisse des performances.
+En somme, la loi de Yerkes-Dodson nous rappelle une chose simple : **le stress n’est pas un poison, c’est une dose**. Trop peu, tu t’endors. Trop, tu exploses.  
+Entre les deux, tu deviens vraiment performant.
 
-Graphiquement, la loi de Yerkes-Dodson se représente souvent sous la forme d’une **courbe en U inversé**, où la performance augmente avec le niveau d’activation (stress, excitation, motivation) jusqu’à un certain point, avant de chuter si ce niveau devient excessif.
+### Références
 
-Cette découverte, d’abord limitée au comportement animal, a rapidement été étendue à la **psychologie humaine** :
-
-* En **management**, elle illustre la notion de **“bon stress”** (eustress) : un certain niveau de défi stimule la productivité.
-* En **éducation**, elle montre que l’apprentissage nécessite un équilibre entre exigence et sécurité.
-* En **psychologie du travail** ou **sportive**, elle aide à comprendre comment **l’attention et la pression** influencent la performance.
-
-La loi de Yerkes-Dodson reste aujourd’hui un **modèle de référence** dans la compréhension du **stress adaptatif**, du **rendement optimal** et de la **régulation émotionnelle**.
-
-📚 **Sources :**
-
-* Yerkes, R. M. & Dodson, J. D., *“The Relation of Strength of Stimulus to Rapidity of Habit-Formation”*, *Journal of Comparative Neurology and Psychology*, 1908
-* Hebb, D. O., *Organization of Behavior: A Neuropsychological Theory*, Wiley, 1949
-* American Psychological Association, *“Yerkes-Dodson Law”*, APA Dictionary of Psychology, 2022
-* Harvard Business Review, *“The Optimal Stress Point: Revisiting the Yerkes-Dodson Law”*, 2018
+* [Yerkes, R. M. & Dodson, J. D., The Relation of Strength of Stimulus to Rapidity of Habit-Formation, Journal of Comparative Neurology and Psychology, 1908](https://scispace.com/papers/the-relation-of-strength-of-stimulus-to-rapidity-of-habit-5fihbkz37y){ target="_blank" }
+* [APA Dictionnary of psychology](https://www.iccpp.org/wp-content/uploads/2020/06/APA-Dictionary-of-Psychology-by-American-Psychological-Association-z-lib.org_-2.pdf){ target="_blank" }

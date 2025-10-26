@@ -1,51 +1,41 @@
 # Postel
 
-La **loi de Postel** aussi appelée **principe de robustesse**, est une règle essentielle en informatique et en communication qui explique pourquoi **il faut être flexible en réception, mais strict en émission.**  
+Tu t’es déjà retrouvé à décoder un message incomplet, un mail mal formulé ou un fichier bancal, et malgré tout… t’as réussi à comprendre ?  
+Et à l’inverse, déjà envoyé un truc pas clair qui a semé la confusion chez tout le monde ?  
+Félicitation tu viens de croiser **la loi de Postel**.
 
-> Sois tolérant dans ce que tu acceptes et strict dans ce que tu envoies
+> Sois tolérant dans ce que tu acceptes et strict dans ce que tu envoies.
 
-## En gros, ça signifie quoi ?
+Autrement dit : **écoute avec ouverture, mais parle avec clarté**.
 
-- **Jon Postel**, un des pionniers de l’Internet, a formulé cette règle pour garantir **une meilleure interopérabilité** entre les systèmes.  
-- Elle signifie que :  
-  - **Un bon système doit être robuste** en acceptant **des entrées imparfaites** ou légèrement déviantes.  
-  - Mais **il doit être rigoureux** dans ce qu’il produit, pour **ne pas générer d’ambiguïtés ou d’erreurs** chez les autres.  
-- Exemples d’application :  
-  - **Sur le web** : un navigateur **doit afficher des pages même si le code HTML contient des erreurs**, mais un bon développeur doit **produire un HTML propre et standard.**  
-  - **En communication humaine** : il faut **écouter avec souplesse**, mais **s’exprimer avec clarté et précision.**  
-  - **Dans la collaboration** : être ouvert aux idées des autres, tout en étant rigoureux sur ses propres engagements.  
+## Pourquoi la loi de Postel est si parlante
 
-## Pourquoi c’est inspirant ?
+Ce principe vient d’Internet, mais il s’applique à la vie entière.
 
-Parce que ça nous rappelle que :  
-✅ **L’adaptabilité améliore les interactions** – Être tolérant avec ce que l’on reçoit évite les blocages inutiles.  
-✅ **La rigueur prévient le chaos** – Si tout le monde émettait des données ambiguës ou erronées, **la communication s’effondrerait**.  
-✅ **L’équilibre entre souplesse et exigence est la clé** – Accepter les imperfections des autres, mais fournir du travail soigné.  
+* **Sur le web** : un bon navigateur affiche même une page mal codée, mais un bon dev écrit un code propre.
+* **En communication** : on pardonne les imperfections, mais on livre du solide.
+* **Dans la vie** : on accepte les maladresses des autres, mais on s’exprime clairement soi-même.
 
-Bref, la **loi de Postel**, c’est un rappel puissant : **dans la technique comme dans la vie, mieux vaut être souple en réception et exigeant en émission pour garantir des échanges fluides et efficaces.** 🌍🔄🚀
+Ce principe, **c’est l’art de la robustesse** : ne pas bloquer parce que l’autre n’est pas parfait, mais ne pas devenir brouillon sous prétexte d’ouverture.  
 
-## D’où ça vient ?
+Trop strict ? Tout casse.  
+Trop tolérant ? Tout se dégrade.  
+**L’équilibre, c’est d’être exigeant avec soi et indulgent avec les autres**.
 
-La **loi de Postel**, aussi appelée **principe de robustesse**, vient de **Jon Postel** (1943–1998), **informaticien américain** et **pionnier d’Internet**.
-Postel a été l’un des architectes majeurs du réseau Internet moderne : il a participé à la création des protocoles fondamentaux comme **TCP/IP**, **SMTP** (email) et **DNS** (Domain Name System).
+## D’où vient la loi de Postel ?
 
-C’est dans un document technique majeur — la **RFC 760** (1979), puis surtout la **RFC 1122** (1989) — que Postel énonce ce principe, devenu depuis célèbre sous le nom de **loi de Postel** :
+La loi de Postel porte le nom de Jon Postel (1943–1998), un des architectes d’Internet. C’est lui qui a aidé à créer les protocoles TCP/IP, SMTP (les e-mails) ou DNS (les noms de domaine). Dans les années 1970, il écrit une règle qui deviendra légendaire : « Be conservative in what you send, be liberal in what you accept. » (Sois strict dans ce que tu envoies, et tolérant dans ce que tu acceptes).  
 
-> **“Be conservative in what you send, be liberal in what you accept.”**
-> *(« Soyez strict dans ce que vous émettez, mais tolérant dans ce que vous acceptez. »)*
+Ce principe a rendu Internet robuste : les systèmes pouvaient continuer à communiquer, même si les messages étaient un peu bancals. L’idée : pour que les ordinateurs du monde entier puissent communiquer, il fallait des systèmes capables de comprendre les messages imparfaits, mais d’en produire eux-mêmes irréprochables.  
 
-À l’origine, ce principe visait à rendre les communications entre ordinateurs **plus robustes et interopérables** : un système devait envoyer des messages **propres, normalisés et bien formés**, mais être capable de **comprendre et traiter des messages légèrement imparfaits** venant d’autres systèmes.
+Et depuis, il est devenu une philosophie universelle : **clarté en émission, bienveillance en réception**.  
+Une règle qui vaut autant pour les ordinateurs… que pour les humains.
 
-Cependant, la portée de la loi de Postel dépasse largement le cadre technique. Elle est devenue une **philosophie de conception universelle** :
+En somme, la loi de Postel nous enseigne une chose simple : **les systèmes (et les humains) les plus solides sont ceux qui allient rigueur et bienveillance**.
 
-* En **informatique**, elle inspire la conception d’API, de protocoles et d’interfaces résilientes.
-* En **communication** et en **management**, elle symbolise une règle d’équilibre : **clarté dans ce qu’on exprime, bienveillance dans ce qu’on reçoit**.
+### Références
 
-Ironiquement, Postel lui-même reconnaissait plus tard que l’interprétation trop “tolérante” de ce principe avait parfois créé des problèmes de sécurité ou d’ambiguïté — ce qui en fait un **principe à manier avec discernement**.
-
-📚 **Sources :**
-
-* Jon Postel, *RFC 760: DoD Standard Internet Protocol*, IETF, 1979
-* Jon Postel, *RFC 1122: Requirements for Internet Hosts – Communication Layers*, IETF, 1989
-* Internet Engineering Task Force (IETF), *“The Robustness Principle Reconsidered”*, RFC 7608, 2015
-* The Internet Society, *“Remembering Jon Postel: The Internet’s Quiet Architect”*, 2018
+* [Jon Postel, RFC 760: DoD Standard Internet Protocol](https://www.rfc-editor.org/rfc/rfc760.html){ target="_blank" }
+* [Jon Postel, RFC 1122: Requirements for Internet Hosts – Communication Layers](https://www.rfc-editor.org/rfc/rfc1122.html){ target="_blank" }
+* [Internet Engineering Task Force (IETF), The Robustness Principle Reconsidered, RFC 7608](https://www.ietf.org/archive/id/draft-iab-protocol-maintenance-05.html){ target="_blank" }
+* [The Internet Society, Remembering Jon Postel: The Internet’s Quiet Architect](https://www.internetsociety.org/grants-and-awards/postel-service-award/){ target="_blank" }

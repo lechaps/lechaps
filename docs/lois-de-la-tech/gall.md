@@ -1,27 +1,43 @@
 # Gall
 
-La **loi de Gall** est un principe aussi contre-intuitif que révélateur : **les systèmes complexes qui fonctionnent ne sont jamais conçus comme tels dès le départ.**
+Tu as déjà vu un projet tellement ambitieux qu’il s’écroule sous son propre poids ? Des plans parfaits sur le papier, des schémas ultra-précis… et au final, rien ne marche vraiment.  
+Bienvenue dans **la loi de Gall**.
 
 > Un système complexe qui fonctionne est invariablement issu d’un système simple qui fonctionnait.
 
-## En gros, ça signifie quoi ?
+Autrement dit : **la complexité qui marche vient toujours de la simplicité qui marche**.  
+On ne peut pas construire un système stable à partir du chaos — il faut d’abord une base claire, fonctionnelle, testée dans le réel.
 
-* Les **projets ambitieux échouent souvent** parce qu’ils veulent être **complets et parfaits dès le début.**
-* À l’inverse, **les solutions robustes émergent souvent d’itérations simples**, testées, corrigées, puis complexifiées **au fil du temps.**
-* Cela va à l’encontre du réflexe courant de **vouloir tout prévoir**, alors que **la vraie fiabilité naît de l’expérience, pas de la théorie.**
-* En forçant un système complexe sans base solide, **on fabrique surtout des bugs, de l’inefficacité et des effets de bord.**
+## Pourquoi la loi de Gall est si parlante
 
-## Pourquoi c’est inspirant ?
+* Les projets qui échouent sont souvent ceux qu’on veut parfaits dès le départ.
+* À l’inverse, **les systèmes qui durent commencent petits, puis évoluent progressivement**.
+* La vraie **solidité vient de l’itération, pas du plan initial**.
+* Quand on force la complexité trop tôt, on fabrique surtout de l’instabilité, des bugs et des effets de bord.
 
-Parce que ça nous rappelle que :
-✅ **Mieux vaut commencer petit et solide, que grand et fragile.**
-✅ **La complexité maîtrisée est une conséquence, pas un point de départ.**
-✅ **Les meilleurs produits, organisations ou systèmes sont des évolutions, pas des plans parfaits sur papier.**
+En résumé, la loi de Gall nous rappelle que **la réussite se construit par couches**, comme **une croissance organique**.  
+**La perfection n’est pas un point de départ, c’est une conséquence**.
 
-Bref, la **loi de Gall** est une leçon de sagesse pour les bâtisseurs : **la simplicité bien conçue est la seule vraie fondation de la complexité fonctionnelle.** 🧱🚀
+## D’où vient la loi de Gall ?
 
-## D'où ça vient ?
+Ce principe vient du médecin et essayiste américain John Gall (1925–2014), auteur du livre culte _Systemantics_ (1975).  
+Dans cet essai mi-satirique, mi-philosophique, Gall observe les travers des systèmes complexes — qu’ils soient techniques, bureaucratiques ou humains.
 
-Ce principe provient du livre [Systemantics](https://en.wikipedia.org/wiki/Systemantics){ target="_blank" } de (1975), écrit par **John Gall**, un médecin et penseur américain. À travers une approche satirique mais lucide, il y explore les absurdités des systèmes complexes, qu’ils soient techniques, bureaucratiques ou sociaux. Sa "loi" est devenue une référence dans le design de systèmes, en informatique comme en organisation, car elle rappelle une vérité essentielle trop souvent ignorée : l’efficacité naît de l’évolution, pas de la perfection initiale.
+C’est là qu’il formule sa fameuse loi :
 
-> Un système complexe qui fonctionne se trouve invariablement avoir évolué depuis un système simple qui fonctionnait. La proposition inverse se révèle également exacte : Un système complexe développé de A à Z ne fonctionne jamais et vous n'arriverez jamais à le faire fonctionner. Vous devez recommencer depuis le début, en commençant par un système simple.
+> A complex system that works is invariably found to have evolved from a simple system that worked.
+A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over, beginning with a working simple system.
+
+Traduction libre :
+
+> Un système complexe qui fonctionne provient toujours d’un système simple qui fonctionnait.
+> Un système complexe conçu de zéro ne fonctionne jamais — il faut repartir d’une base simple.
+
+Ce constat, d’abord humoristique, est devenu une référence majeure en ingénierie, design, management et organisation.  
+Il rappelle que **l’efficacité émerge de l’évolution, pas de la planification parfaite**.  
+
+En somme, la loi de Gall nous enseigne que **la robustesse ne se décrète pas, elle se construit**.
+
+### Références
+
+* Livre [Systemantics](https://en.wikipedia.org/wiki/Systemantics){ target="_blank" }

@@ -1,53 +1,42 @@
 # Tesler
 
-La **loi de Tesler**, aussi appelée **loi de conservation de la complexité**, explique pourquoi **chaque système possède une complexité incompressible qui ne peut être supprimée, seulement déplacée.**  
+Tu t’es déjà dit « pourquoi c’est aussi compliqué ? » en utilisant un outil mal fichu ?  
+Ou au contraire, t’as trouvé un produit tellement simple que tu t’es demandé : « comment ils ont fait pour que tout paraisse aussi évident ? »  
+Bienvenue dans **la loi de Tesler**.
 
 > Toute complexité d’un système doit être assumée quelque part : soit par l’utilisateur, soit par le concepteur
 
-## En gros, ça signifie quoi ?
+Autrement dit : **si quelque chose te semble simple, c’est que quelqu’un a galéré à ta place**.
 
-- **Larry Tesler**, expert en interface utilisateur, a démontré qu’on ne peut pas **éliminer totalement la complexité**, mais seulement **choisir qui devra la gérer**.  
-- Dans le design, on a **deux options** :  
-  - **Soit le concepteur prend en charge la complexité** et crée une interface simple et fluide.  
-  - **Soit l’utilisateur doit gérer la complexité** avec une interface confuse, des options mal pensées ou des processus compliqués.  
-- Exemples concrets :  
-  - **Apple simplifie au maximum l’interface de l’iPhone**, mais cela demande **un énorme travail en amont** pour masquer la complexité technique.  
-  - **Un bon logiciel automatise des tâches complexes**, mais cela signifie **plus de code et plus d’efforts pour le développeur.**  
-  - **Un site web bien conçu paraît simple**, mais derrière, il y a **des décisions stratégiques pour éviter la surcharge cognitive.**  
+## Pourquoi la loi de Tesler est si parlante
 
-## Pourquoi c’est inspirant ?
+* **Un bon produit paraît simple**, mais c’est souvent **le résultat d’un travail monstrueux pour cacher la complexité**.
+* **Un mauvais produit**, lui, **te laisse gérer les problèmes à la main** : des options obscures, des interfaces tordues, des processus incompréhensibles.
+* C’est un choix :
+  * soit **le concepteur prend la charge**,
+  * soit **l’utilisateur la paye — en temps, en stress** ou en jurons.
 
-Parce que ça nous rappelle que :  
-✅ **La simplicité est un luxe qui demande du travail** – Rendre un produit fluide exige **une grande réflexion en amont**.  
-✅ **Une bonne conception évite à l’utilisateur de se battre avec la complexité** – Un bon produit doit **cacher la difficulté sans nuire à la flexibilité**.  
-✅ **Automatiser et optimiser, c’est déplacer la charge cognitive** – Plus un système est intuitif, plus **il a demandé d’efforts en conception.**  
+Exemples :
 
-Bref, la **loi de Tesler** est un rappel puissant : **la complexité ne disparaît jamais, elle est juste déplacée… et c’est souvent au concepteur d’en assumer le poids.** 🎯🚀
+* Apple rend tout fluide… mais c’est parce qu’ils **gèrent la complexité en coulisses**.
+* **Un bon logiciel** automatise les tâches pénibles, mais **demande mille décisions côté devs**.
+* **Un site web clair** cache **des heures de débats** sur chaque mot, chaque bouton.
 
-## D’où ça vient ?
+Bref, la simplicité, **c’est du travail bien caché**.
 
-La **loi de Tesler**, aussi appelée **loi de la conservation de la complexité**, vient de **Larry Tesler** (1945–2020), **informaticien américain** et **pionnier de l’interaction homme-machine**.
-Ancien ingénieur chez **Xerox PARC**, puis cadre chez **Apple**, **Amazon** et **Yahoo!**, Tesler est également connu pour avoir inventé le **copier-coller (copy-paste)**, une révolution de l’ergonomie informatique.
+## D’où vient la loi de Tesler ?
 
-Il formule sa “loi” dans les années **1980**, à partir d’une observation issue de la conception d’interfaces :
+La loi porte le nom de Larry Tesler (1945–2020), pionnier de l’informatique et inventeur du copier-coller. Il a travaillé chez Xerox PARC, puis chez Apple, Amazon et Yahoo! — toujours obsédé par la même idée :  « La complexité d’un système est une constante : on ne peut pas la supprimer, seulement décider qui la portera.»  
 
-> **La complexité d’un système est une constante ; elle ne peut être éliminée, seulement déplacée.**
+Tesler croyait à un design centré sur l’humain. Plutôt que de laisser l’utilisateur se battre avec des interfaces inutiles, il défendait une approche simple : faire le travail compliqué avant, pour que l’expérience soit fluide après. C’est cette philosophie qui a façonné l’ADN d’Apple et inspiré toute une génération de designers.  
 
-Autrement dit, dans tout système ou produit, **il y a une quantité incompressible de complexité**.
-Le rôle du concepteur (ou du décideur) est de **choisir où elle se situe** :
+En somme, la loi de Tesler nous rappelle une vérité universelle : **La simplicité n’existe que parce que quelqu’un a accepté de porter la complexité à ta place**.
 
-* Soit on la **laisse à la charge de l’utilisateur**, qui doit comprendre, paramétrer ou contourner la difficulté ;
-* Soit on la **gère en amont**, côté concepteur ou ingénieur, pour offrir une expérience plus simple et fluide.
+### Références
 
-Tesler a défendu cette idée tout au long de sa carrière, notamment chez **Apple**, où il militait pour un design centré sur l’utilisateur (*user-centered design*) et la simplicité d’usage — un principe que Steve Jobs a repris et radicalisé.
-
-Sa loi s’applique bien au-delà de l’informatique : dans la **gestion**, la **communication**, la **pédagogie** ou le **design organisationnel**, elle rappelle que **simplifier pour quelqu’un signifie complexifier pour soi**.
-La véritable élégance d’un système se mesure donc à **l’endroit où la complexité est absorbée**.
-
-📚 **Sources :**
-
-* Larry Tesler, conférences Xerox PARC, *“The Law of Conservation of Complexity”*, 1984
-* Donald Norman, *The Design of Everyday Things*, Basic Books, 1988
-* Apple Computer Archives, *Human Interface Guidelines*, 1992
-* The Guardian, *“Larry Tesler: The Man Who Made Computing Simpler”*, 2020
-* Nielsen Norman Group, *“Tesler’s Law of Conservation of Complexity”*, 2018
+* [Laws of UX - Tesler's law](https://lawsofux.com/articles/2024/teslers-law/){ target="_blank" }
+* [Wikipédia](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity){ target="_blank" }
+* [Medium - The Law of Conservation of Complexity in the Age of AI](https://medium.com/@kscottdavis/the-law-of-conservation-of-complexity-in-the-age-of-ai-5a1c6741307c){ target="_blank" }
+* [Donald Norman, The Design of Everyday Things, Basic Books, 1988](https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf){ target="_blank" }
+* [Apple Computer Archives, Macintosh Human Interface Guidelines, 1992](https://vintageapple.org/inside_r/pdf/Human_Interface_Guidelines_1992.pdf){ target="_blank" }
+* [The Guardian, Larry Tesler: The Man Who Made Computing Simpler](https://www.theguardian.com/technology/2020/feb/28/larry-tesler-obituary){ target="_blank" }

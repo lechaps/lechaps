@@ -1,29 +1,40 @@
 # La théorie du cheval mort
 
-> Quand on découvre qu'on chevauche un cheval mort, la meilleure chose à faire est de descendre
+Tu as déjà vu une organisation s’entêter dans une idée, un projet ou une stratégie… alors que tout le monde sait que ça ne marche plus ? Et au lieu d’arrêter, on redouble d’efforts, on fait des réunions, on « restructure », on espère un miracle.  
+Bienvenue dans **la théorie du cheval mort**.
 
-Cependant, au lieu d'accepter l'échec et de changer de stratégie, des approches absurdes sont trop souvent adoptées (notamment dans les entreprises, les gouvernements ou les bureaucraties) pour continuer malgré tout, comme :
+> Quand on découvre qu’on chevauche un cheval mort, la meilleure chose à faire est de descendre.
 
-* Acheter un fouet plus gros (redoubler d'efforts inutiles).
-* Changer de cavalier (blâmer quelqu'un d'autre et le remplacer).
-* Dire « C'est comme ça qu'on a toujours fait » (refuser d'admettre que ça ne marche plus).
-* Créer un comité pour étudier le cheval mort (perdre du temps en réunions inutiles).
-* Comparer le cheval mort à d'autres chevaux morts pour prouver qu'il est meilleur (trouver du réconfort dans l'échec généralisé).
-* C'est une critique de l'obstination humaine face à des projets, des stratégies ou des systèmes défaillants, où l'on s'acharne au lieu de prendre une décision rationnelle : abandonner et essayer autre chose.
+Autrement dit : quand quelque chose ne fonctionne plus, il faut avoir le courage d’arrêter.
+Mais dans la pratique, on préfère souvent continuer — parce qu’abandonner, c’est admettre qu’on s’est trompé, ou simplement par habitude, par peur, parce qu’il est plus facile de faire « comme d’habitude ».
 
-Dans la vie comme dans les organisations, nous avons tendance à nous accrocher à des choses qui ne fonctionnent plus. On essaie d’investir plus de temps, plus d’énergie, on cherche des coupables, on multiplie les réunions, on espère un miracle. Mais la réalité est là : certains chemins sont arrivés à leur terme.
+## Pourquoi la théorie du cheval mort est si parlante
 
-Ce concept n’est pas un appel à l’abandon, mais à la lucidité et au courage. Il s’agit d’apprendre à reconnaître ce qui n’a plus d’avenir et à rediriger son énergie vers quelque chose de viable, de porteur. Faire preuve de sagesse, c’est accepter que certaines batailles ne sont pas à gagner mais à quitter, pour mieux avancer vers ce qui a du sens.
+Face à un cheval mort, certaines organisations redoublent d’imagination pour ne pas descendre :
 
-Parfois, la vraie force n’est pas de persévérer à tout prix, mais d’avoir l’audace de lâcher prise et d’oser un nouveau départ.
+* Acheter un fouet plus gros — redoubler d’efforts inutiles.
+* Changer de cavalier — blâmer quelqu’un d’autre et le remplacer.
+* Dire « c’est comme ça qu’on a toujours fait » — refuser d’admettre que ça ne marche plus.
+* Créer un comité pour étudier le cheval mort — perdre du temps en réunions inutiles.
+* Comparer le cheval mort à d’autres chevaux morts — se rassurer en voyant que d’autres échouent aussi.
 
-## D'où ça vient ?
+Tout ça, **au lieu d’accepter la réalité** : le cheval ne repartira pas.  
+On essaie d’investir plus de temps, plus d’énergie, on cherche des coupables, on multiplie les réunions, on tente encore de ranimer le cheval. Et plus on s’acharne, plus on gaspille les ressources, l’énergie et le moral des équipes.  
 
-La **théorie du cheval mort** (ou *dead horse theory*) est une **métaphore organisationnelle** d’origine incertaine, souvent attribuée à des contextes **amérindiens** de façon apocryphe, mais popularisée dans les **milieux du management** à partir des années 1980-1990.
+En résumé, la théorie du cheval mort nous rappelle qu’il faut parfois oser mettre pied à terre, reconnaître qu’un projet est terminé, et rediriger ses forces ailleurs. Ce n’est pas un signe de faiblesse ni un appel à l’abandon, mais un acte de lucidité et de courage. 
 
-Ce concept a été repris dans de nombreuses formations en leadership, articles sur le management et présentations humoristiques dans les entreprises pour **pointer les absurdités de certaines pratiques organisationnelles**.
+Il s’agit d’apprendre à reconnaître ce qui n’a plus d’avenir et à rediriger son énergie vers quelque chose de viable, de porteur. Faire preuve de sagesse, c’est accepter que certaines batailles ne sont pas à gagner mais à quitter, pour mieux avancer vers ce qui a du sens.
+
+## D’où vient la théorie du cheval mort ?
+
+L’origine de cette métaphore _dead horse theory_ est incertaine.  
+Elle est souvent attribuée à une **sagesse amérindienne**, mais elle a surtout été popularisée dans les années 1980–1990 dans les milieux du management et de la formation en leadership.  
+
+Utilisée d’abord sur le ton de l’humour, elle sert aujourd’hui à illustrer les absurdités de certaines pratiques organisationnelles. Cette image s’est imposée comme une parabole moderne du déni collectif, dans les entreprises comme dans la vie : **continuer coûte plus cher que s’arrêter**.  
+
+En somme, la théorie du cheval mort nous rappelle que **le courage, ce n’est pas de continuer à tout prix, c’est de savoir quand descendre**.
 
 ### Références
 
-- [Blog ITIL](https://blog.itil.org/2012/12/when-you-discover-youre-riding-a-dead-horse-the-best-strategy-is-to-dismount/#:~:text=There%20is%20an%20old%20Dakota,logical%20given%20the%20above%20situation.){ target="_blank" }
-- Livre de référence (inspiration) : [The Logic of Failure* – Dietrich Dörner (1996) – sur les erreurs de raisonnement en gestion de crise](https://www.amazon.fr/logique-l%C3%A9chec-Dietrich-D%C3%B6rner/dp/208035549X/){ target="_blank" }
+* [Blog ITIL](https://blog.itil.org/2012/12/when-you-discover-youre-riding-a-dead-horse-the-best-strategy-is-to-dismount/#:~:text=There%20is%20an%20old%20Dakota,logical%20given%20the%20above%20situation.){ target="_blank" }
+* Livre de référence (inspiration) : [The Logic of Failure* – Dietrich Dörner (1996) – sur les erreurs de raisonnement en gestion de crise](https://www.amazon.fr/logique-l%C3%A9chec-Dietrich-D%C3%B6rner/dp/208035549X/){ target="_blank" }

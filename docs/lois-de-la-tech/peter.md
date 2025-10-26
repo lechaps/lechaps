@@ -1,49 +1,37 @@
 # Peter
 
-La **loi de Peter** est une règle incontournable qui explique pourquoi **dans une hiérarchie, chaque individu tend à être promu jusqu’à atteindre son niveau d’incompétence.**  
+Tu connais ce collègue brillant qui a été promu… et qui depuis semble complètement perdu ?  
+Celui qui était excellent dans son job, puis s’est transformé en manager débordé ?  
+Bienvenue dans **la loi de Peter**.
 
-> Dans une organisation, les employés sont promus jusqu'à ce qu'ils occupent un poste pour lequel ils ne sont plus compétents
+> Dans une hiérarchie, tout employé tend à être promu jusqu’à atteindre son niveau d’incompétence.
 
-## En gros, ça signifie quoi ?
+Autrement dit : **on grimpe jusqu’à ne plus savoir quoi faire**.
 
-- **Un bon employé est souvent promu**, car il excelle à son poste.  
-- Mais rien ne garantit que **ses compétences sont adaptées au niveau supérieur.**  
-- Ainsi, à force de promotions successives, il atteint un poste **où il n’est plus performant**… et y reste coincé.  
-- Résultat :  
-  - **Un excellent technicien devient un mauvais manager.**  
-  - **Un bon commercial devient un chef d’équipe dépassé.**  
-  - **Une organisation finit par être remplie de personnes incompétentes à leur poste.**  
-- Et comme il est **mal vu de rétrograder quelqu’un**, les postes clés finissent souvent occupés par **des personnes qui n’ont plus les compétences adaptées.**  
+## Pourquoi la loi de Peter est si parlante
 
-## Pourquoi c’est inspirant ?
+* Un bon technicien devient un mauvais manager.
+* Un commercial performant devient un chef d’équipe dépassé.
+* Et tout le monde finit par faire un job… pour lequel il n’est pas formé.
 
-Parce que ça nous rappelle que :  
-✅ **Bien performer à un poste ne signifie pas être adapté au niveau supérieur.**  
-✅ **Les promotions devraient être basées sur les compétences du poste cible, pas sur celles du poste précédent.**  
-✅ **Créer des alternatives à la promotion verticale** – Valoriser l’expertise sans obliger les meilleurs éléments à devenir managers **évite l’accumulation d’incompétence.**  
+Le pire ?  
+On ne rétrograde presque jamais quelqu’un — on le laisse **stagner là où il n’est plus compétent**.  
+Résultat : **les organisations se remplissent peu à peu de gens brillants dans le passé, mais inadaptés dans le présent**.  
 
-Bref, la **loi de Peter** est un rappel puissant : **promouvoir sans réfléchir mène au chaos, alors que bien placer les talents garantit le succès.** 🚀📈
+Peter n’accusait pas les employés, il accusait le système : **on récompense la performance en changeant de métier**. Un peu comme si on promouvait le meilleur violoniste en… chef d’orchestre.
 
-## D’où ça vient ?
+## D’où vient la loi de Peter ?
 
-Le **principe de Peter** vient de **Laurence J. Peter** (1919–1990), **enseignant, psychologue canadien** et **chercheur en management**. Il a formulé ce principe en collaboration avec le scénariste **Raymond Hull**, dans un ouvrage devenu un classique de la satire organisationnelle :
+Le principe de Peter vient de Laurence J. Peter, psychologue et enseignant canadien. En 1969, il publie avec Raymond Hull un livre devenu culte : _The Peter Principle: Why Things Always Go Wrong_.  
 
-> *The Peter Principle: Why Things Always Go Wrong* (1969).
+Il y observe, avec humour et lucidité, que dans une hiérarchie, **chacun finit par atteindre le poste où il devient incompétent**. Pas par bêtise, mais par **mécanique organisationnelle** : on promeut les gens pour ce qu’ils ont bien fait, pas pour ce qu’ils devront faire.  
 
-Dans ce livre, Peter observe avec humour et rigueur que dans une hiérarchie, **tout employé a tendance à être promu jusqu’à atteindre son niveau d’incompétence**. Autrement dit :
+Depuis, cette loi est devenue un classique du management. Et un avertissement : **promouvoir n’est pas récompenser, c’est repositionner**.  
 
-> “In a hierarchy, every employee tends to rise to his level of incompetence.”
+En somme, la loi de Peter nous rappelle une chose simple : **la compétence n’est pas cumulative**. Ce qui te rend excellent ici peut te rendre inapte là-haut. La vraie sagesse, ce n’est pas de grimper plus haut — **c’est de rester à ton niveau de brillance**.
 
-Son observation repose sur un paradoxe simple : les promotions sont souvent accordées selon la **performance dans le poste actuel**, et non selon les **compétences nécessaires pour le poste supérieur**. Ainsi, au fil du temps, la plupart des organisations se remplissent de personnes **compétentes dans leur ancien rôle mais dépassées dans leur nouveau**.
+### Références
 
-Ce principe, à la fois satirique et terriblement réaliste, a profondément marqué la **sociologie du travail**, la **gestion des ressources humaines** et la **théorie des organisations**.
-Peter ne cherchait pas à ridiculiser les entreprises, mais à **montrer les limites structurelles de la promotion hiérarchique** — et à inciter à repenser la façon dont on reconnaît et valorise la compétence.
-
-Depuis, le “principe de Peter” est devenu une référence universelle, souvent citée dans les milieux du **management**, du **leadership** et même de la **culture populaire**, comme un rappel ironique des dérives de la bureaucratie.
-
-📚 **Sources :**
-
-* Laurence J. Peter & Raymond Hull, *The Peter Principle: Why Things Always Go Wrong*, William Morrow & Co., 1969
-* Laurence J. Peter, *The Peter Prescription: How to Make Things Go Right*, 1977
-* The Economist, *“The Peter Principle Revisited”*, 2018
-* Harvard Business Review, *“Why the Peter Principle Still Holds True”*, 2019
+* [Laurence J. Peter & Raymond Hull, The Peter Principle: Why Things Always Go Wrong](https://www.amazon.fr/Peter-Principle-Things-Always-Wrong/dp/0061699063){ target="_blank" }
+* [The Peter Principle Revisited](https://onlinelibrary.wiley.com/doi/10.1002/hrm.3930180402){ target="_blank" }
+* [Harvard Business Review - Overcoming the Peter Principle](https://hbr.org/2014/12/overcoming-the-peter-principle){ target="_blank" }

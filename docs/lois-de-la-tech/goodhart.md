@@ -1,38 +1,46 @@
 # Goodhart
 
-La **loi de Goodhart** est une règle puissante qui explique pourquoi **les mesures utilisées comme objectifs finissent par perdre leur sens**.  
+Tu as déjà vu une équipe se battre pour atteindre un chiffre… au point d’en oublier pourquoi elle le poursuit ?  
+On fixe un objectif, on fait des tableaux, on compte tout — et petit à petit, on ne cherche plus à s’améliorer, mais juste à faire gonfler la métrique.  
+Bienvenue dans **la loi de Goodhart**.
 
-> Lorsqu'une mesure devient un objectif, elle cesse d’être une bonne mesure
+> Lorsqu'une mesure devient un objectif, elle cesse d’être une bonne mesure.
 
-## En gros, ça signifie quoi ?
+Autrement dit : quand on confond le thermomètre avec la température, **on finit par fausser les deux**.
 
-- Une **mesure** est utile tant qu’elle sert **à comprendre une situation**, mais dès qu’elle devient **un objectif en soi, elle est détournée**.  
-- Exemples concrets :  
-  - **Dans une entreprise** : si on fixe un objectif de **nombre d’appels traités** au service client, les employés **bâclent les conversations pour en faire plus**.  
-  - **À l’école** : si la seule priorité est **la note**, les élèves apprennent **à réussir les examens plutôt qu’à comprendre réellement.**  
-  - **Dans la politique ou les statistiques** : optimiser **des chiffres au lieu de résoudre de vrais problèmes.**  
-- Quand on met **trop d’importance sur un indicateur**, les gens **trouvent des moyens de le manipuler, souvent au détriment du véritable but.**  
+## Pourquoi la loi de Goodhart est si parlante
 
-## Pourquoi c’est inspirant ?
+* Une mesure est utile tant qu’elle sert à comprendre la réalité. Dès qu’elle devient un but, elle se déforme.
+* **Dans une entreprise** : si on fixe un objectif de nombre d’appels, les employés bâclent les conversations pour en faire plus.
+* **À l’école** : si on valorise seulement la note, les élèves apprennent à réussir l’examen, pas à comprendre.
+* **En politique** : on finit par « optimiser » des chiffres plutôt que de résoudre les vrais problèmes.
 
-Parce que ça nous rappelle que :  
-✅ **Les chiffres ne disent pas tout** – Mesurer, c’est bien, mais il faut garder une vision globale.  
-✅ **Les objectifs doivent être intelligemment choisis** – Sinon, ils encouragent des comportements contre-productifs.  
-✅ **L’impact compte plus que la métrique** – Une vraie réussite se mesure **dans les résultats réels, pas juste dans des nombres.**  
+Résultat : on crée **des systèmes qui brillent sur le papier**, mais qui trahissent leur mission d’origine.  
+La loi de Goodhart nous rappelle que **les chiffres doivent servir la vision**, pas la remplacer.
 
-Bref, la **loi de Goodhart** est un rappel puissant : **si on fixe un objectif uniquement sur une mesure, on risque d’en perdre le vrai sens.** 🎯📊
+## D’où vient la loi de Goodhart ?
 
-## D’où ça vient ?
+Ce principe vient de Charles Goodhart, économiste britannique et ancien conseiller de la Banque d’Angleterre. En 1975, il observe que, dès qu’un indicateur économique devient un objectif officiel, il cesse d’être fiable : les gens adaptent leur comportement pour atteindre la cible — même si cela détruit la logique du système.  
 
-La **loi de Goodhart** porte le nom de **Charles Goodhart**, **économiste britannique** et ancien **conseiller de la Banque d’Angleterre**. Il a formulé cette loi en **1975**, dans un document interne au Royaume-Uni intitulé *“Problems of Monetary Management: The U.K. Experience”*, alors qu’il travaillait sur les politiques monétaires et les indicateurs économiques.
+Formulée dans un texte intitulé _Problems of Monetary Management: The U.K. Experience_, cette idée est vite devenue une référence, bien au-delà de la politique monétaire.  
+Elle inspire encore aujourd’hui les réflexions sur les KPI, le management par les chiffres, la gouvernance des données et les dérives de la mesure.
 
-Goodhart observait que, dès qu’un indicateur devient un **objectif officiel de politique**, il **cesse d’être un bon indicateur**.  
-L’idée est simple mais puissante : les gens adaptent leur comportement pour atteindre les **chiffres fixés**, parfois **au détriment du sens ou de la qualité réelle**. Cette observation s’applique aussi bien à la **politique économique** qu’au **management**, à la **pédagogie** ou à la **gestion d’équipe**.  
+En somme, la loi de Goodhart nous rappelle **qu’à force de viser le chiffre, on finit par manquer le sens**.
+Les indicateurs doivent **éclairer la route**, pas devenir la destination.
 
-La loi de Goodhart est aujourd’hui considérée comme une **référence majeure en économie comportementale**, en **data management** et en **pilotage d’indicateurs de performance (KPI)**. Elle a inspiré de nombreuses réflexions modernes sur les dérives de la mesure, notamment la **Campbell’s Law** (Donald T. Campbell, 1979), qui en est une formulation voisine.
+## Lien entre la **loi de Campbell** (1976) et la **loi de Goodhart** (1975)
+
+Elles disent fondamentalement la même chose, mais sous deux angles différents.
+
+* Goodhart, économiste, observait que **quand une mesure devient un objectif, elle cesse d’être une bonne mesure** — les chiffres perdent leur sens dès qu’ils deviennent des cibles.  
+* Campbell, sociologue, constatait que **plus un indicateur est utilisé pour la décision, plus il sera corrompu** — les humains finissent par manipuler ce qu’ils savent être mesuré.  
+
+L’un regarde les **chiffres**, l’autre les **comportements**, mais tous deux décrivent le même piège :
+
+> À force de transformer les mesures en objectifs, on finit par remplacer la réalité par l’indicateur.
 
 ### Références
 
-- [Charles Goodhart, Problems of Monetary Management: The U.K. Experience*, 1975, Papers in Monetary Economics (Reserve Bank of Australia)](https://link.springer.com/chapter/10.1007/978-1-349-17295-5_4){ target="_blank" }
-- [Donald T. Campbell, Assessing the Impact of Planned Social Change, 1979](https://www.sciencedirect.com/science/article/abs/pii/014971897990048X){ target="_blank" }
-- [M. Strathern, "Improving Ratings: Audit in the British University System", *European Review*, 1997](https://www.cambridge.org/core/journals/european-review/article/abs/improving-ratings-audit-in-the-british-university-system/FC2EE640C0C44E3DB87C29FB666E9AAB){ target="_blank" }
+* [Charles Goodhart, Problems of Monetary Management: The U.K. Experience*, 1975, Papers in Monetary Economics (Reserve Bank of Australia)](https://link.springer.com/chapter/10.1007/978-1-349-17295-5_4){ target="_blank" }
+* [Donald T. Campbell, Assessing the Impact of Planned Social Change, 1979](https://www.sciencedirect.com/science/article/abs/pii/014971897990048X){ target="_blank" }
+* [M. Strathern, "Improving Ratings: Audit in the British University System", *European Review*, 1997](https://www.cambridge.org/core/journals/european-review/article/abs/improving-ratings-audit-in-the-british-university-system/FC2EE640C0C44E3DB87C29FB666E9AAB){ target="_blank" }

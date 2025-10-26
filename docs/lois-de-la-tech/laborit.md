@@ -1,39 +1,42 @@
 # Laborit
 
-La **loi de Laborit** est une règle essentielle qui explique pourquoi **nous avons tendance à fuir l’effort et à privilégier ce qui nous procure du plaisir immédiat.**  
+Tu t’es déjà surpris à faire tout sauf la tâche que tu devais vraiment faire ?  
+Genre ranger ton bureau avant de bosser, faire un café avant de commencer, ou scroller « juste deux minutes » avant de t’y mettre ?  
+Bienvenue dans **la loi de Laborit**.
 
-> L’être humain choisit spontanément ce qui lui apporte du plaisir et évite ce qui lui demande un effort
+> L’être humain choisit spontanément ce qui lui apporte du plaisir et évite ce qui lui demande un effort.
 
-## En gros, ça signifie quoi ?
+Autrement dit : **notre cerveau est programmé pour fuir l’effort et rechercher le confort immédiat**.
 
-- Quand on doit faire un **travail difficile ou ennuyeux**, on préfère souvent **remettre à plus tard** et faire quelque chose de plus agréable (réseaux sociaux, séries, café… ☕📱).  
-- C’est un **mécanisme naturel** de notre cerveau : il **priorise la gratification immédiate** plutôt que l’effort à long terme.  
-- Résultat : **on procrastine, on évite les tâches importantes, et on se laisse distraire.**  
-- Henri Laborit, neurobiologiste, a montré que **nous sommes câblés pour chercher le confort mental et physique en priorité.**  
+## Pourquoi la loi de Laborit est si parlante
 
-## Pourquoi c’est inspirant ?
+* Quand une tâche demande de l’énergie, ton cerveau la classe dans la catégorie « danger, dépense inutile ».
+* Il te pousse alors vers des activités plus agréables : un mail, une notif, une vidéo, un café.
+* Ce n’est pas de la paresse, c’est de la biologie : ton système nerveux cherche **la récompense rapide et évite l’inconfort**.
+* Résultat : on procrastine, on s’éparpille, et on remet à demain ce qui demande un vrai effort mental.
 
-Parce que ça nous rappelle que :  
-✅ **La procrastination est naturelle… mais pas une fatalité.**  
-✅ **Pour avancer, il faut parfois aller contre notre instinct** – Se créer des routines et des stratégies pour commencer **par les tâches difficiles**.  
-✅ **Le plaisir immédiat est un piège** – La vraie satisfaction vient souvent de **l’effort accompli et des progrès réalisés.**  
+Mais bonne nouvelle : comprendre ce mécanisme, c’est déjà commencer à le déjouer.
+La loi de Laborit nous rappelle que **la discipline n’est pas une question de volonté, mais de stratégie**.  
+Créer des rituels, découper les tâches, commencer petit — tout ce qui aide ton cerveau à voir l’effort comme une récompense, pas une menace.
 
-Bref, la **loi de Laborit** est un rappel puissant : **notre cerveau fuit l’effort, mais c’est en le défiant qu’on progresse vraiment.** 🚀💡
+En résumé, notre cerveau **fuit la difficulté, mais c’est dans l’effort que se construit la satisfaction durable**.
 
-## D’où ça vient ?
+## D’où vient la loi de Laborit ?
 
-La **loi de Laborit** vient des travaux du **docteur Henri Laborit** (1914–1995), **médecin, biologiste et neurophysiologiste français**. Connu pour ses recherches sur le **cerveau**, le **stress** et le **comportement humain**, Laborit a consacré une grande partie de sa carrière à comprendre **pourquoi nous agissons — ou n’agissons pas**.
+Cette idée vient du docteur Henri Laborit (1914–1995), médecin, biologiste et neurophysiologiste français. Il a consacré sa vie à comprendre **pourquoi nous agissons — ou pourquoi nous n’agissons pas**.  
 
-Dans ses ouvrages majeurs, notamment *La Nouvelle Grille* (1974) et *Éloge de la fuite* (1976), il expose ce principe fondamental du comportement. Ce constat inspiré à la fois par la **neurobiologie** et la **psychologie comportementale**, rejoint la logique de ce qu’il appelle les **systèmes de récompense et de punition** du cerveau. Nos actions ne sont pas guidées par la raison pure, mais par des **mécanismes biologiques d’évitement et de gratification**.
+Dans _La Nouvelle Grille_ (1974) et _Éloge de la fuite_ (1976), Laborit explique que nos comportements sont guidés par **les systèmes de récompense et de punition du cerveau**. On agit pour **obtenir du plaisir ou éviter la douleur** — rarement par pur raisonnement logique.  
 
-Pour Laborit, comprendre ce fonctionnement est essentiel : tant qu’un individu agit uniquement pour éviter l’inconfort ou pour rechercher la satisfaction immédiate, il reste **prisonnier de ses automatismes**. Le véritable progrès humain, selon lui, passe par la **prise de conscience de ces conditionnements**, pour apprendre à agir non pas sous la contrainte du plaisir ou de la peur, mais **par choix réfléchi**.
+Pour Laborit, la liberté commence quand on prend conscience de ces automatismes. Tant qu’on agit sous la dictature du confort et de la peur, on reste prisonnier de soi-même.  
+Apprendre à choisir consciemment l’effort, c’est retrouver une forme de maîtrise — sur son temps, son travail, sa vie.  
 
-Ses travaux ont influencé la **neurosciences motivationnelle**, la **psychologie du travail** et même la **philosophie de la liberté**, notamment à travers le film *Mon Oncle d’Amérique* (1980), qui illustre de façon spectaculaire ses théories sur les comportements humains.
+Ses travaux ont profondément marqué la neurobiologie, la psychologie du comportement et même le cinéma, notamment avec le film _Mon Oncle d’Amérique_ (1980) d’Alain Resnais, qui illustre ses théories avec brio.
 
-📚 **Sources :**
+En somme, la loi de Laborit nous enseigne ceci : **le confort est tentant, mais la croissance commence là où l’effort fait peur**.
 
-* Henri Laborit, *La Nouvelle Grille*, Robert Laffont, 1974
-* Henri Laborit, *Éloge de la fuite*, Robert Laffont, 1976
-* Alain Resnais, *Mon Oncle d’Amérique*, 1980
-* CNRS Éditions, *Henri Laborit, un biologiste dans la cité*, 2014
-* France Culture, *“Henri Laborit, comprendre pour ne plus subir”*, 2019
+### Références
+
+* [Henri Laborit, La Nouvelle Grille](https://www.amazon.fr/nouvelle-grille-Henri-Laborit/dp/2070323374){ target="_blank" }
+* [Henri Laborit, Éloge de la fuite](https://www.amazon.fr/%C3%89loge-fuite-Henri-Laborit/dp/2070322831){ target="_blank" }
+* [Alain Resnais, Mon oncle d'Amérique](https://www.allocine.fr/film/fichefilm_gen_cfilm=2124.html){ target="_blank" }
+* [Blog personnel Lionel Mesnard - Henri Laborit](http://lionel.mesnard.free.fr/le%20site/henri-laborit.html){ target="_blank" }

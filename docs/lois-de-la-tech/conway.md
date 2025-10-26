@@ -1,29 +1,35 @@
 # Conway
 
-La **loi de Conway** est une règle fascinante qui explique pourquoi les structures d’une organisation influencent directement ce qu’elle crée.  
+Tu as déjà remarqué comme les produits d’une entreprise ressemblent souvent… à son organisation interne ?  
+Des équipes qui ne se parlent pas ? Tu obtiens des outils qui ne se connectent pas.  
+Des services en silos ? Tu obtiens un produit fragmenté.  
+Bienvenue dans **la loi de Conway**.
 
-> Les organisations qui conçoivent des systèmes sont contraintes de produire des designs qui sont des copies de la structure de communication de leur organisation
+> Les organisations qui conçoivent des systèmes sont contraintes de produire des designs qui sont des copies de la structure de communication de leur organisation.
 
-## En gros, ça signifie quoi ?
+Autrement dit : **on construit ce qu’on est**.  
+Si la communication est fluide, le résultat le sera aussi. Si elle est compliquée, le produit le sera tout autant.
 
-- Si une entreprise est **divisée en plusieurs équipes indépendantes**, elle produira des systèmes **fragmentés et cloisonnés**.  
-- Si la communication interne est **compliquée**, le logiciel sera **lourd et mal intégré**.  
-- Si plusieurs groupes travaillent sur un même projet, le **logiciel final sera composé de plusieurs parties distinctes qui reflètent ces divisions**.  
-- Bref, **l’organisation interne façonne le produit final**, souvent sans même que l’on s’en rende compte.  
+## Pourquoi la loi de Conway est si parlante
 
-## D’où ça vient ?
+* Une entreprise **divisée en équipes indépendantes crée souvent des systèmes cloisonnés**.
+* Si la communication interne est lourde, le logiciel finit par être tout aussi complexe.
+* Plusieurs groupes sur un même projet ? Le résultat sera **un assemblage de modules qui reflètent ces divisions**.
+* Bref : l’organisation interne façonne le produit final, **qu’on le veuille ou non**.
 
-La loi de Conway porte le nom de **Melvin E. Conway**, un informaticien américain qui l’a formulée en **1967** dans un article intitulé *“How Do Committees Invent?”*, publié dans le magazine **Datamation** ([source originale](https://www.melconway.com/Home/Conways_Law.html)).
+En résumé, la loi de Conway nous rappelle que **la structure d’un projet n’est jamais neutre** : elle porte la marque de la façon dont les gens collaborent à l’intérieur de l’entreprise.
 
-Conway y explique qu’un système conçu par une organisation reflétera **la manière dont les personnes de cette organisation communiquent entre elles**. En d’autres termes : si la communication est fragmentée, le système le sera aussi.
+## D’où vient la loi de Conway ?
 
-Cette idée a ensuite été popularisée par **Fred Brooks** dans son livre culte *“The Mythical Man-Month”* (1975), où il illustre comment la structure des équipes influence directement la structure logicielle. Aujourd’hui, la loi de Conway est largement reconnue en **ingénierie logicielle**, en **management** et même en **design organisationnel**, car elle met en lumière le lien profond entre **collaboration humaine** et **architecture des systèmes**.
+Cette idée a été formulée par Melvin E. Conway, un informaticien américain, en 1967, dans un article intitulé _How Do Committees Invent?_, publié dans le magazine _Datamation_.  
+Il y observe que les systèmes conçus par une organisation reflètent naturellement ses schémas de communication internes.  
 
-## Pourquoi c’est inspirant ?
+Quelques années plus tard, Fred Brooks popularise le concept dans son livre culte The Mythical Man-Month (1975). Il montre que la structure d’une équipe influence directement la structure logicielle — et que repenser les équipes, c’est parfois la clé pour simplifier le produit.  
 
-Parce que ça nous rappelle que :  
-✅ **Un bon logiciel commence par une bonne organisation** – L’architecture du code est un miroir de l’architecture de l’équipe.  
-✅ **La communication est essentielle** – Plus les équipes communiquent bien, plus leur production sera fluide et cohérente.  
-✅ **Si on veut un produit simple et efficace, il faut une structure simple et efficace** – L’organisation interne doit être pensée pour produire ce que l’on veut obtenir.  
+Aujourd’hui, la loi de Conway dépasse le monde du logiciel : on la retrouve dans le management, le design organisationnel, et même dans la culture d’entreprise. Car au fond, elle parle **de l’humain derrière les systèmes**.  
 
-Bref, la **loi de Conway** est un rappel puissant : **pour bien construire un produit ou projet, il faut d’abord bien structurer l’équipe qui le développe.** 🚀💡
+En somme, la loi de Conway nous rappelle qu’**on ne peut pas construire un système cohérent dans une organisation qui ne l’est pas**.
+
+### Références
+
+* Article dans le magazine Datamation, [How Do Committees Invent?](https://www.melconway.com/Home/Conways_Law.html){ target="_blank" }

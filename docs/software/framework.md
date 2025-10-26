@@ -21,14 +21,14 @@ Ce guide, né d'expériences partagées et d'apprentissages du quotidien, rassem
 * **Cultive l’empathie** : Mets-toi dans les chaussures des autres pour mieux comprendre leur réalité.
 * **Prépare le plan B parfait** :  Un bon plan de secours te donne confiance pour avancer avec sérénité.  
 * **Maîtrise ton potentiel** : Sois pleinement connecté à tes forces et ressources pour agir efficacement.  
-* **Engage-toi avec souplesse.** Prends des décisions avec conviction, mais reste prêt à ajuster ton cap si nécessaire.  
-* **Maîtrise les lois de l’influence.** Apprends à reconnaître les principes clés (réciprocité, cohérence, preuve sociale, sympathie, autorité, rareté) pour les appliquer ou t’en protéger.  
-* **Pose des étiquettes pour te protéger.** Savoir nommer les mécanismes d’influence t’aide à éviter les manipulations.  
-* **Améliore ton observation.** Chaque jour est une nouvelle chance de développer ton regard attentif sur le monde.  
-* **Repère les écarts.** Fixe des comportements de référence et surveille les variations pour rester aligné sur tes objectifs.  
-* **Offre un sourire.** Un geste simple qui ouvre les coeurs et inspire la confiance.  
-* **Célèbre les efforts.** Réduis les critiques et amplifie les encouragements pour motiver et inspirer autour de toi.  
-* **Pose des questions « CON ».** Des questions Courtes, Ouvertes et Neutres te mèneront plus loin dans la compréhension mutuelle.  
+* **Engage-toi avec souplesse**. Prends des décisions avec conviction, mais reste prêt à ajuster ton cap si nécessaire.  
+* **Maîtrise les lois de l’influence**. Apprends à reconnaître les principes clés (réciprocité, cohérence, preuve sociale, sympathie, autorité, rareté) pour les appliquer ou t’en protéger.  
+* **Pose des étiquettes pour te protéger**. Savoir nommer les mécanismes d’influence t’aide à éviter les manipulations.  
+* **Améliore ton observation**. Chaque jour est une nouvelle chance de développer ton regard attentif sur le monde.  
+* **Repère les écarts**. Fixe des comportements de référence et surveille les variations pour rester aligné sur tes objectifs.  
+* **Offre un sourire**. Un geste simple qui ouvre les coeurs et inspire la confiance.  
+* **Célèbre les efforts**. Réduis les critiques et amplifie les encouragements pour motiver et inspirer autour de toi.  
+* **Pose des questions « CON »**. Des questions Courtes, Ouvertes et Neutres te mèneront plus loin dans la compréhension mutuelle.  
 
 ## Agir : Une démarche simple et collective
 

@@ -1,51 +1,57 @@
 # Wirth
 
-La **loi de Wirth** est une règle incontournable en informatique qui explique pourquoi **les logiciels deviennent plus lents plus vite que le matériel ne devient plus rapide.**  
+Tu as déjà remarqué que ton ordinateur est plus puissant que jamais… mais que tout semble quand même plus lent ?  
+Tu achètes une nouvelle machine, tu ouvres ton navigateur, et elle rame déjà.  
+Bienvenue dans **la loi de Wirth**.
 
 > Le logiciel ralentit plus vite que le matériel ne s’améliore
 
-## En gros, ça signifie quoi ?
+Autrement dit : **la puissance augmente, mais la légèreté disparaît**.
 
-- **Niklaus Wirth**, pionnier de l’informatique, a observé que **même si les ordinateurs deviennent de plus en plus puissants, les logiciels deviennent encore plus lourds et inefficaces.**  
-- Ce phénomène est dû à plusieurs facteurs :  
-  - **Le code est souvent mal optimisé**, car on se repose sur la puissance croissante du matériel.  
-  - **Les interfaces et fonctionnalités inutiles** s’accumulent, rendant les logiciels plus lents et gourmands en ressources.  
-  - **Les mises à jour successives** ajoutent du poids sans forcément améliorer l’efficacité.  
-- C’est pourquoi :  
-  - **Un PC d’aujourd’hui est plus puissant qu’un supercalculateur des années 90**, mais il rame parfois à cause d’applications surchargées.  
-  - **Un site web peut être plus lent aujourd’hui** qu’il y a 10 ans, même avec une meilleure connexion, à cause du code mal optimisé.  
-  - **Des logiciels professionnels deviennent inefficaces**, car on ajoute trop de fonctionnalités inutiles au fil du temps.  
+## Pourquoi la loi de Wirth est si parlante
 
-## Pourquoi c’est inspirant ?
+* **Le matériel progresse, le logiciel régresse**. Chaque fois qu’un processeur double de puissance, un programme trouve le moyen de consommer deux fois plus de ressources.
+* **La facilité technique tue l’optimisation**. Comme les ordinateurs deviennent plus puissants, on ne prend plus le temps d’écrire du code efficace. On se dit que « la machine compensera ».
+* **Les mises à jour ajoutent de la lourdeur**. Nouvelles fonctionnalités, effets visuels, dépendances inutiles… jusqu’à ce que le logiciel le plus simple devienne un mastodonte.
 
-Parce que ça nous rappelle que :  
-✅ **L’optimisation est essentielle** – Un bon programme **ne doit pas gaspiller de ressources** sous prétexte que le matériel évolue.  
-✅ **Plus de puissance ne signifie pas meilleure expérience** – La simplicité et l’efficacité **sont plus importantes que la complexité inutile**.  
-✅ **L’innovation doit être maîtrisée** – Ajouter des fonctionnalités, oui, mais pas au détriment de la fluidité et de la rapidité.  
+Résultat : Un PC d’aujourd’hui est plus rapide qu’un supercalculateur des années 90, mais il met parfois plus de temps à ouvrir une application qu’un Amiga à démarrer un jeu.  
 
-Bref, la **loi de Wirth** est un rappel puissant : **sans optimisation, même la plus grande puissance de calcul sera gaspillée.** ⚡💻🚀
+En résumé, la loi de Wirth nous rappelle une vérité dérangeante : **on sacrifie trop souvent la simplicité sur l’autel du confort**.
 
-## D’où ça vient ?
+## D’où vient la loi de Wirth ?
 
-La **loi de Wirth** vient de **Niklaus Wirth** (1934–2024), **informaticien suisse**, pionnier du développement des langages de programmation et de la conception de logiciels structurés.
-Professeur à l’École polytechnique fédérale de Zurich (ETH Zürich), il est notamment l’auteur des langages **Pascal**, **Modula** et **Oberon**, et lauréat du **prix Turing** en 1984 — la plus haute distinction en informatique.
+Cette loi vient de Niklaus Wirth (1934–2024), informaticien suisse et pionnier du développement logiciel. Créateur des langages _Pascal_, _Modula_ et _Oberon_, il reçoit _le prix Turing_ en 1984 — l’équivalent du Nobel de l’informatique.  
 
-Il formule sa célèbre loi dans les années **1990**, sous une forme à la fois ironique et visionnaire :
+Dans les années 1990, alors que la loi de Moore annonçait une accélération sans fin de la puissance des processeurs, Wirth publie un texte devenu culte : _A Plea for Lean Software_ (1995). Il y observe que **les logiciels ralentissent plus vite que le matériel ne s’améliore, et que l’efficacité ne suit plus la technologie**.  
 
-> **“Software is getting slower more rapidly than hardware becomes faster.”**
-> *(« Le logiciel devient lent plus vite que le matériel ne devient rapide. »)*
+Pour lui, c’est un problème culturel, pas technique : « **Nous avons oublié que programmer, c’est simplifier** ».  
 
-Autrement dit, même si les ordinateurs gagnent sans cesse en puissance (selon la loi de Moore), les logiciels qu’on y exécute deviennent **de plus en plus lourds, complexes et inefficaces** — au point d’annuler les bénéfices des progrès matériels.
+Wirth prône une approche **sobre, claire et optimisée du code, où chaque ligne doit servir une fonction réelle**. Il oppose ainsi la course à la puissance (incarnée par la loi de Moore) à la discipline de la simplicité.  
 
-Wirth introduit ce constat dans ses publications sur la **simplicité du design logiciel** (*A Plea for Lean Software*, 1995), où il plaide pour une programmation claire, sobre et compréhensible.
-Il critique la tendance à **ajouter des fonctionnalités superficielles** au détriment de la performance et de la fiabilité — un problème devenu encore plus évident avec l’essor du web et des applications modernes.
+En somme, a loi de Wirth nous met face à notre paradoxe moderne : on a tout rendu plus puissant, sauf nos logiciels — et parfois, notre bon sens. Dans un monde où l’on confond progrès et accumulation, la vraie innovation, c’est peut-être de faire mieux avec moins.
 
-La loi de Wirth est donc une **réponse critique à la loi de Moore** : là où Moore célébrait la croissance matérielle, Wirth rappelait la **dérive logicielle**.
-C’est aujourd’hui un **principe fondamental d’ingénierie logicielle** et de **design minimaliste**, cité dans tous les débats sur l’efficacité, la frugalité numérique et la durabilité technologique.
+## La loi d’Andy & Bill : la version ironique
 
-📚 **Sources :**
+Dans les années 1990, une version plus mordante de la loi de Wirth est née dans la Silicon Valley : la loi d’Andy & Bill.
 
-* Niklaus Wirth, *A Plea for Lean Software*, *Computer* (IEEE), Vol. 28, No. 2, 1995
-* Niklaus Wirth, *Algorithms + Data Structures = Programs*, Prentice Hall, 1976
-* IEEE Computer Society, *“The Enduring Relevance of Wirth’s Law”*, 2015
-* ETH Zürich Archives, *“Niklaus Wirth and the Art of Simplicity in Software”*, 2024
+> What Andy giveth, Bill taketh away.
+> Ce que Andy donne, Bill le reprend.
+
+Elle fait référence à **Andy Grove** (Intel), qui rendait les processeurs toujours plus rapides,
+et à **Bill Gates** (Microsoft), dont les logiciels consommaient aussitôt toute cette puissance.  
+
+D’abord simple blague d’ingénieurs, la formule a ensuite été précisée :
+
+> What Intel giveth, Microsoft taketh away,
+
+abandonnant la métaphore pour viser directement les deux géants.  
+
+En résumé : chaque bond matériel est aussitôt avalé par un logiciel plus gourmand. **La puissance augmente, la légèreté disparaît. Toujours**.
+
+### Références
+
+* [Niklaus Wirth - A Plea for Lean Software - ETH Zürich 1995](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf){ target="_blank" }
+* [Niklaus Wirth and the art of simplicity - ETH Zürich 2014](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2014/01/niklaus-wirth-80.html){ target="_blank" }
+* [The School of Niklaus Wirth - the art of simplicity](https://books.google.fr/books?id=6kHs4s-79bkC&pg=PA91&hl=fr&source=gbs_selected_pages&cad=1#v=onepage&q&f=false){ target="_blank" }
+* [Niklaus Wirth : Algorithms + Data Structures = Programs, 1976](https://www.amazon.fr/Algorithms-Data-Structures-Programs/dp/8120305698){ target="_blank" }
+* [Andy and Bill's law - Wikipédia](https://en.wikipedia.org/wiki/Andy_and_Bill%27s_law){ target="_blank" }

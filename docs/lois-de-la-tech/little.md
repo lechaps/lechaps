@@ -1,43 +1,40 @@
 # Little
 
-La **loi de Little** est une règle simple mais ultra-puissante qui s’applique à tout ce qui fonctionne en flux, que ce soit dans une file d’attente, une chaîne de production ou même la gestion du temps.
+Tu as déjà attendu 15 minutes dans une file qui n’avance pas ? Ou passé ta journée à jongler entre dix tâches sans en finir une seule ?  
+Bienvenue dans **la loi de Little**.
 
 > Le nombre d’éléments dans un système dépend du taux d’arrivée et du temps moyen qu’ils y passent
 
-## Formellement
+Autrement dit : **si trop de choses entrent et que rien ne sort assez vite, tout s’encombre**.
 
-> L = λ × W
+## Pourquoi la loi de Little est si parlante
 
-- **L** = nombre moyen d’éléments dans le système  
-- **λ** = taux d’arrivée des éléments  
-- **W** = temps moyen passé dans le système  
+Parce qu’elle s’applique partout :
 
-## En gros, ça signifie quoi ?
+* **Dans une file d’attente** : plus de clients arrivent que de commandes servies → la queue s’allonge.
+* **Dans ton agenda** : trop de tâches commencées → tout se bloque, rien n’avance.
+* **Dans une entreprise** : trop de projets lancés à la fois → les équipes s’épuisent et la vélocité chute.
 
-- Si trop de choses entrent dans un système (ex : trop de clients dans un restaurant), alors le nombre d’éléments en attente explose.  
-- Si chaque élément met trop de temps à être traité (ex : un serveur trop lent), alors la file d’attente s’allonge.  
-- Et inversement, si on veut réduire l’encombrement, il faut soit **diminuer le flux d’entrée**, soit **accélérer le traitement**.  
+La loi de Little dit une chose simple :Le flux est un équilibre entre ce qui entre, ce qui sort, et le temps que ça met. Si tu veux que ça circule mieux, tu n’as que deux leviers :
 
-## Pourquoi c’est inspirant ?
+* Limiter les entrées (dire non, ralentir le flux).
+* Accélérer le traitement (simplifier, automatiser, déléguer).
 
-Parce que cette loi s’applique **partout** :  
-✅ Dans le business (gestion des stocks, files d’attente clients)  
-✅ Dans la productivité personnelle (moins de tâches en cours = moins d’engorgement)  
-✅ Dans les transports (fluidifier la circulation, réduire les bouchons)  
+En résumé : **moins en cours = plus de mouvement**.
+Et ça, c’est vrai pour les projets, les mails, les idées, et même la vie quotidienne.
 
-Bref, la loi de Little est un rappel simple mais puissant : **si on veut moins d’attente et plus d’efficacité, il faut jouer sur l’arrivée des éléments et le temps de traitement**.
+## D’où vient la loi de Little ?
 
-## D’où ça vient ?
+Ce principe vient du chercheur américain John D. C. Little, professeur au _MIT Sloan School of Management_ et pionnier de la théorie des files d’attente. En 1961, il publie un article devenu culte : _A Proof for the Queuing Formula: L = λW_. Il y démontre mathématiquement une vérité universelle :
 
-La **loi de Little** (ou *Little’s Law*) porte le nom de **John D. C. Little**, **mathématicien et chercheur américain en ingénierie des systèmes**, né en 1928. Professeur au **MIT Sloan School of Management**, il est reconnu comme l’un des fondateurs de la **théorie des files d’attente** (*queueing theory*) et de l’**optimisation des processus**.
+> Le nombre moyen d’éléments dans un système (L) = taux d’arrivée (λ) × durée moyenne de séjour (W).
 
-Little formule cette loi en **1954** et la publie officiellement en **1961** dans un article intitulé *“A Proof for the Queuing Formula: L = λW”* (*Operations Research*, 1961). Il y démontre mathématiquement une relation simple mais universelle, qui relie **trois grandeurs fondamentales dans tout système où des éléments circulent** (clients, tâches, données, etc.).  
+Cette formule simple — **L = λ × W** — s’applique à tous les systèmes de flux : clients, données, projets, requêtes, tâches, etc. Et surtout, elle fonctionne sans aucune hypothèse de distribution : **elle est vraie partout**. Aujourd’hui, la loi de Little est un pilier du Lean, du management agile et de la gestion du temps.  
 
-Ce qui rend la loi de Little remarquable, c’est qu’elle **ne dépend d’aucune hypothèse sur la distribution des arrivées ou des durées** : elle est **universelle**. C’est pourquoi elle est aujourd’hui un **pilier de la gestion des flux**, du **management opérationnel**, de la **logistique**, mais aussi du **design des processus agiles**.
+En somme, elle nous apprend à voir nos systèmes (et nos journées) comme des flux : **si tu veux qu’ils respirent, arrête de les engorger**. Réduis l’afflux ou raccourcis le séjour, et tout s’accélère : **moins d’en-cours, plus de flux ; moins d’attente, plus de valeur**.
 
-📚 **Sources :**
+### Références
 
-* J. D. C. Little, *“A Proof for the Queuing Formula: L = λW”*, *Operations Research*, Vol. 9, No. 3, 1961
-* MIT Sloan School of Management, *Faculty Biography: John D. C. Little*
-* D. Gross & C. M. Harris, *Fundamentals of Queueing Theory*, Wiley, 1998
-* Lean Enterprise Institute, *“Applying Little’s Law in Lean Systems”*, 2015
+* [J. D. C. Little, Proof for the Queuing Formula: L = λW, Operations Research](https://fisherp.scripts.mit.edu/wordpress/wp-content/uploads/2015/11/ContentServer.pdf){ target="_blank" }
+* [All About Little’s Law. Applications, Examples, Best Practices](https://www.6sigma.us/six-sigma-in-focus/littles-law-applications-examples-best-practices/){ target="_blank" }
+* [Wikipédia](https://en.wikipedia.org/wiki/Little%27s_law){ target="_blank" }

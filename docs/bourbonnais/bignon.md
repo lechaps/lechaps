@@ -29,7 +29,7 @@ Et surtout, mes agneaux, un petit conseil de chef : sortez tout du frigo à l’
 
 Ensuite, on retrousse ses manches et on la retravaille gentiment. Puis, on sort le rouleau à pâtisserie, et hop, on l’étale sur une épaisseur d’environ une pièce de cent sous (un demi-centimètre, mais ça sonne moins poétique, non ?).
 
-**Passons à la découpe des bignons.** Vous n’avez pas d’emporte-pièce ? Pas de panique, prenez un verre de bistrot, ça fait parfaitement l’affaire – et ça donnera un petit air rustique, comme à la maison. Si vous faites les choses correctement, vous devriez en obtenir **entre 190 et 200**, sauf si vous avez eu la main lourde sur l’épaisseur (pas bien !).
+**Passons à la découpe des bignons**. Vous n’avez pas d’emporte-pièce ? Pas de panique, prenez un verre de bistrot, ça fait parfaitement l’affaire – et ça donnera un petit air rustique, comme à la maison. Si vous faites les choses correctement, vous devriez en obtenir **entre 190 et 200**, sauf si vous avez eu la main lourde sur l’épaisseur (pas bien !).
 
 Maintenant, on les laisse lever encore un peu – patience, mes trésors, ça gonfle comme un soufflé de Maïté ! Quand ils ont bien pris du volume, direction le bain d’huile chaude. Là, surveillez-les comme le lait sur le feu : ils doivent ressortir **dorés, moelleux et fièrement dodus**.
 

@@ -1,46 +1,37 @@
 # Kidlin
 
-La **loi de Kidlin** est une règle simple mais puissante :  
-**« Si vous écrivez clairement le problème, la question est à moitié résolue. »**
+Tu t’es déjà retrouvé bloqué sur un problème sans savoir par où commencer ?  
+Et puis, le jour où tu l’écris noir sur blanc, tout devient plus clair ?  
+Bienvenue dans **la loi de Kidlin**.
 
-Autrement dit, **écrire un problème, c’est déjà commencer à le résoudre.**  
+> Si tu ne peux pas écrire clairement ton problème, c’est que tu ne l’as pas bien compris.
 
-> « Si tu ne peux pas écrire clairement ton problème, c’est que tu ne l’as pas bien compris. »
+Autrement dit : **mettre un problème en mots, c’est déjà commencer à le résoudre**.
 
-## En gros, ça veut dire quoi ?
+## Pourquoi la loi de Kidlin est si parlante
 
-- **Un problème flou reste un problème.** Tant qu’on ne peut pas **le formuler clairement**, il est très difficile de le résoudre.  
-- **Mettre par écrit** une difficulté permet de :  
-  - **Clarifier sa pensée** et structurer ce qui semble confus.  
-  - **Identifier les vraies causes**, au lieu de tourner en rond avec émotions et suppositions.  
-  - **Prendre du recul**, sortir de la panique et voir la situation plus objectivement.  
+* **Un problème flou reste insoluble**. Tant qu’on ne peut pas le formuler clairement, on tourne en rond.
+* **Écrire, c’est clarifier**. Poser les mots, c’est structurer ses idées et mettre de l’ordre dans le chaos.
+* **Sur le papier, tout devient plus simple**. Ce qui semblait immense dans la tête devient soudain concret et gérable.
+* Et souvent, en cherchant à écrire le bon énoncé… **on découvre la solution en même temps**.
 
-Ce principe rejoint les mots de **Nicolas Boileau (1674)** :  
-> **« Ce qui se conçoit bien s’énonce clairement,**  
-> **Et les mots pour le dire arrivent aisément. »**
+Ce principe rejoint les mots de Boileau : « Ce qui se conçoit bien s’énonce clairement,Et les mots pour le dire arrivent aisément. »
 
-Autrement dit, **ce qui est bien compris s’exprime naturellement.**
+Autrement dit, **ce qui est compris s’exprime simplement**.
 
-## Pourquoi c’est inspirant ?
+En résumé, la loi de Kidlin nous rappelle que l’écriture est un outil de clarté mentale. Mettre les choses à plat, c’est déjà avancer.
 
-Parce que ça nous rappelle que :  
-✅ **Un problème bien défini est un problème à moitié résolu.**  
-✅ **Écrire, c’est organiser ses idées** – Ce qui semble énorme dans la tête devient souvent plus simple sur papier.  
-✅ **Le chaos mental peut être dompté** – Noter ses pensées permet de **réduire le stress et de trouver des solutions concrètes.**
+## D’où vient la loi de Kidlin ?
 
-**En bref :** si tu veux régler un problème, **commence par l’écrire clairement.** ✍️🎯🚀
+La loi de Kidlin ne vient pas d’un chercheur, mais… d’un roman.
+Elle apparaît dans _Noble House_ (1966), de **James Clavell** (1924–1994), auteur britannique connu pour ses grandes fresques comme _Shōgun_ ou _King Rat_.
 
-## D’où ça vient ?
+Dans le livre, un personnage nommé Kidlin énonce ce principe de bon sens. Clavell ne l’a jamais présentée comme une loi scientifique, mais comme une **leçon de lucidité** : écrire pour comprendre.  
+Avec le temps, cette phrase a été extraite du roman et popularisée dans le monde du management et du développement personnel sous le nom de « Kidlin’s Law. »
 
-La **loi de Kidlin** est une **formule tirée d’un roman de James Clavell** (1924 – 1994), **auteur et scénariste britannique** célèbre pour ses fresques historiques comme *Shōgun*, *Noble House* ou *King Rat*.
+En somme, la loi de Kidlin nous enseigne une chose simple : **tant qu’un problème reste dans ta tête, il reste flou**. Mais dès que tu l’écris, il commence à se résoudre.
 
-La phrase apparaît dans son livre ***Noble House*** (1966), où l’un des personnages prononce ce conseil de bon sens. Clavell ne présentait pas cette idée comme une “loi” scientifique, mais comme une **leçon de management et de lucidité pratique**. Le principe a ensuite été extrait du roman et popularisé dans le monde professionnel et du développement personnel sous le nom de **“Kidlin’s Law”**, en référence à ce personnage fictif (Kidlin) mentionné dans le livre.
+### Références
 
-Autrement dit, cette loi vient bien **de la fiction**, mais son message est universel : **formuler clairement un problème, c’est déjà commencer à le résoudre**.
-
-📚 **Sources :**
-
-* James Clavell, *Noble House*, Delacorte Press, 1966
-* *Quote Investigator – “If You Can Write the Problem Down Clearly, the Matter Is Half Solved”*, 2019
-* *The Yale Book of Quotations*, Yale University Press, 2006
-* *Harvard Business Review*, “The Power of Writing to Clarify Thinking”, 2020
+* [James Clavel, Shogun, 1975](https://www.amazon.com/SHOGUN-NOVEL-JAPAN-2-SET/dp/B000OA5Q9G/?_encoding=UTF8&pd_rd_w=IKnvL&content-id=amzn1.sym.411441b5-58e8-4fa2-b5e8-42cd0c3c03df&pf_rd_p=411441b5-58e8-4fa2-b5e8-42cd0c3c03df&pf_rd_r=145-1066546-5629302&pd_rd_wg=j1BGt&pd_rd_r=e94191bf-36ce-47f2-ae01-86e445dbb752&ref_=aufs_ap_sc_dsk){ target="_blank" }
+* [Canon of Life - Problem Solving With Kidlin’s Law](https://canonish.com/problem-solving-with-kidlin-law/){ target="_blank" }

@@ -1,30 +1,36 @@
 # Carlson
 
-La **loi de Carlson** est une règle essentielle pour tous ceux qui veulent être productifs sans s’épuiser.  
+Tu connais ce moment où tu travailles sur quelque chose de concentré, et _ding_ — une notification, un message, une réunion qui s’invite ? Tu reviens à ta tâche… mais il te faut quelques minutes pour te replonger dedans.  
+Bienvenue dans **la loi de Carlson**.
 
-> Un travail réalisé en continu prend moins de temps et d’énergie que lorsqu’il est réalisé en plusieurs fois
+> Un travail réalisé en continu prend moins de temps et d’énergie que lorsqu’il est réalisé en plusieurs fois.
 
-## En gros, ça signifie quoi ?
+Ce principe simple explique pourquoi les **interruptions détruisent la productivité** : chaque pause impose un coût caché, celui du redémarrage mental.
 
-- Plus on interrompt une tâche pour y revenir plus tard, plus on perd en efficacité à chaque reprise.
-- Le cerveau doit reconstruire le contexte à chaque redémarrage, ce qui consomme du temps et de l’énergie.
-- Pour être efficace, mieux vaut se concentrer pleinement sur une tâche jusqu’à son achèvement, si possible.
+## Pourquoi la loi de Carlson est si parlante
 
-## Pourquoi c’est inspirant ?
+* Chaque fois qu’**on interrompt une tâche, on perd du temps à retrouver le fil**.
+* Le cerveau doit reconstruire le contexte, **se souvenir de ce qu’il faisait**, **recharger la concentration**.
+* Résultat : on dépense plus d’énergie et plus de temps pour faire la même chose.
+* À l’inverse, travailler en continu sur une tâche permet d’atteindre plus vite un état de « flux » — ce moment où tout s’enchaîne naturellement.
 
-Parce que ça nous rappelle que :  
-✅ **Finir ce qu’on commence d’un seul trait** est souvent plus rentable – Cela évite la dispersion et la perte de temps liée aux reprises.  
-✅ **Limiter les interruptions booste la productivité** – Être dans un état de "flux" permet d’avancer plus vite et mieux.
-✅ **Bien organiser son temps**, c’est aussi regrouper les tâches similaires – Travailler par blocs cohérents est plus efficace que de sauter du coq à l’âne.  
+En résumé, la loi de Carlson nous rappelle que la continuité est la clé de l’efficacité.  
+Elle invite à protéger son attention, à regrouper les tâches similaires et à éviter la dispersion.
 
-Bref, la loi de Carlson est une invitation à minimiser les coupures et à rester concentré sur une tâche jusqu’à son aboutissement. 💡🚀
+## D’où vient la loi de Carlson ?
 
-## D'où ça vient ?
+Ce principe vient des travaux de **Sune Carlson**, un économiste suédois qui a étudié dans les années 1950 la façon dont les cadres utilisaient leur temps.  
+Dans son étude _Executive Behaviour_ (1951), il observe que les dirigeants passent leurs journées à enchaîner de courtes activités interrompues, souvent sans véritable moment de concentration profonde.  
 
-La **loi de Carlson** a été formulée par **Sune Carlson**, un économiste suédois, dans les années 1950.  
-Il a étudié la façon dont les cadres passaient leur temps au travail.Ses recherches ont montré que **les interruptions fragmentent l’attention et augmentent le coût cognitif** du travail.
+Ses conclusions sont claires :
+
+> Les interruptions fragmentent l’attention et augmentent le coût cognitif du travail.
+
+En d’autres termes, chaque coupure — mail, réunion, notification ou collègue — **fait payer une « taxe mentale »** à notre productivité.  
+
+En somme, la loi de Carlson nous rappelle **qu’interrompre moins, c’est déjà travailler mieux**.
 
 ### Références
 
-- Sune Carlson (1951), [Executive Behaviour – étude pionnière sur l’emploi du temps des dirigeants](https://www.amazon.fr/Executive-Behaviour-Workload-Managing-Directors/dp/0405123175/)  
-- [Wikipedia](https://fr.wikipedia.org/wiki/Loi_de_Carlson)
+* Sune Carlson (1951), [Executive Behaviour – étude pionnière sur l’emploi du temps des dirigeants](https://www.amazon.fr/Executive-Behaviour-Workload-Managing-Directors/dp/0405123175/){ target="_blank" }
+* [Wikipedia](https://fr.wikipedia.org/wiki/Loi_de_Carlson){ target="_blank" }
