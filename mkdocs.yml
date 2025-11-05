@@ -39,7 +39,7 @@ theme:
     #- toc.integrate
     #- navigation.expand
 
-copyright: "Version : MF 158"
+copyright: 'Version : MF 158'
 
 plugins:
   - search
@@ -64,6 +64,9 @@ extra:
       link: https://www.linkedin.com/in/romainchapon
     - icon: fontawesome/brands/github
       link: https://github.com/lechaps
+
+extra_javascript:
+  - js/matomo.js
 
 markdown_extensions:
   - tables
