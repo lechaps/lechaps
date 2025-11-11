@@ -30,6 +30,15 @@ Ces carnets sont un **mélange des genres à mon image**.
 
 ---
 
+### 💡 Les lois de la tech
+
+> Des lois, paradoxes et principes qui expliquent pourquoi nos projets — et parfois nos vies numériques — fonctionnent comme ils fonctionnent.  
+> Un mélange de rigueur et d’ironie, à la croisée de la science, de la société et de la tech.
+
+🔹 [Décoder le carnet](./lois-de-la-tech/index.md)
+
+---
+
 ### 💬 Citations & inspirations
 
 > Des phrases, des idées, des clins d’œil qui m’accompagnent au quotidien.  
@@ -38,13 +47,6 @@ Ces carnets sont un **mélange des genres à mon image**.
 🔹 [Butiner le carnet](./citations/index.md)
 
 ---
-
-### 💡 Les lois de la tech
-
-> Des lois, paradoxes et principes qui expliquent pourquoi nos projets — et parfois nos vies numériques — fonctionnent comme ils fonctionnent.  
-> Un mélange de rigueur et d’ironie, à la croisée de la science, de la société et de la tech.
-
-🔹 [Décoder le carnet](./lois-de-la-tech/index.md)
 
 <!-- 
 
