@@ -26,7 +26,7 @@ jobs:
 
       # MkDocs Setup
       - name: MkDocs setup
-        run: pip install mkdocs mkdocs-material "mkdocs-material[imaging]" mkdocs-minify-plugin mkdocs-glightbox
+        run: pip install mkdocs mkdocs-material "mkdocs-material[imaging]" mkdocs-minify-plugin mkdocs-glightbox mkdocs-awesome-pages-plugin
 
       # Builds the site using MkDocs
       - name: Build

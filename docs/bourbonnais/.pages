@@ -1,0 +1,4 @@
+title: Bourbonnais
+nav:
+  - index.md
+  - ...    # toutes les autres pages/sous-dossiers de bourbonnais/

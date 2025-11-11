@@ -48,6 +48,7 @@ plugins:
   - minify:
       minify_html: true
   - glightbox
+  - awesome-pages
 
 not_in_nav: |
   /index.md
