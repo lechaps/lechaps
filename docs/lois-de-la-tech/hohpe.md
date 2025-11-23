@@ -4,10 +4,12 @@ Tu as déjà vu une organisation paralysée parce qu’aucune décision claire n
 Tout le monde discute, temporise, ajoute des exceptions, crée des comités… et à la fin, plus personne ne sait comment avancer.  
 Bienvenue dans **la loi de Hohpe**.
 
-> La complexité excessive est la punition de la nature pour les organisations incapables de prendre des décisions.
+> Excessive complexity is nature’s punishment for organizations that are incapable of making decisions.
 
-Autrement dit : le chaos, c’est ce qu’on obtient quand on refuse de choisir.  
-Ne pas décider, c’est laisser la complexité s’installer par défaut.
+Autrement dit : **le chaos, c’est ce qu’on obtient quand on refuse de choisir.  
+Ne pas décider, c’est laisser la complexité s’installer par défaut**.
+
+Bref : **Quand personne ne tranche, la complexité tranche pour eux**.
 
 ## Pourquoi la loi de Hohpe est si parlante
 

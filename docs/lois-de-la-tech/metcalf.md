@@ -3,9 +3,11 @@
 Tu t’es déjà demandé pourquoi Facebook, WhatsApp ou Bitcoin valent autant ? Ce n’est pas (seulement) à cause de leur technologie. C’est parce que plus il y a de monde, plus ça vaut cher.  
 Bienvenue dans **la loi de Metcalfe**.
 
-> La valeur d’un réseau est proportionnelle au carré du nombre de ses utilisateurs
+> The value of a network is proportional to the square of the number of its users.
 
-Autrement dit : **chaque nouvel utilisateur ne s’ajoute pas à la valeur — il la multiplie**.
+Autrement dit : **Chaque nouvel utilisateur n’ajoute pas juste un peu de valeur, il en ajoute beaucoup — car il connecte tout le monde aux autres**.
+
+Bref : **Plus il y a de monde, plus ça vaut**.
 
 ## Pourquoi la loi de Metcalfe est si parlante
 

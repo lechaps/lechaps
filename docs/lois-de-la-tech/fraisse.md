@@ -1,12 +1,15 @@
 # Fraisse
 
-Tu as déjà eu cette impression que le temps s’étire à l’infini quand tu t’ennuies… mais qu’il file à toute vitesse quand tu passes un bon moment ?  
+Tu as déjà eu cette impression que le temps s’étire à l’infini quand tu t’ennuies… mais qu’il file à toute vitesse quand tu passes un bon moment ? Cette impression que certaines tâches durent une éternité, alors qu’elles ne prennent que quelques minutes ?  
+Un travail découpé en mille petites actions, une attente sous tension, une tâche ingrate qui étire le temps…Et à l’inverse, une activité fluide ou stimulante qui semble filer à la vitesse de la lumière ?  
 Bienvenue dans **la loi de Fraisse**.
 
-> Plus une tâche est monotone ou vide de sens, plus le temps semble long ; plus elle est riche et engageante, plus le temps paraît court.
+> La durée psychologique d’une activité dépend de sa structure : plus elle est complexe, segmentée ou peu engageante, plus elle paraît longue.
 
-Autrement dit : **le temps ne se mesure pas seulement en minutes, mais en intensité**.
-Plus on vit pleinement, plus il semble court — et plus on s’ennuie, plus il s’étire.
+Autrement dit : **Le temps ne se mesure pas seulement en minutes, mais en intensité.
+Plus on vit pleinement, plus il semble court — et plus on s’ennuie, plus il s’étire.**
+
+Bref : **Quand c’est pénible, ça traîne ; quand ça passionne, ça passe.**
 
 ## Pourquoi la loi de Fraisse est si parlante
 

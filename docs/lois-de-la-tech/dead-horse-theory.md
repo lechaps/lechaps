@@ -5,7 +5,10 @@ Bienvenue dans **la théorie du cheval mort**.
 
 > Quand on découvre qu’on chevauche un cheval mort, la meilleure chose à faire est de descendre.
 
-Autrement dit : quand quelque chose ne fonctionne plus, il faut avoir le courage d’arrêter.
+Autrement dit : **Quand quelque chose ne fonctionne plus, il faut avoir le courage d’arrêter**.
+
+Bref : **Insister sur un échec, c’est juste prolonger la souffrance**.
+
 Mais dans la pratique, on préfère souvent continuer — parce qu’abandonner, c’est admettre qu’on s’est trompé, ou simplement par habitude, par peur, parce qu’il est plus facile de faire « comme d’habitude ».
 
 ## Pourquoi la théorie du cheval mort est si parlante

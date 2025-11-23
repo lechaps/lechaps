@@ -1,12 +1,16 @@
-# Murphy
+# Murphy & Finagle
+
+## Quand l'univers entier semble jouer contre toi
 
 Tu as déjà remarqué que ton ordi plante pile au moment où tu branches le vidéoprojecteur ?  
 Ou que la démo parfaite refait des siennes dès que ton boss est dans la salle ?  
-Bienvenue dans **la loi de Murphy**.
+Bienvenue dans l’univers où règne la loi de Murphy… immédiatement suivie par sa grande sœur sadique : la loi de Finagle.
 
-> Tout ce qui peut aller mal finira par aller mal… et généralement devant tout le monde
+> Anything that can go wrong will go wrong.
 
-Autrement dit : **le pire scénario n’est pas une surprise — c’est une probabilité**.
+Autrement dit : **Tout ce qui a une chance de foirer… foirera, et souvent au pire moment**.
+
+Bref : **Prévois le pire, il adore te surprendre**.
 
 ## Pourquoi la loi de Murphy est si parlante
 
@@ -16,6 +20,9 @@ Autrement dit : **le pire scénario n’est pas une surprise — c’est une pro
 * Ton test produit ? Parfait en privé, **catastrophique en démo**.
 
 C’est ce qu’on appelle **l’effet démo**, ou **l’effet Bonaldi** (du nom du journaliste dont les expériences « ratées » en direct étaient devenues légendaires). En réalité, ce n’est pas de la malchance : **c’est juste la statistique qui s’invite quand tu ne peux plus te rater**.  
+
+Et Murphy n’est pas seul : la loi de **Finagle** pousse même l’idée plus loin en affirmant que « tout ce qui peut mal tourner le fera… au pire moment possible. »
+Murphy dit que ça va foirer, Finagle dit que ça va foirer au moment qui fait le plus mal.
 
 Mais la loi de Murphy n’est pas un hymne au pessimisme — **c’est un rappel à la rigueur**.
 Elle dit : « si quelque chose peut mal tourner, prépare-toi pour que ce ne soit pas le cas.»
@@ -30,9 +37,73 @@ La phrase tourne dans l’équipe, puis dans la presse. Et devient un mythe : **
 
 En somme, la loi de Murphy nous enseigne une chose simple : **l’échec n’est pas une fatalité, c’est une hypothèse à prévoir**. Le secret, ce n’est pas d’espérer que tout marche — c’est d’être prêt quand ça ne marchera pas.
 
+## La loi de Finagle
+
+Tu as déjà eu l’impression que l’univers entier complotait contre toi ?
+Tu sais, ce moment où tout fonctionne parfaitement… jusqu’à ce que pile au pire instant tout dérape ?
+Félicitations, tu viens de croiser **la loi de Finagle**.
+
+> **Anything that can go wrong, will — at the worst possible moment.**
+
+Autrement dit : **ce n’est pas seulement que ça va foirer… c’est que ça va foirer quand c’est le plus douloureux.**
+
+Bref : **Murphy prévoit la panne, Finagle choisit le timing.**
+
+## Pourquoi la loi de Finagle est si parlante
+
+* **Un bug éclate précisément quand il ne faut pas.**
+* **Un outil casse pile quand tu n’as aucune marge.**
+* **Une erreur surgit dans la démo, pas dans la répétition.**
+
+Finagle ne parle pas uniquement de malchance : **il parle d’optimisation du chaos** — comme si les emmerdes attendaient le moment où tu es le plus vulnérable.
+
+C’est précisément ce qui rend la loi si cruelle… et si vraie.
+Elle est souvent citée comme **la version cosmique de la loi de Murphy** :
+là où Murphy désigne simplement l’échec, Finagle y ajoute la dimension tactique — **le pire moment choisi pour frapper**.
+
+## Les lois complètes de Finagle
+
+La loi de Finagle n’est pas un unique adage, mais un ensemble de principes satiriques
+
+### **Finagle’s First Law**
+
+> *If an experiment works, something has gone wrong.*
+> Si une expérience réussit du premier coup, méfie-toi : c’est probablement un signe que tu as raté de voir le vrai problème.
+
+### **Finagle’s Second Law**
+
+> *No matter what the anticipated result, there will always be someone eager to (a) misinterpret it, (b) fake it, (c) believe it happened to his own pet theory.*
+> Quel que soit le résultat, quelqu’un :
+> a) le déforme,
+> b) le falsifie,
+> c) l’adapte à sa propre théorie.
+
+### **Finagle’s Third Law**
+
+> *In any collection of data, the figure most obviously correct, beyond all need of checking, is the mistake.*
+> **Corollaires** :
+
+1. *No one whom you ask for help will see it.*
+2. *Everyone who stops by with unsought advice will see it immediately.*
+   Le nombre qui semble « parfait » est souvent l’erreur. Et ceux qui ne sont pas sollicités la repèrent immédiatement.
+
+### **Finagle’s Fourth Law**
+
+> *Once a job is fouled up, anything done to improve it only makes it worse.*
+> Quand un travail est déjà mal engagé, chaque tentative « d’amélioration » ne fait qu’aggraver le bazar.
+
+## D’où vient la loi de Finagle ?
+
+La loi de Finagle trouve sa source dans la culture des **radioamateurs**, des **ingénieurs techniques** et du **fandom de science-fiction**, particulièrement dans les années 1950-60.  
+L’éditeur de science-fiction John W. Campbell Jr. est souvent cité comme une figure associée à cette loi. Mais c’est surtout l’écrivain Larry Niven qui la popularise littérairement, en faisant de *Finagle* un dieu fictif du chaos dans ses récits.  
+Résultat : la loi passe du folklore technique à un adage universel.
+
+> Une version amplifiée : **la loi de Finagle = la loi de Murphy + le timing parfait de la catastrophe.**
+
 ### Références
 
 * [Dayton Innovation Legacy](https://www.daytoninnovationlegacy.org/murphy.html){ target="_blank" }
 * [Nick T. Spark, A History of Murphy’s Law](https://books.google.fr/books?id=bahzT3ZP36cC&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false){ target="_blank" }
 * [John Paul Stapp, U.S. Air Force Deceleration Research Program Reports](https://www.researchgate.net/publication/6369932_Project_MX-981_John_Paul_Stapp_and_Deceleration_Research){ target="_blank" }
 * [American Military History - The Real-Life Murphy and How Murphy's Law Came to Be](https://www.military.com/history/real-life-murphy-and-how-murphys-law-came-be.html){ target="_blank" }
+* [Finagle's law](https://en.wikipedia.org/wiki/Finagle%27s_law){ target="_blank" }

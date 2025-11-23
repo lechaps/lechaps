@@ -3,7 +3,11 @@
 Tu connais ce moment où tu travailles sur quelque chose de concentré, et _ding_ — une notification, un message, une réunion qui s’invite ? Tu reviens à ta tâche… mais il te faut quelques minutes pour te replonger dedans.  
 Bienvenue dans **la loi de Carlson**.
 
-> Un travail réalisé en continu prend moins de temps et d’énergie que lorsqu’il est réalisé en plusieurs fois.
+> Work performed in uninterrupted time progresses faster and more efficiently than when interrupted.
+
+Autrement dit : **La productivité n’est pas dans le temps passé, mais dans le temps continu. Chaque interruption casse ton momentum et multiplie le coût réel du travail.**
+
+Bref : **Interrompre, c’est diviser — se concentrer, c’est multiplier**.
 
 Ce principe simple explique pourquoi les **interruptions détruisent la productivité** : chaque pause impose un coût caché, celui du redémarrage mental.
 

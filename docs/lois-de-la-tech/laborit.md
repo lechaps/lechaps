@@ -4,9 +4,11 @@ Tu t’es déjà surpris à faire tout sauf la tâche que tu devais vraiment fai
 Genre ranger ton bureau avant de bosser, faire un café avant de commencer, ou scroller « juste deux minutes » avant de t’y mettre ?  
 Bienvenue dans **la loi de Laborit**.
 
-> L’être humain choisit spontanément ce qui lui apporte du plaisir et évite ce qui lui demande un effort.
+> Devant la contrainte, l’organisme cherche le plaisir, fuit la douleur, et lorsque ni l’action ni la fuite ne sont possibles, il s’effondre dans l’inhibition.
 
-Autrement dit : **notre cerveau est programmé pour fuir l’effort et rechercher le confort immédiat**.
+Autrement dit : **Notre cerveau est programmé pour fuir l’effort et rechercher le confort immédiat**.
+
+Bref : **Quand l’action est impossible, le stress gagne**.
 
 ## Pourquoi la loi de Laborit est si parlante
 

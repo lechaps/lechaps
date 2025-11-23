@@ -4,9 +4,11 @@ Tu t’es déjà retrouvé à décoder un message incomplet, un mail mal formul�
 Et à l’inverse, déjà envoyé un truc pas clair qui a semé la confusion chez tout le monde ?  
 Félicitation tu viens de croiser **la loi de Postel**.
 
-> Sois tolérant dans ce que tu acceptes et strict dans ce que tu envoies.
+> Be conservative in what you do, be liberal in what you accept from others.
 
-Autrement dit : **écoute avec ouverture, mais parle avec clarté**.
+Autrement dit : **Fais les choses proprement de ton côté, mais accepte que les autres soient un peu chaotiques — c’est comme ça qu’on construit des systèmes résilients**.
+
+Bref : **Sois strict en sortie, flexible en entrée**.
 
 ## Pourquoi la loi de Postel est si parlante
 

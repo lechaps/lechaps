@@ -1,12 +1,14 @@
 # Parkinson
 
 Tu t’es déjà donné une journée entière pour une tâche… que tu finis à 17h59 ?  
-Ou passé trois réunions à peaufiner un PowerPoint qui aurait pu être fait en une heure ?  
+Ou passé trois réunions à peaufiner un sujet qui aurait pu être fait en une heure ?  
 Bienvenue dans **la loi de Parkinson**.
 
-> Le travail s’étale toujours de manière à occuper tout le temps disponible pour le réaliser
+> Work expands so as to fill the time available for its completion.
 
-Autrement dit : **plus tu as de temps, plus tu en perds**.
+Autrement dit : **Plus tu donnes de temps à une tâche, plus elle prend du temps — même si elle pourrait être faite bien plus vite**.
+
+Bref : **Plus tu as de temps, plus tu en perds**.
 
 ## Pourquoi la loi de Parkinson est si parlante
 

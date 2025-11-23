@@ -1,35 +1,97 @@
-# Dornbusch
+# Dornbusch & Amara
 
-Tu as déjà remarqué comme certaines crises semblent surgir de nulle part ? Pendant des mois, tout paraît calme… puis, d’un coup, tout s’effondre.  
-Bienvenue dans **la loi de Dornbusch**.
+## Quand rien ne se passe… jusqu’à ce que tout se passe
 
-> Les crises prennent plus de temps à arriver qu’on ne le pense, mais quand elles éclatent, tout va beaucoup plus vite qu’on l’imaginait.
+Il existe deux lois qui expliquent à merveille pourquoi les crises nous surprennent… et pourquoi les innovations aussi. Deux lois qui parlent du temps long, de l’attente, du silence — et du moment où tout bascule.
 
-Autrement dit : **les problèmes mûrissent lentement, mais explosent brutalement**.  
-Rien ne se passe… jusqu’à ce que tout se passe.
+D’un côté, **la loi de Dornbusch**, qui décrit la dynamique des crises.
+De l’autre, **la loi d’Amara**, qui décrit la dynamique des innovations.
 
-## Pourquoi la loi de Dornbusch est si parlante
+À elles deux, elles forment une seule idée puissante : **Les systèmes — économiques, technologiques, sociaux, personnels — évoluent lentement… jusqu’à ce qu’ils changent d’un coup.**
 
-* Les problèmes s’accumulent lentement, souvent ignorés ou sous-estimés.
-* Puis, un jour, le système bascule : tout s’accélère, les réactions en chaîne s’enclenchent.
-* On retrouve ce schéma dans l’économie, la politique, les entreprises… **et même dans nos vies personnelles**.
-* C’est comme un barrage qui se fissure petit à petit : **tant que rien ne cède, tout semble stable** — jusqu’à l’instant où tout s’écroule.
+## 1. La loi de Dornbusch : les crises mûrissent dans le silence
 
-En résumé, la loi de Dornbusch nous rappelle que **les changements radicaux sont souvent précédés d’une lente montée de tensions invisibles**.  
-Ce n’est pas l’explosion qui est surprenante… c’est le temps qu’on a passé à l’ignorer.
+Tu as peut-être déjà vécu cette scène : un problème s’installe doucement, presque imperceptiblement. On se dit que ça finira par s’arranger. Puis, un jour, tout s’effondre brutalement.
 
-## D’où vient la loi de Dornbusch ?
+C’est exactement ce que résume Rudi Dornbusch :
 
-Ce principe vient de Rudi Dornbusch (1942–2002), un économiste germano-américain et professeur au MIT. Spécialiste de la macroéconomie internationale, il est surtout connu pour son modèle de surréaction des taux de change (overshooting model, 1976).  
+> Crises take longer to happen than you think, and then they happen faster than you would have thought.
 
-Mais la **loi de Dornbusch** que l’on cite aujourd’hui n'est pas un modèle mathématique :
-c’est une observation empirique sur la dynamique du changement. Dornbusch avait remarqué que les systèmes complexes semblent stables pendant longtemps, puis basculent soudainement quand un seuil invisible est franchi.  
+Autrement dit : **Rien ne se passe… jusqu’à ce que tout se passe.**
 
-Ses idées ont été reprises et popularisées dans les années 1980–1990, notamment par Paul Krugman, son ancien étudiant, et sont devenues une référence pour comprendre les retournements rapides des marchés, des organisations et des sociétés.
+### Pourquoi cette loi est si parlante ?
 
-En somme, la loi de Dornbusch nous rappelle que **les crises ne naissent pas du chaos, mais du silence qui les précède**.
+* Les problèmes s’accumulent lentement, longtemps invisibles ou ignorés.
+* Le système semble stable — comme un barrage qui se fissure sans céder.
+* Puis un seuil invisible est franchi, les réactions en chaîne s’enclenchent et tout s’accélère.
+
+On retrouve ce schéma partout : **économie, politique, entreprises… et même vies personnelles**.
+
+### D’où vient la loi de Dornbusch ?
+
+Rudi Dornbusch (1942–2002), économiste germano-américain du MIT, connu pour son modèle de surréaction des taux de change (1976), observe que les systèmes complexes restent en apparente stabilité avant de basculer soudainement.
+
+Ses idées ont été popularisées dans les années 1980–1990, notamment par Paul Krugman, devenant une référence pour comprendre les retournements rapides des marchés et des organisations.
+
+En bref : **les crises ne naissent pas du chaos, mais du silence qui les précède.**
+
+## 2. La loi d’Amara : on surestime le court terme, on sous-estime le long terme
+
+Côté innovation, c’est l’inverse : on s’attend à des miracles immédiats… et on passe à côté de la vraie révolution, qui arrive plus tard.
+
+Roy Amara résume cela dans une phrase devenue mythique :
+
+> We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
+
+Autrement dit : **les innovations déçoivent d’abord… puis transforment tout quand on ne les regarde plus.**
+
+### Le cycle typique
+
+1. **On s’emballe.** Euphorie, promesses de révolution instantanée.
+2. **On se lasse.** La réalité déçoit, l’attention se détourne.
+3. **Et puis tout change.** La technologie mûrit en silence et finit par restructurer un secteur entier.
+
+On l’a vu avec :
+
+* Internet : lent et marginal dans les années 90, aujourd’hui infrastructure essentielle.
+* L’intelligence artificielle : annoncée, enterrée, redécouverte… avant de devenir incontournable.
+* L’impression 3D, les blockchains, la réalité augmentée… même schéma.
+
+La loi d’Amara est une **leçon de patience** :
+**le vrai changement se joue dans la durée, pas dans le buzz.**
+
+### D’où vient la loi d’Amara ?
+
+Roy Amara (1925–2007), ingénieur et président de l’Institute for the Future (IFTF), formule cette observation dans les années 1970.
+Elle deviendra un pilier de la pensée technologique moderne, notamment via le **Gartner Hype Cycle**, qui modélise l’euphorie puis la désillusion autour de chaque innovation.
+
+Pour Amara, il ne s’agit pas d’une critique du progrès, mais d’un appel à la lucidité : **les technologies doivent transformer nos usages, cultures et mentalités avant de transformer le monde.**
+
+## 3. Deux lois, un même message : les basculements ne préviennent jamais
+
+Dornbusch parle des crises.  
+Amara parle des innovations.
+
+Mais ensemble, elles racontent la même histoire :
+
+* **Les tensions montent lentement avant un effondrement soudain.**
+* **Les innovations avancent lentement avant un impact gigantesque.**
+* **Dans les deux cas : le long terme travaille en silence.**
+
+Ce qui surprend, ce n’est jamais l’explosion ou la révolution.  
+Ce qui surprend, c’est **tout le temps qu’on a passé à l’ignorer**.
+
+En somme :
+
+* **On surestime demain.** (Amara)
+* **On sous-estime l’après-demain.** (Amara)
+* **Et on oublie que “rien ne se passe”… jusqu’à ce que tout se passe.** (Dornbusch)
 
 ### Références
 
 * [Wikipedia](https://fr.wikipedia.org/wiki/Rudiger_Dornbusch){ target="_blank" }
-* [Livre de macro-économie](https://www.amazon.fr/Macroeconomics-Rudiger-Dornbusch-ebook/dp/B0759THC2R)
+* [Livre de macro-économie](https://www.amazon.fr/Macroeconomics-Rudiger-Dornbusch-ebook/dp/B0759THC2R){ target="_blank" }
+* [IEEE - Pohan Lin - Amara’s Law and Its Place in the Future of Tech](https://www.computer.org/publications/tech-news/trends/amaras-law-and-tech-future){ target="_blank" }
+* [Harvard Business Press - The intention economy : when customers take charge](https://archive.org/details/intentioneconomy0000sear/page/256/mode/2up){ target="_blank" }
+* [Roy Amara - Wikipédia](https://en.wikipedia.org/wiki/Roy_Amara){ target="_blank" }
+* [Gartner hype cycle - wikipédia](https://en.wikipedia.org/wiki/Gartner_hype_cycle){ target="_blank" }

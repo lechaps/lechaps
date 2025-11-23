@@ -1,12 +1,14 @@
 # Beckstrom
 
-Tu as déjà eu cette impression que plus ton réseau s’agrandit, plus sa valeur explose ?  
-Chaque nouvelle connexion, chaque utilisateur supplémentaire semble tout changer — comme si le tout valait bien plus que la somme des parties.  
+Tu as déjà remarqué que certains réseaux ne valent rien tant que personne ne les utilise… puis deviennent soudain incontournables quand les échanges commencent à circuler ?  
+Une marketplace vide qui ne sert à rien, puis qui explose dès que les premières transactions s’y produisent. Une plateforme pro qui n’a de valeur que si les interactions y sont réelles. Un réseau social utile uniquement quand il génère des connexions… pas des comptes fantômes.  
 Bienvenue dans **la loi de Beckstrom**.
 
-> **La valeur d’un réseau est égale à la somme des bénéfices de toutes les transactions qu’il permet**.
+> **The value of a network equals the net value added to each user’s transactions conducted through that network, summed over all users**.
 
-Autrement dit : **un réseau vaut autant que ce qu’il rend possible**.
+Autrement dit : **Un réseau ne vaut pas par son existence, mais par ce qu’il permet vraiment d’échanger — valeur, info, contacts, business. Plus les transactions créent de la valeur, plus le réseau lui-même en prend**.
+
+Bref : **Un réseau vaut autant que ce qu’il rend possible**.
 
 ## Pourquoi la loi de Beckstrom est si parlante
 

@@ -1,13 +1,14 @@
 # Falkland
 
-Tu as déjà remarqué comme on a tendance à vouloir décider vite, même quand rien ne presse ?
-Un silence inconfortable, une situation floue, et tout de suite on veut trancher, clarifier, « faire quelque chose ».  
-Bienvenue dans la **loi de Falkland**.
+Tu as déjà vu une équipe s’acharner à trancher une question… qui n’avait pas besoin de l’être ?
+Des réunions entières pour choisir un outil “au cas où”, des débats interminables sur un problème hypothétique, ou une organisation qui se complique la vie à vouloir décider trop tôt ?
+Félicitations, tu viens de croiser **la loi de Falkland**.
 
-> Si ce n’est pas nécessaire de prendre une décision, alors il est nécessaire de ne pas en prendre.
+> *When you don’t have to make a decision — don’t make a decision.*
 
-Autrement dit : **ne rien faire est parfois la meilleure décision**.  
-Certaines situations se résolvent d’elles-mêmes, sans qu’on ait besoin d’y toucher. Et vouloir agir trop tôt, c’est souvent ajouter du bruit là où il fallait du silence.
+Autrement dit : **si une décision n’est pas indispensable maintenant, mieux vaut attendre. Le temps clarifie ce que la précipitation obscurcit.**
+
+Bref : **si ça n’a pas besoin d’être décidé, ne le décide pas.**
 
 ## Pourquoi la loi de Falkland est si parlante
 

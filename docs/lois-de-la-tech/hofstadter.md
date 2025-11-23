@@ -1,12 +1,13 @@
 # Hofstadter
 
-Tu t’étais dit que ce projet prendrait deux semaines… et trois mois plus tard, tu y es encore ?  
+Tu t’étais dit que ce projet prendrait deux semaines… et trois mois plus tard, tu y es encore ? Ou commencé une tâche “rapide” qui s’est transformée en labyrinthe sans fin ? Et même quand tu anticipes que ça va prendre plus longtemps… ça prend encore plus longtemps ?  
 Tu n’as pas mal calculé — tu viens juste de croiser **la loi de Hofstadter**.
 
-> Tout prend toujours plus de temps que prévu, même en tenant compte de la loi de Hofstadter
+> It always takes longer than you expect, even when you take into account Hofstadter’s Law.
 
-Autrement dit : **même quand on prévoit un retard, on est encore trop optimiste**.  
-On sous-estime le temps, les obstacles et les dépendances, parce qu’on imagine toujours que « cette fois, ce sera différent ».
+Autrement dit : **Tout prend plus de temps que prévu… même quand tu prévois que ça prendra plus de temps.**
+
+Bref : **Tout fout le camp.**.
 
 ## Pourquoi la loi de Hofstadter est si parlante
 

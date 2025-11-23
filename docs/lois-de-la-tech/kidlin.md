@@ -4,9 +4,11 @@ Tu t’es déjà retrouvé bloqué sur un problème sans savoir par où commence
 Et puis, le jour où tu l’écris noir sur blanc, tout devient plus clair ?  
 Bienvenue dans **la loi de Kidlin**.
 
-> Si tu ne peux pas écrire clairement ton problème, c’est que tu ne l’as pas bien compris.
+> If you can write the problem down clearly, the matter is half solved.
 
-Autrement dit : **mettre un problème en mots, c’est déjà commencer à le résoudre**.
+Autrement dit : **Formuler clairement un problème, c’est déjà en résoudre la moitié. Le flou est l’ennemi, la précision est la clé**.
+
+Bref : **Écris le problème — la solution suivra**.
 
 ## Pourquoi la loi de Kidlin est si parlante
 

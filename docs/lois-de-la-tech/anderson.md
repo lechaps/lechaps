@@ -3,9 +3,11 @@
 Tu as déjà vu un système qui doit être à la fois **puissant**, **fonctionnel** et **massif** — et constaté que plus il essaye d’être tout ça, plus il s’expose au risque de **fuite de données**, de **bugs critiques** ou de **paralysie totale** ?  
 Bienvenue dans **la loi d’Anderson**.
 
-> Dans un système traitant des données sensibles : *on peut avoir la sécurité, la fonctionnalité et l’échelle — mais jamais les trois parfaitement à la fois.*
+> Systems that handle sensitive personal information involve a trilemma of security, functionality, and scale, of which you can choose any two. A system that has information on many data subjects and to which many people require access is hard to secure unless its functionality is severely restricted. If it has rich functionality, you may have to restrict the number of people with access, or accept that some information will leak.*
 
-Autrement dit : **si tu veux beaucoup de portée et beaucoup de fonctionnalités, ta sécurité en paiera le prix**.
+Autrement dit : **Si tu veux un système ultra-fonctionnel et accessible à tout le monde, oublie la sécurité. Si tu veux de la sécurité béton, il faudra soit réduire les usages, soit limiter qui peut y accéder. Le trio gagnant n’existe pas : dès que tu pousses un curseur, un autre saute.**
+
+Bref : **Sécurité, fonctionnalités, mise à l'échelle : tu peux en avoir deux, jamais les trois.**
 
 ## Pourquoi la loi d’Anderson est si parlante
 

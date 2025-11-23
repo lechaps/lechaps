@@ -4,9 +4,11 @@ Tu as déjà passé plus de temps à choisir un film sur Netflix qu’à le rega
 Ou à scroller un menu interminable sans réussir à trancher entre pizza et sushi ?  
 Bienvenue dans **la loi de Hick-Hyman**.
 
-> Le temps de décision augmente avec le nombre et la complexité des choix disponibles.
+> The time it takes to make a decision increases with the number and complexity of choices.
 
-Autrement dit : **plus on a de choix, plus on met de temps à choisir** — et souvent, plus on regrette ensuite.
+Autrement dit : **Plus on a de choix, plus on met de temps à choisir** — et souvent, plus on regrette ensuite.
+
+Bref : **Trop de choix tue le choix**.
 
 ## Pourquoi la loi de Hick-Hyman est si parlante
 

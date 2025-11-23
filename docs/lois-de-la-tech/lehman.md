@@ -4,9 +4,11 @@ Tu as déjà bossé sur un logiciel qui semblait simple au début, et qui, versi
 Chaque mise à jour casse autre chose, chaque correction en crée deux nouvelles….  
 Bienvenue dans **les lois de Lehman**.
 
-> Un logiciel qui n’évolue pas meurt. Et plus il évolue, plus il devient complexe.
+> A software system that is used in the real world must continually be adapted, or it becomes progressively less useful.
 
-Autrement dit : **le changement est vital — mais il a un prix**.
+Autrement dit : **Un logiciel vivant doit évoluer en permanence — sinon il se fossilise. Le monde change, et tout ce qui ne s’adapte pas décroche**.
+
+Bref : **Si ça n’évolue pas, ça meurt**.
 
 Ces lois prennent la forme de huit vérités qui ressemblent plus à des lois de la nature qu’à des règles d’ingénierie :
 

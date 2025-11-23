@@ -5,10 +5,11 @@ Des équipes qui ne se parlent pas ? Tu obtiens des outils qui ne se connectent 
 Des services en silos ? Tu obtiens un produit fragmenté.  
 Bienvenue dans **la loi de Conway**.
 
-> Les organisations qui conçoivent des systèmes sont contraintes de produire des designs qui sont des copies de la structure de communication de leur organisation.
+> Any organization that designs a system will produce a design whose structure is a copy of the organization’s communication structure.
 
-Autrement dit : **on construit ce qu’on est**.  
-Si la communication est fluide, le résultat le sera aussi. Si elle est compliquée, le produit le sera tout autant.
+Autrement dit : **Ton système est le miroir de ton organisation. Si tes équipes sont en silos, ton architecture le sera aussi. Si la communication est chaotique, ton design le sera tout autant**.
+
+Bref : **On construit ce qu'on est**.
 
 ## Pourquoi la loi de Conway est si parlante
 

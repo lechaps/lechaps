@@ -3,9 +3,11 @@
 Tu t’es déjà demandé pourquoi certains jours tu te sens invincible… et d’autres, tu galères à aligner deux pensées cohérentes ?  
 Bienvenue dans **la loi de Swoboda-Fliess-Teltscher**.
 
-> Nos capacités physiques, mentales et émotionnelles suivent des rythmes cycliques qui influencent notre efficacité et notre bien-être.
+> Human performance and disposition follow three recurring biological cycles: a 23-day physical cycle, a 28-day emotional cycle, and a 33-day intellectual cycle..
 
-Autrement dit : **on n’est pas des machines, on est des rythmes**.
+Autrement dit : **Nos capacités varient selon des rythmes réguliers — physique, émotionnel, intellectuel — qui montent, descendent, et se croisent**.
+
+Bref : **on n’est pas des machines, on est des rythmes**.
 
 ## Pourquoi la loi de Swoboda-Fliess-Teltscher est si parlante
 

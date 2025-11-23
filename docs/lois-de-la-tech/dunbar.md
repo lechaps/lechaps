@@ -3,10 +3,11 @@
 Tu as déjà essayé de garder le contact avec tous tes anciens collègues, amis d’école, contacts LinkedIn et copains de sport ?
 Au début, tu réponds à tout le monde… puis au bout d’un moment, tu décroches.
 
-> Le cerveau humain ne peut gérer qu’un nombre limité de relations stables, environ 150.
+> A stable social group is limited in size by the cognitive capacity of the individuals who form it — roughly 150 meaningful relationships.
 
-Autrement dit : **notre capacité sociale n’est pas infinie**.  
-Au-delà d’un certain seuil, les liens se distendent, les visages se confondent, et les relations perdent en profondeur.
+Autrement dit : **Au-delà d’un certain seuil, on ne peut plus maintenir de vraies relations. Le lien social s’étire… puis se casse**.
+
+Bref : **Notre capacité sociale n’est pas infinie**.  
 
 ## Pourquoi la loi de Dunbar est si parlante
 

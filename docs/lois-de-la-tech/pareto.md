@@ -4,9 +4,11 @@ Tu bosses dix heures, mais seules deux t’apportent de vrais résultats ?
 Tu réalises que quelques clients génèrent presque tout ton chiffre d’affaires ?  
 Bienvenue dans **la loi de Pareto**.
 
-> 80 % des résultats proviennent de 20 % des efforts.
+> Roughly 80% of the effects come from 20% of the causes.
 
-Autrement dit : **une petite partie de tes efforts produit la majorité de tes résultats**.
+Autrement dit : **Une minorité de facteurs crée la majorité de l’impact. Le reste, c’est du bruit ou du détail**.
+
+Bref : **Focus sur les 20% qui changent tout**.
 
 ## Pourquoi la loi de Pareto est si parlante
 

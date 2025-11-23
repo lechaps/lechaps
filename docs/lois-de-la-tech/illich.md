@@ -1,13 +1,14 @@
 # Illich
 
-Tu as déjà bossé tellement longtemps que tu t’es surpris à relire trois fois la même ligne sans rien comprendre ?  
-Ou à finir ta journée en te disant : « J’ai passé 10 heures dessus… mais j’aurais fait mieux en 5. »  
+Tu as déjà bossé tellement longtemps que tu t’es surpris à relire trois fois la même ligne sans rien comprendre ? Ou à finir ta journée en te disant : « J’ai passé 10 heures dessus… mais j’aurais fait mieux en 5. »  
+Tu as déjà vu un outil ou un système tellement poussé, tellement amplifié, tellement “amélioré” qu’il finit par produire l’inverse de ce qu’il promettait ? Un service qui devient ingérable en grossissant, un processus qui produit plus de friction que de résultats, une technologie censée te simplifier la vie et qui finit par te l’alourdir ?  
 Bienvenue dans **la loi d’Illich**.
 
-> Au-delà d’un certain seuil, l’efficacité du travail diminue, puis devient négative.
+> Beyond a certain threshold, tools begin to counteract their own purpose..
 
-Autrement dit : **travailler trop, c’est saboter son propre travail**.  
-Passé un point, chaque heure supplémentaire fait plus de mal que de bien.
+Autrement dit : **Tout outil devient toxique si on dépasse son point d’utilité maximale. Au-delà d’un certain seuil, “plus” ne veut plus dire “mieux”… mais “pire”**.
+
+Bref : **Poussé trop loin, l’outil se retourne contre toi**.
 
 ## Pourquoi la loi d’Illich est si parlante
 

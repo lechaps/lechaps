@@ -3,9 +3,15 @@
 Tu t’es déjà retrouvé à suivre un expert les yeux fermés… pour finalement te dire : « J’aurais mieux fait de m’écouter.»  
 Bienvenue dans ce qu’on appelle parfois — selon les versions — la loi de Walson, ou la loi de Wilson.
 
-> Lorsqu’on donne la priorité à sa propre intelligence et à sa propre compréhension, on augmente ses chances de réussite  
+> The more you let people own the process, the more they care about the outcome.
 
-Autrement dit : **penser par soi-même reste l’avantage le plus durable**.
+ou, dans sa version la plus répandue :
+
+> If you want someone to care about the result, let them help shape the process.
+
+Autrement dit : **On ne s’approprie pas un résultat qu’on n’a pas contribué à construire.**
+
+Bref : *$Pas d’implication = pas d’engagement, penser par soi-même reste l’avantage le plus durable**.
 
 ## Pourquoi la loi de Walson (ou Wilson) est si parlante
 
@@ -37,6 +43,6 @@ En somme, qu’elle soit de Walson, de Wilson, ou de personne en particulier, ce
 ### Références
 
 * [Canon of Life](https://canonish.com/working-smarter-with-walsons-law/){ target="_blank" }
-* [Wilson’s Law – the key to success through intellectual growth]([Wilson’s Law – the key to success through intellectual growth.](https://trojanczyk.eu/wilsons-law/)){ target="_blank" }
+* [Wilson’s Law – the key to success through intellectual growth.](https://trojanczyk.eu/wilsons-law/){ target="_blank" }
 * [Behavioural Psychology, Part II — The Only 5 Laws Of The World You Ever Need To Know](https://udaypb.medium.com/the-only-5-laws-of-the-world-you-ever-need-to-know-59c5ae7b4ab7){ target="_blank" }
 * [5 top laws to swear by in life situations](https://medium.com/@sumanas27/5-top-laws-to-swear-by-in-life-situations-7722deea4daa){ target="_blank" }

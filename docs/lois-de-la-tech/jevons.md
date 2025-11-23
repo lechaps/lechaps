@@ -1,13 +1,16 @@
 # Jevons
 
-Tu penses qu’améliorer l’efficacité énergétique fait forcément baisser la consommation ?  
+Tu as déjà vu une technologie devenir plus efficace… et constater qu’au lieu de réduire son usage, tout le monde s’est mis à l’utiliser encore plus ? Une machine moins gourmande qui fait exploser la consommation globale, une optimisation énergétique qui mène à plus de demande, un outil plus rapide qui augmente… la charge de travail ?  
 Tu crois qu’un moteur plus économe, un ordinateur plus performant ou une ampoule moins gourmande vont forcément sauver la planète ?  
 Félicitations, tu es sur le point de découvrir **le paradoxe de Jevons**.
 
-> À mesure que l'efficacité d'utilisation d'une ressource augmente, la consommation totale de cette ressource peut également augmenter.
+> As technological improvements increase the efficiency with which a resource is used, the rate of consumption of that resource tends to increase rather than decrease.
 
-Oui, c’est contre-intuitif — mais c’est vrai.  
-Quand **on rend quelque chose plus efficace, on le rend aussi plus accessible**, plus rentable, plus désirable. Et, sans s’en rendre compte, on finit par en consommer davantage.
+Oui, c’est contre-intuitif — mais c’est vrai.
+
+Autrement dit : **Rendre une ressource plus efficace ne la fait pas consommer moins — ça la rend juste plus attractive, donc plus utilisée**.
+
+Bref : **Plus c’est efficace, plus on en abuse**.
 
 ## Pourquoi le paradoxe de Jevons est si parlant
 

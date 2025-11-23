@@ -4,9 +4,11 @@ Tu as déjà remarqué qu’on ne change jamais vraiment tant qu’on n’y est 
 On sait qu’il faudrait faire différemment, mais tant que ça tient à peu près, on continue comme avant.  
 Bienvenue dans **la loi de Kotter**.
 
-> Le changement se produit lorsque la douleur de ne pas changer devient supérieure à la douleur de changer.
+> Change succeeds only when the sense of urgency outweighs the forces of inertia.
 
-Autrement dit : **on bouge quand rester immobile devient insupportable**.
+Autrement dit : **Si le besoin de changer n’est pas ressenti comme vital, rien ne change vraiment — les habitudes sont toujours plus fortes que les slogans**.
+
+Bref : **Pas d’urgence, pas de changement**.
 
 ## Pourquoi la loi de Kotter est si parlante
 

@@ -1,11 +1,14 @@
 # Amdahl
 
-Tu as déjà essayé d’aller plus vite en ajoutant des bras à un projet… pour te rendre compte que ça n’allait pas vraiment plus vite ?  
-Bienvenue dans **la loi d’Amdahl**.
+Tu as déjà essayé de faire aller un projet plus vite en ajoutant plus de personnes, plus de serveurs, plus de puissance… pour découvrir que ça ne changeait presque rien ?
+Tu sais, ce moment où tu mets des moyens supplémentaires partout, sauf là où se trouve vraiment le goulot d’étranglement.  
+Félicitations, tu viens d’expérimenter **la loi d’Amdahl**.
 
-> L’amélioration globale d’un système est limitée par la partie qui ne peut pas être améliorée.
+> The overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used.
 
-Autrement dit : **même si tu accélères une partie du travail, le reste finit par te ralentir**.
+Autrement dit : **Tu peux optimiser autant que tu veux une partie du système : si elle n’est utilisée qu’un peu, ton gain global sera minuscule.**.
+
+Bref : **La vitesse d’un système dépend de son maillon le plus lent**.
 
 ## Pourquoi la loi d’Amdahl est si parlante
 

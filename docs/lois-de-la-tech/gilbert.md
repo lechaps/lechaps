@@ -3,10 +3,11 @@
 Tu as déjà eu ce moment où tu bosses à fond sur un projet… pour découvrir plus tard que ce n’était pas ce qu’on attendait de toi ? Personne ne t’a rien dit de clair, tout le monde supposait que tu savais — et au final, tu passes plus de temps à deviner qu’à faire.  
 Bienvenue dans **la loi de Gilbert**.
 
-> Le plus grand problème au travail, c’est que personne ne te dit quoi faire.
+> The biggest problem with communication is the illusion that it has taken place.
 
-Autrement dit : **le vrai obstacle, ce n’est pas le travail lui-même, c’est le flou**.  
-On peut supporter la charge, mais pas l’incertitude.
+Autrement dit : **Le plus grand problème au travail, c’est que personne ne te dit quoi faire. Le vrai obstacle, ce n’est pas le travail lui-même, c’est le flou**.  
+
+Bref : **On peut supporter la charge, mais pas l’incertitude.**
 
 ## Pourquoi la loi de Gilbert est si parlante
 

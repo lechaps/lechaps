@@ -3,9 +3,11 @@
 Tu as déjà attendu 15 minutes dans une file qui n’avance pas ? Ou passé ta journée à jongler entre dix tâches sans en finir une seule ?  
 Bienvenue dans **la loi de Little**.
 
-> Le nombre d’éléments dans un système dépend du taux d’arrivée et du temps moyen qu’ils y passent
+> The average number of items in a system equals the average arrival rate multiplied by the average time an item spends in the system. (L = λW)
 
-Autrement dit : **si trop de choses entrent et que rien ne sort assez vite, tout s’encombre**.
+Autrement dit : **Si les éléments entrent plus vite qu’ils ne sortent, ça s’accumule — toujours, mathématiquement, inévitablement**.
+
+Bref : **Ralentis le flux, et tout s’empile**.
 
 ## Pourquoi la loi de Little est si parlante
 

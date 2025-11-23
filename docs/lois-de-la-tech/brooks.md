@@ -2,10 +2,14 @@
 
 Tu as déjà vécu ce moment où ton projet prend du retard… et quelqu’un propose d’ajouter du monde pour aller plus vite ?
 
-Sur le papier, ça paraît logique : « plus on est, plus on avance ». Sauf qu’en réalité, c’est souvent l’inverse.  
+Sur le papier, ça paraît logique : « plus on est nombreux, plus on avance ». Sauf qu’en réalité, c’est souvent l’inverse : plus de réunions, plus de coordination, plus de confusion… et un retard encore plus grand que celui qu’on voulait rattraper.  
 Bienvenue dans **la loi de Brooks**.
 
-> Ajouter des personnes à un projet en retard… le retarde encore plus.
+> Adding manpower to a late software project makes it later.
+
+Autrement dit : **Plus tu rajoutes de monde sur un projet en retard, plus tu crées de communication, de friction et de désorganisation — exactement ce que tu voulais éviter**.
+
+Bref : **Plus tu staffes tard, plus tu coules vite**.
 
 Ce principe, formulé dans les années 70, rappelle une vérité universelle du travail collectif : **plus de bras ne signifie pas forcément plus de vitesse** — parfois, c’est juste plus de chaos.
 

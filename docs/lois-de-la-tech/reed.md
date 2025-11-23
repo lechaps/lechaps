@@ -4,9 +4,11 @@ Tu t’es déjà demandé pourquoi les réseaux sociaux, les forums ou les commu
 Pas juste parce qu’ils ont beaucoup de membres, mais parce que **ces membres forment des groupes, des communautés, des sous-réseaux**.
 Bienvenue dans **la loi de Reed**.
 
-> La valeur d’un réseau croît de façon exponentielle avec le nombre de groupes qu’il permet de créer.
+> The utility of large networks, particularly social networks, scales exponentially with the size of the network.
 
-Autrement dit : **un réseau n’est pas seulement puissant par ses connexions, mais par les communautés qui s’y forment**.
+Autrement dit : **La vraie puissance d’un réseau ne vient pas de ses utilisateurs, mais des groupes qu’ils forment — et des liens qu’ils créent entre eux**.
+
+Bref : **Les communautés valent plus que la foule**.
 
 ## Pourquoi la loi de Reed est si parlante
 

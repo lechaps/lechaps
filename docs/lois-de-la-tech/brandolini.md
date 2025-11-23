@@ -4,7 +4,11 @@ Tu as déjà essayé de corriger quelqu’un sur une info fausse qu’il balance
 Tu sais, ce moment où tu passes 10 minutes à expliquer les faits, à chercher des sources, à faire preuve de pédagogie pendant que lui a mis 3 secondes à sortir une énormité.  
 Félicitations, tu viens de vivre **la loi de Brandolini**.
 
-> Il faut beaucoup plus d’énergie pour réfuter une bêtise que pour la produire.
+> The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it
+
+Autrement dit : **Créer du bullshit est facile, rapide et gratuit — le corriger demande du temps, de la rigueur et une sacrée dose de patience**.
+
+Bref : **Le mensonge scale mieux que la vérité**.
 
 Ce principe, aussi appelé **principe d’asymétrie du bullshit**, résume parfaitement pourquoi les fausses informations circulent si vite, surtout à l’ère des réseaux sociaux.
 

@@ -4,9 +4,11 @@ Tu t’es déjà dit « pourquoi c’est aussi compliqué ? » en utilisant un o
 Ou au contraire, t’as trouvé un produit tellement simple que tu t’es demandé : « comment ils ont fait pour que tout paraisse aussi évident ? »  
 Bienvenue dans **la loi de Tesler**.
 
-> Toute complexité d’un système doit être assumée quelque part : soit par l’utilisateur, soit par le concepteur
+> Every application has an inherent amount of irreducible complexity. The only question is: who will have to deal with it ?
 
-Autrement dit : **si quelque chose te semble simple, c’est que quelqu’un a galéré à ta place**.
+Autrement dit : **La complexité ne disparaît jamais — on choisit juste si elle doit être portée par l’utilisateur… ou par le système**.
+
+Bref : **Si quelque chose te semble simple, c’est que quelqu’un a galéré à ta place**.
 
 ## Pourquoi la loi de Tesler est si parlante
 

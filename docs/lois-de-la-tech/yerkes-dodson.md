@@ -3,10 +3,15 @@
 Tu as déjà remarqué que trop de pression fait tout dérailler ? Un peu de stress te motive, te concentre, t’aide à avancer. Mais quand la tension monte trop haut, tout s’effondre.  
 Bienvenue dans **la loi de Yerkes-Dodson**.
 
-> Trop peu de stress = pas assez de motivation  
-> Trop de stress = performance en chute libre  
+> The relationship between arousal and performance follows an inverted U-shaped curve.
 
-Autrement dit : **le stress n’est pas l’ennemi — c’est le dosage qui fait la différence**.
+Ou, plus communément
+
+> Performance increases with arousal only up to a point, after which it begins to decrease.
+
+Autrement dit : **Un peu de pression booste la performance, trop de pression la détruit — l’efficacité est maximale au juste milieu**.
+
+Bref : **Le stress n’est pas l’ennemi — c’est le dosage qui fait la différence**.
 
 ## Pourquoi la loi de Yerkes-Dodson est si parlante
 

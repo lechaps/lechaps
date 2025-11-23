@@ -1,12 +1,15 @@
 # Ashby
 
+Tu as déjà vu un système qu’on essaye de piloter avec un tableau de bord trop simple — et constaté qu’à chaque fois qu’il se passe quelque chose d’imprévu, le contrôleur perd les pédales, réagit trop tard ou ne réagit pas du tout ?  
 Tu t’es déjà retrouvé face à une situation tellement complexe que plus tu essayais de la simplifier, plus elle devenait incontrôlable ?  
 Une équipe qui grossit, un projet qui se ramifie, une organisation où chaque règle crée un nouveau problème ?  
 Félicitations, tu viens de croiser **la loi d’Ashby**.
 
-> Seule la complexité peut maîtriser la complexité.
+> The number of states in a control mechanism must be greater than or equal to the number of states in the system it controls.
 
-Autrement dit : **plus ton environnement est complexe, plus tes réponses doivent l’être aussi**.
+Autrement dit : **Si ton environnement devient plus subtil, plus instable ou plus riche, tes outils et ta façon de le piloter doivent monter en gamme aussi. Sinon, tu te fais dépasser.**
+
+Autrement dit : **Seule la complexité peut maîtriser la complexité**.
 
 ## Pourquoi la loi d’Ashby est si parlante
 
