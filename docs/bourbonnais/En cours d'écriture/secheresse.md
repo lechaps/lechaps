@@ -1,3 +1,0 @@
-# sécheresse
-
-Désigne un homme qui n'a pas soif…

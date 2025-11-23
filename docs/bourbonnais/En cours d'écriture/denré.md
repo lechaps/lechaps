@@ -1,3 +1,0 @@
-# denré
-
-personne détestable

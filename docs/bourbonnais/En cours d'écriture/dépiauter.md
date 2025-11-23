@@ -1,3 +1,0 @@
-# dépiauter
-
-Ôter la peau

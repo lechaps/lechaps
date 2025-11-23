@@ -1,3 +1,0 @@
-# décaniller
-
-Partir rapidement

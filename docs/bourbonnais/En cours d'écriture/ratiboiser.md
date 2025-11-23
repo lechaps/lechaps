@@ -1,3 +1,0 @@
-# ratiboiser
-
-Couper, tailler

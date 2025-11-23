@@ -1,3 +1,0 @@
-# équeuter
-
-enlever la queue

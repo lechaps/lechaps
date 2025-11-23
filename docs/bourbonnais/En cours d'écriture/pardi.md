@@ -1,3 +1,0 @@
-# pardi
-
-Par dieu

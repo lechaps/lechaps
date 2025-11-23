@@ -1,3 +1,0 @@
-# luzerne
-
-Plante fourragère

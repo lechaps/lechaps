@@ -1,3 +1,0 @@
-# Peuhu
-
-Onomatopé : Pan!
