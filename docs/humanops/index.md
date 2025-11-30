@@ -11,8 +11,6 @@ Ce carnet rassemble **mes réflexions et mes expériences** autour de cette idé
 Ici, il est question de **management**, d’**écoute**, de **coopération**, et de cette part fragile qu’on appelle “le travail ensemble”.  
 Des choses apprises sur le terrain, entre incidents, réunions et conversations au détour d’un café.
 
----
-
 ## Quelques repères HumanOps
 
 - **Avant les process, il y a des personnes.**  
@@ -30,8 +28,6 @@ Des choses apprises sur le terrain, entre incidents, réunions et conversations 
 - **Ralentir, c’est parfois aller plus juste.**  
   La vitesse produit des bugs humains ; la clarté évite les crashs collectifs.  
 
----
-
 ## Pour aller plus loin
 
 Le mouvement **HumanOps** est né dans la communauté DevOps, au croisement de la technique et du care.
@@ -39,8 +35,6 @@ Autour de 2016, plusieurs ingénieurs d’infrastructure (notamment [David Mytto
 L’idée était simple : *si les systèmes tombent, c’est souvent parce que les humains sont épuisés, mal écoutés ou mal soutenus*.
 Des recherches récentes confirment cette intuition : la fatigue, la surcharge cognitive et le manque de sécurité psychologique dégradent la fiabilité des équipes techniques ([Ramaswamy 2020](https://www.researchgate.net/publication/394035815_Human_Factors_in_DevOps_Cognitive_Load_Developer_Experience_and_Team_Collaboration){ target="_blank" }, [Pérez-Sánchez 2025](https://www.sciencedirect.com/science/article/pii/S092054892400076X){ target="_blank" }).
 Depuis, HumanOps s’est imposé comme un **appel à remettre du soin, du rythme et du discernement dans la manière de concevoir et d’opérer les systèmes** — non pas contre la technologie, mais avec elle, au service du vivant qui la fait tourner.
-
----
 
 Et s’il te manque quelque chose ici, tu as sûrement raison :  
 le *HumanOps* n’est pas une méthode, c’est un chemin — celui de **l’humain qui apprend à apprivoiser la complexité**. 💡

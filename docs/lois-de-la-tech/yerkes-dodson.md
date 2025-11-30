@@ -27,7 +27,26 @@ Et c’est valable partout :
 
 * L’étudiant qui révise mieux à la veille de l’examen… jusqu’à paniquer le jour J.
 * Le salarié motivé par un challenge, puis écrasé par les deadlines.
-* L’athlète au sommet de sa concentration… jusqu’à ce que la pression le paralyse.
+* L’athlète au sommet de sa concentration… puis paralysé par l'enjeu.
+
+Mais il y a un point souvent oublié : **le niveau optimal n’est pas le même pour tout le monde, ni pour toute tâche.**  
+On tolère plus de stress pour une tâche simple et répétitive, moins pour une tâche créative ou complexe.
+C’est un curseur personnel, pas une règle universelle.
+
+### Comment trouver *ton* point optimal ?
+
+Voici un repère simple pour t’auto-calibrer :
+
+| Sous-stimulation 💤 | Zone optimale 🔥        | Sur-stimulation ⚡  |
+| ------------------- | ----------------------- | ------------------ |
+| procrastination     | flow, clarté            | anxiété, agitation |
+| ennui               | énergie stable          | pertes de mémoire  |
+| dispersion          | concentration naturelle | erreurs, confusion |
+
+Tu te situes trop bas ? ➜ Ajoute du challenge (deadline, enjeu, accountability).
+Tu montes trop haut ? ➜ Diminue la charge (respiration, pause, fractionnement des tâches).
+
+Ton objectif n’est pas de supprimer le stress, mais de surfer sur lui.
 
 ## D’où vient la loi de Yerkes-Dodson ?
 
@@ -42,7 +61,7 @@ Depuis, **la courbe de Yerkes-Dodson** — en forme de U inversé — est devenu
 * **En éducation**, elle montre qu’un peu de défi aide à apprendre.
 * **En sport ou en psychologie du travail**, elle aide à comprendre où se situe le point d’équilibre entre stress et performance.
 
-En somme, la loi de Yerkes-Dodson nous rappelle une chose simple : **le stress n’est pas un poison, c’est une dose**. Trop peu, tu t’endors. Trop, tu exploses.  
+En somme, la loi de Yerkes-Dodson nous rappelle une chose simple : **le stress n’est pas un poison, c’est une puissance**. Trop peu, tu t'éteins. Trop, tu imploses.  
 Entre les deux, tu deviens vraiment performant.
 
 ### Références

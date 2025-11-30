@@ -23,7 +23,35 @@ Concrètement :
 * Un **manager** adapte son style selon les situations.
 * Un **algorithme** efficace anticipe plusieurs scénarios au lieu de n’en prévoir qu’un.
 
-La loi d’Ashby nous dit en somme : **tu ne peux pas dompter la complexité avec la simplicité, seulement avec l’intelligence et l’adaptation**.
+La loi dit : *plus de variété = plus de stabilité*.  
+Mais **pas n’importe quelle variété**.  
+Pas du chaos. **De la capacité d’adaptation.**.
+
+### Architecturer la complexité — au lieu de la subir
+
+Ajouter de la variété, ce n’est pas rajouter du bruit. C’est créer plus de façons de répondre au réel.
+
+Exemples :
+
+| Situation complexe            | Réponse avec variété                          |
+| ----------------------------- | --------------------------------------------- |
+| Process trop rigide           | Décisions distribuées, autonomie maîtrisée    |
+| Produit qui grossit           | Modules indépendants, API claires             |
+| Déploiements risqués          | Feature flags, rollbacks instantanés          |
+| Charge de support qui explose | FAQ évolutive, IA assistée, rotation d’équipe |
+
+La complexité ne se combat pas : elle se **structure**.
+
+### Le danger n’est pas la complexité → c’est la *fausse simplicité*
+
+Un seul KPI.  
+Un process unique.  
+Un seul mode de management.  
+Ça rassure — jusqu’à ce que la réalité refuse de rentrer dans la case.  
+
+Simplifier trop vite = se rendre aveugle.
+
+La question n’est pas *comment rendre le système simple*, mais : **comment lui donner assez de réponses pour rester vivant ?**
 
 ## D’où vient la loi d’Ashby ?
 
@@ -36,7 +64,7 @@ Ashby l’appelait la **loi de la variété requise** (*Law of Requisite Variety
 C’est elle qui explique pourquoi **plus un environnement est changeant, plus l’organisation doit être agile pour survivre**.  
 
 En somme, la **loi d’Ashby**, c’est un vaccin contre la simplification excessive. Elle nous rappelle qu’on ne combat pas le chaos en le niant, mais en apprenant à danser avec lui.
-**La stabilité ne vient pas du contrôle, mais de la capacité à s’adapter**.
+**La stabilité ne vient pas du contrôle. Elle vient de la capacité à répondre à l’imprévu plus vite que le monde ne change.**.
 
 ### Références
 

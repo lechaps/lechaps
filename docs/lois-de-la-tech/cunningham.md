@@ -14,14 +14,17 @@ Ce principe, formulé comme une blague, résume parfaitement pourquoi les discus
 
 ## Pourquoi la loi de Cunningham est si parlante
 
-* **Corriger une erreur, c’est stimulant** : ça pique l’ego, ça active le réflexe “je vais te montrer le bon chemin”.
-* **Répondre à une question, c’est neutre et peu engageant** : pas de contradiction, pas de frisson, pas de challenge.
-* **Publie une mauvaise réponse… et les experts surgissent** : détail, nuance, précision, sources à la pelle.
+* **Corriger une erreur, c’est stimulant** : on active l’ego, on prouve qu’on sait. Dopamine garantie.
+* **Répondre à une question, c’est neutre et linéaire** : pas d’opposition, peu d’enjeu, moins d’énergie.
+* **Publie une mauvaise réponse… et les experts surgissent** : nuance, contradiction, articles, références.
 
 Résultat : **l’erreur génère plus d’intelligence collective que la demande de vérité.**
 
-La loi de Cunningham, c’est **un rappel sur le fonctionnement social d’Internet** :
-la contradiction motive plus que l’entraide, et la correction plus que la réponse.
+Mais nuance importante :  
+Dans certains espaces, la mauvaise réponse n’est pas corrigée — elle est relayée, amplifiée, consolidée. Sur Twitter, Facebook ou TikTok, une erreur bien emballée peut devenir virale avant même qu’un expert ait le temps de respirer.  
+**L’erreur attire, mais peut aussi contaminer.**
+
+La loi de Cunningham, c’est donc un rappel sur les dynamiques sociales d’Internet : la contradiction motive plus que l’entraide, la correction plus que la réponse — mais seulement si la correction arrive à temps.
 
 ## D’où vient la loi de Cunningham ?
 
@@ -33,12 +36,23 @@ C’est l’homme qui a :
 * cofondé les patterns de conception,
 * **et co-écrit le *Manifesto for Agile Software* (2001)**.
 
-Il lance cette “loi” comme une simple remarque amusante dans les communautés tech — mais elle devient rapidement virale.
-Aujourd’hui, on la cite partout : Wikipédia, Reddit, Stack Overflow, X/Twitter…
-Partout où les erreurs attirent des foules prêtes à corriger.
+L’ironie est délicieuse : celui qui a inventé l’outil favorisant l’édition collective formule une loi où l’erreur devient moteur de contribution.
 
-Un peu ironique, non ?
-Pour comprendre Internet, il fallait une loi… sur la manière dont on réagit aux erreurs.
+Mais ce mécanisme n’est pas que technique : il est cognitif. On adore corriger parce que ça nous positionne en sachant. C’est du capital social instantané.  
+
+Corriger = se prouver + être vu + exister dans la discussion.
+
+Aujourd’hui, on cite la loi partout : Wikipédia, Reddit, Stack Overflow, X/Twitter… Partout où l’expertise se construit en public, face à l’erreur.
+
+Comment exploiter Cunningham intelligemment
+
+* **En pédagogie** → poser une approximation volontaire pour activer la discussion.
+* **En communauté** → laisser émerger les contributions plutôt que vouloir tout contrôler.
+* **En innovation produit** → formuler une hypothèse imparfaite pour faire réagir et obtenir du feedback.
+* **En contenu** → lancer un débat avec une affirmation provocante… puis nourrir les corrections.
+
+L’idée n’est pas de tromper — mais de stimuler la pensée collective par la friction.
+Une étincelle suffit à générer du feu… si la communauté a assez d’oxygène pour brûler.
 
 ## Références
 

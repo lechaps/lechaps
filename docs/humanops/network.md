@@ -1,7 +1,5 @@
 # Les quatre lois des réseaux
 
-*De la foule à la communauté*
-
 Pourquoi **Facebook**, **TikTok**, **Bitcoin**, **Reddit** ou même **Internet** valent-ils autant ?
 Pas seulement parce qu’ils existent — mais parce qu’ils **connectent**, **font interagir** et **font collaborer** des millions de personnes.
 
@@ -30,8 +28,7 @@ Chaque nouvel utilisateur n’ajoute pas qu’une unité : il **multiplie les co
 > **La valeur d’un réseau croît de façon exponentielle (2ⁿ) avec le nombre de groupes qu’il permet de créer**.
 
 **Les connexions créent du lien ; les groupes, du sens** : David Reed pousse la logique encore plus loin : un réseau ne vaut pas seulement par ses connexions, mais par **les sous-groupes, les communautés, les tribus** qu’il rend possibles.  
-Un groupe de passionnés, une équipe projet, un fandom, une DAO…
-Chaque regroupement ajoute **une nouvelle forme de valeur collective**.
+Un groupe de passionnés, une équipe projet, un fandom, une DAO (Decentralized Autonomous Organization)… Chaque regroupement ajoute **une nouvelle forme de valeur collective**.
 
 ## 4. Beckstrom – L’ère de la valeur d’usage
 
@@ -51,15 +48,17 @@ Ces quatre lois dessinent **l’évolution de la valeur dans l’ère numérique
 | Années 1990 | **Reed**      | Réseaux sociaux et communautaires  | Les groupes (2ⁿ)              |
 | Années 2000 | **Beckstrom** | Économie numérique, Web 2.0 / Web3 | Les échanges (valeur d’usage) |
 
-Autrement dit :
+Autrement dit, **du message à la valeur partagée** : 
 
-> **Sarnoff** comptait les spectateurs 🎙️.  
-> **Metcalfe** comptait les connexions 🔗.  
-> **Reed** comptait les communautés 👥.  
-> **Beckstrom** compte ce qu’elles créent 💡.  
+> **Sarnoff** comptait les spectateurs 🎙️ — la diffusion.
+> **Metcalfe** comptait les connexions 🔗 — la connexion.  
+> **Reed** comptait les communautés 👥 — la collaboration.  
+> **Beckstrom** compte ce qui en émerge 💡 — la création.
 
 Chaque étape nous a rapprochés d’un modèle plus **humain, interactif et participatif**. D’un monde où la puissance venait du micro, à un monde où elle vient **des liens, des communautés et des échanges réels**.  
-Chaque étape rapproche la valeur du **vivant** : moins liée à la taille du réseau, plus ancrée dans **les interactions et l’usage réel**.
+Chaque étape rapproche la valeur du **vivant** : moins liée à la taille du réseau, plus ancrée dans **les interactions et l’usage réel**.  
+
+En bref : **La vraie puissance d’un réseau n’est plus dans son audience, mais dans ce qu’il permet de faire, d’échanger et d’inventer ensemble.**
 
 ### Schéma conceptuel
 
@@ -67,12 +66,3 @@ Chaque étape rapproche la valeur du **vivant** : moins liée à la taille du r�
 🎙️  →  🔗  →  👥  →  💡
  V ∝ N   V ∝ N²   V ∝ 2ⁿ   V = Σ(usage réel)
 ```
-
-**Du message à la valeur partagée :**
-
-> Sarnoff = diffusion.  
-> Metcalfe = connexion.  
-> Reed = collaboration.  
-> Beckstrom = création.  
-
-En bref : **La vraie puissance d’un réseau n’est plus dans son audience, mais dans ce qu’il permet de faire, d’échanger et d’inventer ensemble.**

@@ -1,6 +1,6 @@
 # Mon petit framework personnel
 
-Ce guide, né d'expériences partagées et d'apprentissages du quotidien, rassemble des principes simples et des actions concrètes pour adopter une posture simple, mieux coopérer et avancer avec plus de sérénité dans des environnements complexes.
+Ce petit framework, je l’ai construit au fil de mes expériences, de mes rencontres, et de tout ce que le quotidien m’a appris. J’y ai rassemblé ce qui m’aide vraiment : des principes simples, concrets, applicables tout de suite, pour adopter une posture plus légère, mieux coopérer et avancer avec plus de sérénité dans des environnements parfois complexes.
 
 ## Être : Adopter une posture agile
 
@@ -70,8 +70,6 @@ Une équipe performe mieux quand elle se sent en sécurité :
 * **Simplifier les priorités** : Si tout est urgent, rien ne l’est.
 * **Donnez du sens** : Expliquez pourquoi une tâche est importante et laissez l’équipe trouver comment y parvenir.
 * **Paradoxe systémique** : Beaucoup d’efforts pour peu de résultats. Dans un environnement saturé, la planification détaillée devient inefficace. Ce qu’il faut, c’est un facilitateur de la complexité : une personne ou une démarche qui aide à naviguer dans l’incertitude et simplifie les priorités.
-
-Ce passage sur l'importance de donner du sens et de responsabiliser les équipes s’intègre également dans la section **Manager**, sous un sous-titre dédié à l’implication et à la confiance dans les équipes. Voici comment cela pourrait être reformulé et intégré :
 
 ### Donner du sens et responsabiliser les équipes
 

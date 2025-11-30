@@ -27,42 +27,32 @@ Jamie Zawinski, figure emblématique de Netscape et d’Emacs, a résumé le ph�
 
 > Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.
 
-La blague est évidente.  
-La vérité derrière… encore plus.
+On en rit, mais c’est terriblement vrai.
 
-### Pourquoi les logiciels gonflent-ils autant ?
+Pourquoi les logiciels gonflent-ils autant ?
 
-* **La pression des utilisateurs.** On veut toujours un bouton de plus, un menu de plus, une option de plus.
-* **La concurrence.** « Les autres l’ont, donc il nous le faut aussi. »
-* **Les modes technologiques.**
-  * Intégrer un chat.
-  * Intégrer une IA.
-  * Intégrer des commentaires.
-  * Intégrer un export PDF.
-  * Intégrer *tout*.
-* **Les développeurs eux-mêmes.** Parce que c’est amusant d’ajouter des trucs.
+* **La pression des utilisateurs**. Toujours un bouton de plus.
+* **La compétition**. « Ils l’ont fait → il faut le faire. »
+* **Les tendances technologiques**. analytics, Chat, IA, bref tout.
+* **Les développeurs**. Parce que créer, c’est gratifiant.
 
-Résultat : **n’importe quelle application finit par devenir tentaculaire.**
+Résultat : **le feature creep**.
+N’importe quelle application finit par devenir tentaculaire.
 
-Ce phénomène — le fameux *feature creep* — est tellement universel que Zawinski en a fait une loi.
-
-Et elle forme la **première étape** de notre trajectoire : **le logiciel grossit**.
+C’est **la première étape** : le logiciel grossit.
 
 ## 2. La loi de Greenspun — Tout système complexe finit par devenir un langage
 
-Quand un logiciel gonfle, ses besoins explosent.  
-On ajoute des règles métier.  
-Puis des exceptions.  
-Puis un système de templates.  
-Puis un mini-langage d’expressions…
-
-Et, sans s’en rendre compte, on finit par créer un **langage interne**.
+Quand un logiciel gonfle, la complexité s’installe.  
+On ajoute des règles métier. Puis des exceptions.  
+Puis un système de templates. Puis un DSL maison.  
+Et un jour, sans l’avoir vraiment décidé, on a écrit un langage.
 
 C’est exactement ce que Philip Greenspun a formulé dans son ouvrage de 1999 *Philip and Alex’s Guide to Web Publishing* :
 
 > Any sufficiently complicated program in C or Fortran contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.
 
-En clair : **dès qu’un logiciel devient ambitieux, il réinvente — mal — un langage existant.**
+En clair : **dès qu’un logiciel devient ambitieux, **il réinvente mal quelque chose d’existant.**
 
 ### Pourquoi cette dérive est-elle inévitable ?
 
@@ -70,23 +60,19 @@ En clair : **dès qu’un logiciel devient ambitieux, il réinvente — mal — 
 * **Les développeurs bricolent.** Beaucoup de “petites solutions rapides” deviennent des DSL cachés.
 * **Les langages expressifs existent pour une raison.** Lisp, notamment, a été pensé pour gérer ce genre de complexité. Ignorer ces outils revient souvent… à les recréer accidentellement.
 
-C’est pour cela que tant de projets contiennent aujourd’hui :
+Et c’est ainsi qu’apparaissent, partout, des :
 
-* un moteur de règles,
-* un DSL maison,
-* un système de configuration tellement puissant qu’il devient un langage,
-* un micro-interpréteur bricolé.
+* moteurs d’expression,
+* systèmes de règles,
+* DSL cachés dans la configuration.
 
-C’est **drôle**, **triste**, **précis** — et universel.
-
-Et c’est la **deuxième étape** de notre trajectoire : **le logiciel devient un langage**.
+C’est **la deuxième étape**: le logiciel devient un langage.
 
 ## 3. La loi d’Atwood — Tout finit par tourner dans un navigateur
 
 Quand un logiciel a grossi (Zawinski),
 qu’il a développé son propre langage interne (Greenspun),
-il lui reste encore un territoire à conquérir :
-**le navigateur**.
+il lui reste encore un territoire à conquérir : **le navigateur**.
 
 Jeff Atwood, cofondateur de Stack Overflow, l’a formulé en 2007 :
 
@@ -98,65 +84,55 @@ Et ce n’est pas juste une blague.
 
 ### Pourquoi le navigateur attire tout ?
 
-* **JavaScript est partout.** De simple langage d’animation, il est devenu le moteur du web moderne : serveurs, apps desktop, jeux, IA, IoT…
-* **Le navigateur simplifie tout.**
-  * Pas d’installation.
-  * Pas de compatibilité.
-  * Pas de mises à jour manuelles.
-  * Une simple URL suffit.
-* **Les développeurs sont curieux.** Si on *peut* faire quelque chose en JavaScript… quelqu’un *va* essayer.
+* La distribution est instantanée. 0 installation → 1 URL.
+* Le web est l’environnement universel. Desktop, mobile, tablette.
+* JavaScript est devenu un runtime généraliste. Serveur, client, jeux, IA…
 
-Aujourd’hui, il n’est plus surprenant de voir :
-
-* des systèmes d’exploitation,
-* des compilateurs,
-* des simulateurs quantiques,
-* des environnements de développement complets,
-
-tourner directement dans Chrome ou Firefox.
-
-C’est **absurde**.  
+C’est **fou**.  
 C’est **génial**.  
-C’est **le web**.  
+Et c’est aujourd’hui la norme.  
 
 Et c’est la **troisième étape** : **le logiciel finit dans ton navigateur**.
 
-## 4. Comment les trois lois se combinent
+## 4. Ce qu’on oublie souvent : la mécanique socio-technique
 
-Quand on assemble les trois lois, on obtient la trajectoire complète de presque tous les logiciels modernes :
+Ces trois lois ne parlent pas que de code. Elles révèlent comment produit, organisation et technique s’influencent mutuellement.
 
-### **1) Zawinski → Le logiciel grossit**
+### Pourquoi il grossit ? → Zawinski expliqué par le business
 
-Les fonctionnalités s’accumulent, les cas particuliers explosent.
+* Roadmap qui ajoute.
+* Peur de retirer.
+* Marché qui exige.
 
-### **2) Greenspun → Le logiciel devient un langage**
+Une feature vend.  
+Une feature différencie.  
+Une feature justifie la version suivante.  
 
-Pour gérer cette complexité, on crée des DSL, des moteurs d’expressions, des règles.
+→ Le logiciel enfle par pression économique plus que technique.
 
-### **3) Atwood → Le langage finit dans le navigateur**
+### Pourquoi il devient un langage ? → Greenspun expliqué par l’évolution des équipes
 
-Parce que le navigateur est la plateforme la plus simple, la plus universelle, la plus compatible.
+Plus de développeurs → plus de règles → plus d’abstraction.  
+La connaissance orale devient code.  
+Les scripts deviennent DSL.  
+Les DSL deviennent architecture.  
 
-### Résultat ?
+→ Le langage émerge comme mécanisme de survie organisationnelle.
 
-> Toute application suffisamment ambitieuse finit par devenir trop grosse, trop complexe… et parfaitement à son aise dans un navigateur.
+### Pourquoi il finit dans le navigateur ? → Atwood expliqué par l’accès et la distribution
+
+Le navigateur n’a pas gagné parce que JS est beau.  
+Il a gagné **parce qu’il est déjà installé partout**.
+
+→ Le web est la plateforme à friction minimale.
 
 ## 5. On le voit partout : des exemples modernes
 
 ### **Les applications web modernes**
 
-Frameworks, outils, SaaS…. 
-Ils contiennent :
-
-* des DSL de templates,
-* des moteurs d’expression,
-* des systèmes de validation et de règles métier,
-
-→ **Greenspun**.
-
-Ils se chargent au fil des versions → **Zawinski**.
-
-Ils tournent dans le navigateur → **Atwood**.
+* Un framework = fonctionnalités qui s’empilent → Zawinski
+* Un template engine devient un mini-langage → Greenspun
+* Tout s’exécute en front → Atwood
 
 ### **Les outils no-code / low-code**
 
@@ -173,7 +149,11 @@ En un clin d’œil, ils deviennent des **langages entiers**, exécutés **dans 
 
 WASM est la réponse industrielle à Greenspun + Atwood.
 
-Plutôt que de réinventer chaque langage en JavaScript (Greenspun), on compile les vrais langages (C, Rust, Go, Python…) vers une cible universelle : **le runtime du navigateur** (Atwood).
+Plutôt que tout réinventer en JS,
+on compile Rust, C, Go, Python…
+
+→ Greenspun industrialisé  
+→ Atwood architecturé
 
 ## Conclusion
 
@@ -183,9 +163,7 @@ Ces trois lois ne disent pas que les développeurs sont fous. Elles révèlent s
 * **Cette complexité finit par engendrer un langage interne** — Greenspun.
 * **Et ce langage finit presque toujours par tourner dans un navigateur** — Atwood.
 
-Autrement dit :
-
-> Le destin d’un logiciel est de devenir énorme, abstrait… et parfaitement confortable dans Chrome.
+Et derrière ce cycle, il y a plus qu’un codebase : il y a le marché, l’équipe, les utilisateurs.
 
 C’est parfois absurde.  
 C’est souvent magnifique.  
