@@ -11,29 +11,61 @@ Bref : **Ralentis le flux, et tout s’empile**.
 
 ## Pourquoi la loi de Little est si parlante
 
-Parce qu’elle s’applique partout :
+Parce qu’elle s’applique partout où il y a du flux — c’est-à-dire absolument partout :
 
 * **Dans une file d’attente** : plus de clients arrivent que de commandes servies → la queue s’allonge.
 * **Dans ton agenda** : trop de tâches commencées → tout se bloque, rien n’avance.
 * **Dans une entreprise** : trop de projets lancés à la fois → les équipes s’épuisent et la vélocité chute.
+* **Dans un pipeline technique** : trop de tickets ouverts → explosion des délais.
 
-La loi de Little dit une chose simple :Le flux est un équilibre entre ce qui entre, ce qui sort, et le temps que ça met. Si tu veux que ça circule mieux, tu n’as que deux leviers :
+Dans tous ces cas, le résultat est le même : **Le système se remplit, le temps de cycle augmente, et l’expérience se dégrade.**
 
-* Limiter les entrées (dire non, ralentir le flux).
-* Accélérer le traitement (simplifier, automatiser, déléguer).
+Et ce que la loi de Little mesure, c’est ton **WIP — Work In Progress, ton “en-cours”.
+Plus ton WIP est élevé, plus tout ralentit**.
 
-En résumé : **moins en cours = plus de mouvement**.
-Et ça, c’est vrai pour les projets, les mails, les idées, et même la vie quotidienne.
+La loi de Little dit une chose simple : Le flux dépend du nombre d’éléments en cours, de ce qui entre, et du temps que chaque élément passe dans le système.
+
+Tu n’as que deux leviers :
+
+* **Limiter les entrées** : Dire non, prioriser, réduire le multitâche, fermer le robinet des projets.
+
+* **Accélérer le traitement** : Simplifier, automatiser, découper, déléguer, clarifier les règles du jeu.
+
+En résumé : **moins en cours = plus de mouvement**.  
+C’est une mécanique de flux, mais aussi une vérité cognitive : le cerveau sature dès qu’on lui fait jongler entre trop de tâches (cf. coûts de commutation).
+
+La seule condition : la stabilité.  
+Pour que la loi s’applique parfaitement, il faut une condition minuscule mais cruciale : Le système doit être stable, c’est-à-dire que le taux d’entrée ≈ le taux de sortie sur la durée.
+
+Si les entrées dépassent systématiquement les sorties, alors la loi ne prédit pas le temps de cycle… elle prédit juste que le système diverge (il se remplit sans fin).
+
+Ce qui est, au fond, le message managérial clé : on ne peut pas charger un système au-delà de sa capacité sans payer le prix.
 
 ## D’où vient la loi de Little ?
 
-Ce principe vient du chercheur américain John D. C. Little, professeur au _MIT Sloan School of Management_ et pionnier de la théorie des files d’attente. En 1961, il publie un article devenu culte : _A Proof for the Queuing Formula: L = λW_. Il y démontre mathématiquement une vérité universelle :
+Ce principe vient du chercheur américain John D. C. Little, professeur au _MIT Sloan School of Management_ et pionnier de la théorie des files d’attente. En 1961, il publie un article devenu culte : _A Proof for the Queuing Formula: L = λW_. 
 
-> Le nombre moyen d’éléments dans un système (L) = taux d’arrivée (λ) × durée moyenne de séjour (W).
+Sa formule : **L = λ × W** est devenue un pilier du **Lean**, du **Kanban**, du **management agile**, et même de **la gestion du temps personnelle**.
 
-Cette formule simple — **L = λ × W** — s’applique à tous les systèmes de flux : clients, données, projets, requêtes, tâches, etc. Et surtout, elle fonctionne sans aucune hypothèse de distribution : **elle est vraie partout**. Aujourd’hui, la loi de Little est un pilier du Lean, du management agile et de la gestion du temps.  
+Sa force ?  
 
-En somme, elle nous apprend à voir nos systèmes (et nos journées) comme des flux : **si tu veux qu’ils respirent, arrête de les engorger**. Réduis l’afflux ou raccourcis le séjour, et tout s’accélère : **moins d’en-cours, plus de flux ; moins d’attente, plus de valeur**.
+* Elle fonctionne pour tous les systèmes de flux.
+* Elle ne dépend d’aucune hypothèse statistique.
+* Elle transforme tout système complexe en équation simple.
+
+### En résumé
+
+La loi de Little nous apprend une chose essentielle : **Tu ne gères pas des tâches, tu gères des flux.**
+
+Si tu veux qu’un système — une équipe, un agenda, un pipeline — respire et crée de la valeur :
+
+* Réduis l’afflux.
+* Raccourcis le séjour.
+* Diminue le WIP.
+
+Et tout s’accélère.
+
+Moins d’en-cours → plus de flux. Moins d’attente → plus de valeur.
 
 ### Références
 

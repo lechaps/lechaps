@@ -33,6 +33,7 @@ En somme, La loi de Gilbert nous rappelle que **l’ambiguïté use plus sûreme
 
 ### Références
 
-* [Thomas F. Gilbert, *Human Competence: Engineering Worthy Performance*, McGraw-Hill, 1978](https://www.amazon.fr/Human-Competence-Engineering-Worthy-Performance/dp/0070232172){ target="_blank" }
+* [Thomas F. Gilbert, _Human Competence: Engineering Worthy Performance_, McGraw-Hill, 1978](https://www.amazon.fr/Human-Competence-Engineering-Worthy-Performance/dp/0070232172){ target="_blank" }
 * [Geary Rummler & Alan Brache, *Improving Performance: How to Manage the White Space on the Organization Chart*, 1990](https://www.amazon.com/Improving-Performance-Manage-White-Organization/dp/1118143701){ target="_blank" }
 * [International Society for Performance Improvement (ISPI) – *Tribute to Thomas F. Gilbert*, 1995](https://books.google.fr/books?hl=fr&lr=&id=XKHkBdxvH8QC&oi=fnd&pg=PR35&dq=International+Society+for+Performance+Improvement+(ISPI)+%E2%80%93+*Tribute+to+Thomas+F.+Gilbert*,+1995&ots=uIGWwEW3iG&sig=pv50gcYuUEHOcKYR-Cx40D_x6fo#v=onepage&q&f=false){ target="_blank" }
+* [Gilbert’s Law – breaking down communication barriers for greater efficiency](https://trojanczyk.eu/gilberts-law/){ target="_blank" }

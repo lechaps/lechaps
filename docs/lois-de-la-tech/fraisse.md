@@ -1,10 +1,11 @@
 # Fraisse
 
 Tu as déjà eu cette impression que le temps s’étire à l’infini quand tu t’ennuies… mais qu’il file à toute vitesse quand tu passes un bon moment ? Cette impression que certaines tâches durent une éternité, alors qu’elles ne prennent que quelques minutes ?  
-Un travail découpé en mille petites actions, une attente sous tension, une tâche ingrate qui étire le temps…Et à l’inverse, une activité fluide ou stimulante qui semble filer à la vitesse de la lumière ?  
+Une action répétitive interminable, une attente tendue, une file d’attente qui n’en finit plus…
+Et à l’inverse, une activité stimulante qui disparaît en un éclair ?
 Bienvenue dans **la loi de Fraisse**.
 
-> La durée psychologique d’une activité dépend de sa structure : plus elle est complexe, segmentée ou peu engageante, plus elle paraît longue.
+> La durée psychologique d’une activité dépend de la manière dont notre attention y est engagée : plus elle est pauvre, subie ou répétitive, plus elle paraît longue.
 
 Autrement dit : **Le temps ne se mesure pas seulement en minutes, mais en intensité.
 Plus on vit pleinement, plus il semble court — et plus on s’ennuie, plus il s’étire.**
@@ -13,29 +14,28 @@ Bref : **Quand c’est pénible, ça traîne ; quand ça passionne, ça passe.**
 
 ## Pourquoi la loi de Fraisse est si parlante
 
-* Quand on s’ennuie ou qu’on attend avec impatience, le temps paraît interminable.
-* À l’inverse, quand on est plongé dans une activité stimulante, les heures disparaissent sans qu’on s’en rende compte.
-* C’est pour ça que le retour paraît plus court que l’aller : on connaît déjà le chemin, donc on anticipe moins.
-* Et que les vacances d’enfance semblaient durer une éternité, alors qu’à l’âge adulte, les années filent sans qu’on les voie passer.
+* Quand on s’ennuie, ou quand on attend quelque chose avec impatience, chaque seconde devient pesante. L’attention est tournée vers l’attente elle-même : le temps prend toute la place.
+* À l’inverse, quand on est plongé dans une activité riche, stimulante ou signifiante, notre attention absorbe l’expérience… et « oublie » de mesurer le temps
+* C’est aussi pour ça que le retour paraît plus court que l’aller : on connaît déjà le trajet, on traite moins d’informations nouvelles, donc notre cerveau « condense » l’expérience.
+* Et c’est la raison pour laquelle les vacances d’enfance semblaient durer longtemps : chaque moment était nouveau, dense, rempli de premières fois. À l’âge adulte, la nouveauté se raréfie, donc le temps s’accélère.
 
-En résumé, la loi de Fraisse nous montre que le temps ressenti dépend de notre niveau d’attention et d’engagement.  
-Le temps « ralentit » quand on s’ennuie, il « accélère » quand on vit.
+En résumé, la loi de Fraisse nous montre que **le temps ressenti dépend de la qualité de notre engagement**, pas de sa durée réelle.  
+Le temps ralentit quand rien ne nous nourrit. Il accélère quand on vit, vraiment.
 
 ## D’où vient la loi de Fraisse ?
 
-Cette idée vient de Paul Fraisse (1911–1996), psychologue français et l’un des pionniers de la psychologie du temps. Professeur à la Sorbonne et directeur du Laboratoire de psychologie expérimentale, il a consacré sa carrière à comprendre comment l’être humain perçoit, estime et structure le temps dans ses actions.
+Cette idée vient de Paul Fraisse (1911–1996), psychologue français et l’un des pionniers de la psychologie du temps. Professeur à la Sorbonne et directeur du Laboratoire de psychologie expérimentale, Fraisse a consacré ses recherches à une question simple et fondamentale : **comment l’être humain perçoit, structure et estime le temps au quotidien** ?
 
 Dans son ouvrage majeur, _Psychologie du temps_ (1967), Fraisse expose un principe essentiel :
 
-> Notre expérience du temps dépend de la qualité de notre engagement mental.
+> Notre expérience du temps dépend de la qualité de notre engagement ognitif et émotionnel.
 
-Autrement dit, **le temps psychologique s’étire ou se contracte selon notre intérêt**, notre concentration et nos émotions.  
-Plus une activité est riche, variée et signifiante, plus elle semble courte.  
-Plus elle est vide ou subie, plus elle paraît interminable.
+Plus une activité est riche (variée, stimulante, porteuse de sens), plus elle semble courte car l’attention reste absorbée par l’action.  
+Plus elle est subie, vide ou répétitive, plus elle paraît interminable car l’attention se porte… sur le temps lui-même. Autrement dit, **le temps psychologique s’étire ou se contracte selon notre intérêt**, notre concentration et nos émotions.
 
-Ce principe, devenu la loi de Fraisse, a influencé la psychologie cognitive, l’ergonomie, la gestion du temps, et même la conception d’expériences utilisateur (UX). Elle nous rappelle que le temps n’est pas un simple flux mesuré par l’horloge, mais une expérience intérieure.
+Ce concept, devenu la loi de Fraisse, irrigue encore aujourd’hui la psychologie cognitive, l’ergonomie, la gestion du travail, l’éducation, et même la conception d’expériences utilisateur (UX). Il nous rappelle que le temps n’est pas un simple flux mesuré par l’horloge, mais une expérience intérieure façonnée par l’attention et les émotions.
 
-En somme, la loi de Fraisse nous rappelle que **vivre intensément, c’est déjà rallonger sa vie**.
+En somme, la loi de Fraisse nous rappelle que : **Vivre intensément, ce n’est pas ajouter du temps à sa vie, mais donner de la vie à son temps.**
 
 ### Références
 

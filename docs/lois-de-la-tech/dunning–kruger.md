@@ -4,7 +4,7 @@ Tu as déjà discuté avec quelqu’un **qui en sait très peu**, mais qui parle
 Tu sais, ce moment où la personne la moins compétente dans un sujet est aussi celle qui affiche la plus grande confiance ?
 Félicitations, tu viens de vivre **l’effet Dunning–Kruger**.
 
-> **The less people know, the more they think they know — and the more competent they become, the more they realize what they don’t know.**
+> The less people know, the more they think they know — and the more competent they become, the more they realize what they don’t know.
 
 Autrement dit : **L’incompétence crée de la confiance… et la compétence crée du doute.**
 

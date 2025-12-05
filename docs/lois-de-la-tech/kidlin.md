@@ -17,7 +17,7 @@ Bref : **Écris le problème — la solution suivra**.
 * **Sur le papier, tout devient plus simple**. Ce qui semblait immense dans la tête devient soudain concret et gérable.
 * Et souvent, en cherchant à écrire le bon énoncé… **on découvre la solution en même temps**.
 
-Ce principe rejoint les mots de Boileau : « Ce qui se conçoit bien s’énonce clairement,Et les mots pour le dire arrivent aisément. »
+Ce principe rejoint les mots de Boileau : « Ce qui se conçoit bien s’énonce clairement, et les mots pour le dire arrivent aisément. »
 
 Autrement dit, **ce qui est compris s’exprime simplement**.
 
@@ -26,7 +26,7 @@ En résumé, la loi de Kidlin nous rappelle que l’écriture est un outil de cl
 ## D’où vient la loi de Kidlin ?
 
 La loi de Kidlin ne vient pas d’un chercheur, mais… d’un roman.
-Elle apparaît dans _Noble House_ (1966), de **James Clavell** (1924–1994), auteur britannique connu pour ses grandes fresques comme _Shōgun_ ou _King Rat_.
+Elle apparaît dans _Noble House_ (1981), de **James Clavell** (1924–1994), auteur britannique connu pour ses grandes fresques comme _Shōgun_ ou _King Rat_.
 
 Dans le livre, un personnage nommé Kidlin énonce ce principe de bon sens. Clavell ne l’a jamais présentée comme une loi scientifique, mais comme une **leçon de lucidité** : écrire pour comprendre.  
 Avec le temps, cette phrase a été extraite du roman et popularisée dans le monde du management et du développement personnel sous le nom de « Kidlin’s Law. »

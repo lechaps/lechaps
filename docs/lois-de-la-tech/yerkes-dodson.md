@@ -1,7 +1,9 @@
 # Yerkes-Dodson
 
-Tu as déjà remarqué que trop de pression fait tout dérailler ? Un peu de stress te motive, te concentre, t’aide à avancer. Mais quand la tension monte trop haut, tout s’effondre.  
-Bienvenue dans **la loi de Yerkes-Dodson**.
+Tu as déjà senti que **trop peu de pression te fait stagner**, alors que **trop de pression te fait imploser** ?  
+Ce phénomène est connu depuis plus d’un siècle : c’est la **loi de Yerkes-Dodson**.
+
+En psychologie, elle se résume ainsi :
 
 > The relationship between arousal and performance follows an inverted U-shaped curve.
 
@@ -9,60 +11,104 @@ Ou, plus communément
 
 > Performance increases with arousal only up to a point, after which it begins to decrease.
 
-Autrement dit : **Un peu de pression booste la performance, trop de pression la détruit — l’efficacité est maximale au juste milieu**.
+Autrement dit : **Un certain niveau d’activation te booste — trop d’activation te sabote.**.
 
 Bref : **Le stress n’est pas l’ennemi — c’est le dosage qui fait la différence**.
 
+Important : Yerkes-Dodson ne parle pas spécifiquement de *stress* mais d’**activation** (*arousal*). Celle-ci peut être positive (enthousiasme) ou négative (pression). Dans la vie réelle, les deux se confondent souvent — d’où l’intérêt du modèle.
+
 ## Pourquoi la loi de Yerkes-Dodson est si parlante
 
-* **Un peu de pression, c’est bien**. Elle te pousse à agir, te donne de l’énergie, t’aide à te dépasser.
-* **Trop de pression, c’est le crash**. L’attention se brouille, la fatigue s’installe, la performance chute.
-* **Tout est une question d’équilibre**. Le secret n’est pas d’éviter le stress, mais de le réguler.
+### 1. Parce qu’elle décrit un mécanisme universel : l’équilibre
 
-C’est ce qu’on appelle **le point optimal de stimulation** — ce moment où tu es concentré, confiant, motivé.  
-En dessous, tu t’endors.  
-Au-dessus, tu perds le contrôle.  
+* **Pas assez de stimulation** → ennui, procrastination, dispersion.
+* **Stimulation optimale** → clarté, présence, énergie stable.
+* **Trop de stimulation** → anxiété, agitation, erreurs, confusion.
 
-Et c’est valable partout :
+C’est le fameux **U inversé** : la performance augmente, atteint un sommet, puis redescend.
 
-* L’étudiant qui révise mieux à la veille de l’examen… jusqu’à paniquer le jour J.
-* Le salarié motivé par un challenge, puis écrasé par les deadlines.
-* L’athlète au sommet de sa concentration… puis paralysé par l'enjeu.
+### 2. Parce que le « bon niveau » est personnel et contextuel
 
-Mais il y a un point souvent oublié : **le niveau optimal n’est pas le même pour tout le monde, ni pour toute tâche.**  
-On tolère plus de stress pour une tâche simple et répétitive, moins pour une tâche créative ou complexe.
-C’est un curseur personnel, pas une règle universelle.
+Contrairement à ce qu'on croit souvent :
 
-### Comment trouver *ton* point optimal ?
+* Le **point optimal n’est pas le même pour tout le monde**.
+* Il **varie selon la tâche** :
 
-Voici un repère simple pour t’auto-calibrer :
+  * Les tâches simples tolèrent plus de pression.
+  * Les tâches complexes (analyse, créativité, stratégie) s’effondrent rapidement si la pression monte trop.
+* Il dépend aussi du **soutien**, de l’**autonomie**, des **ressources perçues** et de la **clarté** des objectifs.
+
+Ce n’est pas une règle universelle : c’est un **curseur personnel**, influencé par l’environnement.
+
+### 3. Parce qu’elle aide à distinguer stress utile vs stress toxique
+
+* **Eustress (stress utile)** → active, motive, soutient la performance.
+* **Distress (stress toxique)** → bloque, épuise, fait sortir de la courbe.
+
+Cette distinction est essentielle en management, en éducation, en sport comme dans la vie quotidienne.
+
+### 🚦 4. Parce qu’elle donne un outil pour s’auto-calibrer
+
+Un repère simple pour s’évaluer :
 
 | Sous-stimulation 💤 | Zone optimale 🔥        | Sur-stimulation ⚡  |
 | ------------------- | ----------------------- | ------------------ |
-| procrastination     | flow, clarté            | anxiété, agitation |
-| ennui               | énergie stable          | pertes de mémoire  |
-| dispersion          | concentration naturelle | erreurs, confusion |
+| procrastination     | flow, présence          | anxiété, agitation |
+| ennui               | énergie stable          | oublis, erreurs    |
+| dispersion          | concentration naturelle | confusion mentale  |
 
-Tu te situes trop bas ? ➜ Ajoute du challenge (deadline, enjeu, accountability).
-Tu montes trop haut ? ➜ Diminue la charge (respiration, pause, fractionnement des tâches).
+* Trop bas ? ➜ Ajoute du **challenge** (deadline, enjeu, accountability).
+* Trop haut ? ➜ Allège la **charge perçue** (pause, respiration, découpage).
 
-Ton objectif n’est pas de supprimer le stress, mais de surfer sur lui.
+Le but n’est pas de supprimer le stress, mais de **le dompter**.
 
 ## D’où vient la loi de Yerkes-Dodson ?
 
-Ce principe vient de deux psychologues américains : **Robert M. Yerkes** et **John D. Dodson**.
-En 1908, ils mènent une expérience sur des souris et découvrent quelque chose de fascinant : **La performance augmente avec le niveau de stimulation, mais seulement jusqu’à un certain point**. Au-delà, elle s’effondre.  
+### 1. Une expérience fondatrice (1908)
 
-Ils publient leurs résultats dans leur étude intitulée _The Relation of Strength of Stimulus to Rapidity of Habit-Formation_ publiée dans _The Journal of Comparative Neurology and Psychology_, et leur observation devient vite un pilier de la psychologie moderne.  
+En 1908, Robert Yerkes et John Dodson étudient des **souris** dans une tâche d’apprentissage simple.  
+Ils découvrent que :
 
-Depuis, **la courbe de Yerkes-Dodson** — en forme de U inversé — est devenue universelle :
+* Une stimulation plus forte → un apprentissage plus rapide…
+* … mais seulement jusqu’à un certain seuil.
+* Au-delà, la performance chute.
 
-* **En management**, elle explique que la motivation doit être stimulée sans devenir écrasante.
-* **En éducation**, elle montre qu’un peu de défi aide à apprendre.
-* **En sport ou en psychologie du travail**, elle aide à comprendre où se situe le point d’équilibre entre stress et performance.
+Ils publient leurs résultats dans *The Relation of Strength of Stimulus to Rapidity of Habit-Formation*, une étude qui deviendra un pilier de la psychologie moderne.
 
-En somme, la loi de Yerkes-Dodson nous rappelle une chose simple : **le stress n’est pas un poison, c’est une puissance**. Trop peu, tu t'éteins. Trop, tu imploses.  
-Entre les deux, tu deviens vraiment performant.
+### 2. Une interprétation élargie : le U inversé
+
+L’expérience originale ne concerne **ni l’humain**, **ni le stress**, **ni les tâches complexes**.  
+La version moderne — la courbe en U inversé — est une **généralisation** construite au fil des décennies, car elle permet d’expliquer de nombreux phénomènes :
+
+* motivation et performance au travail
+* concentration en sport
+* apprentissage et éducation
+* gestion du stress
+* dynamique du flow
+
+### 3. Un concept enrichi par les modèles contemporains
+
+De nombreux modèles actuels prolongent ou affinent Yerkes-Dodson :
+
+* **Théorie du flow** (Csikszentmihalyi)
+* **Catastrophe model** (Hardy)
+* **Stress appraisal theory** (Lazarus)
+* **Challenge vs threat states** (Blascovich)
+* **Job Demands–Resources model** (Bakker & Demerouti)
+
+Tous convergent vers une même idée : La performance dépend de l’équilibre entre **demandes** et **ressources**.
+
+### En résumé
+
+La loi de Yerkes-Dodson n’est pas une simple courbe : c’est une **grille de lecture du réel**.
+Elle t’aide à comprendre pourquoi :
+
+* Trop peu → tu t’éteins.
+* Trop → tu imploses.
+* Entre les deux → tu es vraiment performant.
+
+Le stress n’est pas un poison — c’est une **énergie**.
+L’enjeu n’est pas de l’éviter, mais de **bien le doser**.
 
 ### Références
 

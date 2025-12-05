@@ -1,40 +1,44 @@
 # Laborit
 
-Tu t’es déjà surpris à faire tout sauf la tâche que tu devais vraiment faire ?  
-Genre ranger ton bureau avant de bosser, faire un café avant de commencer, ou scroller « juste deux minutes » avant de t’y mettre ?  
-Bienvenue dans **la loi de Laborit**.
+Tu t’es déjà surpris à faire tout sauf la tâche que tu devais vraiment faire ?
+Ranger ton bureau avant de bosser, faire un café indispensable, ou scroller « juste deux minutes » avant de t’y mettre ?
+On associe souvent ça à ce qu’on appelle **la loi de Laborit**.
 
-> Devant la contrainte, l’organisme cherche le plaisir, fuit la douleur, et lorsque ni l’action ni la fuite ne sont possibles, il s’effondre dans l’inhibition.
+> **Face à une contrainte, l’organisme cherche le plaisir, fuit la douleur ; et lorsque ni l’action ni la fuite ne sont possibles, il s’inhibe.**
 
-Autrement dit : **Notre cerveau est programmé pour fuir l’effort et rechercher le confort immédiat**.
-
-Bref : **Quand l’action est impossible, le stress gagne**.
+Cette idée est souvent utilisée pour expliquer la procrastination.
+Mais derrière l’excuse facile « c’est mon cerveau », il y a en réalité **une réflexion bien plus profonde** sur notre rapport à l’action, au stress… et même à la société.
 
 ## Pourquoi la loi de Laborit est si parlante
 
-* Quand une tâche demande de l’énergie, ton cerveau la classe dans la catégorie « danger, dépense inutile ».
-* Il te pousse alors vers des activités plus agréables : un mail, une notif, une vidéo, un café.
-* Ce n’est pas de la paresse, c’est de la biologie : ton système nerveux cherche **la récompense rapide et évite l’inconfort**.
-* Résultat : on procrastine, on s’éparpille, et on remet à demain ce qui demande un vrai effort mental.
+* Quand une tâche semble coûteuse mentalement ou peu gratifiante, notre cerveau peut la percevoir comme « risque, dépense inutile ».
+* Il oriente alors vers des activités à récompense rapide : mails, café, notifications, petites actions faciles.
+* Ce n’est pas de la paresse : c’est un mécanisme biologique pour **économiser de l’énergie et éviter l’inconfort**.
+* Mais attention : Laborit ne parlait pas seulement de « flemme ». Il étudiait **l’inhibition provoquée par l’impossibilité d’agir** — une forme de stress bien plus profonde que de simples distractions.
+* Résultat : on procrastine, on s’éparpille… mais surtout, on se sent mal quand on **ne se sent pas libre d’agir vraiment**.
 
-Mais bonne nouvelle : comprendre ce mécanisme, c’est déjà commencer à le déjouer.
-La loi de Laborit nous rappelle que **la discipline n’est pas une question de volonté, mais de stratégie**.  
-Créer des rituels, découper les tâches, commencer petit — tout ce qui aide ton cerveau à voir l’effort comme une récompense, pas une menace.
+Comprendre ce mécanisme, c’est donc plus que « se discipliner » : c’est apprendre à **reprendre du contrôle sur l’action**.
 
-En résumé, notre cerveau **fuit la difficulté, mais c’est dans l’effort que se construit la satisfaction durable**.
+Créer des rituels, découper les tâches, commencer petit — tout ce qui rend l’effort plus accessible réduit la menace perçue, et **réactive la possibilité d’agir**.
+
+En résumé, notre cerveau évite l’inconfort immédiat, mais **le bien-être durable émerge lorsqu’on peut agir de façon libre et progressive**, et non sous contrainte.
 
 ## D’où vient la loi de Laborit ?
 
-Cette idée vient du docteur Henri Laborit (1914–1995), médecin, biologiste et neurophysiologiste français. Il a consacré sa vie à comprendre **pourquoi nous agissons — ou pourquoi nous n’agissons pas**.  
+Ce principe vient du docteur Henri Laborit (1914–1995), médecin, biologiste et neurophysiologiste français. Il a consacré ses recherches à comprendre **pourquoi nous agissons — et pourquoi nous n’agissons pas**.
 
-Dans _La Nouvelle Grille_ (1974) et _Éloge de la fuite_ (1976), Laborit explique que nos comportements sont guidés par **les systèmes de récompense et de punition du cerveau**. On agit pour **obtenir du plaisir ou éviter la douleur** — rarement par pur raisonnement logique.  
+Dans *La Nouvelle Grille* (1974) et *Éloge de la fuite* (1976), Laborit montre que nos comportements ne sont pas guidés uniquement par le plaisir et la douleur, mais aussi par **l’environnement qui permet, bloque ou sanctionne l’action**.
 
-Pour Laborit, la liberté commence quand on prend conscience de ces automatismes. Tant qu’on agit sous la dictature du confort et de la peur, on reste prisonnier de soi-même.  
-Apprendre à choisir consciemment l’effort, c’est retrouver une forme de maîtrise — sur son temps, son travail, sa vie.  
+Contrairement à ce qu’on retient souvent, il ne cherchait pas à booster la productivité individuelle, mais à expliquer comment **le manque de liberté d’action génère stress, inhibition, maladies et soumission sociale**.
 
-Ses travaux ont profondément marqué la neurobiologie, la psychologie du comportement et même le cinéma, notamment avec le film _Mon Oncle d’Amérique_ (1980) d’Alain Resnais, qui illustre ses théories avec brio.
+Pour Laborit, la liberté commence quand on devient conscient de ces conditionnements biologiques **et sociaux** : tant qu’on réagit automatiquement à la contrainte, au conformisme ou à la peur, on ne choisit pas vraiment.
 
-En somme, la loi de Laborit nous enseigne ceci : **le confort est tentant, mais la croissance commence là où l’effort fait peur**.
+⚠️ Ses travaux sont aujourd’hui considérés comme **inspirants mais partiellement simplifiés**, car ils extrapolent des expériences animales à l’humain. La « loi de Laborit » reste donc une **métaphore éclairante**, plus qu’une loi universelle.
+
+Son influence dépasse pourtant la science : le film *Mon Oncle d’Amérique* (1980) d’Alain Resnais illustre ces mécanismes de façon magistrale, mêlant comportement, inhibition et société.
+
+En somme, la loi de Laborit nous enseigne ceci :
+**le confort est naturel, mais la liberté et la croissance apparaissent seulement lorsque l’action redevient possible — par des conditions adaptées, et non par la force brute.**
 
 ### Références
 

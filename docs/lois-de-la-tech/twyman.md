@@ -1,81 +1,108 @@
 # Twyman
 
-Tu as déjà repéré une courbe spectaculaire, un chiffre qui “saute aux yeux”, un résultat trop beau (ou trop bizarre) pour être vrai ?  
-Un pic soudain dans des analytics, une performance hors norme, une métrique qui explose du jour au lendemain… et ton premier réflexe est de t’enthousiasmer — avant de réaliser que c’était juste un bug, un artefact, un mauvais import ?
+Tu as déjà repéré une courbe spectaculaire, un chiffre qui “saute aux yeux”, un résultat trop beau (ou trop bizarre) pour être vrai ? Un pic soudain dans des analytics, une performance hors norme, une métrique qui explose du jour au lendemain… et ton premier réflexe est de t’enthousiasmer — avant de réaliser que c’était juste un bug, un artefact, un mauvais import ?
 
 Bienvenue dans **la loi de Twyman**.
 
 > Any figure that looks interesting or different is usually wrong.
 
-Autrement dit : **Si un chiffre attire ton attention, commence par suspecter une erreur — les données spectaculaires sont souvent des illusions**.
+Autrement dit :
+**Si un chiffre attire ton attention, commence par suspecter une erreur — les données spectaculaires sont souvent des illusions.**
 
-Bref : **Si une statistique, un graphique ou un chiffre te semble trop beau pour être vrai… il y a de bonnes chances qu’il ne soit pas vrai**.
-
-La loi de Twyman nous met en garde contre un biais très humain :
-**quand une donnée attire trop notre attention, c’est souvent parce qu’elle contient une erreur de mesure, de méthodologie, d’interprétation… ou simplement parce qu’elle est mal comprise**.
-
-Nous sommes attirés par l’inhabituel, le spectaculaire, l’exceptionnel — mais en data, ce sont souvent les premiers signes qu’il y a un problème.
+Mais nuance importante : Twyman ne dit pas que ces chiffres sont faux.
+Il dit qu’ils doivent être **vérifiés avant d’être interprétés**.
+La surprise n’est pas une victoire. C’est un **signal d’enquête.**
 
 ## Pourquoi la loi de Twyman est si parlante
 
-* Une donnée « wow » n’est pas un cadeau, c’est un **signal d’alarme**.
+* Une donnée « wow » n’est pas un cadeau, c’est un **risque d’erreur à contrôler.**
 * Les chiffres surprenants cachent souvent :
 
   * une erreur de calcul,
-  * un filtrage incorrect,
-  * un bug dans la collecte,
-  * un biais dans l’échantillon,
-  * une interprétation abusive,
-  * ou simplement un **mauvais graphique**.
-* Les anomalies attirent l’œil… mais ce sont les éléments **à vérifier en priorité**.
-* C’est aussi une invitation à la prudence : **la surprise est l’ennemie de l’analyse**.
+  * un bug de collecte,
+  * un mauvais filtrage,
+  * un échantillon biaisé,
+  * un graphique trompeur,
+  * une interprétation trop rapide.
+* Les anomalies attirent l’œil, mais ce sont les éléments **à vérifier en premier.**
+* Le cerveau adore “compléter” l’histoire trop vite : c’est notre biais.
 
-En résumé : la loi de Twyman nous rappelle que **les données fiables sont souvent ennuyeuses**.
-Si quelque chose brille trop, il faut se demander pourquoi.
+En résumé : **une donnée spectaculaire peut être soit un bug… soit une opportunité. Ce n’est pas le chiffre qui décide, c’est l’enquête.**
 
-## Exemple simple
+## Exemple simple… et ses deux issues
 
-Tu analyses les ventes d’un site e-commerce.
-Tout est stable, puis soudain : **+500 % en un jour**.
+Tu analyses les ventes d’un site e-commerce. Tout est stable, puis soudain : **+500 % en un jour**.
 
-Incroyable ?
-Oui.
-Crédible ?
-Probablement pas.
+Incroyable ?  
+Oui.  
+Crédible ?  
+Pas sans enquête.
 
-Les vraies explications possibles :
+### 🧯 **Le faux signal**
 
-* un événement mal tagué,
-* un problème de fuseau horaire,
-* une duplication d’entrées,
-* un bug de tracking,
-* une mauvaise agrégation.
+* problème de fuseau horaire,
+* duplication d’entrées,
+* tracking dégradé,
+* mauvais tag campagne,
+* agrégation erronée.
 
-La loi de Twyman nous dit : **avant de célébrer, vérifie**.
+Dans ce cas : on corrige, on nettoie, on documente.
+
+### 💎 **Le vrai signal**
+
+* un influenceur a parlé du site,
+* une campagne a explosé en viralité,
+* une promo a touché un public inattendu,
+* un élément produit a boosté la conversion.
+
+Dans ce cas : on exploite, on scale, on investit.
+
+**Twyman ne coupe pas l’enthousiasme. Il lui crée un filtre.**
+
+## Comment appliquer Twyman (check-list opérationnelle)
+
+Pour tout chiffre “trop beau pour être vrai” :
+
+> 1. **Vérifier la source** (tracking, tagging, instrumentation).
+> 2. **Rejouer le calcul** (même formule, autre outil).
+> 3. **Tester les filtres** (par segment, device, canal, période).
+> 4. **Comparer au baseline** (moyenne, médiane, saisonnalité).
+> 5. **Chercher l’explication externe** (campagne, actu, promo).
+> 6. **Chercher l’erreur avant l’histoire.**
+
+Si le chiffre résiste à cette check-list, ce n’est plus un “bug probable”.
+**C’est un insight exploitable.**
 
 ## D’où vient la loi de Twyman ?
 
-La loi de Twyman porte le nom de **Tony Twyman**, un spécialiste britannique des mesures d’audience et de la communication.
+La loi porte le nom de **Tony Twyman**, spécialiste britannique de la mesure d’audience.
+Twyman a passé sa carrière à disséquer les fluctuations d’audience dans les médias.
+Il observe systématiquement que :
 
-Twyman a passé sa carrière à analyser des données complexes, notamment pour la télévision et les médias.
-Il a observé un phénomène systématique : **les chiffres les plus impressionnants étaient presque toujours des erreurs**.
+> Les chiffres les plus “spectaculaires” étaient, dans la majorité des cas, des erreurs de mesure.
 
-Il formule alors, dans les années 1980, un principe simple et pragmatique :
+La phrase n’a pas été publiée comme loi scientifique formelle, mais elle est devenue **un principe méthodologique partagé**, aujourd’hui enseigné en :
 
-> Lorsque quelque chose attire ton attention dans les données, c’est que tu dois la vérifier encore plus.
+* dataviz,
+* data science,
+* marketing,
+* A/B testing,
+* recherche,
+* prise de décision data-driven.
 
-Depuis, la loi de Twyman est devenue un **classique de l’analyse de données**, aux côtés de la loi de Brandolini, de Hanlon, de Goodhart ou de Murphy.
+Twyman fait partie d’un ensemble de “règles d’hygiène intellectuelle” :
 
-Elle est souvent citée dans :
+* **Twyman** : si une donnée attire l’œil, vérifie-la avant de l’interpréter.
+* **Goodhart** : une métrique perd sa valeur si on en fait un objectif.
+* **Brandolini** : réfuter l’erreur coûte plus cher que la créer.
+* **Hanlon** : l’erreur est plus probable que la malveillance.
+* **Murphy** : ce qui peut mal tourner… finira par mal tourner.
 
-* la dataviz,
-* l’analyse statistique,
-* la recherche scientifique,
-* le marketing,
-* la data science,
-* la prise de décision data-driven.
+Toutes rappellent que **les données ne disent pas quoi penser. Elles indiquent où chercher.**
 
-En somme, la loi de Twyman nous rappelle que **la curiosité est une qualité… mais la vigilance l’est encore plus**.
+Les chiffres ne parlent pas.
+Ils chuchotent.
+**Et quand ils crient, il faut vérifier s’ils mentent… ou s’ils nous préviennent.**
 
 ### Références
 
