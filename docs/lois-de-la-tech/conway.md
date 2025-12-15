@@ -1,35 +1,147 @@
 # Conway
 
-Tu as déjà remarqué comme les produits d’une entreprise ressemblent souvent… à son organisation interne ?  
-Des équipes qui ne se parlent pas ? Tu obtiens des outils qui ne se connectent pas.  
-Des services en silos ? Tu obtiens un produit fragmenté.  
+Tu as déjà remarqué comme les produits d'une entreprise ressemblent souvent… à son organisation interne ?
+Des équipes qui ne se parlent pas ? Tu obtiens des outils qui ne se connectent pas.
+Des services en silos ? Tu obtiens un produit fragmenté.
+
 Bienvenue dans **la loi de Conway**.
 
-> Any organization that designs a system will produce a design whose structure is a copy of the organization’s communication structure.
+> *Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure.*
 
-Autrement dit : **Ton système est le miroir de ton organisation. Si tes équipes sont en silos, ton architecture le sera aussi. Si la communication est chaotique, ton design le sera tout autant**.
+Autrement dit : **l'architecture d'un système tend à refléter la manière dont les équipes communiquent pour le construire**.  
+Si les équipes sont en silos, l'architecture le sera souvent aussi.
+Si la communication est fluide et cohérente, le produit a de fortes chances de l'être également.
 
-Bref : **On construit ce qu'on est**.
+Bref : **on a tendance à construire ce qu'on est** — ou, plus précisément, **ce qu'on pratique au quotidien**.
 
-## Pourquoi la loi de Conway est si parlante
+## Ce que dit vraiment la loi de Conway
 
-* Une entreprise **divisée en équipes indépendantes crée souvent des systèmes cloisonnés**.
-* Si la communication interne est lourde, le logiciel finit par être tout aussi complexe.
-* Plusieurs groupes sur un même projet ? Le résultat sera **un assemblage de modules qui reflètent ces divisions**.
-* Bref : l’organisation interne façonne le produit final, **qu’on le veuille ou non**.
+La loi de Conway n'est pas une règle technique, ni d'architecture. C'est une **observation sociotechnique**.
 
-En résumé, la loi de Conway nous rappelle que **la structure d’un projet n’est jamais neutre** : elle porte la marque de la façon dont les gens collaborent à l’intérieur de l’entreprise.
+Elle ne dit pas :
 
-## D’où vient la loi de Conway ?
+> "Vous devez organiser vos équipes de cette façon."
 
-Cette idée a été formulée par Melvin E. Conway, un informaticien américain, en 1967, dans un article intitulé _How Do Committees Invent?_, publié dans le magazine _Datamation_.  
-Il y observe que les systèmes conçus par une organisation reflètent naturellement ses schémas de communication internes.  
+Elle dit :
 
-Quelques années plus tard, Fred Brooks popularise le concept dans son livre culte The Mythical Man-Month (1975). Il montre que la structure d’une équipe influence directement la structure logicielle — et que repenser les équipes, c’est parfois la clé pour simplifier le produit.  
+> "Quoi que vous fassiez, votre organisation laissera une empreinte sur votre système."
 
-Aujourd’hui, la loi de Conway dépasse le monde du logiciel : on la retrouve dans le management, le design organisationnel, et même dans la culture d’entreprise. Car au fond, elle parle **de l’humain derrière les systèmes**.  
+Quelques constats récurrents :
 
-En somme, la loi de Conway nous rappelle qu’**on ne peut pas construire un système cohérent dans une organisation qui ne l’est pas**.
+* Une organisation **découpée en équipes indépendantes** produit souvent des systèmes cloisonnés.
+* Une communication lourde, hiérarchique ou fragmentée se traduit par des architectures complexes.
+* Plusieurs groupes travaillant sur un même produit aboutissent fréquemment à un assemblage de modules qui reflètent leurs frontières.
+* À l'inverse, des équipes alignées sur un objectif commun tendent à produire des systèmes plus cohérents.
+
+La loi de Conway ne juge pas.  
+Elle **décrit une force invisible mais persistante** : la structure humaine façonne la structure technique.
+
+## Une loi descriptive, pas une fatalité
+
+C'est un point crucial : **la loi de Conway est descriptive, pas déterministe**.
+
+Elle n'affirme pas qu'il est impossible de construire une bonne architecture dans une organisation imparfaite.  
+Elle dit que, **sans effort conscient**, l'architecture finira par refléter la structure humaine existante.
+
+Autrement dit :
+
+* Conway agit par défaut.
+* L'ignorer, c'est le subir.
+
+Certaines organisations parviennent à produire des architectures cohérentes malgré des structures complexes — mais jamais par hasard.
+Elles compensent par :
+
+* des règles d'architecture explicites,
+* des mécanismes de coordination,
+* ou des choix organisationnels volontaires.
+
+La loi de Conway ne condamne pas : **elle met en lumière le coût de l'incohérence organisationnelle**.
+
+## Quand l'organisation décide de l'architecture (sans le vouloir)
+
+Sans intention claire, l'organisation prend les décisions à la place des architectes :
+
+* les microservices suivent les équipes plutôt que les domaines,
+* les APIs reflètent les frontières hiérarchiques,
+* les dépendances techniques reproduisent les dépendances managériales.
+
+Ce n'est pas toujours un problème… tant que c'est assumé.
+Le vrai risque apparaît lorsque l'architecture subit l'organisation **sans que personne ne l'ait réellement conçue**.
+
+## Quand l'architecture influence l'organisation (le "reverse Conway")
+
+La relation n'est pas toujours à sens unique.
+
+De plus en plus d'organisations utilisent consciemment Conway **à l'envers** :
+
+* elles définissent une architecture cible avec les domaines et leurs frontières,
+* elles conçoivent des interfaces claires entre ces domaines,
+* puis elles structurent les équipes pour servir cette architecture.
+
+C'est ce qu'on appelle parfois le *reverse Conway maneuver* :
+
+> *Si l'organisation façonne le système, alors changeons l'organisation pour obtenir le système voulu.*
+
+Exemples classiques :
+
+* équipes alignées sur des "bounded contexts" métier,
+* ownership clair par domaine,
+* équipes autonomes mais interopérables.
+
+Dans ces cas-là, Conway ne disparaît pas —
+👉 **il devient un levier de design**.
+
+## Ce que la loi de Conway nous apprend vraiment
+
+Au fond, la loi de Conway ne parle pas de logiciels.
+Elle parle **d'humains qui collaborent**.
+
+Elle nous rappelle que :
+
+* l'architecture n'est jamais neutre,
+* les organigrammes sont aussi des choix techniques,
+* et qu'on ne peut pas durablement séparer "problèmes humains" et "problèmes techniques".
+
+Un système complexe est souvent le symptôme :
+
+* d'arbitrages organisationnels non résolus,
+* de responsabilités floues,
+* ou de communications contraintes.
+
+L'architecture ne se limite plus à :
+
+* des diagrammes,
+* des patterns,
+* des choix technologiques.
+
+Elle implique aussi :
+
+* le design des flux de communication,
+* la clarification des responsabilités,
+* le dialogue avec le management.
+
+Un architecte ne conçoit pas seulement un système.
+👉 **Il conçoit les conditions humaines qui rendent ce système viable dans le temps.**
+
+## En conclusion
+
+La loi de Conway ne dit pas :
+
+> "Votre organisation est mauvaise, votre produit le sera aussi."
+
+Elle dit :
+
+> **"Votre produit raconte une histoire sur la façon dont vous travaillez ensemble."**
+
+On peut subir cette histoire.
+Ou décider consciemment de l'écrire.
+
+Car si Conway agit toujours, **la vraie question devient** :
+
+> *Quelle structure humaine voulons-nous voir se refléter dans l'architecture de nos systèmes ?*
+
+Et cette question dépasse largement le code.
+C'est un choix de design organisationnel.
 
 ### Références
 

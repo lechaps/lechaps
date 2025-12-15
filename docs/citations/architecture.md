@@ -12,7 +12,7 @@ Winston Churchill
 
 ---
 
-> One of the most dangerous phrases in the English language is: “We’ve always done it this way.”
+> One of the most dangerous phrases in the English language is: "We've always done it this way."
 
 Grace Hopper
 

@@ -2,12 +2,12 @@
 
 ## Définition
 
-Terme d’argot utilisé pour désigner les pieds, et par métonymie, les orteils. Ce mot appartient au langage familier et populaire, souvent employé de manière humoristique ou dans des contextes informels.
+Terme d'argot utilisé pour désigner les pieds, et par métonymie, les orteils. Ce mot appartient au langage familier et populaire, souvent employé de manière humoristique ou dans des contextes informels.
 
 ## Exemple
 
 _J'm'en va m'tailler les arpions._
-> Je vous prie de bien vouloir m’excuser, mais il m’est nécessaire de m’absenter afin de procéder à la coupe de mes ongles de pieds.
+> Je vous prie de bien vouloir m'excuser, mais il m'est nécessaire de m'absenter afin de procéder à la coupe de mes ongles de pieds.
 
 ## Équivalent
 
@@ -15,7 +15,7 @@ Pieds, orteils.
 
 ## Origine
 
-Le mot arpion provient de l’argot et illustre une désignation imagée et décontractée des pieds ou des orteils. Il est couramment utilisé dans des expressions colorées, traduisant une certaine familiarité avec le corps ou les situations du quotidien.
+Le mot arpion provient de l'argot et illustre une désignation imagée et décontractée des pieds ou des orteils. Il est couramment utilisé dans des expressions colorées, traduisant une certaine familiarité avec le corps ou les situations du quotidien.
 
 ## Lien
 

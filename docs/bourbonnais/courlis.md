@@ -6,8 +6,8 @@ Petit oiseau des marais et des rivages, reconnaissable à son long bec arqué. D
 
 ## Exemples
 
-_T’es sec comme un courlis._
-> Vous êtes d’une extrême maigreur, l’on distingue presque vos os sous votre peau.
+_T'es sec comme un courlis._
+> Vous êtes d'une extrême maigreur, l'on distingue presque vos os sous votre peau.
 
 ## Équivalents
 
@@ -15,7 +15,7 @@ Oiseau des marais ; par extension : maigre comme un clou, décharné.
 
 ## Origine
 
-Le **courlis** (latin *curlew*) doit son nom à son cri caractéristique. Présent dans les zones humides, il a marqué l’imaginaire rural par sa silhouette fine et élancée, d’où son emploi figuré pour qualifier quelqu’un de très maigre.
+Le **courlis** (latin *curlew*) doit son nom à son cri caractéristique. Présent dans les zones humides, il a marqué l'imaginaire rural par sa silhouette fine et élancée, d'où son emploi figuré pour qualifier quelqu'un de très maigre.
 
 ## Lien
 

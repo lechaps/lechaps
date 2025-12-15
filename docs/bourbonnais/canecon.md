@@ -2,12 +2,12 @@
 
 ## Définition
 
-Terme familier désignant un caleçon, souvent évoqué dans un contexte humoristique ou affectueux. Le mot est particulièrement utilisé pour parler d’un sous-vêtement bien usé ou associé à une image décontractée et simple, avec une prononciation qui trahit un usage populaire et régional.
+Terme familier désignant un caleçon, souvent évoqué dans un contexte humoristique ou affectueux. Le mot est particulièrement utilisé pour parler d'un sous-vêtement bien usé ou associé à une image décontractée et simple, avec une prononciation qui trahit un usage populaire et régional.
 
 ## Exemple
 
 _Ça caille tellement que j'ai mis le caneçon long !_
-> Il fait un froid si mordant que j’ai dû rallonger les jambes de mes sous-vêtements pour m’en protéger.
+> Il fait un froid si mordant que j'ai dû rallonger les jambes de mes sous-vêtements pour m'en protéger.
 
 ## Équivalent
 

@@ -1,6 +1,6 @@
 # Savoir-être
 
-> J’essaye de ne pas vivre en contradiction avec les idées que je ne défends pas
+> J'essaye de ne pas vivre en contradiction avec les idées que je ne défends pas
 
 Pierre Desproges
 
@@ -24,7 +24,7 @@ Upton Sinclair
 
 ---
 
-> Le mensonge prends l’ascenseur, la vérité prend l’escalier
+> Le mensonge prends l'ascenseur, la vérité prend l'escalier
 
 Proverbe africain (cité par Tiken Jah Fakoly)
 

@@ -14,7 +14,7 @@ Ces carnets sont un **mélange des genres à mon image**.
 
 > Mon dictionnaire amoureux du patois bourbonnais  
 > Des mots entendus dans mon enfance, transmis de bouche à oreille, entre champs, repas de famille et histoires de village.  
-> Un projet vivant pour préserver la langue, la culture et la malice d’un coin de pays.
+> Un projet vivant pour préserver la langue, la culture et la malice d'un coin de pays.
 
 🔹 [Feuilleter le carnet](./bourbonnais/index.md)  
 
@@ -22,9 +22,9 @@ Ces carnets sont un **mélange des genres à mon image**.
 
 ### 🧠 HumanOps
 
-> Quand la technique rencontre l’humain.  
+> Quand la technique rencontre l'humain.  
 > Ici, je partage des réflexions sur le management, la coopération et la simplicité dans les systèmes complexes.  
-> Parce qu’un système ne tient debout que si ceux qui le font tourner tiennent eux aussi.
+> Parce qu'un système ne tient debout que si ceux qui le font tourner tiennent eux aussi.
 
 🔹 [Plonger dans le carnet](./bourbonnais/index.md)
 
@@ -33,7 +33,7 @@ Ces carnets sont un **mélange des genres à mon image**.
 ### 💡 Les lois de la tech
 
 > Des lois, paradoxes et principes qui expliquent pourquoi nos projets — et parfois nos vies numériques — fonctionnent comme ils fonctionnent.  
-> Un mélange de rigueur et d’ironie, à la croisée de la science, de la société et de la tech.
+> Un mélange de rigueur et d'ironie, à la croisée de la science, de la société et de la tech.
 
 🔹 [Décoder le carnet](./lois-de-la-tech/index.md)
 
@@ -41,8 +41,8 @@ Ces carnets sont un **mélange des genres à mon image**.
 
 ### 💬 Citations & inspirations
 
-> Des phrases, des idées, des clins d’œil qui m’accompagnent au quotidien.  
-> De l’architecture au savoir-être, un espace pour nourrir la pensée et la curiosité.
+> Des phrases, des idées, des clins d'œil qui m'accompagnent au quotidien.  
+> De l'architecture au savoir-être, un espace pour nourrir la pensée et la curiosité.
 
 🔹 [Butiner le carnet](./citations/index.md)
 
@@ -60,7 +60,7 @@ Synonime de Découvrir
 * **Voyager dans** → poétique, immersif
 * **Flâner dans** → convivial, calme, à ton image
 * **Cheminer à travers** → suggère la réflexion progressive
-* **Explorer les sentiers de** → clin d’œil au Bourbonnais 😉
+* **Explorer les sentiers de** → clin d'œil au Bourbonnais 😉
 * **Entrer dans** → simple et direct
 
 ## ⚙️ Réflexion & profondeur
@@ -99,4 +99,4 @@ Synonime de Découvrir
 
 ---
 
-🧭 Merci d’être passé — et bonne balade dans mes mots, mes mondes et mes idées 🌿
+🧭 Merci d'être passé — et bonne balade dans mes mots, mes mondes et mes idées 🌿

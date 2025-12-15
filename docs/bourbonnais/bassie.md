@@ -7,7 +7,7 @@ Désigne une **arrière-cuisine**, une pièce adjacente à la cuisine principale
 ## Exemple
 
 _Va m'cher l'fromage à la bassie._
-> Auriez-vous l’amabilité de m’apporter le fromage depuis l’arrière-cuisine.
+> Auriez-vous l'amabilité de m'apporter le fromage depuis l'arrière-cuisine.
 
 ## Équivalent
 

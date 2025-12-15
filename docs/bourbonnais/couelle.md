@@ -2,17 +2,17 @@
 
 ## Définition
 
-1. **Paire de sabots** : Dans le langage rural, une **couelle** désigne une paire de sabots en bois, les chaussures traditionnelles du paysan. Le terme englobe l’idée de la paire entière, et non pas le sabot pris isolément.
+1. **Paire de sabots** : Dans le langage rural, une **couelle** désigne une paire de sabots en bois, les chaussures traditionnelles du paysan. Le terme englobe l'idée de la paire entière, et non pas le sabot pris isolément.
 
-2. **Petite pierre à aiguiser la faux** : Par extension, *couelle* désigne également une **petite pierre à aiguiser**, que l’on emporte dans son étui accroché à la ceinture pour redonner du tranchant à la faux en plein travail.
+2. **Petite pierre à aiguiser la faux** : Par extension, *couelle* désigne également une **petite pierre à aiguiser**, que l'on emporte dans son étui accroché à la ceinture pour redonner du tranchant à la faux en plein travail.
 
 ## Exemples
 
 1. _Enfile ta couelle, on va aux champs._
    > Chaussez vos sabots, nous allons nous rendre aux champs pour y travailler.
 
-2. _Attends un brin, faut que j’passe la faux à la couelle._
-   > Patientez un instant, je dois aiguiser ma faux à l’aide de la petite pierre.
+2. _Attends un brin, faut que j'passe la faux à la couelle._
+   > Patientez un instant, je dois aiguiser ma faux à l'aide de la petite pierre.
 
 ## Équivalents
 
@@ -25,4 +25,4 @@ Le mot **couelle** appartient au parler paysan et illustre la richesse du vocabu
 
 ## Lien
 
-* Aucune référence externe n’est connue.
+* Aucune référence externe n'est connue.

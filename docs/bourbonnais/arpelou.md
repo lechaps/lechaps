@@ -2,7 +2,7 @@
 
 ## Définition
 
-Terme utilisé pour désigner une personne rusée, trompeuse ou envahissante, souvent perçue comme agaçante ou générant du désordre par son agitation ou son comportement bruyant. Dans ce cas, l’emploi de arpelou est empreint de mépris ou d’exaspération.
+Terme utilisé pour désigner une personne rusée, trompeuse ou envahissante, souvent perçue comme agaçante ou générant du désordre par son agitation ou son comportement bruyant. Dans ce cas, l'emploi de arpelou est empreint de mépris ou d'exaspération.
 
 ## Exemple
 

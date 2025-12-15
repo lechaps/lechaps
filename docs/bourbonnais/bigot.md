@@ -2,7 +2,7 @@
 
 ## Définition
 
-Désigne une pioche à deux dents, utilisée principalement pour extraire des pommes de terre ou d’autres tubercules du sol. Cet outil est indispensable dans les travaux agricoles nécessitant un labourage précis et respectueux des récoltes.
+Désigne une pioche à deux dents, utilisée principalement pour extraire des pommes de terre ou d'autres tubercules du sol. Cet outil est indispensable dans les travaux agricoles nécessitant un labourage précis et respectueux des récoltes.
 
 ## Exemple
 
@@ -15,7 +15,7 @@ Fourche-bêche, pioche à deux dents.
 
 ## Origine
 
-Le mot _bigot_ reflète l’importance des outils spécifiques dans les pratiques paysannes pour des tâches précises, comme le déterrage des tubercules.
+Le mot _bigot_ reflète l'importance des outils spécifiques dans les pratiques paysannes pour des tâches précises, comme le déterrage des tubercules.
 
 ## Lien
 

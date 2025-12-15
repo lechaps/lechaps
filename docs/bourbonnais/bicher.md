@@ -2,7 +2,7 @@
 
 ## Définition
 
-Verbe signifiant **embrasser**, dans le sens de faire la bise pour saluer ou manifester de l’affection. Ce terme souvent utilisé dans des contextes amicaux ou familiaux.
+Verbe signifiant **embrasser**, dans le sens de faire la bise pour saluer ou manifester de l'affection. Ce terme souvent utilisé dans des contextes amicaux ou familiaux.
 
 ## Exemple
 

@@ -2,12 +2,12 @@
 
 ## Définition
 
-Désigne le fait de se **cogner** ou de **heurter** quelque chose, volontairement ou par accident. Ce terme est souvent employé dans un registre familier pour exprimer un choc, qu’il soit mineur ou plus conséquent.
+Désigne le fait de se **cogner** ou de **heurter** quelque chose, volontairement ou par accident. Ce terme est souvent employé dans un registre familier pour exprimer un choc, qu'il soit mineur ou plus conséquent.
 
 ## Exemple
 
 _Bordel j'ai beugné la bagnole en la sortant de l'hangar._
-> Saperlipopette, j’ai malencontreusement heurté ma voiture en la manoeuvrant hors de son aire de stationnement.
+> Saperlipopette, j'ai malencontreusement heurté ma voiture en la manoeuvrant hors de son aire de stationnement.
 
 ## Équivalent
 

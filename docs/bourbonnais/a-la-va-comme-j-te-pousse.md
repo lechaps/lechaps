@@ -7,7 +7,7 @@ Expression utilisée pour qualifier une action réalisée rapidement, sans soin 
 ## Exemple
 
 _R'garde moi ça ! Il y a fait à la va comme j'te pousse._
-> Il convient d’admettre que je demeure peu convaincu par le fruit de ses travaux compte tenu du faible entrain dont il a fait montre.
+> Il convient d'admettre que je demeure peu convaincu par le fruit de ses travaux compte tenu du faible entrain dont il a fait montre.
 
 ## Équivalent
 

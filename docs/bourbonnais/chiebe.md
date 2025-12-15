@@ -2,14 +2,14 @@
 
 ## Définition
 
-1. **Chèvre** : Dans son sens premier, *chièbe* est une variante dialectale pour désigner une **chèvre**, l’animal domestique bien connu des campagnes.
+1. **Chèvre** : Dans son sens premier, *chièbe* est une variante dialectale pour désigner une **chèvre**, l'animal domestique bien connu des campagnes.
 
-2. **Outil en bois** : Par extension, *chièbe* désigne également un **chevalet en bois en forme de X**, utilisé pour maintenir le bois lors de la coupe. Cet emploi est lié à l’analogie entre l’animal et l’outil, tous deux servant d’appui.
+2. **Outil en bois** : Par extension, *chièbe* désigne également un **chevalet en bois en forme de X**, utilisé pour maintenir le bois lors de la coupe. Cet emploi est lié à l'analogie entre l'animal et l'outil, tous deux servant d'appui.
 
 ## Exemples
 
 1. _La chièbe est encore montée sur le mur, s'te carne !_
-   > La chèvre s’est encore juchée sur le muret, cette espiègle créature.
+   > La chèvre s'est encore juchée sur le muret, cette espiègle créature.
 
 2. *Pose les bûches sur la chièbe, on va les tronçonner.*
    > Disposez les bûches sur le chevalet, nous allons procéder à leur sciage.
@@ -25,4 +25,4 @@ Le mot **chièbe** illustre le passage fréquent du vocabulaire animalier au voc
 
 ## Lien
 
-* Aucune référence externe n’est connue.
+* Aucune référence externe n'est connue.

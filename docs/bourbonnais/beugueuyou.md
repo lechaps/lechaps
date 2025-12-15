@@ -15,7 +15,7 @@ Bavard, moulin à paroles, pipelette.
 
 ## Origine
 
-Le mot exprime de manière imagée l’idée d’un flux ininterrompu de paroles souvent inutiles ou redondantes, avec une tonalité humoristique, moqueuse, voire critique.
+Le mot exprime de manière imagée l'idée d'un flux ininterrompu de paroles souvent inutiles ou redondantes, avec une tonalité humoristique, moqueuse, voire critique.
 
 ## Lien
 

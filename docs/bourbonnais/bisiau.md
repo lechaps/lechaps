@@ -2,7 +2,7 @@
 
 ## Définition
 
-1. Bourgeois ou petite noblesse rurale : Utilisé pour désigner une personne aisée, souvent avec une pointe d’ironie ou de moquerie, pour souligner une attitude fière ou prétentieuse.
+1. Bourgeois ou petite noblesse rurale : Utilisé pour désigner une personne aisée, souvent avec une pointe d'ironie ou de moquerie, pour souligner une attitude fière ou prétentieuse.
 2. Vent glacial : Désigne un vent froid et coupant, soufflant "de travers" et souvent désagréable, typique des régions exposées.
 
 ## Exemple
@@ -24,7 +24,7 @@ _J'ai la goutte au nez avec ce vent de bisiau._
 
 ## Origine
 
-Le mot _bisiau_ reflète à la fois des réalités sociales et climatiques. Dérivé de bise, il désigne un vent glacial et sec, enrichi de nuances locales liées à son intensité et sa direction. Par extension, il s’applique aussi à la petite noblesse ou bourgeoisie rurale, témoignant d’un imaginaire populaire où nature et société s’entrelacent.
+Le mot _bisiau_ reflète à la fois des réalités sociales et climatiques. Dérivé de bise, il désigne un vent glacial et sec, enrichi de nuances locales liées à son intensité et sa direction. Par extension, il s'applique aussi à la petite noblesse ou bourgeoisie rurale, témoignant d'un imaginaire populaire où nature et société s'entrelacent.
 
 ## Lien
 

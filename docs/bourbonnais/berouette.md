@@ -2,12 +2,12 @@
 
 ## Définition
 
-Terme familier utilisé pour désigner une **brouette**, un outil manuel doté d’une roue unique à l’avant et de poignées à l’arrière, utilisé pour transporter des charges.
+Terme familier utilisé pour désigner une **brouette**, un outil manuel doté d'une roue unique à l'avant et de poignées à l'arrière, utilisé pour transporter des charges.
 
 ## Exemple
 
 _Va m'cher la berouette !_
-> Auriez-vous l’amabilité de m’apporter votre brouette ?
+> Auriez-vous l'amabilité de m'apporter votre brouette ?
 
 ## Équivalent
 

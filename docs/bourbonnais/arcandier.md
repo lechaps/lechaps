@@ -2,7 +2,7 @@
 
 ## Définition
 
-Terme désignant un homme incapable de produire un travail sérieux ou de qualité, souvent utilisé pour critiquer quelqu’un considéré comme paresseux, négligent ou peu fiable. Par extension, un arcandier peut aussi être perçu comme un trompeur, un bonimenteur, voire un escroc, suggérant une tendance à abuser de la confiance d’autrui. L’emploi du mot est généralement péjoratif, teinté d’une pointe de sarcasme ou de reproche.
+Terme désignant un homme incapable de produire un travail sérieux ou de qualité, souvent utilisé pour critiquer quelqu'un considéré comme paresseux, négligent ou peu fiable. Par extension, un arcandier peut aussi être perçu comme un trompeur, un bonimenteur, voire un escroc, suggérant une tendance à abuser de la confiance d'autrui. L'emploi du mot est généralement péjoratif, teinté d'une pointe de sarcasme ou de reproche.
 
 ## Exemple
 
@@ -15,7 +15,7 @@ Bon à rien, escroc, charlatan, tricheur, vaurien.
 
 ## Origine
 
-L’expression appartient au registre familier, souvent employée dans des contextes où la critique d’un travail mal fait ou d’un comportement douteux prend un ton moqueur ou désabusé.
+L'expression appartient au registre familier, souvent employée dans des contextes où la critique d'un travail mal fait ou d'un comportement douteux prend un ton moqueur ou désabusé.
 
 ## Lien
 

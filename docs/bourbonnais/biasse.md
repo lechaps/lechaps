@@ -7,7 +7,7 @@ Terme désignant une besace ou une musette, un sac souvent utilisé pour transpo
 ## Exemple
 
 _Fait soif ! T'as rien qui traine dans la biasse ?_
-> La soif se fait sentir ! N’auriez-vous pas de quoi nous désaltérer ?
+> La soif se fait sentir ! N'auriez-vous pas de quoi nous désaltérer ?
 
 ## Équivalent
 

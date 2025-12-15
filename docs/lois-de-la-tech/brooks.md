@@ -1,8 +1,8 @@
 # Brooks
 
-Tu as déjà vécu ce moment où ton projet prend du retard… et quelqu’un propose d’ajouter du monde pour aller plus vite ?
+Tu as déjà vécu ce moment où ton projet prend du retard… et quelqu'un propose d'ajouter du monde pour aller plus vite ?
 
-Sur le papier, ça paraît logique : « plus on est nombreux, plus on avance ». Sauf qu’en réalité, c’est souvent l’inverse : plus de réunions, plus de coordination, plus de confusion… et un retard encore plus grand que celui qu’on voulait rattraper.  
+Sur le papier, ça paraît logique : « plus on est nombreux, plus on avance ». Sauf qu'en réalité, c'est souvent l'inverse : plus de réunions, plus de coordination, plus de confusion… et un retard encore plus grand que celui qu'on voulait rattraper.  
 Bienvenue dans **la loi de Brooks**.
 
 > Adding manpower to a late software project makes it later.
@@ -11,29 +11,29 @@ Autrement dit : **Plus tu rajoutes de monde sur un projet en retard, plus tu cr�
 
 Bref : **Plus tu staffes tard, plus tu coules vite**.
 
-Ce principe, formulé dans les années 70, rappelle une vérité universelle du travail collectif : **plus de bras ne signifie pas forcément plus de vitesse** — parfois, c’est juste plus de chaos.
+Ce principe, formulé dans les années 70, rappelle une vérité universelle du travail collectif : **plus de bras ne signifie pas forcément plus de vitesse** — parfois, c'est juste plus de chaos.
 
 ## Pourquoi la loi de Brooks est si parlante
 
-* Quand un projet est en retard, notre premier réflexe, c’est de **renforcer l’équipe**.
+* Quand un projet est en retard, notre premier réflexe, c'est de **renforcer l'équipe**.
 * Mais **plus de monde = plus de coordination**, plus de réunions, plus de dépendances.
-* Les nouveaux arrivants doivent être **formés, comprendre le contexte, s’intégrer… ce qui ralentit encore davantage**.
+* Les nouveaux arrivants doivent être **formés, comprendre le contexte, s'intégrer… ce qui ralentit encore davantage**.
 * Et certaines tâches, comme la conception ou les décisions critiques, ne se partagent pas facilement (comme faire un bébé : neuf femmes ne le feront pas en un mois).
 
-En résumé : la loi de Brooks nous rappelle que **la productivité d’une équipe n’est pas proportionnelle à sa taille**. Elle invite à miser sur **la clarté, l’organisation et la cohérence**, plutôt que sur l’urgence et la surenchère.
+En résumé : la loi de Brooks nous rappelle que **la productivité d'une équipe n'est pas proportionnelle à sa taille**. Elle invite à miser sur **la clarté, l'organisation et la cohérence**, plutôt que sur l'urgence et la surenchère.
 
-## D’où vient la loi de Brooks ?
+## D'où vient la loi de Brooks ?
 
 La loi de Brooks a été formulée par **Fred Brooks**, un ingénieur logiciel et manager de projet chez IBM dans les années 60.  
-En 1975, il publie un livre culte _The Mythical Man-Month_, où il tire les leçons du développement du système d’exploitation OS/360.  
+En 1975, il publie un livre culte _The Mythical Man-Month_, où il tire les leçons du développement du système d'exploitation OS/360.  
 
-C’est dans ce contexte qu’il énonce sa fameuse observation :
+C'est dans ce contexte qu'il énonce sa fameuse observation :
 
 > Adding manpower to a late software project makes it later.
 
-Ce constat est devenu un pilier du management de projet et du développement logiciel, mais il s’applique tout aussi bien à la gestion d’équipes, aux startups… ou à toute situation où la collaboration est un défi.
+Ce constat est devenu un pilier du management de projet et du développement logiciel, mais il s'applique tout aussi bien à la gestion d'équipes, aux startups… ou à toute situation où la collaboration est un défi.
 
-En somme, la loi de Brooks nous rappelle qu’en gestion de projet, « plus » n’est pas toujours « mieux ».
+En somme, la loi de Brooks nous rappelle qu'en gestion de projet, « plus » n'est pas toujours « mieux ».
 
 ### Références
 

@@ -2,12 +2,12 @@
 
 ## Définition
 
-Désigne le fait de crier très fort, d’une manière souvent comparée aux beuglements d’un animal, en particulier d’un bovin. Le terme est généralement utilisé pour qualifier des cris bruyants, puissants et parfois dénués de finesse.
+Désigne le fait de crier très fort, d'une manière souvent comparée aux beuglements d'un animal, en particulier d'un bovin. Le terme est généralement utilisé pour qualifier des cris bruyants, puissants et parfois dénués de finesse.
 
 ## Exemple
 
 _T'avais besoin de beugler ? Il va bien finir par la payer sa tournée !_
-> Était-il réellement indispensable d’interpeller le patron de la taverne de cette manière ? Compte tenu du nombre de tournées déjà consommées, un geste commercial paraîtrait tout à fait naturel.
+> Était-il réellement indispensable d'interpeller le patron de la taverne de cette manière ? Compte tenu du nombre de tournées déjà consommées, un geste commercial paraîtrait tout à fait naturel.
 
 ## Équivalent
 

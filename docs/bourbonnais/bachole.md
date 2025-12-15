@@ -8,7 +8,7 @@
 ## Exemple
 
 _Allez, ressers-m'en une bachole._
-> Puis-je vous demander de bien vouloir me resservir un verre de cette exquise boisson, qu’il convient, néanmoins, de consommer avec modération ?
+> Puis-je vous demander de bien vouloir me resservir un verre de cette exquise boisson, qu'il convient, néanmoins, de consommer avec modération ?
 
 ## Équivalent
 
@@ -17,7 +17,7 @@ _Allez, ressers-m'en une bachole._
 
 ## Origine
 
-Le mot est issu du langage rural où il a évolué de son sens utilitaire premier à un usage figuratif et jovial, souvent dans un contexte de convivialité autour d’un verre.
+Le mot est issu du langage rural où il a évolué de son sens utilitaire premier à un usage figuratif et jovial, souvent dans un contexte de convivialité autour d'un verre.
 
 ## Lien
 

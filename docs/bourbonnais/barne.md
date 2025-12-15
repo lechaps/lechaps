@@ -14,7 +14,7 @@ Les tailles connues :
 ## Exemple
 
 _Ah ben si il fait soif on peut toujours attaquer la barne._
-> Eh bien, si notre soif persiste, il ne nous restera plus qu’à entamer le tonneau
+> Eh bien, si notre soif persiste, il ne nous restera plus qu'à entamer le tonneau
 
 ## Équivalent
 
@@ -22,7 +22,7 @@ Barrique, tonneau, fût.
 
 ## Origine
 
-L’expression témoigne d’une association directe entre la barrique et son usage festif ou convivial dans les échanges du quotidien.
+L'expression témoigne d'une association directe entre la barrique et son usage festif ou convivial dans les échanges du quotidien.
 
 ## Lien
 

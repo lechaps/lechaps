@@ -15,7 +15,7 @@ Beaucoup (affirmatif), pas grand-chose (négatif).
 
 ## Origine
 
-Dérivé de l’arabe maghrébin bzaf (beaucoup), le mot bezef s’est intégré dans l’argot français et a évolué pour se concentrer sur son usage négatif dans la langue familière.
+Dérivé de l'arabe maghrébin bzaf (beaucoup), le mot bezef s'est intégré dans l'argot français et a évolué pour se concentrer sur son usage négatif dans la langue familière.
 
 ## Lien
 
