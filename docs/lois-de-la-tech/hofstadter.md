@@ -3,7 +3,7 @@
 Tu t'étais dit que ce projet prendrait deux semaines… et trois mois plus tard, tu y es encore ? Ou commencé une tâche "rapide" qui s'est transformée en labyrinthe sans fin ? Et même quand tu anticipes que ça va prendre plus longtemps… ça prend encore plus longtemps ?  
 Tu n'as pas mal calculé — tu viens juste de croiser **la loi de Hofstadter**.
 
-> It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> It always takes longer than you expect, even when you take into account Hofstadter's Law - Douglas Hofstadter, 1979
 
 Autrement dit : **Tout prend plus de temps que prévu… même quand tu prévois que ça prendra plus de temps.**
 

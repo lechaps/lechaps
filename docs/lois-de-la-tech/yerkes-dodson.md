@@ -66,7 +66,7 @@ Le but n'est pas de supprimer le stress, mais de **le dompter**.
 
 ### 1. Une expérience fondatrice (1908)
 
-En 1908, Robert Yerkes et John Dodson étudient des **souris** dans une tâche d'apprentissage simple.  
+En 1908, **Robert Yerkes** et **John Dodson** étudient des **souris** dans une tâche d'apprentissage simple.  
 Ils découvrent que :
 
 * Une stimulation plus forte → un apprentissage plus rapide…

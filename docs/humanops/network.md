@@ -1,4 +1,4 @@
-# Les quatre lois des réseaux
+# Réseaux : Sarnoff x Metcalfe x Reed x Beckstrom
 
 Pourquoi **Facebook**, **TikTok**, **Bitcoin**, **Reddit** ou même **Internet** valent-ils autant ?
 Pas seulement parce qu'ils existent — mais parce qu'ils **connectent**, **font interagir** et **font collaborer** des millions de personnes.

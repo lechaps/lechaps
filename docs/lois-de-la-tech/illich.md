@@ -4,7 +4,7 @@ Tu as déjà bossé tellement longtemps que tu t'es surpris à relire trois fois
 Tu as déjà vu un outil ou un système tellement poussé, tellement amplifié, tellement "amélioré" qu'il finit par produire l'inverse de ce qu'il promettait ? Un service qui devient ingérable en grossissant, un processus qui produit plus de friction que de résultats, une technologie censée te simplifier la vie et qui finit par te l'alourdir ?  
 Bienvenue dans **la loi d'Illich**.
 
-> Beyond a certain threshold, tools begin to counteract their own purpose..
+> Beyond a certain threshold, tools begin to counteract their own purpose - Ivan Illich
 
 Autrement dit : **Tout outil devient toxique si on dépasse son point d'utilité maximale. Au-delà d'un certain seuil, "plus" ne veut plus dire "mieux"… mais "pire"**.
 
@@ -23,8 +23,7 @@ Mieux vaut s'arrêter au bon moment que continuer pour rien.
 
 ## D'où vient la loi d'Illich ?
 
-Cette idée vient d'Ivan Illich (1926–2002), philosophe, historien et penseur autrichien.
-Dans les années 1970, il critique la société industrielle et ses excès de productivité dans ses livres _Tools for Conviviality_ (1973) et _Energy and Equity_ (1974).
+Cette idée vient d'Ivan Illich (1926–2002), philosophe, historien et penseur autrichien. Dans les années 1970, il critique la société industrielle et ses excès de productivité dans ses livres _Tools for Conviviality_ (1973) et _Energy and Equity_ (1974).
 
 Illich y développe une idée simple mais radicale : **toute croissance a un seuil au-delà duquel elle se retourne contre elle-même**. Travailler, produire, apprendre, consommer — tout fonctionne selon cette logique. Au début, l'effort fait progresser. Puis, passé un point invisible, il devient contre-productif.
 

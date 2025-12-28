@@ -4,7 +4,7 @@ Tu as déjà été persuadé que quelqu'un te faisait un sale coup… avant de r
 
 Bienvenue dans **la loi de Hanlon**.
 
-> Never attribute to malice that which is adequately explained by stupidity.
+> Never attribute to malice that which is adequately explained by stupidity - Robert Hanlon
 
 Autrement dit : **La plupart du temps, les gens ne te veulent pas du mal — ils sont simplement humains**.
 

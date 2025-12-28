@@ -33,7 +33,7 @@ Et elle révèle une tension sociale : entre ce qui **est permis** (ou toléré)
 L'origine est brésilienne :
 
 * Le terme « Lei de Gérson » apparaît au **milieu des années 1980** dans les médias du Brésil.
-* Le journaliste Mauricio Dias l'emploie lors d'une interview avec le psychanalyste Jurandir Freire Costa, dans le magazine *IstoÉ*.
+* Le journaliste Mauricio Dias l'emploie lors d'une interview avec le psychanalyste Jurandir Freire Costa, dans le magazine *Istoé*.
 * Le nom fait référence à une publicité télévisée de 1976 pour la marque de cigarettes Vila Rica, avec le footballeur national brésilien Gérson : quand l'interviewer demande pourquoi choisir cette marque, Gérson répond : « Por que pagar mais se a Vila me dá tudo que eu quero num bom cigarro? Eu gosto de levar vantagem em tudo, certo? Leva também! » (« Pourquoi payer davantage si Vila me donne tout ce que je veux ? J'aime bien prendre avantage de tout, non ? Toi aussi prends ! »)
 * La phrase est mal interprétée dans les années suivantes comme un symbole d'un comportement opportuniste. Le concept se popularise et devient un adage critique de l'éthique sociale brésilienne.
 

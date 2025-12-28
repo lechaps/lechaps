@@ -5,7 +5,7 @@ Où les réunions n'ont servi à rien, où la communication a créé plus de con
 
 Bienvenue dans **les lois de Wiio**.
 
-> Communication usually fails, except by accident
+> Communication usually fails, except by accident - Osmo Antero Wiio
 
 Autrement dit : **La communication échoue toujours, sauf par accident.**.
 

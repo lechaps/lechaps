@@ -5,7 +5,7 @@ Une action répétitive interminable, une attente tendue, une file d'attente qui
 Et à l'inverse, une activité stimulante qui disparaît en un éclair ?
 Bienvenue dans **la loi de Fraisse**.
 
-> La durée psychologique d'une activité dépend de la manière dont notre attention y est engagée : plus elle est pauvre, subie ou répétitive, plus elle paraît longue.
+> La durée psychologique d'une activité dépend de la manière dont notre attention y est engagée : plus elle est pauvre, subie ou répétitive, plus elle paraît longue - Paul Fraisse, 1967
 
 Autrement dit : **Le temps ne se mesure pas seulement en minutes, mais en intensité.
 Plus on vit pleinement, plus il semble court — et plus on s'ennuie, plus il s'étire.**
@@ -26,9 +26,7 @@ Le temps ralentit quand rien ne nous nourrit. Il accélère quand on vit, vraime
 
 Cette idée vient de Paul Fraisse (1911–1996), psychologue français et l'un des pionniers de la psychologie du temps. Professeur à la Sorbonne et directeur du Laboratoire de psychologie expérimentale, Fraisse a consacré ses recherches à une question simple et fondamentale : **comment l'être humain perçoit, structure et estime le temps au quotidien** ?
 
-Dans son ouvrage majeur, _Psychologie du temps_ (1967), Fraisse expose un principe essentiel :
-
-> Notre expérience du temps dépend de la qualité de notre engagement ognitif et émotionnel.
+Dans son ouvrage majeur, _Psychologie du temps_ (1967), Fraisse expose un principe essentiel : **Notre expérience du temps dépend de la qualité de notre engagement ognitif et émotionnel**.
 
 Plus une activité est riche (variée, stimulante, porteuse de sens), plus elle semble courte car l'attention reste absorbée par l'action.  
 Plus elle est subie, vide ou répétitive, plus elle paraît interminable car l'attention se porte… sur le temps lui-même. Autrement dit, **le temps psychologique s'étire ou se contracte selon notre intérêt**, notre concentration et nos émotions.

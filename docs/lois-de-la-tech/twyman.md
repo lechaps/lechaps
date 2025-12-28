@@ -4,7 +4,7 @@ Tu as déjà repéré une courbe spectaculaire, un chiffre qui "saute aux yeux",
 
 Bienvenue dans **la loi de Twyman**.
 
-> Any figure that looks interesting or different is usually wrong.
+> Any figure that looks interesting or different is usually wrong - Tony Twyman
 
 Autrement dit :
 **Si un chiffre attire ton attention, commence par suspecter une erreur — les données spectaculaires sont souvent des illusions.**
@@ -75,8 +75,7 @@ Si le chiffre résiste à cette check-list, ce n'est plus un "bug probable".
 
 ## D'où vient la loi de Twyman ?
 
-La loi porte le nom de **Tony Twyman**, spécialiste britannique de la mesure d'audience.
-Twyman a passé sa carrière à disséquer les fluctuations d'audience dans les médias.
+La loi porte le nom de **Tony Twyman**, spécialiste britannique de la mesure d'audience. Twyman a passé sa carrière à disséquer les fluctuations d'audience dans les médias.
 Il observe systématiquement que :
 
 > Les chiffres les plus "spectaculaires" étaient, dans la majorité des cas, des erreurs de mesure.
@@ -90,8 +89,7 @@ La phrase n'a pas été publiée comme loi scientifique formelle, mais elle est 
 * recherche,
 * prise de décision data-driven.
 
-Twyman n'est pas une vérité absolue.
-C'est une règle parmi d'autres, dans une boîte à outils de "survie intellectuelle".
+Twyman n'est pas une vérité absolue. C'est une règle parmi d'autres, dans une boîte à outils de "survie intellectuelle".
 
 * **Twyman** : si une donnée attire l'œil, vérifie-la avant de l'interpréter.
 * **Goodhart** : une métrique perd sa valeur si on en fait un objectif.

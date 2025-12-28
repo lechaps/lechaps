@@ -4,7 +4,7 @@ Tu as déjà posé une question sur Internet et… personne ne t'a répondu ?
 Mais dès que quelqu'un poste une réponse fausse, tout le monde débarque pour le corriger, apporter des sources, rédiger une démonstration complète ?
 Félicitations, tu viens de vivre **la loi de Cunningham**.
 
-> The best way to get the right answer on the Internet is not to ask a question, but to post the wrong answer.
+> The best way to get the right answer on the Internet is not to ask a question, but to post the wrong answer - Howard G. Cunningham
 
 Autrement dit : **Une erreur attire plus de réponses qu'une question sincère — corriger stimule plus que contribuer.**
 

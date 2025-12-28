@@ -4,7 +4,7 @@ Tu t'es déjà donné une journée entière pour une tâche… que tu finis à 1
 Ou passé trois réunions à peaufiner un sujet qui aurait pu être fait en une heure ?  
 Bienvenue dans **la loi de Parkinson**.
 
-> Work expands so as to fill the time available for its completion.
+> Work expands so as to fill the time available for its completion - Cyril Northcote Parkinson, 1955
 
 Autrement dit : **Plus tu donnes de temps à une tâche, plus elle prend du temps — même si elle pourrait être faite bien plus vite**.
 
@@ -23,7 +23,7 @@ Et quand il reste un peu de temps, les équipes le passent souvent à discuter�
 
 ## D'où vient la loi de Parkinson ?
 
-La loi de Parkinson a été formulée en 1955 par Cyril Northcote Parkinson, historien et essayiste britannique, dans un article culte du _The Economist_. Fort de son expérience dans la fonction publique, il écrit — avec un humour mordant — que « le travail s'étend de façon à occuper tout le temps disponible pour son achèvement.»  
+La loi de Parkinson a été formulée en 1955 par **Cyril Northcote Parkinson**, historien et essayiste britannique, dans un article culte du _The Economist_. Fort de son expérience dans la fonction publique, il écrit — avec un humour mordant — que « le travail s'étend de façon à occuper tout le temps disponible pour son achèvement.»  
 
 Deux ans plus tard, il en fait un livre : _Parkinson's Law and Other Studies in Administration_ (1957), où il démonte les absurdités des organisations : **la lenteur, la dilution des responsabilités, et la croissance sans but réel**.  
 

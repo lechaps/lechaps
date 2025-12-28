@@ -4,7 +4,7 @@ Tu connais ce moment où tu travailles concentré, en plein dans ton élan… et
 
 Bienvenue dans **la loi de Carlson**.
 
-> *Work performed in uninterrupted time progresses faster and more efficiently than when interrupted.*
+> Work performed in uninterrupted time progresses faster and more efficiently than when interrupted - Sune Carlson, 1951
 
 Autrement dit : **ce qui compte n'est pas le temps travaillé, mais le temps continu.** Chaque interruption casse ton momentum et augmente le coût réel de la tâche.
 
@@ -27,9 +27,7 @@ Elle invite à **protéger ses plages de travail profond**, et à éviter la dis
 Ce principe vient des travaux de **Sune Carlson**, économiste suédois, qui a étudié dans les années 1950 la façon dont les dirigeants utilisent leur temps.
 Dans son étude *Executive Behaviour* (1951), il observe que les cadres passent leurs journées à enchaîner de courtes activités interrompues, souvent sans véritable épisode de concentration profonde.
 
-Ses conclusions sont claires :
-
-> Les interruptions fragmentent l'attention et augmentent le coût cognitif du travail.
+Ses conclusions sont claires : Les interruptions fragmentent l'attention et augmentent le coût cognitif du travail.
 
 En d'autres termes, chaque mail, réunion surprise ou notification **fait payer une "taxe mentale"** à notre productivité.
 

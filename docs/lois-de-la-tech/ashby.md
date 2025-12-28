@@ -5,7 +5,7 @@ Tu t'es déjà retrouvé face à une situation tellement complexe que plus tu es
 Une équipe qui grossit, un projet qui se ramifie, une organisation où chaque règle crée un nouveau problème ?
 Félicitations, tu viens de croiser la loi d'Ashby.
 
-> The number of states in a control mechanism must be greater than or equal to the number of states in the system it controls.
+> The number of states in a control mechanism must be greater than or equal to the number of states in the system it controls - William Ross Ashby, 1957
 
 Autrement dit : **Si ton environnement devient plus subtil, plus instable ou plus riche, tes outils et ta façon de le piloter doivent monter en gamme aussi. Sinon, tu te fais dépasser**.
 
@@ -71,12 +71,7 @@ Autrement dit : **La stabilité n'est pas réductrice : elle est élastique**.
 
 ## D'où vient la loi d'Ashby ?
 
-Cette loi vient de W. Ross Ashby (1903–1972), **psychiatre, mathématicien et pionnier de la cybernétique**.  
-En 1956, il publie _An Introduction to Cybernetics_, où il énonce ce principe devenu fondamental :
-
-> If a system is to be stable, the number of states it can take must be greater than the number of states in its environment.
-
-Ashby l'appelait **la loi de la variété requise** (Law of Requisite Variety).
+Cette loi vient de W. Ross Ashby (1903–1972), **psychiatre, mathématicien et pionnier de la cybernétique**. En 1956, il publie _An Introduction to Cybernetics_, où il énonce ce principe devenu fondamental. Ashby l'appelait **la loi de la variété requise** (Law of Requisite Variety).
 
 Depuis, elle a marqué **la théorie des systèmes, le management, la biologie, et même l'intelligence artificielle** — où la capacité à compact­er la complexité (via des modèles, des abstractions ou des embeddings) devient tout aussi cruciale que la capacité à la **générer**.
 

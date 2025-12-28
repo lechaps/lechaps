@@ -1,7 +1,8 @@
 title: HumanOps
 nav:
   - index.md
-  - framework-personnel.md
-  - network.md
+  - etre.md
+  - agir.md
+  - manager.md
+  - entreprendre.md
   - ressources.md
-  - ...    # (si tu as d'autres éléments)

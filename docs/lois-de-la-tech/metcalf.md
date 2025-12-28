@@ -3,7 +3,7 @@
 Tu t'es déjà demandé pourquoi Facebook, WhatsApp ou Bitcoin valent autant ? Ce n'est pas (seulement) à cause de leur technologie. C'est parce que plus il y a de monde, plus ça vaut cher.  
 Bienvenue dans **la loi de Metcalfe**.
 
-> The value of a network is proportional to the square of the number of its users.
+> The value of a network is proportional to the square of the number of its users - Robert Metcalfe
 
 Autrement dit : **Chaque nouvel utilisateur n'ajoute pas juste un peu de valeur, il en ajoute beaucoup — car il connecte tout le monde aux autres**.
 
@@ -19,7 +19,7 @@ La loi de Metcalfe nous rappelle que **la puissance ne vient pas des individus i
 
 ## D'où vient la loi de Metcalfe ?
 
-Ce principe vient de Robert Metcalfe, ingénieur et entrepreneur américain, inventeur d'Ethernet et cofondateur de 3Com. Dans les années 1980, il cherche à expliquer pourquoi certains réseaux informatiques deviennent de plus en plus utiles à mesure qu'ils grossissent.  
+Ce principe vient de **Robert Metcalfe**, ingénieur et entrepreneur américain, inventeur d'Ethernet et cofondateur de 3Com. Dans les années 1980, il cherche à expliquer pourquoi certains réseaux informatiques deviennent de plus en plus utiles à mesure qu'ils grossissent.  
 
 Sa conclusion est simple mais visionnaire :
 

@@ -6,7 +6,7 @@ Des services en silos ? Tu obtiens un produit fragmenté.
 
 Bienvenue dans **la loi de Conway**.
 
-> *Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure.*
+> Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure - Melvin Edward Conway, 1967
 
 Autrement dit : **l'architecture d'un système tend à refléter la manière dont les équipes communiquent pour le construire**.  
 Si les équipes sont en silos, l'architecture le sera souvent aussi.
@@ -18,13 +18,9 @@ Bref : **on a tendance à construire ce qu'on est** — ou, plus précisément, 
 
 La loi de Conway n'est pas une règle technique, ni d'architecture. C'est une **observation sociotechnique**.
 
-Elle ne dit pas :
+Elle ne dit pas : "Vous devez organiser vos équipes de cette façon."
 
-> "Vous devez organiser vos équipes de cette façon."
-
-Elle dit :
-
-> "Quoi que vous fassiez, votre organisation laissera une empreinte sur votre système."
+Elle dit : "Quoi que vous fassiez, votre organisation laissera une empreinte sur votre système."
 
 Quelques constats récurrents :
 
@@ -35,6 +31,41 @@ Quelques constats récurrents :
 
 La loi de Conway ne juge pas.  
 Elle **décrit une force invisible mais persistante** : la structure humaine façonne la structure technique.
+
+## D'où vient la loi de Conway ?
+
+La loi de Conway est formulée en 1967 par Melvin E. Conway, informaticien et chercheur américain, dans un article devenu classique : *How Do Committees Invent?
+(Datamation, 1968)*
+
+Conway ne cherche pas à établir une règle d'ingénierie logicielle.  
+Il observe un phénomène beaucoup plus général : **la façon dont les groupes humains conçoivent des systèmes complexes est contrainte par leur structure de communication**.
+
+À l'époque, les projets logiciels sont menés par de grandes équipes :
+
+* fortement hiérarchisées,
+* avec des circuits de décision lents,
+* et des coûts de coordination élevés.
+
+Conway constate alors que :
+
+* les interfaces techniques apparaissent exactement là où les équipes doivent se coordonner,
+* les frontières organisationnelles deviennent des frontières de conception,
+* et les systèmes produits portent la trace directe de leurs conditions humaines de fabrication.
+
+La loi de Conway naît donc d'une observation empirique, pas d'un modèle théorique ni d'une prescription méthodologique.
+
+Pendant longtemps, cette idée reste relativement confidentielle.
+Elle gagne en importance à mesure que :
+
+* le logiciel s'industrialise,
+* les systèmes deviennent distribués,
+* et la complexité dépasse la capacité d'un individu ou d'une équipe isolée.
+
+Avec l'essor des architectures orientées services, puis des microservices, **le lien entre organisation et architecture devient impossible à ignorer**.
+
+Aujourd'hui, la loi de Conway est reconnue comme un pilier de la pensée **sociotechnique** : elle irrigue l'architecture logicielle, le **Domain-Driven Design**, et les approches modernes d'organisation comme **Team Topologies**.
+
+Comme d'autres grands invariants sociotechniques, elle rappelle une chose essentielle : **les choix humains précèdent et contraignent les choix techniques, souvent de manière invisible**.
 
 ## Une loi descriptive, pas une fatalité
 
@@ -88,8 +119,7 @@ Exemples classiques :
 * ownership clair par domaine,
 * équipes autonomes mais interopérables.
 
-Dans ces cas-là, Conway ne disparaît pas —
-👉 **il devient un levier de design**.
+Dans ces cas-là, Conway ne disparaît pas — **il devient un levier de design**.
 
 ## Ce que la loi de Conway nous apprend vraiment
 
@@ -120,25 +150,19 @@ Elle implique aussi :
 * la clarification des responsabilités,
 * le dialogue avec le management.
 
-Un architecte ne conçoit pas seulement un système.
-👉 **Il conçoit les conditions humaines qui rendent ce système viable dans le temps.**
+Un architecte ne conçoit pas seulement un système. **Il conçoit les conditions humaines qui rendent ce système viable dans le temps.**
 
 ## En conclusion
 
-La loi de Conway ne dit pas :
-
-> "Votre organisation est mauvaise, votre produit le sera aussi."
-
-Elle dit :
-
-> **"Votre produit raconte une histoire sur la façon dont vous travaillez ensemble."**
+La loi de Conway ne dit pas : "Votre organisation est mauvaise, votre produit le sera aussi."  
+Elle dit : **"Votre produit raconte une histoire sur la façon dont vous travaillez ensemble."**
 
 On peut subir cette histoire.
 Ou décider consciemment de l'écrire.
 
 Car si Conway agit toujours, **la vraie question devient** :
 
-> *Quelle structure humaine voulons-nous voir se refléter dans l'architecture de nos systèmes ?*
+> Quelle structure humaine voulons-nous voir se refléter dans l'architecture de nos systèmes ?
 
 Et cette question dépasse largement le code.
 C'est un choix de design organisationnel.

@@ -5,7 +5,7 @@ Tu ranges, tu fais de la place, tu te dis : « Cette fois, je garde un peu d'air
 Et quelques semaines plus tard : tout est à nouveau rempli.
 Bienvenue dans ce qu'on appelle **la "loi de Douglas"**.
 
-> *Plus on a d'espace pour stocker des choses, plus on accumule.*
+> Plus on a d'espace pour stocker des choses, plus on accumule.
 
 Autrement dit : **le vide attire le plein**.
 Qu'il s'agisse d'un disque dur, d'un garage, d'un entrepôt ou de ton agenda :
@@ -25,28 +25,30 @@ Tant qu'on ne change pas nos habitudes, **plus d'espace = plus de bazar**.
 
 Et c'est là qu'il faut être rigoureux.
 
-Contrairement à d'autres lois bien établies, il n'existe **aucune preuve historique** que Paul H. Douglas — l'économiste connu pour la fonction de production Cobb-Douglas — ait un jour formulé cette règle.
+Contrairement à ce que son nom pourrait laisser croire, la “loi de Douglas” n'est pas une loi formulée par **Paul H. Douglas**. Aucune publication, aucun article, aucun écrit académique ne permet d'attribuer explicitement cette idée à l'économiste connu pour la fonction de production Cobb-Douglas.
 
-Pas de texte original.
-Pas de publication.
-Pas de trace écrite.
+Il n'existe :
 
-Autrement dit : **Le nom "loi de Douglas" est surtout une étiquette populaire**, plaquée par analogie à ses travaux sur l'allocation des ressources et l'usage complet des capacités.
+* ni texte fondateur,
+* ni formulation originale,
+* ni référence historique vérifiable.
 
-Il est donc plus pertinent de la considérer comme une **loi empirique de gestion**, sans auteur formel, plutôt qu'une loi "scientifique" attribuée à Douglas.
+L'expression relève donc davantage d'un raccourci conceptuel que d'une paternité scientifique.  
 
-Ce qui est certain, c'est que l'idée est universelle :
+Le lien avec Douglas est essentiellement **analogique** : ses travaux portent sur l'allocation des ressources et sur la tendance des systèmes économiques à utiliser pleinement les capacités disponibles. Par extension — et sans preuve directe — son nom a été associé à cette observation empirique.
 
-> **Plus on dispose d'espace, plus on a tendance à le remplir entièrement.**
+Il est donc plus juste de parler d'une règle d'expérience, issue de l'observation des comportements humains et organisationnels, plutôt que d'une loi économique formalisée.
 
-On retrouve ici des échos de lois voisines :
+Ce phénomène dépasse largement un auteur ou une discipline. On le retrouve dans de nombreux domaines :
 
-* La **loi de Parkinson** : *le travail s'étend pour occuper tout le temps disponible*
-* Les principes d'**entropie** : le désordre occupe naturellement l'espace
-* Les courants de **minimalisme numérique** : plus de place ≠ plus d'efficacité
+* en gestion du temps et des organisations, (Loi de Parkinson)
+* dans le stockage physique et numérique,
+* dans les systèmes industriels et logistiques,
+* dans la psychologie de l'abondance et du manque.
 
-Qu'il s'agisse de stockage physique, de données, de capacité industrielle ou de gestion du temps, le constat revient partout :
-**l'expansion appelle l'expansion.**
+Sous des formes différentes, le même mécanisme apparaît : **toute capacité libre tend à être occupée**.
+
+La “loi de Douglas” doit ainsi être comprise non comme une vérité scientifique établie, mais comme un outil de lecture utile pour penser la gestion des ressources, des espaces et des contraintes.
 
 ### Références
 

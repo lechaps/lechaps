@@ -4,13 +4,13 @@ Tu as déjà remarqué qu'on ne change jamais vraiment tant qu'on n'y est pas ob
 On sait qu'il faudrait faire différemment, mais tant que ça tient à peu près, on continue comme avant.  
 Bienvenue dans **la loi de Kotter**.
 
-> Change succeeds only when the sense of urgency outweighs the forces of inertia.
+> Change succeeds only when the sense of urgency outweighs the forces of inertia - John P. Kotter, 1996
 
 Autrement dit : **Si le besoin de changer n'est pas ressenti comme vital, rien ne change vraiment — les habitudes sont toujours plus fortes que les slogans**.
 
 Bref : **Pas d'urgence, pas de changement**.
 
-⚠️ **Attention : urgence ne veut pas dire panique.**  
+**Attention : urgence ne veut pas dire panique.**  
 Chez Kotter, l'urgence n'est ni la peur, ni la crise, ni la pression artificielle.
 Il s'agit d'une prise de conscience partagée que :
 
@@ -35,7 +35,7 @@ l'inconfort reste le déclencheur principal du mouvement.
 En résumé, la loi de Kotter nous rappelle que **changer n'est pas imposer, c'est embarquer**.
 Un bon leader ne décrète pas le changement : il **met en lumière la réalité, rend visibles les risques de l'inaction, et aide chacun à comprendre pourquoi continuer comme avant n'est plus une option**.
 
-⚠️ Le piège classique : **confondre urgence et manipulation**
+Le piège classique : **confondre urgence et manipulation**
 
 Beaucoup de transformations échouent non pas faute d'urgence, mais parce que celle-ci est :
 
@@ -54,7 +54,7 @@ elle rend le changement logique, presque évident.
 
 ## D'où vient la loi de Kotter ?
 
-Ce principe vient de John P. Kotter, professeur émérite à la _Harvard Business School_ et spécialiste mondial du leadership et de la conduite du changement. Dans son livre culte _Leading Change_ (1996), il identifie la première cause d'échec des transformations : **l'absence d'un vrai sentiment d'urgence**.
+Ce principe vient de **John P. Kotter**, professeur émérite à la _Harvard Business School_ et spécialiste mondial du leadership et de la conduite du changement. Dans son livre culte _Leading Change_ (1996), il identifie la première cause d'échec des transformations : **l'absence d'un vrai sentiment d'urgence**.
 
 Selon lui, tant que les coûts de l'immobilisme paraissent supportables, rien ne bouge.
 Ce n'est que lorsque **le statu quo devient plus douloureux que le changement lui-même** qu'une transformation devient possible.

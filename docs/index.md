@@ -26,7 +26,7 @@ Ces carnets sont un **mélange des genres à mon image**.
 > Ici, je partage des réflexions sur le management, la coopération et la simplicité dans les systèmes complexes.  
 > Parce qu'un système ne tient debout que si ceux qui le font tourner tiennent eux aussi.
 
-🔹 [Plonger dans le carnet](./bourbonnais/index.md)
+🔹 [Plonger dans le carnet](./humanops/index.md)
 
 ---
 

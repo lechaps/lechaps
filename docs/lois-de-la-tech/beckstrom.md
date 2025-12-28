@@ -4,7 +4,7 @@ Tu as déjà remarqué que certains réseaux ne valent rien tant que personne ne
 Une marketplace vide qui ne sert à rien, puis qui explose dès que les premières transactions s'y produisent. Une plateforme pro qui n'a de valeur que si les interactions y sont réelles. Un réseau social utile uniquement quand il génère des connexions… pas des comptes fantômes.  
 Bienvenue dans **la loi de Beckstrom**.
 
-> **The value of a network equals the net value added to each user's transactions conducted through that network, summed over all users**.
+> The value of a network equals the net value added to each user's transactions conducted through that network, summed over all users - Rod Beckstrom
 
 Autrement dit : **Un réseau ne vaut pas par son existence, mais par ce qu'il permet vraiment d'échanger — valeur, info, contacts, business. Plus les transactions créent de la valeur, plus le réseau lui-même en prend**.
 
@@ -23,9 +23,6 @@ Concrètement :
 
 La transaction devient l'unité de mesure.
 On ne demande plus combien de personnes participent, mais ce qu'elles s'apportent réellement.
-
-* ❌ Comment attirer plus de monde ?
-* ✔ Comment augmenter les échanges utiles ?
 
 Trois leviers pour faire croître un réseau :
 

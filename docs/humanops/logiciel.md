@@ -1,6 +1,6 @@
-# Atwood, Greenspun & Zawinski
+# Logiciel : Zawinski x Greenspun x Atwood
 
-## Pourquoi les logiciels finissent par grossir, devenir un langage… et tourner dans ton navigateur
+> Grossir → devenir langage → finir sur le web
 
 Tu as peut-être déjà remarqué un truc étrange dans le développement logiciel.
 
@@ -113,7 +113,7 @@ Ces lois ne parlent pas de code. Elles décrivent l'infrastructure invisible sup
 | Organisation & complexité métier           | ➜ Greenspun : le logiciel devient un langage    |
 | Distribution & accès universel             | ➜ Atwood : le logiciel finit dans le navigateur |
 
-📌 Le logiciel n'évolue pas parce que les développeurs le veulent, mais parce que les forces autour de lui l'y poussent.
+Le logiciel n'évolue pas parce que les développeurs le veulent, mais parce que les forces autour de lui l'y poussent.
 
 Ce qui paraissait absurde devient logique.  
 Ce qui ressemblait à du chaos devient déterministe.
@@ -140,15 +140,6 @@ Elles expliquent **comment l'économie, l'organisation et la distribution sculpt
 * Il devient un langage par nécessité organisationnelle.
 * Il finit dans le navigateur par optimisation de distribution.
 
-🎯 Ce n'est pas absurde.
-🌱 C'est une évolution naturelle.
-🌍 Et c'est exactement ce qui se produit, partout, en ce moment-même.
-
-### Références
-
-* [Jeff Atwood — *Any Application That Can Be Written in JavaScript, Will Eventually Be Written in JavaScript* (Coding Horror, 2007)](https://blog.codinghorror.com/the-principle-of-least-power/){ target="_blank" }
-* [Wikipedia – *Atwood's Law*](https://en.wikipedia.org/wiki/Atwood%27s_law){ target="_blank" }
-* [Philip Greenspun — *Philip and Alex's Guide to Web Publishing* (1999)](http://philip.greenspun.com/panda/){ target="_blank" }
-* [Wikipedia — *Greenspun's Tenth Rule*](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule){ target="_blank" }
-* Jamie Zawinski – [jwz.org](https://www.jwz.org/){ target="_blank" }
-* [Wikipedia](https://en.wikipedia.org/wiki/Zawinski%27s_law){ target="_blank" }
+Ce n'est pas absurde.  
+C'est une évolution naturelle.  
+Et c'est exactement ce qui se produit, partout, en ce moment-même.

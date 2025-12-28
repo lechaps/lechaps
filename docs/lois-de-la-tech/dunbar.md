@@ -3,7 +3,7 @@
 Tu as déjà essayé de garder le contact avec tous tes anciens collègues, amis d'école, contacts LinkedIn et copains de sport ?
 Au début tu réponds, tu likes, tu commentes… puis, au bout d'un moment, tu décroches.
 
-> A stable social group is limited in size by the cognitive capacity of the individuals who form it — roughly 150 meaningful relationships.
+> A stable social group is limited in size by the cognitive capacity of the individuals who form it — roughly 150 meaningful relationships - Robin Dunbar, 1992
 
 Autrement dit : **au-delà d'un certain seuil, nos relations se diluent… puis finissent par disparaître**.
 

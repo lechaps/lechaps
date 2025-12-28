@@ -4,7 +4,7 @@ Tu as déjà bossé sur un logiciel qui semblait simple au début, et qui, versi
 Chaque mise à jour casse autre chose, chaque correction en crée deux nouvelles….  
 Bienvenue dans **les lois de Lehman**, un ensemble de huit lois qui décrivent comment les logiciels évoluent lorsqu'ils sont utilisés dans le monde réel.
 
-> A software system that is used in the real world must continually be adapted, or it becomes progressively less useful.
+> A software system that is used in the real world must continually be adapted, or it becomes progressively less useful. - Meir "Manny" Lehman, 1974
 
 Autrement dit : **un logiciel vivant doit changer — sinon, il meurt**.
 Le monde avance ; le logiciel aussi. Ce qui ne s'adapte pas décroche. Ce qui ne s'entretient pas se dégrade. Un programme n'est pas figé : c'est un organisme en évolution.

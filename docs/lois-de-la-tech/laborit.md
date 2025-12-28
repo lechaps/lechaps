@@ -4,7 +4,7 @@ Tu t'es déjà surpris à faire tout sauf la tâche que tu devais vraiment faire
 Ranger ton bureau avant de bosser, faire un café indispensable, ou scroller « juste deux minutes » avant de t'y mettre ?
 On associe souvent ça à ce qu'on appelle **la loi de Laborit**.
 
-> Face à une contrainte, l'organisme cherche le plaisir, fuit la douleur ; et lorsque ni l'action ni la fuite ne sont possibles, il s'inhibe.
+> Face à une contrainte, l'organisme cherche le plaisir, fuit la douleur ; et lorsque ni l'action ni la fuite ne sont possibles, il s'inhibe - Henri Laborit, 1974
 
 Cette idée est souvent utilisée pour expliquer la procrastination.
 Mais derrière l'excuse facile « c'est mon cerveau », il y a en réalité **une réflexion bien plus profonde** sur notre rapport à l'action, au stress… et même à la société.
@@ -25,7 +25,7 @@ En résumé, notre cerveau évite l'inconfort immédiat, mais **le bien-être du
 
 ## D'où vient la loi de Laborit ?
 
-Ce principe vient du docteur Henri Laborit (1914–1995), médecin, biologiste et neurophysiologiste français. Il a consacré ses recherches à comprendre **pourquoi nous agissons — et pourquoi nous n'agissons pas**.
+Ce principe vient du docteur **Henri Laborit** (1914–1995), médecin, biologiste et neurophysiologiste français. Il a consacré ses recherches à comprendre **pourquoi nous agissons — et pourquoi nous n'agissons pas**.
 
 Dans *La Nouvelle Grille* (1974) et *Éloge de la fuite* (1976), Laborit montre que nos comportements ne sont pas guidés uniquement par le plaisir et la douleur, mais aussi par **l'environnement qui permet, bloque ou sanctionne l'action**.
 
@@ -33,7 +33,7 @@ Contrairement à ce qu'on retient souvent, il ne cherchait pas à booster la pro
 
 Pour Laborit, la liberté commence quand on devient conscient de ces conditionnements biologiques **et sociaux** : tant qu'on réagit automatiquement à la contrainte, au conformisme ou à la peur, on ne choisit pas vraiment.
 
-⚠️ Ses travaux sont aujourd'hui considérés comme **inspirants mais partiellement simplifiés**, car ils extrapolent des expériences animales à l'humain. La « loi de Laborit » reste donc une **métaphore éclairante**, plus qu'une loi universelle.
+Ses travaux sont aujourd'hui considérés comme **inspirants mais partiellement simplifiés**, car ils extrapolent des expériences animales à l'humain. La « loi de Laborit » reste donc une **métaphore éclairante**, plus qu'une loi universelle.
 
 Son influence dépasse pourtant la science : le film *Mon Oncle d'Amérique* (1980) d'Alain Resnais illustre ces mécanismes de façon magistrale, mêlant comportement, inhibition et société.
 

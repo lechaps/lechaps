@@ -3,7 +3,7 @@
 Tu as déjà attendu 15 minutes dans une file qui n'avance pas ? Ou passé ta journée à jongler entre dix tâches sans en finir une seule ?  
 Bienvenue dans **la loi de Little**.
 
-> The average number of items in a system equals the average arrival rate multiplied by the average time an item spends in the system. (L = λW)
+> The average number of items in a system equals the average arrival rate multiplied by the average time an item spends in the system. (L = λW) - John D. C. Little, 1961
 
 Autrement dit : **Si les éléments entrent plus vite qu'ils ne sortent, ça s'accumule — toujours, mathématiquement, inévitablement**.
 
@@ -43,7 +43,7 @@ Ce qui est, au fond, le message managérial clé : on ne peut pas charger un sys
 
 ## D'où vient la loi de Little ?
 
-Ce principe vient du chercheur américain John D. C. Little, professeur au _MIT Sloan School of Management_ et pionnier de la théorie des files d'attente. En 1961, il publie un article devenu culte : _A Proof for the Queuing Formula: L = λW_. 
+Ce principe vient du chercheur américain **John D. C. Little**, professeur au _MIT Sloan School of Management_ et pionnier de la théorie des files d'attente. En 1961, il publie un article devenu culte : _A Proof for the Queuing Formula: L = λW_.
 
 Sa formule : **L = λ × W** est devenue un pilier du **Lean**, du **Kanban**, du **management agile**, et même de **la gestion du temps personnelle**.
 

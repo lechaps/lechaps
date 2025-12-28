@@ -30,12 +30,20 @@ Il s'agit d'apprendre à reconnaître ce qui n'a plus d'avenir et à rediriger s
 
 ## D'où vient la théorie du cheval mort ?
 
-L'origine de cette métaphore _dead horse theory_ est incertaine.  
-Elle est souvent attribuée à une **sagesse amérindienne**, mais elle a surtout été popularisée dans les années 1980–1990 dans les milieux du management et de la formation en leadership.  
+Contrairement à ce que l'on lit parfois, la « théorie du cheval mort » n'est pas une théorie au sens académique, ni un concept issu d'une source unique clairement identifiée.  
+Elle relève plutôt de ce que l'on pourrait appeler une métaphore managériale : une image simple, transmise et enrichie au fil du temps pour rendre visibles des mécanismes complexes.
 
-Utilisée d'abord sur le ton de l'humour, elle sert aujourd'hui à illustrer les absurdités de certaines pratiques organisationnelles. Cette image s'est imposée comme une parabole moderne du déni collectif, dans les entreprises comme dans la vie : **continuer coûte plus cher que s'arrêter**.  
+La citation est fréquemment attribuée à une « sagesse amérindienne », notamment à la culture *dakota*, mais **aucune source historique fiable ne permet de confirmer cette origine**. Cette attribution relève davantage d'un procédé narratif — donner une profondeur ancestrale à une idée moderne — que d'un fait établi.
 
-En somme, la théorie du cheval mort nous rappelle que **le courage, ce n'est pas de continuer à tout prix, c'est de savoir quand descendre**.
+En réalité, la métaphore s'est surtout diffusée à partir **des années 1980–1990**, dans les milieux du management, de la formation au leadership et de la conduite du changement. Elle apparaît alors comme une illustration humoristique mais percutante d'un phénomène bien documenté par les sciences de la décision : **la tendance des individus et des organisations à persister dans des choix inefficaces**, malgré des signaux clairs d'échec.
+
+Ce que la métaphore du cheval mort traduit de manière imagée, des chercheurs comme **Dietrich Dörner, Barry Staw ou Daniel Kahneman** l'ont analysé de façon rigoureuse :
+
+* l'escalade d'engagement,
+* le poids des coûts irrécupérables,
+* le déni collectif face à l'incertitude et à la perte de contrôle.
+
+Si la « théorie du cheval mort » a traversé les décennies, ce n'est donc pas pour sa précision scientifique, mais pour sa justesse psychologique. Elle met en lumière, en quelques mots, une vérité inconfortable : continuer peut parfois coûter bien plus cher que s'arrêter, non seulement en ressources, mais en lucidité et en crédibilité.
 
 ### Références
 

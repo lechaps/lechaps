@@ -4,7 +4,7 @@ Tu t'es déjà demandé pourquoi les médias traditionnels (radio, télévision,
 C'est simple : plus il y a d'audience, plus le système vaut cher.  
 Bienvenue dans **la loi de Sarnoff**.
 
-> The value of a broadcast network is proportional to the number of viewers.
+> The value of a broadcast network is proportional to the number of viewers - David Sarnoff
 
 Autrement dit : **Dans un système en diffusion, chaque nouvel utilisateur ajoute de la valeur — mais seulement linéairement.**
 

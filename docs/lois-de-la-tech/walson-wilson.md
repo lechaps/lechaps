@@ -11,7 +11,7 @@ ou, dans sa version la plus répandue :
 
 Autrement dit : **On ne s'approprie pas un résultat qu'on n'a pas contribué à construire.**
 
-Bref : *$Pas d'implication = pas d'engagement, penser par soi-même reste l'avantage le plus durable**.
+Bref : *Pas d'implication = pas d'engagement, penser par soi-même reste l'avantage le plus durable**.
 
 ## Pourquoi la loi de Walson (ou Wilson) est si parlante
 

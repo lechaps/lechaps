@@ -5,8 +5,8 @@ Pourquoi on laisse filer Internet, les réseaux sociaux, l'IA, la biométrie, pu
 
 Bienvenue dans **le dilemme de Collingridge**.
 
-> **Quand une technologie est jeune, elle est facile à contrôler mais on ne sait pas encore quels problèmes elle va créer.
-> Quand elle est mature, ses effets sont clairs… mais il est devenu presque impossible de la contrôler.**
+> When a technology is in its early stages, it is relatively easy to influence its development.  However, at this stage, the consequences of the technology are largely unknown
+> By the time the undesirable consequences of a technology become apparent, the technology is so entrenched that it is difficult or impossible to change - David Collingridge, 1980
 
 Bref : **Le moment où il faudrait réguler est précisément celui où on ne sait pas réguler.**
 
@@ -45,22 +45,36 @@ Exemple parfait :
 Essaye d'imaginer « débrancher » Facebook, Google, ou TikTok aujourd'hui…
 Bonne chance.
 
+## D'où vient le dilemme de Collingridge ?
+
+Le dilemme de Collingridge vient de **David Collingridge**, sociologue britannique des sciences et des techniques, spécialiste des relations entre innovation, pouvoir et décision publique.  
+Il est formulé au tournant des années 1980, dans un contexte marqué par l'essor des grandes infrastructures technologiques et la prise de conscience de leurs effets sociaux à long terme.
+
+Collingridge développe cette idée dans son ouvrage *The Social Control of Technology (1980)*, où il analyse pourquoi les sociétés échouent à orienter les technologies au moment où elles sont encore malléables. Il montre que l'incertitude initiale empêche l'action précoce, tandis que l'adoption massive rend toute correction ultérieure politiquement, économiquement et socialement coûteuse.
+
+Le dilemme de Collingridge est aujourd'hui un cadre de référence central pour penser la gouvernance de l'innovation : numérique, IA, biotechnologie, énergie, infrastructures.  
+Il irrigue les travaux sur l'innovation responsable, la régulation anticipatrice et le design éthique des technologies.
+
+En somme, le dilemme de Collingridge est une mise en garde simple et brutale :
+le véritable pouvoir sur une technologie se joue avant qu'elle ne s'impose.
+Une technologie maîtrisable n'est pas celle que l'on tente de corriger trop tard, mais celle qui a été conçue pour pouvoir encore être changée.
+
 ## Ce que le dilemme nous enseigne
 
 Collingridge nous rappelle un fait brutal :
 **Les technologies évoluent plus vite que notre capacité à les comprendre ou à les gouverner.**
 
-D'où une triple leçon :
+De là découlent trois enseignements clés :
 
-1. **On doit agir très tôt, mais sans données parfaites.**
-2. **On doit anticiper les risques avant qu'ils n'apparaissent.**
-3. **On doit créer des technologies modifiables, réversibles et responsables dès leur conception.**
+1. **Agir tôt, sans certitude totale** : Attendre des preuves parfaites revient souvent à attendre trop longtemps.
+2. **Anticiper les risques avant qu'ils ne soient visibles** : Les effets majeurs d'une technologie sont souvent émergents et non intentionnels.
+3. **Concevoir des technologies modifiables, réversibles et responsables** : Le design est une forme de gouvernance.
 
 En d'autres termes :
 **Le vrai pouvoir n'est pas dans la régulation tardive — mais dans les choix de design dès le départ.**
 
-Ce principe est au cœur de l'innovation responsable, des politiques sur l'IA, des réflexions sur la biotechnologie, l'énergie, le numérique…. 
-C'est la question-clé du futur : *Comment gouverner ce qu'on ne comprend pas encore, avant qu'il soit trop tard ?*
+C'est ce principe qui structure aujourd'hui l'innovation responsable, des politiques sur l'IA, des réflexions sur la biotechnologie, l'énergie, le numérique….  
+C'est la question-clé du futur : *Comment accepter de gouverner sans comprendre parfaitement — tout en refusant l'inaction comme excuse ?*
 
 ### Références
 

@@ -4,7 +4,7 @@ Tu t'es déjà retrouvé à décoder un message incomplet, un mail mal formulé 
 Et à l'inverse, déjà envoyé un truc pas clair qui a semé la confusion chez tout le monde ?  
 Félicitation tu viens de croiser **la loi de Postel**.
 
-> Be conservative in what you do, be liberal in what you accept from others.
+> Be conservative in what you do, be liberal in what you accept from others - Jon Postel
 
 Autrement dit : **Fais les choses proprement de ton côté, mais accepte que les autres soient un peu chaotiques — c'est comme ça qu'on construit des systèmes résilients**.
 
@@ -28,7 +28,7 @@ Et c'est cet équilibre qui distingue les systèmes (et les humains) qui durent�
 
 ## D'où vient la loi de Postel ?
 
-La loi de Postel porte le nom de Jon Postel (1943–1998), un des architectes silencieux mais essentiels d'Internet.Il a contribué à la création de TCP/IP, SMTP (les mails) ou DNS (les noms de domaine) — bref, une grande partie de l'infrastructure qui fait tourner le monde numérique.
+La loi de Postel porte le nom de **Jon Postel** (1943–1998), un des architectes silencieux mais essentiels d'Internet.Il a contribué à la création de TCP/IP, SMTP (les mails) ou DNS (les noms de domaine) — bref, une grande partie de l'infrastructure qui fait tourner le monde numérique.
 
 Dans les années 1970, alors que tout était encore expérimental et fragile, il formule cette règle simple et visionnaire. Cette idée a rendu Internet incroyablement robuste : même un message imparfait pouvait passer. L'enjeu était clair : pour connecter le monde, il fallait des systèmes capables de comprendre l'imperfection, mais d'émettre eux-mêmes du signal clair.
 

@@ -91,13 +91,8 @@ Mais *"est-ce observable ?"*
 
 ## La leçon derrière la loi
 
-La loi de Hyrum ne dit pas :
-
-> "N'évolue jamais."
-
-Elle dit :
-
-> **"Évolue en sachant que tu engages des gens que tu ne vois pas."**
+La loi de Hyrum ne dit pas : "N'évolue jamais."  
+Elle dit : **"Évolue en sachant que tu engages des gens que tu ne vois pas."**
 
 C'est une loi d'humilité.  
 Une loi de responsabilité.  

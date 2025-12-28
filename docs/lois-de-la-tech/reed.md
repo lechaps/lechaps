@@ -4,7 +4,7 @@ Tu t'es déjà demandé pourquoi les réseaux sociaux, les forums ou les communa
 Pas juste parce qu'ils ont beaucoup de membres, mais parce que **ces membres forment des groupes, des communautés, des sous-réseaux**.
 Bienvenue dans **la loi de Reed**.
 
-> The utility of large networks, particularly social networks, scales exponentially with the size of the network.
+> The utility of large networks, particularly social networks, scales exponentially with the size of the network - David Patrick Reed, 1999
 
 Autrement dit : **La vraie puissance d'un réseau ne vient pas de ses utilisateurs, mais des groupes qu'ils forment — et des liens qu'ils créent entre eux**.
 
