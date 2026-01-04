@@ -1,9 +1,9 @@
 # Entreprendre
 
-**Agir sans tout maîtriser** : L’entrepreneuriat n’est pas une capacité à prédire l’avenir.  
-C’est une capacité à agir dans l’incertitude.
+**Agir sans tout maîtriser** : L'entrepreneuriat n'est pas une capacité à prédire l'avenir.  
+C'est une capacité à agir dans l'incertitude.
 
-Ici, entreprendre ne signifie pas créer une entreprise, mais oser agir quand tout n’est pas clair.
+Ici, entreprendre ne signifie pas créer une entreprise, mais oser agir quand tout n'est pas clair.
 
 Les principes d'effectuation :
 

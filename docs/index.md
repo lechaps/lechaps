@@ -2,11 +2,12 @@
 
 Bienvenue sur le site du Chaps
 
-Auvergnat (un peu) 🌋, [bourbonnais](./bourbonnais/index.md) (beaucoup) 🏰, parodien (surtout) 🚜 et citoyen du monde 🌍.  
-Je partage ici ce qui m'anime : des passions variées, des projets créatifs et mes curiosités, entre **tradition et modernité**.  
+Auvergnat (un peu) 🌋, [bourbonnais](./bourbonnais/index.md) (beaucoup) 🏰, parodien (surtout) 🚜 et citoyen du monde 🌍. J'écris ici pour **éclairer, transmettre et préserver ce qui fait sens, entre patrimoine et modernité, technique et humain, règles et vivant**.
+
+Je crois que **comprendre les systèmes dans lesquels nous évoluons** — culturels, humains, techniques — permet de **s'émanciper, d'agir avec justesse et de respecter le vivant**, sans chercher à en nier la complexité.
 
 Geek 🖥️, papa ❤️, amateur de vin 🍷, arbitre ⚖️, acteur 🎬, architecte 💡, comédien 🎭, badiste 🏸, guitariste 🎸, chroniqueur radio 🎙️….  
-Ces carnets sont un **mélange des genres à mon image**.
+Ces carnets sont **un mélange des genres, à mon image** : curieux, attentif, parfois sérieux, souvent joueur, toujours tourné vers **la transmission et le collectif**.
 
 ## Ce que vous trouverez ici
 
@@ -14,7 +15,7 @@ Ces carnets sont un **mélange des genres à mon image**.
 
 > Mon dictionnaire amoureux du patois bourbonnais  
 > Des mots entendus dans mon enfance, transmis de bouche à oreille, entre champs, repas de famille et histoires de village.  
-> Un projet vivant pour préserver la langue, la culture et la malice d'un coin de pays.
+> Un projet vivant pour **préserver la langue, la culture et la malice d'un coin de pays**.
 
 🔹 [Feuilleter le carnet](./bourbonnais/index.md)  
 
@@ -23,8 +24,8 @@ Ces carnets sont un **mélange des genres à mon image**.
 ### 🧠 HumanOps
 
 > Quand la technique rencontre l'humain.  
-> Ici, je partage des réflexions sur le management, la coopération et la simplicité dans les systèmes complexes.  
-> Parce qu'un système ne tient debout que si ceux qui le font tourner tiennent eux aussi.
+> Des réflexions sur le management, la coopération et la manière d'agir avec des systèmes complexes sans écraser ceux qui les font vivre.
+> Parce qu'un système ne tient debout que si les personnes qui le composent tiennent elles aussi.
 
 🔹 [Plonger dans le carnet](./humanops/index.md)
 
@@ -32,8 +33,8 @@ Ces carnets sont un **mélange des genres à mon image**.
 
 ### 💡 Les lois de la tech
 
-> Des lois, paradoxes et principes qui expliquent pourquoi nos projets — et parfois nos vies numériques — fonctionnent comme ils fonctionnent.  
-> Un mélange de rigueur et d'ironie, à la croisée de la science, de la société et de la tech.
+> Lois, paradoxes et principes pour mieux comprendre pourquoi nos projets — et parfois nos vies numériques — fonctionnent comme ils fonctionnent.
+> Un regard mêlant rigueur, recul et humour, à la croisée de la science, de la société et de la tech.
 
 🔹 [Décoder le carnet](./lois-de-la-tech/index.md)
 
@@ -41,62 +42,15 @@ Ces carnets sont un **mélange des genres à mon image**.
 
 ### 💬 Citations & inspirations
 
-> Des phrases, des idées, des clins d'œil qui m'accompagnent au quotidien.  
-> De l'architecture au savoir-être, un espace pour nourrir la pensée et la curiosité.
+> Des phrases, des idées et des clins d'œil qui m'accompagnent.
+> Un espace pour **nourrir la réflexion, la curiosité et le sens**, entre architecture, savoir-être et culture
 
-🔹 [Butiner le carnet](./citations/index.md)
-
----
-
-<!-- 
-
-Synonime de Découvrir
-
-## 🎒 Curiosité & exploration douce
-
-> idéal pour un ton accessible, curieux, bienveillant
-
-* **Feuilleter** → évoque un carnet, une lecture libre
-* **Voyager dans** → poétique, immersif
-* **Flâner dans** → convivial, calme, à ton image
-* **Cheminer à travers** → suggère la réflexion progressive
-* **Explorer les sentiers de** → clin d'œil au Bourbonnais 😉
-* **Entrer dans** → simple et direct
-
-## ⚙️ Réflexion & profondeur
-
-> plus sérieux, parfait pour les thèmes management / tech
-
-* **Approfondir**
-* **Plonger dans**
-* **Décoder**
-* **Comprendre**
-* **Décrypter**
-
-## 🌿 Culture & patrimoine
-
-> pour la section Bourbonnais, plus sensible et enracinée
-
-* **Redécouvrir**
-* **Goûter à**
-* **Écouter**
-* **Retrouver**
-* **Se replonger dans**
-
-## 💬 Inspiration & légèreté
-
-> parfait pour les citations et les réflexions
-
-* **Butiner**
-* **Cueillir**
-* **Savourer**
- -->
-
-## 🚧 En construction
-
-> **Version de lancement 🚀** — certaines zones sont encore « sauvages » 🔧⚡  
-> Revenez bientôt, ça pousse !
+🔹 [Savourer le carnet](./citations/index.md)
 
 ---
 
-🧭 Merci d'être passé — et bonne balade dans mes mots, mes mondes et mes idées 🌿
+*Ces carnets suivent une intention simple, expliquée dans le [manifeste du site](./manifeste.md).*
+
+---
+
+🧭 Merci d'être passé — et bonne balade dans mes mots, mes mondes et mes idées 🌿.

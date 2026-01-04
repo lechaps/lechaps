@@ -2,7 +2,7 @@
 
 > Porter la complexité, payer le choix, révéler au bon moment
 
-Il existe trois principes qui expliquent pourquoi certains produits paraissent évidents — et pourquoi d’autres, pourtant “bien conçus”, restent pénibles, confus ou frustrants.
+Il existe trois principes qui expliquent pourquoi certains produits paraissent évidents — et pourquoi d'autres, pourtant “bien conçus”, restent pénibles, confus ou frustrants.
 
 Trois principes utilisés en design produit, en UX, en logiciel, en services complexes, en IA.
 
@@ -10,7 +10,7 @@ Ils forment un cadre simple, mais exigeant :
 
 > **La complexité ne disparaît jamais.
 > La décision a toujours un coût.
-> Et l’utilisateur n’apprend jamais tout d’un coup.**
+> Et l'utilisateur n'apprend jamais tout d'un coup.**
 
 La loi de Tesler, la loi de Hick-Hyman et le principe de progressivité (popularisé par Donald Norman) sont complémentaires :
 
@@ -33,20 +33,20 @@ La loi de Tesler ne dit pas :
 
 Elle dit :
 
-> **“Quelqu’un portera la complexité.”**
+> **“Quelqu'un portera la complexité.”**
 
 Soit :
 
-* l’équipe produit,
+* l'équipe produit,
 * le design,
 * le code,
-* l’organisation.
+* l'organisation.
 
 Soit :
 
-* l’utilisateur,
-* au moment de l’usage,
-* sous forme de friction, d’erreurs ou d’abandon.
+* l'utilisateur,
+* au moment de l'usage,
+* sous forme de friction, d'erreurs ou d'abandon.
 
 Tesler fixe le cadre stratégique. Il empêche la naïveté.
 
@@ -63,7 +63,7 @@ La loi de Hick-Hyman rappelle une limite humaine :
 
 Elle ne dit pas :
 
-> “Réduis toujours le nombre d’options.”
+> “Réduis toujours le nombre d'options.”
 
 Elle dit :
 
@@ -73,7 +73,7 @@ Hick-Hyman fixe la contrainte cognitive. Il empêche la brutalité.
 
 ## Norman — La complexité doit être progressive
 
-C’est ici que la checklist UX échoue le plus souvent.
+C'est ici que la checklist UX échoue le plus souvent.
 
 Entre :
 
@@ -86,15 +86,15 @@ il reste une question centrale :
 
 Le principe de progressivité répond :
 
-* simple d’abord,
+* simple d'abord,
 * essentiel ensuite,
-* contrôle quand l’utilisateur est prêt.
+* contrôle quand l'utilisateur est prêt.
 
 Ni magie.
 Ni surcharge.
 Ni transparence brutale.
 
-Norman fixe le tempo. Il empêche l’arbitraire.
+Norman fixe le tempo. Il empêche l'arbitraire.
 
 ## Pourquoi la checklist UX échoue
 
@@ -103,7 +103,7 @@ La checklist transforme ces principes en règles mécaniques :
 * “Moins de choix = mieux”
 * “Masquer la complexité”
 * “Réduire la friction”
-* “Simplifier l’interface”
+* “Simplifier l'interface”
 
 Mais un produit peut :
 
@@ -120,15 +120,15 @@ Pris ensemble, ils imposent une discipline claire :
 
 > **La complexité doit être portée.
 > La décision doit être maîtrisée.
-> L’apprentissage doit être orchestré.**
+> L'apprentissage doit être orchestré.**
 
 Ils ne disent jamais :
 
 * quoi cacher exactement,
-* combien d’options afficher,
+* combien d'options afficher,
 * à quel moment révéler le contrôle.
 
-**Ça, c’est une décision produit. Pas une règle.**
+**Ça, c'est une décision produit. Pas une règle.**
 
 ## Le rôle réel des lois UX
 
@@ -151,15 +151,15 @@ Non par ignorance. Mais par intention.
 ## Conclusion
 
 La performance ne se scale pas avec des recettes.
-L’expérience utilisateur non plus.
+L'expérience utilisateur non plus.
 
 > **Tesler montre la responsabilité.
 > Hick-Hyman montre la limite humaine.
 > Norman montre le bon moment.**
 
 Tout le reste — guidelines, heuristiques, checklists —
-n’est que de l’outillage.
+n'est que de l'outillage.
 
-**L’UX n’est pas une conformité. C’est une stratégie de décisions sous contrainte.**
+**L'UX n'est pas une conformité. C'est une stratégie de décisions sous contrainte.**
 
 Et aucune checklist ne décidera à ta place.

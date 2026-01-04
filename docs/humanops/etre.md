@@ -1,7 +1,7 @@
 # Être
 
-**Adopter une posture agile.** : Avant les méthodes, les outils ou les décisions, il y a une chose plus fondamentale : l’état d’esprit.  
-La façon dont on se tient face aux autres, face aux événements, face à l’imprévu.
+**Adopter une posture agile.** : Avant les méthodes, les outils ou les décisions, il y a une chose plus fondamentale : l'état d'esprit.  
+La façon dont on se tient face aux autres, face aux événements, face à l'imprévu.
 
 ## Cultive ton état d'esprit
 

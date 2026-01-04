@@ -1,9 +1,9 @@
 # Agir
 
-**Une démarche simple et collective** : Agir n’est pas “faire beaucoup”.  
-Agir, c’est avancer ensemble, par petits pas, en apprenant en chemin.
+**Une démarche simple et collective** : Agir n'est pas “faire beaucoup”.  
+Agir, c'est avancer ensemble, par petits pas, en apprenant en chemin.
 
-Cette démarche n’est pas là pour aller plus vite, mais pour aller plus juste — sans épuiser les personnes qui agissent.
+Cette démarche n'est pas là pour aller plus vite, mais pour aller plus juste — sans épuiser les personnes qui agissent.
 
 La boucle d'action :
 
@@ -19,4 +19,4 @@ Règles d'or :
 * Pas de plan rigide, mais une **vision claire**
 * Limitez le travail en cours : **Trop de tâches parallèles diluent l'efficacité**.
 
-Si l’action épuise, ce n’est pas qu’on agit trop lentement, mais qu’on agit mal.
+Si l'action épuise, ce n'est pas qu'on agit trop lentement, mais qu'on agit mal.

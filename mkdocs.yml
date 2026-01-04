@@ -34,6 +34,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
+    - navigation.footer
     - header.autohide
     - toc.follow
     #- toc.integrate

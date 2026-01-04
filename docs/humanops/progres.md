@@ -4,18 +4,18 @@
 
 Tu as sans doute déjà remarqué trois choses étranges :
 
-* Ton smartphone est plus puissant que l’ordinateur de la NASA lors des missions lunaires.
+* Ton smartphone est plus puissant que l'ordinateur de la NASA lors des missions lunaires.
 * Ton laptop flambant neuf semble parfois déjà dépassé.
-* Malgré l’explosion de la puissance de calcul, ton quotidien ne devient pas *exponentiellement* meilleur.
+* Malgré l'explosion de la puissance de calcul, ton quotidien ne devient pas *exponentiellement* meilleur.
 
 Ces paradoxes ne sont pas des accidents.
 Ils décrivent trois tensions fondamentales du progrès technologique, mises en lumière par **trois lois issues de trois époques différentes** :
 
-1. **Moore** décrit l’accélération du matériel.
+1. **Moore** décrit l'accélération du matériel.
 2. **Wirth** révèle la lourdeur croissante du logiciel.
-3. **Claasen** explique la lenteur de l’utilité perçue.
+3. **Claasen** explique la lenteur de l'utilité perçue.
 
-Ensemble, elles racontent toute l’histoire du numérique moderne.
+Ensemble, elles racontent toute l'histoire du numérique moderne.
 
 ## 1. Moore : quand la puissance devient exponentielle
 
@@ -24,9 +24,9 @@ En 1965, **Gordon Moore** observe une tendance simple mais vertigineuse :
 > **Le nombre de transistors sur une puce double environ tous les deux ans, à coût constant.**
 
 Autrement dit : **la puissance de calcul croît de façon exponentielle**.
-Et l’exponentiel, on le sous-estime toujours.
+Et l'exponentiel, on le sous-estime toujours.
 
-Ce qui est aujourd’hui :
+Ce qui est aujourd'hui :
 
 * cher,
 * lent,
@@ -43,24 +43,24 @@ Cette dynamique a rendu possible :
 * les ordinateurs personnels,
 * Internet,
 * le cloud,
-* l’intelligence artificielle.
+* l'intelligence artificielle.
 
-La loi de Moore est devenue bien plus qu’une observation :
-**une prophétie auto-réalisatrice**, guidant l’industrie pendant des décennies.
+La loi de Moore est devenue bien plus qu'une observation :
+**une prophétie auto-réalisatrice**, guidant l'industrie pendant des décennies.
 
 Même si ses limites physiques se font sentir, son esprit demeure :
-quand une frontière se ferme, une autre s’ouvre.
+quand une frontière se ferme, une autre s'ouvre.
 
 ## 2. Wirth : quand le logiciel annule le progrès
 
-Dans les années 1990, **Niklaus Wirth**, pionnier de l’informatique et lauréat du prix Turing, formule une observation beaucoup moins optimiste :
+Dans les années 1990, **Niklaus Wirth**, pionnier de l'informatique et lauréat du prix Turing, formule une observation beaucoup moins optimiste :
 
-> **Le logiciel ralentit plus vite que le matériel ne s’améliore.**
+> **Le logiciel ralentit plus vite que le matériel ne s'améliore.**
 
 Autrement dit : chaque gain de puissance est absorbé par :
 
 * plus de fonctionnalités,
-* plus d’abstractions,
+* plus d'abstractions,
 * plus de dépendances.
 
 Pourquoi optimiser, quand la machine compense ?
@@ -71,14 +71,14 @@ Résultat :
 * des systèmes plus complexes,
 * une efficacité qui stagne malgré des machines surpuissantes.
 
-Pour Wirth, le problème n’est pas technique, mais culturel :
+Pour Wirth, le problème n'est pas technique, mais culturel :
 
-> **« Programmer, c’est simplifier. »**
+> **« Programmer, c'est simplifier. »**
 
 La loi de Wirth rappelle une vérité dérangeante :
 **la puissance sans discipline ne crée pas la qualité — elle la masque**.
 
-## 3. Claasen : quand l’utilité progresse lentement
+## 3. Claasen : quand l'utilité progresse lentement
 
 À la fin des années 1990, **Theo A. M. Claasen**, CTO de Philips Semiconductors, ajoute une troisième pièce au puzzle :
 
@@ -87,19 +87,19 @@ La loi de Wirth rappelle une vérité dérangeante :
 > **Technologie = exp(Utilité)**
 
 Autrement dit :
-**il faut une croissance exponentielle de la technologie pour obtenir une amélioration d’utilité modérée**.
+**il faut une croissance exponentielle de la technologie pour obtenir une amélioration d'utilité modérée**.
 
 Concrètement :
 
-* doubler la puissance ne double pas l’expérience,
+* doubler la puissance ne double pas l'expérience,
 * accélérer les réseaux change peu les usages,
 * améliorer la qualité brute ne garantit pas plus de valeur.
 
 La technologie explose.
-L’utilité perçue progresse lentement.
+L'utilité perçue progresse lentement.
 
 La loi de Claasen met en lumière une limite fondamentale :
-**la perception humaine n’est pas exponentielle**.
+**la perception humaine n'est pas exponentielle**.
 
 ## Une lecture complète du progrès
 
@@ -107,21 +107,21 @@ Mises ensemble, ces trois lois racontent une histoire cohérente :
 
 * **Moore** → la puissance accélère.
 * **Wirth** → le logiciel freine.
-* **Claasen** → l’utilité trottine.
+* **Claasen** → l'utilité trottine.
 
 En résumé :
 
 > **La technologie accélère.
-> Le logiciel s’alourdit.
-> L’utilité progresse lentement.**
+> Le logiciel s'alourdit.
+> L'utilité progresse lentement.**
 
-Ce n’est pas un échec.
-C’est la mécanique normale du progrès.
+Ce n'est pas un échec.
+C'est la mécanique normale du progrès.
 
-Le véritable enjeu n’est peut-être pas d’ajouter toujours plus de technologie,
+Le véritable enjeu n'est peut-être pas d'ajouter toujours plus de technologie,
 mais de chercher **plus de simplicité, plus de sobriété et plus de valeur réelle**.
 
-Car au bout de l’exponentielle, il n’y a pas qu’un processeur.
+Car au bout de l'exponentielle, il n'y a pas qu'un processeur.
 Il y a un humain.
 
 ## Manifeste pour un progrès technologique utile
@@ -135,10 +135,10 @@ elles décrivent les limites structurelles de notre rapport au progrès.
 Ce manifeste affirme une conviction simple :
 **le futur ne se gagnera pas par plus de puissance, mais par plus de justesse.**
 
-### 1. La puissance n’est pas la valeur
+### 1. La puissance n'est pas la valeur
 
-Une technologie plus performante n’est utile que si elle améliore l’expérience vécue.
-La performance brute n’est qu’un moyen, jamais une fin.
+Une technologie plus performante n'est utile que si elle améliore l'expérience vécue.
+La performance brute n'est qu'un moyen, jamais une fin.
 
 ### 2. La simplicité est une discipline, pas une contrainte
 
@@ -146,25 +146,25 @@ Chaque couche ajoutée doit être justifiée.
 Chaque fonctionnalité doit prouver sa valeur.
 La complexité non maîtrisée est une dette, pas un progrès.
 
-### 3. L’optimisation est un choix culturel
+### 3. L'optimisation est un choix culturel
 
-Optimiser n’est pas prématuré.
+Optimiser n'est pas prématuré.
 Renoncer à optimiser est un choix implicite, souvent coûteux.
-La machine ne doit pas compenser ce que la pensée n’a pas clarifié.
+La machine ne doit pas compenser ce que la pensée n'a pas clarifié.
 
-### 4. L’utilisateur ne perçoit pas l’exponentielle
+### 4. L'utilisateur ne perçoit pas l'exponentielle
 
-L’humain progresse lentement.
+L'humain progresse lentement.
 Sa perception est logarithmique, contextuelle, saturable.
-Concevoir utile, c’est respecter ces limites au lieu de les ignorer.
+Concevoir utile, c'est respecter ces limites au lieu de les ignorer.
 
 ### 5. Moins peut créer plus
 
 Moins de fonctionnalités peut produire plus de valeur.
-Moins d’abstraction peut générer plus de robustesse.
+Moins d'abstraction peut générer plus de robustesse.
 Moins de bruit peut révéler plus de sens.
 
-### 6. Le progrès se mesure à l’usage, pas au graphe
+### 6. Le progrès se mesure à l'usage, pas au graphe
 
-Ce qui compte n’est pas ce que la technologie permet,
-mais ce qu’elle améliore réellement dans la vie des gens.
+Ce qui compte n'est pas ce que la technologie permet,
+mais ce qu'elle améliore réellement dans la vie des gens.
