@@ -1,6 +1,6 @@
 # Greenspun
 
-Tu as déjà remarqué qu'un projet “simple” finit toujours par devenir compliqué ?
+Tu as déjà remarqué qu'un projet "simple" finit toujours par devenir compliqué ?
 Quelques règles métier, deux ou trois exceptions, un peu de configuration…
 Puis des scripts.
 Puis des templates.
@@ -26,7 +26,7 @@ On empile :
 * des exceptions,
 * des fichiers de configuration,
 * des scripts d'automatisation,
-* des templates “juste pour ce cas-là”.
+* des templates "juste pour ce cas-là".
 
 À force, on ne programme plus vraiment.
 On **décrit** ce que le système doit faire.
@@ -35,7 +35,7 @@ Et décrire un comportement complexe… c'est déjà écrire un langage.
 
 ### **Parce qu'un langage, c'est une solution naturelle**
 
-Quand tout ne peut plus être codé “en dur”, on invente :
+Quand tout ne peut plus être codé "en dur", on invente :
 
 * une syntaxe,
 * des mots-clés,
@@ -61,7 +61,7 @@ Et plus elle formalise, plus elle abstrait.
 
 C'est là que la **loi de Conway** entre en jeu :
 
-> *“Les systèmes reflètent les structures de communication des organisations qui les conçoivent.”*
+> *"Les systèmes reflètent les structures de communication des organisations qui les conçoivent."*
 
 Quand la communication humaine ne suffit plus, le logiciel prend le relais.
 Et le logiciel parle… en langage.
@@ -93,7 +93,7 @@ Cette loi vient de **Philip Greenspun**, **informaticien et auteur**, formulée 
 
 Il y écrit cette phrase devenue célèbre :
 
-> *“Any sufficiently complicated program in C or Fortran contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.”*
+> *"Any sufficiently complicated program in C or Fortran contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp."*
 
 À l'époque, il parle surtout de C et de Fortran.
 Mais la loi a très bien survécu à ces langages.
@@ -104,7 +104,7 @@ Aujourd'hui, on la retrouve partout :
 * les outils no-code / low-code,
 * les pipelines ETL,
 * les CRM,
-* les systèmes de configuration “avancés”.
+* les systèmes de configuration "avancés".
 
 Dès qu'un outil devient puissant, il devient… programmable.
 
@@ -114,7 +114,7 @@ La loi de Greenspun est plus actuelle que jamais.
 
 Chaque fois qu'un outil promet :
 
-> *“Vous n'aurez plus besoin de coder”*
+> *"Vous n'aurez plus besoin de coder"*
 
 il finit par introduire :
 
@@ -145,6 +145,15 @@ Dès qu'un système devient complexe :
 Et comme souvent en informatique :
 
 > ce qu'on voulait éviter finit par nous rattraper.
+
+## Et si "devenir un langage" était une étape normale du cycle logiciel ?
+
+La loi de Greenspun décrit un moment charnière : quand un logiciel grossit, il finit par **inventer une syntaxe pour survivre**.  
+Ce n'est ni un accident, ni un caprice : c'est une réponse à la complexité, à l'échelle, et à l'impossibilité de tout coder "en dur".
+
+Mais cette étape s'inscrit dans un cycle plus large : **le logiciel enfle, devient langage, puis se déplace là où il est le plus facile à distribuer**.
+
+**[Lire la suite : Zawinski × Greenspun × Atwood — Logiciel](../humanops/logiciel.md)**
 
 ### Références
 

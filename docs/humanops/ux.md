@@ -2,7 +2,7 @@
 
 > Porter la complexité, payer le choix, révéler au bon moment
 
-Il existe trois principes qui expliquent pourquoi certains produits paraissent évidents — et pourquoi d'autres, pourtant “bien conçus”, restent pénibles, confus ou frustrants.
+Il existe trois principes qui expliquent pourquoi certains produits paraissent évidents — et pourquoi d'autres, pourtant "bien conçus", restent pénibles, confus ou frustrants.
 
 Trois principes utilisés en design produit, en UX, en logiciel, en services complexes, en IA.
 
@@ -29,11 +29,11 @@ Tout système possède une complexité incompressible :
 
 La loi de Tesler ne dit pas :
 
-> “Il faut simplifier.”
+> "Il faut simplifier."
 
 Elle dit :
 
-> **“Quelqu'un portera la complexité.”**
+> **"Quelqu'un portera la complexité."**
 
 Soit :
 
@@ -63,11 +63,11 @@ La loi de Hick-Hyman rappelle une limite humaine :
 
 Elle ne dit pas :
 
-> “Réduis toujours le nombre d'options.”
+> "Réduis toujours le nombre d'options."
 
 Elle dit :
 
-> **“Chaque option visible a un prix.”**
+> **"Chaque option visible a un prix."**
 
 Hick-Hyman fixe la contrainte cognitive. Il empêche la brutalité.
 
@@ -100,10 +100,10 @@ Norman fixe le tempo. Il empêche l'arbitraire.
 
 La checklist transforme ces principes en règles mécaniques :
 
-* “Moins de choix = mieux”
-* “Masquer la complexité”
-* “Réduire la friction”
-* “Simplifier l'interface”
+* "Moins de choix = mieux"
+* "Masquer la complexité"
+* "Réduire la friction"
+* "Simplifier l'interface"
 
 Mais un produit peut :
 

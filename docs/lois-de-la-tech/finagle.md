@@ -58,7 +58,15 @@ La loi de Finagle n'est pas un unique adage, mais un ensemble de principes satir
 La loi de Finagle trouve sa source dans la culture des **radioamateurs**, des **ingénieurs techniques** et du **fandom de science-fiction**, particulièrement dans les années 1950-60.  
 L'éditeur de science-fiction John W. Campbell Jr. est souvent cité comme une figure associée à cette loi. Mais c'est surtout l'écrivain Larry Niven qui la popularise littérairement, en faisant de *Finagle* un dieu fictif du chaos dans ses récits.  
 Résultat : la loi passe du folklore technique à un adage universel.
- 
+
+## Et si le problème n'était pas seulement ce qui casse… mais quand ?
+
+La loi de Finagle met le doigt sur une vérité cruelle : les systèmes ne lâchent pas au hasard — **ils lâchent quand l'enjeu est maximal**.
+
+Mais pour comprendre pourquoi ces échecs sont possibles en premier lieu, il faut remonter à une autre loi, plus fondamentale, qui parle non pas du timing… mais de la possibilité même de l'échec.
+
+**[Lire la suite : Murphy × Finagle — Fiabilité](../humanops/fiabilite.md)**
+
 ### Références
 
 * [Finagle's law](https://en.wikipedia.org/wiki/Finagle%27s_law){ target="_blank" }

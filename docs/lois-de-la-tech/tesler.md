@@ -50,14 +50,14 @@ C'est un arbitrage clair :
 
 La friction n'est jamais neutre. Quelqu'un la subit toujours.
 
-Mais attention : simplicité ≠ absence de complexité. La loi de Tesler n'est pas une ode au “tout simplifier”. Certaines complexités doivent rester visibles :
+Mais attention : simplicité ≠ absence de complexité. La loi de Tesler n'est pas une ode au "tout simplifier". Certaines complexités doivent rester visibles :
 
 * un outil de développement,
 * un produit financier,
 * un système critique,
 * une IA qui prend des décisions.
 
-Un produit trop “magique” devient :
+Un produit trop "magique" devient :
 
 * opaque,
 * incontrôlable,
@@ -126,6 +126,18 @@ Si une expérience te semble fluide :
 * quelqu'un a accepté de porter la complexité.
 
 **Les bons produits n'éliminent pas la complexité. Ils la placent au bon endroit.**
+
+## Et si "simplifier" voulait surtout dire : déplacer la complexité au bon endroit ?
+
+La loi de Tesler dit que la complexité est incompressible : on ne la supprime pas, on choisit qui la porte.
+Mais dès qu'on parle d'interface, deux questions apparaissent immédiatement :
+
+* combien de choix on impose à l'utilisateur (Hick-Hyman),
+* et comment on l'aide à agir puis comprendre ce qui s'est passé (Norman).
+
+Autrement dit : la simplicité n'est pas un slogan — c'est un arbitrage précis entre complexité, décision et action.
+
+**[Lire la suite : Tesler × Hick-Hyman × Norman — UX](../humanops/ux.md)**
 
 ### Références
 

@@ -25,7 +25,7 @@ Tant qu'on ne change pas nos habitudes, **plus d'espace = plus de bazar**.
 
 Et c'est là qu'il faut être rigoureux.
 
-Contrairement à ce que son nom pourrait laisser croire, la “loi de Douglas” n'est pas une loi formulée par **Paul H. Douglas**. Aucune publication, aucun article, aucun écrit académique ne permet d'attribuer explicitement cette idée à l'économiste connu pour la fonction de production Cobb-Douglas.
+Contrairement à ce que son nom pourrait laisser croire, la "loi de Douglas" n'est pas une loi formulée par **Paul H. Douglas**. Aucune publication, aucun article, aucun écrit académique ne permet d'attribuer explicitement cette idée à l'économiste connu pour la fonction de production Cobb-Douglas.
 
 Il n'existe :
 
@@ -48,7 +48,7 @@ Ce phénomène dépasse largement un auteur ou une discipline. On le retrouve da
 
 Sous des formes différentes, le même mécanisme apparaît : **toute capacité libre tend à être occupée**.
 
-La “loi de Douglas” doit ainsi être comprise non comme une vérité scientifique établie, mais comme un outil de lecture utile pour penser la gestion des ressources, des espaces et des contraintes.
+La "loi de Douglas" doit ainsi être comprise non comme une vérité scientifique établie, mais comme un outil de lecture utile pour penser la gestion des ressources, des espaces et des contraintes.
 
 ### Références
 

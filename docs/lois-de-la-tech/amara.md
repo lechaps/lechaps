@@ -36,6 +36,17 @@ les révolutions technologiques prennent du temps, parce qu'avant de transformer
 En somme, la loi d'Amara nous rappelle que **l'avenir se construit dans le calme, pas dans le buzz**. Les grandes révolutions commencent toujours par une déception, avant de devenir une évidence.  
 **On surestime demain, on sous-estime l'après-demain**.
 
+## Et si Amara ne parlait pas que de technologie ?
+
+La loi d'Amara décrit les **innovations**.  
+Mais cette dynamique — lente accumulation, longue attente, bascule soudaine — ne concerne pas que la technologie.
+
+On la retrouve aussi dans les **crises économiques**, les **effondrements politiques**, les **entreprises**, et même les **vies personnelles**.
+
+Là où Amara explique pourquoi **les révolutions mettent du temps à arriver**, une autre loi explique pourquoi **les crises mettent du temps à éclater**.
+
+**[Lire la suite : Bascule — Dornbusch × Amara](../humanops/bascule.md)**
+
 ### Références
 
 * [IEEE - Pohan Lin - Amara's Law and Its Place in the Future of Tech](https://www.computer.org/publications/tech-news/trends/amaras-law-and-tech-future){ target="_blank" }

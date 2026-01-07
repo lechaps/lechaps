@@ -32,7 +32,7 @@ La loi d'Anderson explique, après coup, une quantité impressionnante de :
 
 * fuites massives de données,
 * architectures devenues ingérables,
-* plateformes “secure by design” jusqu'au premier incident.
+* plateformes "secure by design" jusqu'au premier incident.
 
 Elle nous force à accepter une vérité inconfortable : **dans les systèmes sensibles, il n'y a pas de victoire totale — seulement des arbitrages assumés**.
 

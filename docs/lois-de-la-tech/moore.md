@@ -75,6 +75,15 @@ Le futur n'avance pas en ligne droite. Il progresse par ruptures, déplacements 
 
 La loi de Moore ne nous dit pas que tout ira toujours plus vite — elle nous rappelle que notre capacité à anticiper, comprendre et gouverner le progrès est constamment mise à l'épreuve.
 
+## Et si l'exponentielle ne suffisait pas à produire de la valeur ?
+
+La loi de Moore explique pourquoi la puissance matérielle a longtemps semblé "magique".  
+Mais cette accélération ne se traduit pas mécaniquement en amélioration vécue : une partie des gains est absorbée par des logiciels plus lourds (Wirth), et le reste se heurte à une limite plus fondamentale — la perception humaine (Claasen).
+
+Pour relier l'exponentielle du matériel, la dérive du logiciel et la lenteur de l'utilité, il faut lire ces lois ensemble.
+
+**[Lire la suite : Moore × Wirth × Claasen — Progrès](../humanops/progres.md)**
+
 ### Références
 
 * [Gordon E. Moore, Cramming More Components onto Integrated Circuits, Electronics Magazine, April 19, 1965](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf){ target="_blank" }

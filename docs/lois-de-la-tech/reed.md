@@ -35,6 +35,15 @@ La loi de Reed a influencé la compréhension de l'**économie des plateformes**
 En somme, la **loi de Reed**, c'est une célébration du collectif. Elle nous rappelle que **la force d'un réseau ne réside pas dans la foule, mais dans les communautés qu'elle contient**.  
 Les connexions créent de la portée ; les groupes, eux, créent du sens.
 
+## Et si la vraie puissance d'un réseau venait des groupes, pas de la foule ?
+
+La loi de Reed montre pourquoi les réseaux sociaux deviennent explosifs : la valeur ne vient pas seulement des liens individuels, mais des communautés qu'ils rendent possibles.  
+Mais cette logique s'inscrit dans une progression plus large : diffusion, connexions, groupes… puis valeur créée par les échanges.
+
+Pour relier ces étages et comprendre ce que chaque loi mesure (et ce qu'elle oublie), il faut les lire ensemble.
+
+**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom — Réseaux](../humanops/network.md)**
+
 ### Références
 
 * [David P. Reed, The Law of the Pack: Some Thoughts on Metcalfe's Law and Reed's Law, Harvard Business Review, 1999](https://hbr.org/2001/02/the-law-of-the-pack){ target="_blank" }

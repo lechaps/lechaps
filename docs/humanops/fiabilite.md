@@ -25,8 +25,8 @@ Murphy nous rappelle que :
 * chaque option possible **sera exploitée par la réalité**,
 * chaque erreur imaginable **arrivera un jour**.
 
-La loi de Murphy ne dit pas *“ça va rater”* —
-elle dit : **“si tu ne l'as pas prévu, ça ratera.”**
+La loi de Murphy ne dit pas *"ça va rater"* —
+elle dit : **"si tu ne l'as pas prévu, ça ratera."**
 
 C'est une loi de **préparation**, de **rigueur**, de **design défensif**.
 
@@ -80,7 +80,7 @@ Elles expliquent pourquoi :
 
 * une démo casse alors que tout marchait avant,
 * un incident survient quand il n'y a plus de plan B,
-* une “petite dette” devient une catastrophe majeure.
+* une "petite dette" devient une catastrophe majeure.
 
 Ce ne sont pas des lois du destin, mais des **miroirs de conception**.
 

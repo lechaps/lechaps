@@ -39,7 +39,7 @@ Le problème commence quand le flou devient un refuge confortable.
 * Et comme aucun choix clair ne simplifie, la structure gonfle...jusqu'à devenir illisible.
 * C'est comme refuser de ranger son grenier parce qu'on ne veut rien jeter : à la fin, on n'y entre même plus.
 
-Dans les organisations nous connaissons ces règles critiques qui comptent des exceptions. Personne ne sait plus pourquoi elles existent — mais tout le monde respecte “au cas où”.  
+Dans les organisations nous connaissons ces règles critiques qui comptent des exceptions. Personne ne sait plus pourquoi elles existent — mais tout le monde respecte "au cas où".  
 Résultat : un système rigide, coûteux, et paradoxalement...contourné en permanence.
 
 Et tu l'as sûrement déjà vécu :
@@ -72,7 +72,7 @@ Simplifier, c'est :
 * dire non
 * supprimer une exception
 * accepter de déplaire
-* renoncer à une option “au cas où”
+* renoncer à une option "au cas où"
 
 Parce que décider, c'est renoncer.  
 Ne pas décider, c'est laisser l'entropie décider à notre place.
@@ -87,7 +87,7 @@ Ancien Enterprise Architect chez Google Cloud, il est notamment l'auteur de _Ent
 Hohpe observe que la complexité n'est pas un accident technique.  
 Elle est souvent **le symptôme d'un leadership qui évite de choisir**.
 
-Chaque décision repoussée, chaque compromis flou, chaque “on verra plus tard” crée une solution temporaire.  
+Chaque décision repoussée, chaque compromis flou, chaque "on verra plus tard" crée une solution temporaire.  
 Et les solutions temporaires ont une propriété bien connue : **elles deviennent permanentes**.
 
 Ses travaux rappellent un principe simple : **en architecture comme en management, ne pas choisir, c'est déjà choisir le désordre**.
@@ -104,6 +104,15 @@ Quelques antidotes simples — mais exigeants :
 
 La simplicité n'est pas un état naturel.  
 C'est un choix. Et souvent, un acte de courage.
+
+## Et si le problème n'était pas "décider", mais quand décider ?
+
+La loi de Hohpe montre comment la complexité prolifère quand **personne n'ose trancher**.  
+Mais l'excès inverse existe aussi : décider trop tôt, trop vite, trop définitivement — et figer une organisation dans des choix prématurés.
+
+Autrement dit, le vrai risque n'est pas seulement l'indécision. C'est **le mauvais timing**.
+
+**[Lire la suite : Hohpe × Falkland — trancher vs attendre](../humanops/decision.md)**
 
 ### Références
 

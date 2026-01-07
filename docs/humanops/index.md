@@ -36,7 +36,7 @@ C'est un **mot-chapeau** pour parler de ce qui se joue quand des humains doivent
 * coopérer dans l'incertitude,
 * et faire tenir des systèmes complexes sans s'y épuiser.
 
-Il est question de **management**, d'**écoute**, de **coopération**, et de cette part fragile qu'on appelle souvent “le travail ensemble”.  
+Il est question de **management**, d'**écoute**, de **coopération**, et de cette part fragile qu'on appelle souvent "le travail ensemble".  
 Des choses apprises sur le terrain, entre incidents, réunions et conversations au détour d'un café.
 
 ## Quelques repères HumanOps

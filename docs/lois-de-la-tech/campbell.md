@@ -1,7 +1,7 @@
 # Campbell
 
 Tu as déjà vu une organisation obsédée par ses chiffres ?
-Des écoles qui enseignent pour “réussir le test” plutôt que pour apprendre ?
+Des écoles qui enseignent pour "réussir le test" plutôt que pour apprendre ?
 Des entreprises qui optimisent leurs KPI au point d'en oublier leur mission ?
 
 Bienvenue dans **la loi de Campbell**.
@@ -130,8 +130,18 @@ Et une question simple pour finir :
 
 > **Si vos indicateurs disparaissaient demain, sauriez-vous encore reconnaître la performance ?**
 
+## Et si la métrique cessait d'être un outil pour devenir un pouvoir ?
+
+La loi de Campbell révèle comment les indicateurs, lorsqu'ils gouvernent les décisions, finissent par **déformer les comportements et les processus**.
+
+Mais ce phénomène commence plus tôt, à un niveau plus subtil : au moment précis où une mesure devient **une cible explicite**, et cesse alors d'être une bonne mesure.
+
+C'est cette articulation — entre perte de fiabilité et distorsion systémique — qu'éclaire une autre loi fondamentale.
+
+**[Lire la suite : Goodhart × Campbell — Métriques](../humanops/indicateur.md)**
+
 ### Références
 
 * [Donald T. Campbell, Assessing the Impact of Planned Social Change, The Public Affairs Center, Dartmouth College, 1976](https://journals.sfu.ca/jmde/index.php/jmde_1/article/view/297/292){ target="_blank" }
 * [Wikipedia – Campbell's Law](https://en.wikipedia.org/wiki/Campbell%27s_law){ target="_blank" }
-* [The Atlantic – “The Trouble with Metrics”](https://www.theatlantic.com/magazine/archive/2016/11/the-metrics-trap/501122/){ target="_blank" }
+* [The Atlantic – "The Trouble with Metrics"](https://www.theatlantic.com/magazine/archive/2016/11/the-metrics-trap/501122/){ target="_blank" }

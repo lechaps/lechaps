@@ -96,7 +96,7 @@ Elle met des mots sur une vérité moderne :
   * se différencier,
   * ou redéfinir les règles du jeu.
 
-La Red Queen ne dit pas “cours”.
+La Red Queen ne dit pas "cours".
 Elle dit : **si tu ne réfléchis pas pendant que tu cours, tu t'épuiseras pour rien**.
 
 ### Références

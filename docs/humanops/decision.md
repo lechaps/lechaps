@@ -23,7 +23,7 @@ Le vrai sujet est : **quand faut-il décider — et quand faut-il attendre ?**
 > *Excessive complexity is nature's punishment for organizations that are incapable of making decisions.*
 
 Hohpe ne critique pas la réflexion.
-Il critique **l'indécision masquée** : celle qui se cache derrière des comités, des processus, des exceptions et des “on verra plus tard”.
+Il critique **l'indécision masquée** : celle qui se cache derrière des comités, des processus, des exceptions et des "on verra plus tard".
 
 Quand personne n'assume un choix :
 
@@ -46,7 +46,7 @@ Décider trop tôt, c'est souvent :
 
 * figer des hypothèses fragiles,
 * institutionnaliser des problèmes temporaires,
-* créer une complexité “préventive” inutile,
+* créer une complexité "préventive" inutile,
 * se rassurer aujourd'hui… au prix de demain.
 
 **Attendre n'est pas fuir**.  
@@ -63,7 +63,7 @@ Ils décrivent les **deux extrêmes d'un même continuum**.
 | -------------------------- | ------------------------- |
 | Indécision diffuse         | Décision prématurée       |
 | Complexité subie           | Complexité figée          |
-| Personne ne tranche        | Tout est figé “au cas où” |
+| Personne ne tranche        | Tout est figé "au cas où" |
 | Entropie organisationnelle | Dette stratégique         |
 
 Dans les deux cas, le résultat est le même :  

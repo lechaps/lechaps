@@ -28,7 +28,7 @@ Ce n'est pas la vitesse du problème initial qui compte, mais la capacité à fa
 
 Pas :
 
-* “Combien de secondes on gagne ?”
+* "Combien de secondes on gagne ?"
 
 Mais :
 
@@ -73,8 +73,19 @@ Ils appliquent Gustafson sans le dire.
 
 ## D'où vient la loi de Gustafson
 
-John L. Gustafson publie sa loi en 1988 dans *Reevaluating Amdahl's Law.* Il y critique la vision strictement pessimiste d'Amdahl, en observant que les systèmes parallèles n'accélèrent pas des problèmes constants : **ils permettent d'attaquer des problèmes plus grands.**. 
+John L. Gustafson publie sa loi en 1988 dans *Reevaluating Amdahl's Law.* Il y critique la vision strictement pessimiste d'Amdahl, en observant que les systèmes parallèles n'accélèrent pas des problèmes constants : **ils permettent d'attaquer des problèmes plus grands.**.  
 Cette vision ouvre la voie au *s*caled computing** moderne.
+
+## Et si scaler servait surtout à changer d'échelle… sans oublier le réel ?
+
+La loi de Gustafson renverse la perspective : le parallélisme ne sert pas seulement à aller plus vite, mais à faire beaucoup plus dans le même temps. Mais cette ambition se heurte à deux garde-fous :
+
+* le plafond du non-parallélisable (Amdahl),
+* et le coût de coordination qui finit par manger les gains (Gunther).
+
+Ces trois lois décrivent ensemble le scaling tel qu'il se passe vraiment : **frein, horizon, coût**.
+
+**[Lire la suite : Amdahl × Gustafson × Gunther — Scaling](../humanops/logiciel.md)**
 
 ### Références
 

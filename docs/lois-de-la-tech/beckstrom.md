@@ -45,6 +45,15 @@ En somme, la **loi de Beckstrom**, c'est un antidote à la fascination pour les 
 Elle nous rappelle que **la vraie puissance d'un réseau n'est pas dans sa taille, mais dans la valeur qu'il crée entre ses membres**.  
 Un réseau vivant n'est pas celui qui compte le plus de nœuds, mais celui où **chaque lien fait sens**.
 
+## Et si la taille du réseau ne suffisait plus à expliquer sa valeur ?
+
+Beckstrom renverse la fascination pour les grands nombres : un réseau ne vaut pas par ses utilisateurs, ni même par ses liens — mais par **ce qu'il permet réellement d'échanger**.  
+C'est la dernière étape d'une évolution : de l'audience (Sarnoff) à l'interconnexion (Metcalfe), puis aux communautés (Reed), jusqu'à la valeur d'usage (Beckstrom).
+
+Pour voir comment ces lois s'emboîtent — et comment elles racontent le passage du public à la participation — il faut les mettre côte à côte.
+
+**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom — Réseaux](../humanops/network.md)**
+
 ### Références
 
 * [Rod Beckstrom, The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations, Penguin, 2006](https://books.google.fr/books?id=be_4LRyepS8C&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false){ target="_blank" }

@@ -26,7 +26,7 @@ L'histoire commence en 1949, sur la base aérienne d'Edwards, en Californie. **E
 
 Lors d'un essai, plusieurs capteurs sont montés à l'envers. Les données deviennent inutilisables. Murphy, agacé mais lucide, lâche alors une phrase qui restera :
 
-> “If there's any way to do it wrong, he will.”
+> "If there's any way to do it wrong, he will."
 > (*S'il existe une façon de faire quelque chose de travers, il la trouvera.*)
 
 À ce moment-là, il ne s'agit ni d'une loi, ni d'une maxime philosophique. C'est une **constatation d'ingénieur**, adressée non pas à la malchance, mais à la conception du système lui-même. Le problème n'est pas l'erreur humaine — **c'est d'avoir laissé une possibilité d'erreur**.
@@ -41,11 +41,23 @@ Ce n'est que plus tard que la version la plus célèbre apparaît :
 
 > Tout ce qui peut mal tourner finira par mal tourner.
 
-Une formule frappante, mais trompeuse. Murphy ne défendait pas le fatalisme. Au contraire. Pour lui, cette “loi” était un **principe de conception** : **un système bien conçu est un système dans lequel aucune erreur possible ne peut produire un désastre.**
+Une formule frappante, mais trompeuse. Murphy ne défendait pas le fatalisme. Au contraire. Pour lui, cette "loi" était un **principe de conception** : **un système bien conçu est un système dans lequel aucune erreur possible ne peut produire un désastre.**
 
 Autrement dit, la loi de Murphy n'est pas une malédiction. C'est un rappel brutal : **si quelque chose peut échouer, c'est que tu as laissé la possibilité que cela arrive**.
 
 Et c'est précisément pour cela qu'elle reste, aujourd'hui encore, un pilier de l'ingénierie, de la sécurité… et de toute situation où l'on n'a pas le droit de se tromper.
+
+## Et si l'échec choisissait toujours le pire moment pour se révéler ?
+
+La loi de Murphy nous apprend à penser l'échec comme une **hypothèse normale** : si quelque chose peut mal tourner, cela arrivera.
+
+Mais une autre loi pousse la logique plus loin — et plus douloureusement : elle explique quand cet échec se manifestera.
+
+Pas pendant les tests.  
+Pas quand tout va bien.  
+Mais quand il n'y a plus aucune marge.
+
+**[Lire la suite : Murphy × Finagle — Fiabilité](../humanops/fiabilite.md)**
 
 ### Références
 

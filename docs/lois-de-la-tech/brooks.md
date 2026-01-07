@@ -35,7 +35,7 @@ Elle s'applique surtout quand :
 * l'architecture est **peu modulaire**
 * les nouveaux arrivants ne sont **pas immédiatement autonomes**
 
-Autrement dit, **ce n'est pas “ajouter des gens” qui pose problème — c'est le moment et la structure du projet**.
+Autrement dit, **ce n'est pas "ajouter des gens" qui pose problème — c'est le moment et la structure du projet**.
 
 Dans une équipe bien conçue, avec :
 
@@ -46,7 +46,7 @@ Dans une équipe bien conçue, avec :
 
 il est tout à fait possible d'ajouter des personnes **sans perte majeure de productivité**.
 
-La loi de Brooks parle moins de “trop de gens” que de **coût de communication et de coordination**.
+La loi de Brooks parle moins de "trop de gens" que de **coût de communication et de coordination**.
 
 ## Une lecture toujours actuelle (mais plus nuancée)
 

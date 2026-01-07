@@ -56,6 +56,15 @@ La conclusion est simple — et toujours actuelle :
 
 En somme, la loi de Peter nous rappelle que, dans une hiérarchie, « monter » n'est pas toujours synonyme de « progresser » — et que la vraie maturité organisationnelle consiste à reconnaître qu'on peut exceller… sans forcément grimper.
 
+## Et si le vrai problème n'était pas les personnes… mais le mécanisme de promotion ?
+
+La loi de Peter montre un piège structurel : on promeut des gens compétents… **jusqu'à un rôle qui ne correspond plus à leurs compétences**.  
+Mais il existe une variante plus cynique, où l'on ne se trompe pas "par accident" : on **déplace** volontairement l'incompétence hors du terrain.
+
+Ces deux dynamiques racontent la même histoire — par deux chemins opposés.
+
+**[Lire la suite : Peter × Dilbert — Management](../humanops/management.md)**
+
 ### Références
 
 * [Laurence J. Peter & Raymond Hull, The Peter Principle: Why Things Always Go Wrong](https://www.amazon.fr/Peter-Principle-Things-Always-Wrong/dp/0061699063){ target="_blank" }

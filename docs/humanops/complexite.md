@@ -12,7 +12,7 @@ Et toutes deux sont contredites par l'expérience.
 
 Elles entrent même en collision frontale lorsque l'on met côte à côte **la loi de Gall** et **la loi de Dollo**.
 
-## La première illusion : concevoir la complexité “correcte”
+## La première illusion : concevoir la complexité "correcte"
 
 La **loi de Gall** nous rappelle une chose simple, mais profondément contre-intuitive :
 la complexité qui fonctionne n'est jamais celle qu'on a imaginée à l'avance.
@@ -21,7 +21,7 @@ Dans les projets ambitieux, on cherche souvent à :
 
 * anticiper tous les cas,
 * couvrir tous les usages,
-* figer une architecture “complète”.
+* figer une architecture "complète".
 
 Cette approche part d'une bonne intention : réduire les risques futurs.
 Mais elle suppose une chose rarement vraie : **comprendre le système avant qu'il n'existe**.
@@ -34,12 +34,12 @@ Elle est révélée par l'usage.
 ## La seconde illusion : pouvoir effacer l'histoire
 
 Face à cette incertitude, une promesse implicite rassure les équipes :
-*“Ce n'est pas grave, on ajustera plus tard.”*
+*"Ce n'est pas grave, on ajustera plus tard."*
 
 Rollback.
 Refonte.
 Réarchitecture.
-Retour à une version “plus saine”.
+Retour à une version "plus saine".
 
 C'est ici qu'intervient la **loi de Dollo**.
 
@@ -53,7 +53,7 @@ Chaque décision laisse des traces :
 * dans les dépendances,
 * dans les équipes et leurs réflexes.
 
-Autrement dit : même quand on “recommence”, on recommence **chargé de mémoire**.
+Autrement dit : même quand on "recommence", on recommence **chargé de mémoire**.
 
 ## Quand Gall et Dollo se combinent
 
@@ -85,7 +85,7 @@ Elle **réduit l'espace des futurs possibles**.
 
 Chaque abstraction superflue devient une contrainte.
 Chaque choix anticipé devient une dette.
-Chaque “au cas où” devient un héritage.
+Chaque "au cas où" devient un héritage.
 
 Et, comme le rappelle Dollo, ces choix ne disparaissent jamais vraiment.
 Ils orientent silencieusement toutes les évolutions futures.
@@ -99,15 +99,15 @@ Si l'on prend au sérieux Gall et Dollo, alors la stratégie change radicalement
 
 La bonne question n'est plus :
 
-> “Quelle est l'architecture idéale à long terme ?”
+> "Quelle est l'architecture idéale à long terme ?"
 
 Mais :
 
-> “Quelle est la plus petite chose qui fonctionne réellement aujourd'hui ?”
+> "Quelle est la plus petite chose qui fonctionne réellement aujourd'hui ?"
 
 Et surtout :
 
-> “Comment accepter que chaque décision va contraindre le futur ?”
+> "Comment accepter que chaque décision va contraindre le futur ?"
 
 Cela implique :
 

@@ -42,7 +42,7 @@ Le principe de Dilbert révèle :
 * une culture du non-dit,
 * et un management qui préfère déplacer le problème plutôt que le traiter.
 
-L'ironie, c'est que cette “solution” protège l'opérationnel à court terme…
+L'ironie, c'est que cette "solution" protège l'opérationnel à court terme…
 mais **empoisonne la stratégie, la coordination et la prise de décision** à long terme.
 
 ## D'où vient le principe de Dilbert ?
@@ -59,6 +59,17 @@ Le principe est souvent comparé à la loi de Peter, mais avec une nuance essent
 * avec Dilbert, **on y place délibérément les mauvaises personnes**.
 
 En somme, le principe de Dilbert nous rappelle que, dans certaines organisations, le management n'est pas une reconnaissance — c'est une zone tampon. Et que quand la hiérarchie devient un refuge pour l'incompétence, ce n'est pas un problème individuel, mais **un échec systémique**.
+
+## Et si Peter et Dilbert décrivaient le même résultat… par deux logiques inverses ?
+
+Le principe de Dilbert révèle un choix implicite : éloigner les moins compétents de l'opérationnel en les mettant au management.
+Mais cette mécanique coexiste souvent avec une autre, plus "innocente" : celle où l'on promeut les meilleurs… **jusqu'à ce qu'ils deviennent dépassés**.
+
+D'un côté, on crée l'incompétence. De l'autre, on la déplace.
+
+Et au final, les organisations obtiennent le même effet.
+
+**[Lire la suite : Peter × Dilbert — Management](../humanops/management.md)**
 
 ### Références
 

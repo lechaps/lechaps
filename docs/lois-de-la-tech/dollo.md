@@ -56,7 +56,7 @@ On retrouve alors :
 
 * des couches successives,
 * des contournements devenus normes,
-* des “solutions temporaires” toujours en place.
+* des "solutions temporaires" toujours en place.
 
 Même après une refonte ou une migration complète,
 
@@ -69,7 +69,7 @@ Les équipes gardent la mémoire des anciens incidents.
 
 ## L'illusion du retour en arrière
 
-Pourquoi “revenir comme avant” est presque toujours une illusion ?
+Pourquoi "revenir comme avant" est presque toujours une illusion ?
 
 Parce que pour revenir exactement en arrière, il faudrait :
 
@@ -106,6 +106,16 @@ En étudiant les fossiles, il observe que les espèces peuvent perdre des traits
 L'évolution ne fait pas marche arrière. Elle bifurque.
 
 Initialement formulée pour le vivant, cette loi est aujourd'hui une **clé de lecture puissante** des systèmes complexes — biologiques, techniques ou organisationnels.
+
+## Et si l'irréversibilité rencontrait la complexité ?
+
+La loi de Dollo nous apprend une chose essentielle : **on ne revient jamais vraiment en arrière**.
+
+Mais cette irréversibilité devient particulièrement critique lorsqu'elle s'applique à des systèmes complexes conçus trop tôt.
+
+Une autre loi éclaire précisément ce point : **celle qui explique comment naît la complexité qui fonctionne… et pourquoi elle échoue si on la force**.
+
+**[Lire la suite : Complexité — Gall × Dollo](../humanops/complexite.md)**
 
 ### Références
 

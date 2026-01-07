@@ -57,11 +57,11 @@ Tout ce qui peut être écrit en JavaScript **ne devrait pas forcément l'être*
 
 La vraie question n'est donc pas :
 
-> *“Est-ce qu'on peut le faire en JavaScript ?”*
+> *"Est-ce qu'on peut le faire en JavaScript ?"*
 > mais :
-> *“Est-ce qu'on devrait le faire en JavaScript ?”*
+> *"Est-ce qu'on devrait le faire en JavaScript ?"*
 
-Et la loi d'Atwood nous rappelle que, très souvent, la réponse choisie par l'industrie est “oui” — même quand le débat mérite d'exister.
+Et la loi d'Atwood nous rappelle que, très souvent, la réponse choisie par l'industrie est "oui" — même quand le débat mérite d'exister.
 
 ## D'où vient la loi d'Atwood ?
 
@@ -96,6 +96,15 @@ Elle dit que **là où le web va, JavaScript suit — ou ouvre la voie**.
 Et elle nous rappelle surtout une chose essentielle en informatique :
 
 > ce qui commence comme une blague finit souvent par devenir la norme.
+
+## Et si ce n'était pas JavaScript qui gagnait… mais le navigateur ?
+
+La loi d'Atwood ressemble à une blague, mais elle décrit une force très réelle : **la distribution**.
+Quand une application doit réduire la friction (installation, compatibilité, mises à jour), le navigateur devient une cible naturelle.
+
+Et cette migration n'arrive pas seule : elle est souvent précédée par un logiciel qui **grossit**, puis qui **devient programmable**.
+
+**[Lire la suite : Zawinski × Greenspun × Atwood — Logiciel](../humanops/logiciel.md)**
 
 ### Références
 

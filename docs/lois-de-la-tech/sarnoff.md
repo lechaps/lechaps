@@ -35,6 +35,15 @@ En somme, la **loi de Sarnoff** nous rappelle d'où vient la valeur de l'audienc
 C'est la loi d'un monde où l'on écoutait, pas où l'on répondait.  
 Un monde où la puissance venait du mégaphone — avant que l'interconnexion ne donne la parole à tout le monde.
 
+## Et si l'audience n'était que le premier étage de la valeur ?
+
+La loi de Sarnoff explique la valeur des réseaux à sens unique : plus il y a de spectateurs, plus le média vaut.
+Mais dès que les utilisateurs peuvent se connecter entre eux, cette croissance linéaire devient insuffisante.
+
+Pour comprendre comment on passe de la diffusion aux liens, puis aux communautés — et enfin à la valeur d'usage — il faut mettre Sarnoff en perspective avec trois autres lois.
+
+**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom — Réseaux](../humanops/network.md)**
+
 ### Références
 
 * [Wikipedia – Sarnoff's Law](https://en.wikipedia.org/wiki/Sarnoff%27s_law){ target="_blank" }

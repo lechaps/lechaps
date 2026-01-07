@@ -4,7 +4,7 @@ Tu as déjà participé à un projet qui voulait tout faire dès le départ ?
 
 Une architecture complète.
 Des cas métiers exhaustifs.
-Une vision “future-proof”.
+Une vision "future-proof".
 Et cette impression rassurante : *cette fois, on a tout prévu*.
 
 Puis arrivent les bugs.
@@ -44,7 +44,7 @@ Un système qui fonctionne durablement est le résultat :
 La complexité qui marche n'est pas planifiée.
 Elle est **apprise**.
 
-À l'inverse, un système complexe pensé “from scratch” repose sur une illusion :
+À l'inverse, un système complexe pensé "from scratch" repose sur une illusion :
 celle de comprendre le futur avant de l'avoir vécu.
 
 ## Pourquoi on tombe sans cesse dans le piège
@@ -62,7 +62,7 @@ Alors on ajoute :
 
 * des couches,
 * des abstractions,
-* des options “au cas où”,
+* des options "au cas où",
 * des scénarios hypothétiques.
 
 Résultat : **une complexité prématurée**.
@@ -92,7 +92,7 @@ Ils évoluent ensuite par touches successives :
 
 * couvrir tous les cas métiers dès le départ,
 * anticiper tous les usages,
-* figer une architecture “idéale”.
+* figer une architecture "idéale".
 
 **Un SI trop complexe trop tôt devient ingouvernable.**
 
@@ -140,12 +140,24 @@ La loi porte le nom de **John Gall** (1925–2014), médecin, penseur des systè
 
 En observant des systèmes techniques, bureaucratiques et organisationnels, Gall constate une régularité frappante :
 les systèmes qui fonctionnent ont presque toujours émergé par évolution incrémentale,
-tandis que ceux conçus “parfaitement” dès le départ échouent.
+tandis que ceux conçus "parfaitement" dès le départ échouent.
 
 Ce n'est pas une loi mathématique.
 C'est une **loi d'expérience**.
 
 Et elle continue de se vérifier, projet après projet.
+
+## Et si chaque évolution laissait des traces irréversibles ?
+
+La loi de Gall nous apprend à commencer simple et à laisser la complexité émerger.  
+Mais une question demeure, souvent sous-estimée : *Que se passe-t-il quand une évolution se révèle mauvaise ?*
+
+Peut-on réellement effacer un choix architectural ?
+Revenir à un état "plus sain" comme si rien ne s'était passé ?
+
+C'est là qu'intervient une autre loi fondamentale, qui rappelle que **les trajectoires comptent autant que les états**.
+
+**[Lire la suite : Complexité — Gall × Dollo](../humanops/complexite.md)**
 
 ### Références
 

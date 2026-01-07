@@ -91,6 +91,15 @@ Différer un choix n'est pas une absence de responsabilité — c'est assumer pl
 
 La vraie maturité n'est pas de décider vite, mais de décider au moment juste, quand la décision éclaire plus qu'elle ne rassure.
 
+## Et si attendre devenait… une forme de décision assumée ?
+
+La loi de Falkland rappelle qu'une décision prématurée peut créer de la rigidité et de la complexité inutile.
+Mais poussée trop loin, cette sagesse peut se transformer en piège : quand on attend trop, **le système décide à notre place**.
+
+Le point clé n'est donc pas "attendre ou trancher", mais sav**oir faire l'un ou l'autre consciemment**, avec une intention, un propriétaire et un horizon.
+
+**[Lire la suite : Hohpe × Falkland — trancher vs attendre](../humanops/decision.md)**
+
 ### Références
 
 * [C.S. Emden, *The People and the Constitution*, Oxford University Press, 1956](https://www.amazon.com/People-Constitution-C-Emden/dp/B001M03AHW){ target="_blank" }

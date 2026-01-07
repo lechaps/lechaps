@@ -86,6 +86,15 @@ Les indicateurs doivent :
 
 Mais ils ne doivent jamais devenir la destination.
 
+## Et si le problème n'était pas seulement la métrique… mais le système qu'elle façonne ?
+
+La loi de Goodhart montre comment un indicateur perd sa valeur dès qu'il devient une cible.
+Mais cette dérive ne s'arrête pas à la fiabilité du chiffre : **elle transforme progressivement tout le système qui s'organise autour de lui**.
+
+Une autre loi explore précisément cette dimension systémique — celle qui explique comment les indicateurs, une fois institutionnalisés, finissent par déformer les pratiques qu'ils étaient censés améliorer.
+
+**[Lire la suite : Goodhart × Campbell — Métriques](../humanops/indicateur.md)**
+
 ### Références
 
 * [Charles Goodhart, Problems of Monetary Management: The U.K. Experience*, 1975, Papers in Monetary Economics (Reserve Bank of Australia)](https://link.springer.com/chapter/10.1007/978-1-349-17295-5_4){ target="_blank" }

@@ -1,6 +1,6 @@
 # Agir
 
-**Une démarche simple et collective** : Agir n'est pas “faire beaucoup”.  
+**Une démarche simple et collective** : Agir n'est pas "faire beaucoup".  
 Agir, c'est avancer ensemble, par petits pas, en apprenant en chemin.
 
 Cette démarche n'est pas là pour aller plus vite, mais pour aller plus juste — sans épuiser les personnes qui agissent.

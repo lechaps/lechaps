@@ -32,7 +32,7 @@ Hyman confirme et affine ces résultats en 1953 avec _Stimulus information as a 
 
 Leur découverte est devenue un pilier de la psychologie cognitive et de l'ergonomie, notamment en interaction homme-machine : plus une décision implique d'informations à traiter, plus elle demande de temps et d'effort mental.  
 
-La loi de Hick-Hyman ne dit pas que “moins de choix est toujours mieux”. Elle nous dit surtout que :
+La loi de Hick-Hyman ne dit pas que "moins de choix est toujours mieux". Elle nous dit surtout que :
 
 * Trop d'options non structurées ralentissent la décision.
 * Des choix similaires et mal différenciés augmentent l'effort cognitif.
@@ -49,6 +49,15 @@ Simplifier ne veut pas dire appauvrir, mais **rendre la décision lisible**.
 
 Parfois, moins c'est mieux.
 Mais surtout : **mieux structuré, c'est toujours mieux**.
+
+## Et si le vrai problème n'était pas le nombre d'options… mais où la complexité se cache ?
+
+La loi de Hick-Hyman explique pourquoi trop de choix ralentit : chaque option ajoute de la charge cognitive.  
+Mais cette charge ne tombe pas du ciel : elle vient souvent d'une complexité non résolue en amont (Tesler), et elle se traduit ensuite par des erreurs ou des hésitations au moment d'agir (Norman).
+
+Pour relier choix, complexité et action, il faut lire ces lois ensemble.
+
+**[Lire la suite : Tesler × Hick-Hyman × Norman — UX](../humanops/ux.md)**
 
 ### Références
 

@@ -84,6 +84,15 @@ Elle nous rappelle que **sans discipline, la puissance ne crée pas la qualité 
 
 Dans un monde obsédé par l'ajout, la véritable innovation reste peut-être encore de savoir quoi enlever.
 
+## Et si le progrès matériel masquait surtout nos renoncements logiciels ?
+
+La loi de Wirth pointe un mécanisme simple : les logiciels s'alourdissent plus vite que le matériel ne s'améliore.  
+Mais cette lourdeur n'est qu'un étage du puzzle : elle s'appuie sur l'accélération matérielle (Moore) et contribue au décalage final entre progrès mesuré et progrès ressenti (Claasen).
+
+Ces trois lois ne se contredisent pas : elles s'emboîtent.
+
+**[Lire la suite : Moore × Wirth × Claasen — Progrès](../humanops/progres.md)**
+
 ### Références
 
 * [Niklaus Wirth - A Plea for Lean Software - ETH Zürich 1995](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf){ target="_blank" }

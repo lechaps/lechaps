@@ -154,6 +154,18 @@ mais *« qu'est-ce qui améliore réellement l'expérience ? »*.
 
 **Quand la technologie progresse plus vite que notre capacité à en tirer de la valeur, ce n'est pas un problème de puissance, mais de sens.**
 
+## Et si le vrai paradoxe du progrès était… humain ?
+
+La loi de Claasen rappelle une limite dérangeante : la technologie peut exploser, mais l'utilité perçue progresse lentement.
+Pour comprendre pourquoi ce décalage existe, il faut le relier à deux autres dynamiques :
+
+* l'accélération matérielle (Moore),
+* et la lourdeur logicielle qui absorbe les gains (Wirth).
+
+Ensemble, ces trois lois racontent l'histoire complète d'un progrès qui accélère… sans toujours améliorer l'expérience.
+
+**[Lire la suite : Moore × Wirth × Claasen — Progrès](../humanops/progres.md)**
+
 ### Références
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Claasen%27s_law){ target="_blank" }

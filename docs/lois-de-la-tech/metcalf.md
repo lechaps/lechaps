@@ -29,6 +29,15 @@ Formulée à l'origine dans une note interne chez 3Com, puis popularisée dans l
 
 En somme, la loi de Metcalfe nous enseigne une chose essentielle : **La valeur, ce n'est pas ce qu'on possède, c'est ce qu'on relie**. Dans un monde interconnecté, les liens valent plus que les biens.
 
+## Et si la valeur n'était pas dans le nombre… mais dans les liens ?
+
+La loi de Metcalfe capture le basculement clé : un réseau prend de la valeur quand ses utilisateurs peuvent **interagir**.  
+Mais les connexions ne sont qu'une étape : les réseaux modernes créent aussi des **groupes**, des **communautés**, et surtout des **transactions réelles**.
+
+Autrement dit : de l'audience (Sarnoff) à la connexion (Metcalfe), puis à la communauté (Reed) et à l'usage (Beckstrom), il y a une évolution complète de la valeur.
+
+**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom — Réseaux](../humanops/network.md)**
+
 ### Références
 
 * [Robert M. Metcalfe, Metcalfe's Law: A Network Becomes More Valuable as It Reaches More Users](https://en.wikipedia.org/wiki/Metcalfe%27s_law#:~:text=Metcalfe's%20law%20states%20that%20the,the%20system%20(%20n%202).){ target="_blank" }

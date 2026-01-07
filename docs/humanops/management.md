@@ -3,7 +3,7 @@
 > Comment les organisations transforment la compétence… en incompétence
 
 Tu connais ce collègue brillant qui a été promu… et qui depuis semble complètement perdu ?
-Ou au contraire, ce collègue médiocre soudain propulsé “en responsabilité” sans que personne ne comprenne pourquoi ?
+Ou au contraire, ce collègue médiocre soudain propulsé "en responsabilité" sans que personne ne comprenne pourquoi ?
 
 Ces deux scènes, en apparence opposées, ont pourtant une même racine.
 Elles illustrent deux lois cultes du management — **la loi de Peter** et le **principe de Dilbert** — qui expliquent chacune à leur manière comment les organisations finissent par se faire diriger par des personnes inadaptées à leur poste.
@@ -49,7 +49,7 @@ On ne règle pas le problème — **on le déplace dans un bureau plus haut**.
 
 * **Licencier est coûteux, complexe et politiquement risqué**.
 * Traiter l'incompétence frontalement demande du courage.
-* Promouvoir est plus simple : on évite le conflit et on “libère” l'équipe.
+* Promouvoir est plus simple : on évite le conflit et on "libère" l'équipe.
 
 Résultat :
 
@@ -95,7 +95,7 @@ Peter et Dilbert convergent vers une même vérité :
 
 Tant que :
 
-* “monter” sera la seule façon d'exister,
+* "monter" sera la seule façon d'exister,
 * gérer restera un refuge pour les dysfonctionnements,
 * et redescendre sera impossible,
 

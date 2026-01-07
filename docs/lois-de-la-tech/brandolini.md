@@ -91,8 +91,8 @@ Depuis, la loi de Brandolini revient régulièrement dans les discussions sur :
 
 La loi de Brandolini nous rappelle une chose essentielle :
 
-> **Si la vérité coûte plus cher que le mensonge, alors la question n'est pas “qui a raison ?”
-> mais “qui est prêt à payer le prix de la vérité ?”**
+> **Si la vérité coûte plus cher que le mensonge, alors la question n'est pas "qui a raison ?"
+> mais "qui est prêt à payer le prix de la vérité ?"**
 
 ### Références
 

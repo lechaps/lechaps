@@ -37,6 +37,17 @@ Ses idées ont été reprises et popularisées dans les années 1980–1990, not
 En somme, la loi de Dornbusch nous rappelle que **les crises ne naissent pas du chaos**,
 mais d'un équilibre fragile maintenu trop longtemps — **et d'une action repoussée jusqu'à ce qu'elle ne soit plus possible**.
 
+## Et si les crises et les innovations obéissaient à la même logique ?
+
+La loi de Dornbusch décrit la dynamique des crises.  
+Mais cette lente accumulation suivie d'une bascule soudaine n'est pas propre aux effondrements.
+
+On la retrouve aussi dans les **innovations technologiques**.
+
+Là où Dornbusch explique pourquoi **tout s'effondre d'un coup**, une autre loi explique pourquoi **rien ne change pendant longtemps… avant de tout transformer**.
+
+**[Lire la suite : Bascule — Dornbusch × Amara](../humanops/bascule.md)**
+
 ### Références
 
 * [Wikipedia](https://fr.wikipedia.org/wiki/Rudiger_Dornbusch){ target="_blank" }

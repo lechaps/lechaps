@@ -31,7 +31,7 @@ La loi de Gunther prédit trois zones du scling :
 2. **Diminishing returns** : Chaque nouvelle ressource apporte moins que la précédente.
 3. **Retrograde scaling** : Ajouter des ressources dégrade la performance globale.
 
-C'est ce troisième cas qui surprend le plus… et qui explique tant d'architectures “sur-scalées”.
+C'est ce troisième cas qui surprend le plus… et qui explique tant d'architectures "sur-scalées".
 
 ## Le schéma mental
 
@@ -39,7 +39,7 @@ C'est ce troisième cas qui surprend le plus… et qui explique tant d'architect
 
 Pas :
 
-* “Combien de nœuds je peux ajouter ?”
+* "Combien de nœuds je peux ajouter ?"
 
 Mais :
 
@@ -86,6 +86,16 @@ Son objectif :
 Aujourd'hui, la loi de Gunther est un pilier du **capacity planning moderne** et de l'ingénierie de performance.
 
 Elle rappelle une vérité inconfortable mais essentielle : **Scaler n'est pas une solution. C'est une décision de design**.
+
+## Et si le vrai ennemi du scaling était… la coordination ?
+
+La loi de Gunther explique pourquoi "ajouter des nœuds" finit parfois par ralentir : contention, cohérence, synchronisation — la coordination devient le goulot. Mais elle prend tout son sens quand on la place entre :
+
+* Amdahl, qui montre la limite du séquentiel,
+* Gustafson, qui montre l'horizon quand on change d'échelle.
+* Ensemble, ces lois donnent un cadre simple : scaler, oui — mais avec **lucidité**.
+
+**[Lire la suite : Amdahl × Gustafson × Gunther — Scaling](../humanops/logiciel.md)**
 
 ### Références
 
