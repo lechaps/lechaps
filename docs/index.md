@@ -6,7 +6,7 @@ Auvergnat (un peu) 🌋, [bourbonnais](./bourbonnais/index.md) (beaucoup) 🏰, 
 
 Je crois que **comprendre les systèmes dans lesquels nous évoluons** — culturels, humains, techniques — permet de **s'émanciper, d'agir avec justesse et de respecter le vivant**, sans chercher à en nier la complexité.
 
-Geek 🖥️, papa ❤️, amateur de vin 🍷, arbitre ⚖️, acteur 🎬, architecte 💡, comédien 🎭, badiste 🏸, guitariste 🎸, chroniqueur radio 🎙️….  
+Geek 🖥️, papa ❤️, amateur de vin 🍷, arbitre ⚖️, acteur 🎬, architecte 💡, comédien 🎭, sportif 🏃🚴🏸, guitariste 🎸, chroniqueur radio 🎙️….  
 Ces carnets sont **un mélange des genres, à mon image** : curieux, attentif, parfois sérieux, souvent joueur, toujours tourné vers **la transmission et le collectif**.
 
 ## Ce que vous trouverez ici
