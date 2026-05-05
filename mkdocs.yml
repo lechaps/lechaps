@@ -50,6 +50,9 @@ plugins:
       minify_html: true
   - glightbox
   - awesome-pages
+  - rss:
+      match_path: ".*"
+      use_git: true
 
 not_in_nav: |
   /index.md

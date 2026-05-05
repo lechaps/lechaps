@@ -7,7 +7,7 @@ python3 -m venv pythonenv
 source pythonenv/bin/activate   
 
 # Installer les dépendances mkdocs et plugins
-pip install mkdocs mkdocs-material "mkdocs-material[imaging]" mkdocs-minify-plugin mkdocs-glightbox mkdocs-awesome-pages-plugin
+pip install mkdocs mkdocs-material "mkdocs-material[imaging]" mkdocs-minify-plugin mkdocs-glightbox mkdocs-awesome-pages-plugin mkdocs-rss-plugin
 
 # Lancer MkDocs serve
 mkdocs serve

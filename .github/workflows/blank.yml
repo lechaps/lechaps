@@ -23,10 +23,12 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       # MkDocs Setup
       - name: MkDocs setup
-        run: pip install mkdocs mkdocs-material "mkdocs-material[imaging]" mkdocs-minify-plugin mkdocs-glightbox mkdocs-awesome-pages-plugin
+        run: pip install mkdocs mkdocs-material "mkdocs-material[imaging]" mkdocs-minify-plugin mkdocs-glightbox mkdocs-awesome-pages-plugin mkdocs-rss-plugin
 
       # Builds the site using MkDocs
       - name: Build
