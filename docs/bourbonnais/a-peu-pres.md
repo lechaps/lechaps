@@ -1,23 +1,21 @@
 # À-peu-près
 
-## Définition
+**Quelqu'un ou quelque chose de correct, passable, acceptable — sans atteindre l'excellence.** Dit d'une personne qui fait l'affaire sans briller, ou d'un travail "suffisant" pour la tâche. En bourbonnais, c'est l'adjectif du pragmatisme : ce qui fonctionne, ça suffit.
 
-Employé comme adjectif, "à-peu-près" décrit quelque chose ou quelqu'un de correct, acceptable, ou passable, sans atteindre un niveau d'excellence ou de distinction. Cet usage met en avant une idée de suffisance minimale, sans la connotation de flou ou d'imprécision présente dans l'usage académique où "à-peu-près" (substantif ou adverbe) est souvent péjoratif.
+## L'exemple
 
-## Exemple
+*Oh, c'est un gars à peu prêt, mais l'autre c'est un arcandier.*
 
-_Oh, c'est un gars à peu prêt, mais l'autre c'est un arcandier._
 > Certes, c'est une personne tout à fait respectable, mais je nourris davantage de réserves quant au sérieux de son acolyte.
 
-## Équivalent
+## On dit aussi
 
 Passable, acceptable, moyen, convenable.
 
-## Origine
+## Le souvenir
 
-Cet usage transforme l'expression adverbiale ou nominale en adjectif, donnant au terme une dimension descriptive spécifique. Il reflète un pragmatisme où l'effort "à peu près" est souvent jugé suffisant pour des tâches du quotidien, sans la rigueur académique qui rejette les approximations.  
-Contrairement à l'Académie Française, qui associe à-peu-près à un manque de rigueur ou à des approximations parfois critiquées, cette version valorise un usage plus indulgent et concret, adapté aux réalités du quotidien.
+J'ai entendu cette distinction toute ma vie : "c'est à peu près", on dit ça avec une légère déception, une acceptation résignée. C'est un jugement tendre, finalement. Pas méchant. Ça veut dire qu'on s'attend à mieux, mais qu'on comprend qu'on n'aura pas mieux — et qu'on s'en accommode. Il y a de la sagesse là-dedans, une forme de compassion raisonnée.
 
-## Lien
+## Pour aller plus loin
 
-* [Définition de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9A2089){target="_blank" }
+- [Académie Française](https://www.dictionnaire-academie.fr/article/A9A2089){ target="_blank" }

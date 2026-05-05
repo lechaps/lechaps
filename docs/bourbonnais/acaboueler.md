@@ -1,22 +1,17 @@
 # Acabouéler
 
-## Définition
+**Se sentir mal, faible, couver une maladie — cet état de fragilité où le corps n'en peut plus.** Fatigue profonde, lassitude généralisée, épuisement qui vous cloue au lit. Un mot qui capture ce moment où on n'est pas vraiment malade, mais vraiment pas bien non plus.
 
-Terme employé pour décrire un état de santé fragile, souvent lié à une sensation de couver une maladie. Il traduit un état global de fatigue, de lassitude ou d'abattement, parfois causé par un effort prolongé, l'exposition au froid ou l'accumulation de fatigue.
+## L'exemple
 
-## Exemple
+*Oh là là, ce matin y'a pas moyen. Je suis carrément acabouéler.*
 
-_Oh là là, ce matin y'a pas moyen. Je suis carrément acabouéler._
-> Diantre, il m'est ce matin absolument impossible de quitter ma couche, tant je suis accablé de langueur
+> Diantre, il m'est ce matin absolument impossible de quitter ma couche, tant je suis accablé de langueur.
 
-## Équivalent
+## On dit aussi
 
 Patraque, mal fichu, épuisé, affaibli.
 
-## Origine
+## Le souvenir
 
-Le terme évoque l'idée d'un corps affaibli, en phase d'incubation d'un mal ou d'un épuisement généralisé. Par extension, il illustre aussi une lassitude profonde due aux conditions extérieures ou aux efforts excessifs.
-
-## Lien
-
-Aucune référence externe n'est connue
+J'ai souvent entendu ce mot dans la bouche de mon grand-mère, justement quand il était dans cet état flou — pas vraiment au lit, mais pas dehors non plus, traînant dans la maison, avec cette fatigue douce et insistante. Il y a quelque chose de tendre dans ce mot, comme si le patois comprenait mieux que le français ce genre d'entre-deux où on n'est ni vraiment malade ni vraiment bien. C'est un mot qui pardonne à la faiblesse.

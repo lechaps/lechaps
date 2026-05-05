@@ -1,25 +1,21 @@
 # Accatoufler (s')
 
-## Définition
+**Tomber ou s'écrouler lourdement — ou s'asseoir brusquement sans discrétion.** Ce verbe capture ce moment où le corps lâche prise, où on s'effondre sur une chaise sans élégance. Un mot plein de bruit et de matière, qui sonne comme l'action qu'il décrit.
 
-Verbe désignant l'action de tomber ou de s'effondrer lourdement, généralement sans causer de dégâts. Par extension, il peut également évoquer le fait de s'asseoir ou de se poser brusquement et sans discrétion, souvent de manière inattentive ou peu élégante.
+## L'exemple
 
-## Exemple
+*J'me suis accatoufler là, comme une merde.*
 
-_J'me suis accatoufler là, comme une merde._
 > Je me suis effondré en ces lieux, tel un être totalement dénué de prestance.
 
-_Ah ben tu t'es accatouflé mais y'avait déjà quelqu'un !_
+*Ah ben tu t'es accatouflé mais y'avait déjà quelqu'un !*
+
 > Vous venez d'abaisser votre séant mais cette place semblait déjà être prise.
 
-## Équivalent
+## On dit aussi
 
 Tomber, s'écrouler, s'affaler.
 
-## Origine
+## Le souvenir
 
-L'expression illustre une chute ou un effondrement soudain et souvent bruyant, donnant l'idée d'un poids qui s'abat sans retenue. L'emploi élargi pour décrire un comportement nonchalant ou désinvolte en s'asseyant ajoute une nuance humoristique.
-
-## Lien
-
-Aucune référence externe n'est connue
+Je revois mon père s'accatoufler dans son fauteuil après le travail, ce geste de pure reddition du corps fatigué. Rien de gracieux, rien de retenu — juste la gravité qui fait son travail. Et puis il y a eu ce jour à table où j'ai vu quelqu'un s'accatoufler en même temps qu'un autre était déjà assis, créant une sorte de collision involontaire. Tout le monde a ri. Il y a quelque chose d'universel dans ce mot, une vérité du corps qui refuse les convenances.

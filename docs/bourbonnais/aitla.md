@@ -1,22 +1,17 @@
 # A y t'là
 
-## Définition
+**Ça y est ! C'est fait ! — l'exclamation de celui qui vient d'achever, qui s'écroule de soulagement après l'effort.** C'est le cri du paysan qui a fini de rentrer le foin, du maçon qui pose la dernière pierre. Un mot de fatigue satisfaite.
 
-Expression employée pour marquer la réussite d'un effort consenti ou l'aboutissement d'une tâche exigeante. Elle traduit un soulagement ou une satisfaction à la suite d'un moment de travail, souvent physique, comme le transport d'une charge lourde ou l'installation après un exercice éprouvant. L'expression est typiquement utilisée lors d'activités manuelles ou agricoles.
+## L'exemple
 
-## Exemple
+*A y t'là, on est pas mal.*
 
-_A y t'là, on est pas mal._
-> Je ne saurais dire si c'est moi qui prends de l'âge ou si la marche du Massey Fergusson s'accroît, mais me voici finalement prêt !
+> Je ne saurais dire si c'est moi qui prends de l'âge ou si la marche du Massey Ferguson s'accroît, mais me voici finalement parvenu à l'accomplissement de ma tâche.
 
-## Équivalent
+## On dit aussi
 
 Ça y est, j'y suis, enfin !
 
-## Origine
+## Le souvenir
 
-L'expression est issue du langage oral, caractérisée par une contraction phonétique qui illustre la spontanéité et la simplicité et l'authenticité de la communication dans les milieux ruraux.
-
-## Lien
-
-Aucune référence externe n'est connue
+C'était le soupir de mon grand-père quand il se laissait tomber dans le siège du tracteur après une manœuvre difficile. « A y t'là ! » — dit fort, presque soulagé, comme si la voix devait couvrir le bruit du moteur. Il y avait de la fierté là-dedans, et du soulagement. La concentration que demandaient les travaux des champs — retourner une parcelle difficile, reculer une remorque dans la grange — c'était une affaire sérieuse. Quand c'était fait, ce mot-là sortait tout seul, comme une soupape. Pas pour quelqu'un en particulier. Pour lui. Pour le ciel. Pour personne.

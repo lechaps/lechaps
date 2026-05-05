@@ -1,33 +1,29 @@
 # Agaler
 
-## Définition
+**Agaler**, c'est aplatir, niveler — rendre une surface plane et uniforme.
+Mais le mot a glissé, comme souvent en patois, vers les corps et les âmes : *agalé* au participe passé, c'est quelqu'un que le temps a aplati lui aussi, usé, affaibli, tassé par les années. Le même mot pour le sol et pour l'homme. Il y a quelque chose de beau et de cruel là-dedans.
 
-1. Verbe utilisé pour décrire l'action d'aplatir ou de rendre une surface plane et uniforme, souvent en rapport avec des objets ou matériaux nécessitant un nivellement. Ce sens est étroitement lié au verbe égaler.
-2. Par extension, employé au participe passé, il s'applique aux personnes pour exprimer un affaiblissement général de l'état physique ou moral, fréquemment lié à la vieillesse ou à un déclin progressif.
+## L'exemple
 
-## Exemple
+### Ce qu'on aplatit
 
-### 1. Dans le sens d'aplatir
-
-_Agale moi s'te bosse._
+*Agale moi s'te bosse.*
 > Je sollicite de ta part quelques légers tapotements sur l'excroissance qui altère la planéité du sol.
 
-### 2. Dans le sens d'affaiblissement
+### Ce que le temps aplatit
 
-_Ouh, je l'ai vu l'aut' jour et je l'ai trouvé sacrément agalé._
+*Ouh, je l'ai vu l'aut' jour et je l'ai trouvé sacrément agalé.*
 > Oh, le pauvre homme, que j'ai croisé récemment ; le passage du temps commence visiblement à imprimer sa marque sur sa personne.
 
-> Jésus Christ à souffert, mais nous aussi on en a enduré
+Et pour ceux qui se plaindraient trop de leur sort, la réponse bourbonnaise était toute prête :
 
-## Équivalent
+*Jésus Christ a souffert, mais nous aussi on en a enduré.*
 
-1. Aplanir, niveler.
-2. Épuisé, affaibli, usé.
+## Le souvenir
 
-## Origine
+Agalé — c'est le mot qu'on utilisait sans méchanceté pour parler des vieux qui avaient rétrécit. Pas malade, pas mort, juste... aplati par le temps. Il y avait une tendresse dedans, et une lucidité un peu rude sur ce qui attend tout le monde.  
+La phrase sur Jésus Christ, je l'ai entendue de la bouche de mon facétieux grand-père. C'était sa façon de clore les gémissements des autres — dite avec un sourire en coin, sans appel. Une sagesse qui n'avait pas besoin d'en dire plus.
 
-L'expression tire ses racines du verbe égaler, dans son usage ancien et pratique, mais s'enrichit d'une dimension figurative pour décrire l'usure ou l'affaiblissement humain, témoignant d'une application imagée du terme.
+## Pour aller plus loin
 
-## Lien
-
-* [Définition du verber "égaler" de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9E0532){ target="_blank" }
+- [Académie Française — égaler](https://www.dictionnaire-academie.fr/article/A9E0532){ target="_blank" }

@@ -1,22 +1,17 @@
 # Agadon
 
-## Définition
+**Regarde donc ! — une interjection pour attirer l'attention sur quelque chose de remarquable.** Court, direct, souvent suivi de la raison du spectacle. Un mot qui capture ce moment où on veut partager ce qu'on vient de voir.
 
-Expression utilisée pour signifier « regarde donc », servant à attirer l'attention sur une personne, un objet, ou une action spécifique. Connu sous l'orthographe **agadon**, la forme décomposée **a'gad'don** met en lumière l'évolution orale de la prononciation, illustrant un phrasé spontané et vivant.
+## L'exemple
 
-## Exemple
+*Agadon, comment il s'est accatouflé.*
 
-_Agadon, comment il s'est accatouflé._
 > Observe donc avec attention la chute des plus spectaculaires de notre ami.
 
-## Équivalent
+## On dit aussi
 
 Regarde donc, observe.
 
-## Origine
+## Le souvenir
 
-L'expression provient d'un phrasé familier et oral, souvent employé pour insister sur un fait remarquable ou inviter quelqu'un à prêter attention à une scène ou un détail précis. La décomposition phonétique reflète une intonation naturelle et ancrée.
-
-## Lien
-
-Aucune référence externe n'est connue
+Agadon, c'était l'appel quand il fallait que je voie quelque chose — pas une demande, une sommation douce. « Agadon ! » Et tu tournais la tête. Il y a quelque chose d'urgent dans ce mot, mais sans anxiété. C'est juste : arrête ce que tu fais, regarde. Maintenant. C'est un mot qui vit dans l'instant.
