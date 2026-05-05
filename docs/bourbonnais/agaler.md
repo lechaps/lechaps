@@ -17,6 +17,8 @@ _Agale moi s'te bosse._
 _Ouh, je l'ai vu l'aut' jour et je l'ai trouvé sacrément agalé._
 > Oh, le pauvre homme, que j'ai croisé récemment ; le passage du temps commence visiblement à imprimer sa marque sur sa personne.
 
+> Jésus Christ à souffert, mais nous aussi on en a enduré
+
 ## Équivalent
 
 1. Aplanir, niveler.

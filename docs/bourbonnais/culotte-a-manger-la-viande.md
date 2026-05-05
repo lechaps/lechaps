@@ -4,7 +4,7 @@
 
 Expression populaire et humoristique désignant **le pantalon du dimanche**, celui que l'on met pour les grandes occasions, souvent lors du repas familial. L'expression insiste sur le risque de **le tacher en découpant la viande**, notamment un gigot ou une pièce de rôti, à l'aide d'un couteau (parfois électrique).
 
-Elle renvoie à cette opposition bien connue entre les vêtements de tous les jours, destinés au travail ou aux tâches courantes, et les habits « du dimanche », réservés aux moments importants mais toujours exposés à l'accident du repas.
+Elle renvoie à cette opposition bien connue entre les vêtements de tous les jours, destinés au travail ou aux tâches courantes, et les habits « du dimanche », réservés aux moments importants mais toujours exposés à l'accident du repas. Habit généralement acheté chez le magasin "Raoul" à Moulins.
 
 ## Exemples
 

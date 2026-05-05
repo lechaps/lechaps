@@ -1,6 +1,6 @@
 # Roucher
 
-pPoser, balancer, jetter
+Poser, balancer, jetter, ranger
 
 > Après le revari, ça été roucher là !
 

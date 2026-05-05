@@ -6,8 +6,8 @@ Terme populaire et imagé désignant la **gorge** ou le **gosier**, souvent util
 
 ## Exemple
 
-_(Àprès avoir bu son verre) Ahh, ça fait du bien à la corniaule !_
-> Ce breuvage m'a agréablement réchauffé la gorge.
+_Alors lui, il a la cognole en pente !_
+> Il me semble judiscieux de signaler la soif remarquable de monsieur.
 
 _J'aime pas la cravate, ça m'sert la corgnole !_
 > Je n'affectionne guère la cravate ; elle m'oppresse désagréablement la nuque.
