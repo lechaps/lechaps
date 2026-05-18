@@ -1,7 +1,5 @@
 # Culot
 
-## Définition
-
 Dans le langage familier et régional, **culot** désigne le **fond d'une bouteille**, autrement dit ce qu'il reste à boire une fois qu'elle est presque vide. Il peut s'agir du dernier verre, ou du dépôt au fond. Par extension, le *culot* devient aussi un **prétexte convivial pour resservir**, sous forme de « dernier verre » qu'on propose rarement sans arrière-pensée.
 
 ## Exemples

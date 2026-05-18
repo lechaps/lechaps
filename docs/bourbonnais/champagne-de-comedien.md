@@ -1,26 +1,14 @@
 # Champagne de comédien
 
-## Définition  
+Le **champagne de comédien**, c'est le mousseux qui joue au grand seigneur. Ça pétille avec application, ça fait du bruit au débouchage, ça essaie de mettre de la fête dans les verres, mais enfin… ce n'est pas le Champagne des grandes occasions ni des fortunes tranquilles.
+L'expression est doucement moqueuse : on fait illusion, on donne le change, on trinque avec panache même quand la bouteille a davantage connu l'étagère de l'épicerie que les caves d'Épernay. Et pourtant, dans beaucoup de familles, les plus joyeux réveillons se sont fort bien passés avec ce “champagne”-là. Comme quoi les bulles font moins le bonheur que les gens autour de la table.
 
-Expression ironique désignant un **vin mousseux**, souvent en opposition avec le véritable **Champagne**. L'expression suggère que ce vin effervescent, moins prestigieux et plus abordable que le champagne d'appellation contrôlée, est une alternative choisie par ceux qui veulent faire illusion sans en payer le prix.  
+## Exemple
 
-Le terme **comédien** sous-entend ici l'idée de **tromperie ou d'imitation**, comme si l'on cherchait à jouer un rôle en servant du vin mousseux à la place du champagne.  
+*Peuh, tu parles d'une affaire, on a trinqué avec du champagne de comédien !.*
 
-## Exemple  
+> « Fichtre ! L'esprit même de cette célébration aurait indubitablement mérité un breuvage d'une noblesse supérieure à ce simple mousseux ! »
 
-_Peuh, tu parles d'une affaire, on a trinqué avec du champagne de comédien !._
-> Fichtre ! L'esprit même de cette célébration aurait indubitablement mérité un breuvage d'une noblesse supérieure à ce simple mousseux !
+## On dit aussi
 
-## Équivalent
-
-Vin mousseux, pétillant, mousseux bon marché.  
-
-## Origine
-
-L'expression **champagne de comédien** joue sur l'idée d'apparence et de mise en scène. Dans le langage populaire, elle évoque une boisson qui cherche à se donner des airs de grandeur, à l'image d'un acteur qui endosse un rôle. Historiquement, cette expression s'ancre dans un contexte où les vins mousseux étaient perçus comme des alternatives plus accessibles que le champagne, mais avec une qualité souvent jugée inférieure.  
-
-Aujourd'hui, certains vins mousseux (comme le Crémant ou d'autres AOC) rivalisent avec certains champagnes, rendant l'expression plus humoristique que réellement critique.  
-
-## Lien
-
-Aucune référence externe n'est connue.  
+Vin mousseux, pétillant, mousseux bon marché

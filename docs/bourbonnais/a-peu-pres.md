@@ -1,21 +1,23 @@
 # À-peu-près
 
-**Quelqu'un ou quelque chose de correct, passable, acceptable — sans atteindre l'excellence.** Dit d'une personne qui fait l'affaire sans briller, ou d'un travail "suffisant" pour la tâche. En bourbonnais, c'est l'adjectif du pragmatisme : ce qui fonctionne, ça suffit.
+À-peu-près, ce n'était jamais l'excellence triomphante ni la catastrophe absolue. C'était ce petit territoire du milieu où l'on range les récoltes honnêtes, les repas qui tiennent au ventre et les personnes sans trop d'histoires. Quelqu'un ou quelque chose de convenable, de simplement acceptable, regardé avec cette indulgence un peu lasse des gens qui avaient depuis longtemps compris que le monde avançait surtout grâce aux choses imparfaites.
 
-## L'exemple
+## Exemple
 
-*Oh, c'est un gars à peu prêt, mais l'autre c'est un arcandier.*
+*Oh lui c'est un gars à-peu-près, mais l'autre c'est un arcandier.*
 
-> Certes, c'est une personne tout à fait respectable, mais je nourris davantage de réserves quant au sérieux de son acolyte.
+> « Certes, cet individu présente des qualités relativement honorables et un comportement globalement acceptable, mais je demeure infiniment plus circonspect quant à la probité et au sérieux de son compagnon. »
 
 ## On dit aussi
 
-Passable, acceptable, moyen, convenable.
+Passable, convenable, moyen, pas si mal, correct.
 
-## Le souvenir
+## Souvenir
 
-J'ai entendu cette distinction toute ma vie : "c'est à peu près", on dit ça avec une légère déception, une acceptation résignée. C'est un jugement tendre, finalement. Pas méchant. Ça veut dire qu'on s'attend à mieux, mais qu'on comprend qu'on n'aura pas mieux — et qu'on s'en accommode. Il y a de la sagesse là-dedans, une forme de compassion raisonnée.
+Il y avait un voisin qu'on appelait toujours pour donner un coup de main, jamais pour donner un conseil. Il réparait les barrières de travers, ratait la moitié de ses semis, mais arrivait quand même à faire tourner sa petite vie avec une sorte d'obstination tranquille. Mon grand-père disait souvent : « Oh lui, attention, c'est un à-peu-près. » Pas avec mépris. Plutôt comme on parle d'une vieille veste un peu usée qu'on continue à mettre parce qu'elle tient encore chaud.  
+Moi, enfant, « à-peu-près » je croyais presque que c'était un métier.
 
 ## Pour aller plus loin
 
-- [Académie Française](https://www.dictionnaire-academie.fr/article/A9A2089){ target="_blank" }
+* [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9A2089){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/%C3%A0_peu_pr%C3%A8s){ target="_blank" }

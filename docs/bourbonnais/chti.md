@@ -1,6 +1,4 @@
-# Ch'tit / Ch'tite
-
-## Définition  
+# Ch'tit / Ch'tite 
 
 1. **Petit(e)** : Désigne quelque chose de réduit en taille, une version plus petite d'un objet, ou une quantité moindre. La forme féminine ch'tite est utilisée pour accorder avec des noms féminins.
 2. **De mauvais goût** : Qualifie quelque chose d'âcre, d'âpre ou de désagréable au goût, souvent utilisé pour des aliments ou des boissons ayant un arrière-goût fort ou désagréable.

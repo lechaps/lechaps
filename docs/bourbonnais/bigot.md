@@ -1,23 +1,17 @@
 # Bigot
 
-## Définition
-
-Désigne une pioche à deux dents, utilisée principalement pour extraire des pommes de terre ou d'autres tubercules du sol. Cet outil est indispensable dans les travaux agricoles nécessitant un labourage précis et respectueux des récoltes.
+Le **bigot**, c'était l'outil des récoltes patientes, celui qu'on plantait dans la terre avec respect parce qu'un mauvais coup pouvait éventrer la moitié des pommes de terre et déclencher une série de jurons capables de faire rougir un adjudant. Une sorte de pioche à deux dents, robuste, simple, sans poésie apparente — et pourtant il y avait dans son maniement quelque chose de presque délicat. On travaillait la terre avec le bigot comme on fouille dans une vieille commode familiale : fermement, mais en évitant de casser ce qu'on vient chercher. Dans les champs bourbonnais, au moment des tartouffes, le bruit du métal qui entre dans la terre humide faisait partie des musiques ordinaires de l'automne, avec les corbeaux au loin et les dos qui craquent quand on se relève trop vite.
 
 ## Exemple
 
-_Reste pas planté là, va m'cher le bigot qu'j'arrache les tartouffes._
-> Ne demeurez pas immobile ainsi, je vous prie, allez donc me chercher la pioche que je puisse extraire les tubercules.
+*Reste pas planté là, va m'cher le bigot qu'j'arrache les tartouffes.*
+> « Auriez-vous l'extrême obligeance de me fournir cet instrument agricole à double denture afin que nous procédions à l'extraction méthodique des précieux tubercules ? »
 
-## Équivalent
+## On dit aussi
 
-Fourche-bêche, pioche à deux dents.
+Fourche-bêche, pioche, fourche à pommes de terre
 
-## Origine
-
-Le mot _bigot_ reflète l'importance des outils spécifiques dans les pratiques paysannes pour des tâches précises, comme le déterrage des tubercules.
-
-## Lien
+## Pour aller plus loin
 
 * [Définition du dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1B0059.html){ target="_blank" }
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/bigot){ target="_blank" }

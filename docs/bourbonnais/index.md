@@ -17,3 +17,5 @@ En plus, voici quelques liens utiles :
 * [Site historique du Bourbonnais - Lexique](http://micbourbonnais.free.fr/lexique.htm){ target="_blank" }
 * [Lexilogos](https://www.lexilogos.com/bourbonnais_dictionnaire.htm){ target="_blank" }
 * [Lexique du patois Creusois - proche du patois bourbonnais](https://fresselineshier.fr/wp-content/uploads/2020/12/Le-Patois-de-Fresselines.pdf){ target="_blank" }
+* [Grammaire et dictionnaire du patois bourbonnais (Paul Duchon, 1904)](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
+* [Commune de Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }

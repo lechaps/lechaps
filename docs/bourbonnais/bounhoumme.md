@@ -1,22 +1,15 @@
 # Bounhoume
 
-## Définition
+Le **bounhoume**, c'est le paysan vu par les campagnes elles-mêmes : un homme de terre, de saisons, de fatigue solide et de phrases courtes. Pas forcément un propriétaire richissime avec des hectares à perte de vue, non. Plutôt le type qui connaît la pluie à l'odeur, qui regarde le ciel avant de parler et qui possède davantage d'outils que de chemises élégantes. Le mot vient de « bonhomme », et ça lui va bien : il y a dedans quelque chose de rude mais de profondément humain. Évidemment, selon le ton, on pouvait aussi s'en servir pour se moquer gentiment du côté rustique des gens du coin. Parce qu'un bounhoume, dans l'imaginaire populaire, ça mange solide, ça parle fort, ça se méfie des nouveautés et ça considère souvent les gens de la ville comme des créatures fragiles capables de mourir d'émotion devant une poule vivante.
 
-Désigne un paysan, un habitant des campagnes souvent associé à la vie rurale et aux travaux agricoles. Ce terme peut être employé de manière neutre pour parler d'un cultivateur ou, selon le contexte, avec une pointe d'ironie ou de moquerie pour évoquer un comportement rustique ou simple.
+Mais derrière la plaisanterie, il y avait du respect. Un respect bourru, mal peigné, qui sentait la terre retournée et les mains crevassées.
 
 ## Exemple
 
-_Peuh, y'a qu'nous qu'travaillons ! Les bouhoumes._
-> Voyons ! Les plus courageux au travail semble être sans nul doute notre corporation.
+*Peuh, nous autres les bounhoumes, on n'attend pas qu'ça pousse tout seul derrière les fenêtres.*
 
-## Équivalent
+> « Contrairement à certaines existences manifestement plus contemplatives, notre condition exige une participation physique constante à l'effort nourricier national. »
 
-Paysan, cultivateur, fermier.
+## On dit aussi
 
-## Origine
-
-Le mot bounhoume est une variation phonétique bourbonnaise du mot "bonhomme". Il reflète l'image d'un personnage souvent débrouillard, attaché à ses terres et à ses traditions. Il évoque aussi une simplicité chaleureuse, mais aussi une pointe de caricature humoristique dans les conversations, symbolisant le mode de vie simple et les traditions rurales bien ancrées.
-
-## Lien
-
-Aucune référence externe n'est connue
+Paysan, cultivateur, fermier, gars de la terre

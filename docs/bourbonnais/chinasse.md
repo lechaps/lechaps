@@ -1,7 +1,5 @@
 # Chinasse
 
-## Définition  
-
 Désigne une **chienne**, c'est-à-dire une femelle de l'espèce canine. Ce terme appartient au langage populaire et rural, souvent utilisé de manière familière pour parler d'un chien femelle, sans connotation péjorative.  
 
 ## Exemple  

@@ -1,22 +1,13 @@
 # Beugueuyou
 
-## Définition
-
-Terme utilisé pour désigner une personne **bavarde**, qui parle abondamment, mais dont les propos sont souvent jugés sans grand intérêt ou pertinence.
+Le **beugueuyou**, c'est celui qui parle comme d'autres respirent : sans même s'en rendre compte, et surtout sans jamais envisager l'idée merveilleuse du silence. Ça jacasse, ça détaille, ça repart sur une anecdote avant même d'avoir terminé la précédente. Avec un beugueuyou, une simple question sur la météo peut finir en récit complet de la vidange du tracteur, des rhumatismes de sa belle-sœur et du prix scandaleux des melons depuis 1987. Le plus étonnant, c'est que ces gens-là ne sont pas forcément ennuyeux. Épuisants, oui. Mais souvent attachants. Ils mettent des mots partout pour éviter les blancs, parce que certains silences leur font l'effet d'un grenier vide un soir d'hiver.
 
 ## Exemple
 
-_Pfff, j'l'entends plus, c'est un beugeuyou._
-> À vrai dire, je lui accorde une attention quelque peu distraite, car il a tendance à se montrer un brin discoureur.
+*Laisse-le causer… c'est un beugueuyou, y pourrait raconter sa vie à une barrière.*
 
-## Équivalent
+> « Cet homme possède une telle abondance verbale qu'il semblerait capable d'entretenir une conversation soutenue avec le mobilier agricole le plus récalcitrant. »
 
-Bavard, moulin à paroles, pipelette.
+## On dit aussi
 
-## Origine
-
-Le mot exprime de manière imagée l'idée d'un flux ininterrompu de paroles souvent inutiles ou redondantes, avec une tonalité humoristique, moqueuse, voire critique.
-
-## Lien
-
-Aucune référence externe n'est connue
+Bavard, moulin à paroles, causeux, pipelette, jacasseur

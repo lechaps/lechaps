@@ -1,7 +1,5 @@
 # Courlis
 
-## Définition
-
 Petit oiseau des marais et des rivages, reconnaissable à son long bec arqué. Dans le langage familier et régional, il est souvent utilisé de façon imagée pour qualifier une personne **maigre** ou **décharnée**.
 
 ## Exemples

@@ -1,31 +1,22 @@
 # Bisiau
 
-## Définition
+Le **bisiau**, c'est un mot magnifique parce qu'il pique dans les deux sens. D'un côté, il désigne ces petits bourgeois de campagne, les notables à chaussures propres qui passent devant les autres avec l'air d'avoir personnellement inventé la propriété privée. Des gens pas forcément riches comme des banquiers, non, mais assez installés pour regarder le reste du monde du haut de leur suffisance amidonnée. Dans les villages, traiter quelqu'un de bisiau, c'était lui rappeler gentiment — enfin, « gentiment » façon campagne — qu'il commençait à prendre ses aises avec l'humilité chrétienne.
 
-1. Bourgeois ou petite noblesse rurale : Utilisé pour désigner une personne aisée, souvent avec une pointe d'ironie ou de moquerie, pour souligner une attitude fière ou prétentieuse.
-2. Vent glacial : Désigne un vent froid et coupant, soufflant "de travers" et souvent désagréable, typique des régions exposées.
+Et puis le bisiau, c'est aussi ce vent froid qui vous traverse les vêtements comme une lame humide. Pas le grand vent spectaculaire des tempêtes, non. Le petit vent vicieux, celui qui arrive de biais, vous fait pleurer les yeux, couler le nez et regretter immédiatement d'avoir quitté la cuisine. Une vraie saloperie météorologique. Et quelque part, le lien entre les deux sens du mot est assez beau : le bisiau, qu'il soit vent ou bonhomme, vous laisse toujours une impression de froid.
 
 ## Exemple
 
 ### 1. Dans le sens bourgeois
 
-_Ça passe à coté d'nous sans nous dire bonjour, comme des bisiaux._
-> Il à manqué l'occasion de nous saluer, à croire que nous ne sommes plus du même monde.
+*Ça passe à coté d'nous sans nous dire bonjour, comme des bisiaux.*
+> « Observez donc ces distingués personnages dont la remarquable élévation sociale semble désormais incompatible avec les usages élémentaires de la politesse villageoise. »
 
 ### 2. Dans le sens du vent
 
-_J'ai la goutte au nez avec ce vent de bisiau._
-> J'ai quelques incidents naseaux conséquemment à la fraicheur de la bise matinale.
+*Ferme donc la porte, y rentre un bisiau à décorner les bœufs.*
+> « Je vous saurais gré d'empêcher cette effroyable circulation d'air glacial de transformer cette habitation en annexe sibérienne. »
 
 ## Équivalent
 
 1. Bourgeois, notable, parvenu.
 2. Vent glacial, bise.
-
-## Origine
-
-Le mot _bisiau_ reflète à la fois des réalités sociales et climatiques. Dérivé de bise, il désigne un vent glacial et sec, enrichi de nuances locales liées à son intensité et sa direction. Par extension, il s'applique aussi à la petite noblesse ou bourgeoisie rurale, témoignant d'un imaginaire populaire où nature et société s'entrelacent.
-
-## Lien
-
-Aucune référence externe n'est connue

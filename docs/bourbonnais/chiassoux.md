@@ -1,7 +1,5 @@
 # Chiassoux
 
-## Définition  
-
 Désigne une personne **avare**, **radine** ou **peu généreuse**, tant sur le plan matériel que relationnel. Le terme peut également évoquer un individu **méprisant**, distant ou difficile à approcher, caractérisé par une attitude hautaine ou un manque de considération envers les autres.  
 
 L'usage de **chiassoux** est souvent moqueur ou critique, employé pour désigner quelqu'un qui rechigne à partager, que ce soit son argent, son temps ou son attention.  

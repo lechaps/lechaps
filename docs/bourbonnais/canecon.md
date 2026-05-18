@@ -1,22 +1,15 @@
 # Caneçon
 
-## Définition
+Le **caneçon**, c'est le caleçon des gens ordinaires, celui qu'on ne montre pas dans les publicités avec des mannequins huilés qui regardent l'horizon comme s'ils allaient déclarer la guerre à la Scandinavie. Non. Le vrai caneçon, c'est le sous-vêtement honnête, souvent un peu détendu sur les élastiques, parfois reprisé, toujours confortable et porté sans aucune ambition esthétique. Dans les campagnes, surtout l'hiver, le caneçon long relevait presque de l'équipement de survie. Une seconde peau contre le froid qui remontait des champs comme une punition biblique. Les anciens avaient beau jouer les durs, dès novembre ils enfilaient tous leurs caneçons avec la discrétion coupable des hommes qui prétendaient encore « avoir chaud naturellement ».
 
-Terme familier désignant un caleçon, souvent évoqué dans un contexte humoristique ou affectueux. Le mot est particulièrement utilisé pour parler d'un sous-vêtement bien usé ou associé à une image décontractée et simple, avec une prononciation qui trahit un usage populaire et régional.
+Et puis le mot lui-même est formidable : on entend dedans quelque chose de mou, de pratique, de vaguement ridicule aussi. Exactement comme le vêtement qu'il désigne.
 
 ## Exemple
 
-_Ça caille tellement que j'ai mis le caneçon long !_
-> Il fait un froid si mordant que j'ai dû rallonger les jambes de mes sous-vêtements pour m'en protéger.
+*Ouh ça caille tel'ment j'ai ressorti l'caneçon long et les grosses chaussettes.*
 
-## Équivalent
+> « Les conditions climatiques actuelles m'ont contraint à adopter une stratégie vestimentaire défensive particulièrement élaborée. »
 
-Caleçon, sous-vêtement.
+## On dit aussi
 
-## Origine
-
-Le mot caneçon est une forme dérivée ou déformée du terme officiel caleçon, adoptée dans le langage oral pour souligner un usage quotidien et souvent désinvolte du vêtement. Il est typique des expressions où la prononciation joue un rôle affectif ou comique.
-
-## Lien
-
-* [Définition du mot "caleçon" de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9C0280){ target="_blank" }
+Caleçon, slip long, dessous, sous-vêtement

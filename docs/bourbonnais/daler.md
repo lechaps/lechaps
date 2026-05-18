@@ -1,7 +1,5 @@
 # Dâler
 
-## Définition
-
 Verbe régional signifiant qu'il fait une **chaleur intense**, au point de **dessécher** l'air, la terre ou les personnes. On l'emploie pour exprimer une sensation d'ardeur accablante, qui brûle et assoiffe.
 
 ## Exemples

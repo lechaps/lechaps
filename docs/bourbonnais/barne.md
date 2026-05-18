@@ -1,7 +1,5 @@
 # Barne
 
-## Définition
-
 Terme utilisé pour désigner une barrique ou un tonneau, généralement employé dans des contextes informels et souvent lié au stockage de boissons, notamment alcoolisées.
 
 Les tailles connues :
@@ -13,17 +11,10 @@ Les tailles connues :
 
 ## Exemple
 
-_Ah ben si il fait soif on peut toujours attaquer la barne._
-> Eh bien, si notre soif persiste, il ne nous restera plus qu'à entamer le tonneau
+*Ah ben si il fait soif on peut toujours attaquer la barne.*
 
-## Équivalent
+> « Puisque nos gosiers persistent à réclamer leur dû avec l'insistance tragique d'un chœur antique desséché par les vents d'Auvergne, je propose d'entamer séance tenante ce respectable réservoir bachique afin de préserver la paix civile et, accessoirement, l'amitié entre les hommes. »
 
-Barrique, tonneau, fût.
+## On dit aussi
 
-## Origine
-
-L'expression témoigne d'une association directe entre la barrique et son usage festif ou convivial dans les échanges du quotidien.
-
-## Lien
-
-Aucune référence externe n'est connue
+Barrique, tonneau, fût, quart, pièce

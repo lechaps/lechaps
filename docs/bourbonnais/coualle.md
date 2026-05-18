@@ -1,7 +1,5 @@
 # Couâlle
 
-## Définition
-
 Terme désignant **un corbeau**. Employé surtout dans le parler rural, il sert à nommer cet oiseau noir au croassement bien reconnaissable. La prononciation traînante du *â* imite parfois, de façon humoristique, le cri grave et rauque de l'animal.
 
 ## Exemple

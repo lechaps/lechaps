@@ -1,17 +1,19 @@
 # À la va comme j'te pousse
 
-**Faire quelque chose rapidement, sans soin ni véritable effort — bâclé, négligé, juste pour "faire passer".** Expression de l'impatience ou de l'indifférence face à un travail qu'on ne souhaite pas vraiment faire. Ça traduit cette attitude typiquement bourbonnaise : pragmatique jusqu'à la nonchalance.
+Faire quelque chose **sans trop regarder si ça tient droit**, un peu dans l'urgence, un peu dans la fatigue, souvent avec cette idée qu'on verra bien après. C'est le travail bricolé sur un coin de table, la chemise boutonnée de travers, la clôture réparée avec trois bouts de fil et beaucoup de bonne volonté. Ce n'est pas forcément mal fait. C'est surtout fait comme on peut.
 
-## L'exemple
+## Exemple
 
 *R'garde moi ça ! Il y a fait à la va comme j'te pousse.*
 
-> Il convient d'admettre que je demeure peu convaincu par le fruit de ses travaux compte tenu du faible entrain dont il a fait montre.
+> « Il convient d'admettre que dans un admirable élan d'architecture spontanée, cette personne a su défier les lois élémentaires de l'équilibre tout en produisant une structure dont la stabilité approximative force le respect. »
 
 ## On dit aussi
 
-Fait à la va-vite, sans sérieux, à l'arrache.
+À la va-vite, à l'arrache, de guingois, bâclé, cahin-caha.
 
-## Le souvenir
+## Pour aller plus loin
 
-J'ai entendu cette expression des dizaines de fois, lancée avec un sourire en coin quand quelqu'un trimait sur un projet sans enthousiasme. Il y a quelque chose de doux dans cette phrase — elle juge sans vraiment juger, elle constate juste l'absence d'effort. C'est un reproche affectueux, presque tendre, celui qu'on adresse à quelqu'un qu'on aime bien mais qu'on voit faire les choses à moitié.
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/v%C3%A1//1)
+* [Synonymes du CNRTL](https://www.cnrtl.fr/synonymie/%C3%A0%20la%20va-comme-je-te-pousse)
+* [Définition d'Expressio](https://www.expressio.fr/expressions/a-la-va-comme-je-te-pousse){ target="_blank" }

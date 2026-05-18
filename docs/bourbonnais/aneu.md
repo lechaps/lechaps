@@ -1,22 +1,9 @@
 # Aneu
 
-## Définition  
+L'**aneu**, c'est l'année comme on la porte ici : avec ses saisons, ses récoltes, ses petits malheurs et ses joies qui tiennent dans une soupe chaude ou un feu qui reprend bien. Le mot a quelque chose de rond, de patient. On ne compte pas seulement le temps ; on compte ce qu'il laisse derrière lui. Une aneu, ça use les bottes, les hommes et les calendriers des Postes accrochés sur la porte de la cuisine.
 
-Terme issu désignant une **année**. 
+## Exemple
 
-## Exemple  
+*J'te souhaite une bonne aneu, et surtout la santé.*
 
-_J'te souhaite une bonne aneu, et surtout la santé._
-> Je vous adresse mes voeux les plus sincères pour cette nouvelle année, en vous souhaitant avant tout une santé des plus florissantes..
-
-## Équivalent
-
-Année.  
-
-## Origine
-
-Le mot **aneu** provient de l'évolution naturelle du latin _annus_ - par pitié éviter de perdre un n en route vous finiriez dans un chemin boueux -, qui a donné _aneu_ avant de se fixer sous la forme moderne **année** en français standard. Cette survivance témoigne d'un héritage linguistique ancien.  
-
-## Lien
-
-Aucune référence externe n'est connue.
+> « Je vous adresse mes vœux les plus sincères pour cette nouvelle année, en espérant que votre santé demeure éclatante et solide. »

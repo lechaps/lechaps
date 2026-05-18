@@ -1,22 +1,14 @@
 # Bitard
 
-## Définition
+Le **bitard**, c'est le saucisson dans ce qu'il a de plus sérieux, de plus sacré même. Pas la rondelle triste sous plastique qu'on mange debout dans une station-service entre deux regrets existentiels, non. Le vrai saucisson de campagne, sec juste comme il faut, avec le gras qui brille un peu et cette odeur de cave fraîche capable de faire revenir instantanément trois générations autour d'une table. Évidemment, le mot lui-même relève de cette vieille tradition rurale qui consistait à tout ramener, tôt ou tard, à une plaisanterie vaguement grivoise. Les anciens avaient le rire simple et l'imagination charcutière. Et puis entre nous, un gros saucisson pendu dans un cellier… bon. Voilà. La métaphore s'est faite toute seule.
 
-Désigne un saucisson, un produit de charcuterie souvent apprécié dans les repas conviviaux ou les apéritifs.
+Mais attention : sortir le bitard, ce n'était jamais seulement apporter à manger. C'était annoncer que la conversation allait durer, que le litre allait circuler et que personne ne repartirait avant d'avoir refait la politique, la météo et la santé du voisin absent.
 
 ## Exemple
 
-_J'suis pas venu pour les p'tits four, sorts moi le bitard !_
-> Sans cérémonies inutiles, je serais bien davantage enclin à me sustenter avec une saucisse sèche.
+*J'suis pas venu pour les p'tits four, sorts moi le bitard !*
+> « Je vous propose d'abandonner ces frivolités croustillantes au profit d'une authentique pièce de charcuterie susceptible d'accompagner dignement nos débats. »
 
-## Équivalent
+## On dit aussi
 
-Saucisson, charcuterie.
-
-## Origine
-
-Le mot _bitard_ semble trouver son origine dans une association visuelle entre la forme allongée et bombée du saucisson et une autre forme que l'on peut trouver dans dans une anatomie masculine généreuse et décomplexée. Cette désignation reflète un humour rural ou informel typique des contextes gastronomiques décontractés.
-
-## Lien
-
-Aucune référence externe n'est connue
+Saucisson, rosette, sauciflard, cochonnaille

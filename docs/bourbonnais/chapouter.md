@@ -1,7 +1,5 @@
 # Chapouter
 
-## Définition  
-
 Désigne l'action de **tailler de petits morceaux de bois pour emmancher un outil**. Cette étape est essentielle pour ajuster correctement le manche à l'outil (comme une pioche, une bêche, un marteau ou une hache), garantissant ainsi un bon maintien et une solidité optimale.  
 
 Ce terme est principalement utilisé en milieu rural et artisanal, où l'entretien des outils est une tâche courante nécessitant un savoir-faire précis.  

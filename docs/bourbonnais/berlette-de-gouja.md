@@ -1,22 +1,13 @@
 # Berlette de gouja
 
-## Définition  
+Rien que le nom mérite une nappe à carreaux et trois ballons de rouge. La **berlette de gouja**, c'est la saucisse dans toute sa gloire populaire : grasse juste ce qu'il faut, grésillante sur le feu, avec cette odeur capable de faire revenir un homme du jardin plus vite qu'un clairon de cavalerie. L'expression a ce vieux parfum de plaisanterie paysanne un peu grivoise, un peu bravache, où la charcuterie et la gaudriole faisaient souvent ménage commun — faut dire qu'à la campagne, quand on avait fini de parler météo et pommes de terre, il restait toujours deux ou trois énormités pour accompagner le litre. Et puis une saucisse, hein… ça inspire les imaginations simples. Dieu reconnaîtra les poètes.
 
-Désigne une **saucisse**, qu'elle soit sèche ou cuite. L'expression, à l'origine colorée et humoristique, provient de l'expression « branlette de gouja », probablement en lien avec des métaphores imagées ou grivoises évoquant la forme de la saucisse.  
+## Exemple
 
-## Exemple  
+*Je te le dis, on. ne pique pas les berlettes de gouja sur le barbecue, tu leur fais perdre tout le jus !*
 
-_Je te le dis. On ne pique pas les berlettes de gouja pour les passer au barbecue !_
-> Je vous le dis. Il est fortement déconseillé de piquer les saucisses avec une fourchette lors vous les cuisinez sur les appareils de cuisson mobile.
+> « Je vous prie instamment de cesser cette opération de perforation intempestive sur ces nobles cylindres de chair porcine, sous peine d'en voir les sucs précieux s'échapper dans les flammes. »
 
-## Équivalent
+## On dit aussi
 
-Saucisse, saucisson.  
-
-## Origine
-
-L'expression **berlette de gouja** est enracinée avec une origine humoristique ou grivoise liée à des métaphores visuelles. La transformation de "branlette" en "berlette" illustre un adoucissement du terme mais son origine témoigne d'un langage haut en couleur, typique des contextes conviviaux.  
-
-## Lien
-
-Aucune référence externe n'est connue.
+Saucisse, saucisson, chipolata, godiveau

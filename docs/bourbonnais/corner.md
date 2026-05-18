@@ -1,7 +1,5 @@
 # Corner
 
-## Définition
-
 Terme familier et régional signifiant **klaxonner**, c'est-à-dire **faire usage de son avertisseur sonore**, généralement en voiture. Le verbe imite le bruit du **klaxon** ou de la **corne**, d'où son usage imagé et sonore.
 
 Utilisé surtout dans les campagnes ou dans un registre populaire, **corner** est un équivalent direct mais plus expressif de « klaxonner », souvent prononcé avec un petit sourire et parfois une pointe d'agacement.

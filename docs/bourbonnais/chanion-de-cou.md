@@ -1,7 +1,5 @@
 # Chanion (ou chagnion) de cou
 
-## Définition  
-
 Désigne un **cou ou une nuque particulièrement épais(se) et imposant(e)**, souvent associé(e) à une forte carrure ou à une corpulence massive. L'expression est utilisée de manière humoristique ou moqueuse pour qualifier une personne dotée d'un cou large et puissant, pouvant évoquer celui d'un taureau ou d'un lutteur.  
 
 ## Exemple  

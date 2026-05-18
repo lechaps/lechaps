@@ -1,27 +1,19 @@
 # Bredin ou berdin
 
-## Définition
+Le **bredin**, c'est le fou du village, mais attention : pas forcément un malheureux perdu dans les brouillards de l'esprit. Non. Le bredin bourbonnais, c'est souvent le naïf magnifique, le type qui comprend tout de travers, arrive toujours une minute trop tard ou prend les plaisanteries au premier degré avec une sincérité désarmante. On le moque, évidemment. Les campagnes ont toujours eu le sarcasme facile. Mais derrière la raillerie, il y a souvent une forme de tendresse. Parce qu'un bredin, ça fait rire le monde sans réellement lui vouloir du mal. Et dans certaines familles, soyons honnêtes, on comptait plusieurs générations de bredins sans que personne n'y trouve à redire.
 
-1. Sens courant : Terme utilisé pour désigner une personne considérée comme fou, bête, ou simple d'esprit. Employé souvent dans un contexte moqueur ou affectueux.
-2. Expressions dérivées :
-
-* Débrediner (verbe) : Reprendre ses esprits ou retrouver un comportement sensé.
-* Débredinoire (nom féminin) : Désigne un sarcophage contenant les restes de saint Menoux, situé dans la commune du même nom. Ce sarcophage est percé d'un trou par lequel les simples d'esprit sont censés passer la tête pour "se débrediner", c'est-à-dire recouvrer la raison. Cet élément emblématique de la province du Bourbonnais témoigne d'une forte identité culturelle et légendaire.
+Le mot a même donné des merveilles locales : **débrediner**, c'est retrouver un peu de bon sens après avoir agi comme une casserole sans manche. Et surtout la fameuse **débredinoire** de Saint-Menoux, ce sarcophage percé dans lequel les gens passaient la tête pour se débarrasser de leur folie ou de leur bêtise. Rien que l'idée est sublime. Le Bourbonnais a tout de même inventé un monument officiel pour tenter de remettre les idiots d'aplomb. Une région d'ingénieurs humanistes, finalement.
 
 ## Exemple
 
 _Tu vois bien que t'es totalement bredin._
-> Vous constatez sans doute les conséquences de votre naïveté.
+> « Peut-être conviendrait-il de suspendre momentanément cette succession d'initiatives intellectuellement aventureuses. »
 
-## Équivalent
+## On dit aussi
 
-Fou, idiot, simplet, nigaud, niais.
+Nigaud, simplet, benêt, fada, innocent
 
-## Origine
-
-Le mot bredin trouve ses racines dans le langage régional, particulièrement en Bourgogne et dans le Bourbonnais. Il illustre une vision populaire et imagée des comportements jugés naïfs ou maladroits. L'association avec la débredinoire de Saint-Menoux enracine le terme dans une légende locale, où l'on attribue à ce lieu des vertus de guérison pour les esprits troublés.
-
-## Lien
+## Pour aller plus loin
 
 * [Définition du dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages0/D1B0114.html){ target="_blank" }
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/bredin){ target="_blank" }

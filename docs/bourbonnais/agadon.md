@@ -1,12 +1,13 @@
 # Agadon
 
-**Regarde donc ! — une interjection pour attirer l'attention sur quelque chose de remarquable.** Court, direct, souvent suivi de la raison du spectacle. Un mot qui capture ce moment où on veut partager ce qu'on vient de voir.
+**Agadon**, c'est le doigt qu'on tend sans le tendre. Le petit coup de menton qui oblige tout le monde à regarder dans la même direction. Ça peut annoncer une catastrophe, une beauté, un voisin qui passe avec une voiture neuve ou simplement un chien qui dort devant la cuisinière.
+Le mot arrive toujours un peu brusquement, avec cette économie de syllabes propre aux gens qui ont longtemps travaillé dehors : *« Agadon… »* Et tout le monde tourne la tête. Pas besoin d'explication. Dans le Bourbonnais, on sait très bien que les grands discours fatiguent les lèvres et refroidissent la soupe.
 
 ## L'exemple
 
 *Agadon, comment il s'est accatouflé.*
 
-> Observe donc avec attention la chute des plus spectaculaires de notre ami.
+> « Observe donc avec attention la chute des plus spectaculaires de notre ami. »
 
 ## On dit aussi
 

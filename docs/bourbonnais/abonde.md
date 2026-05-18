@@ -1,31 +1,22 @@
 # Abonde
 
-**Faire de l'abonde** — expression qui joue sur deux tableaux opposés selon le contexte.  
-Dans le bon sens : ce qui dure, nourrit, profite.  
-Dans le mauvais : ce qui déborde, envahit, prend trop de place. Un seul mot pour l'abondance heureuse et l'excès agaçant.
+Faire de l'**abonde**, c'était autant parler d'une chose qui dure et profite que d'un trop-plein qui finit par envahir tout l'espace. Un plat qui nourrit plusieurs jours faisait de l'abonde. Une tablée trop bruyante aussi. Le mot portait cette idée très paysanne qu'il vaut mieux trop que pas assez… même si le “trop” finit parfois par fatiguer un peu.
 
 ## L'exemple
 
 ### Ce qui dure et profite
 
 *Le plat de viande m'a fait de l'abonde, on en a mangé pendant trois jours.*
-> Ce mets de viande, particulièrement roboratif, m'a sustenté avec délectation pendant trois journées entières.
-
-*Les fruits trop mûrs ne font point d'abonde, il faut les manger tout de suite.*
-> Les fruits parvenus à une maturité excessive se corrompent avec une trop grande célérité ; il nous incombe de les consommer promptement.
+> « Ce mets de viande, particulièrement roboratif, m'a sustenté avec délectation pendant trois journées entières.
 
 ### Ce qui déborde et envahit
 
-*Avec tous ces gamins on n'risque pas d's'ennuyer, ils font de l'abonde.*
-> Les enfants sont d'une merveilleuse nature, mais ne seraient-ils pas en nombre un peu trop élevé à proximité immédiate de ma personne ?
-
 *Ha ben avec, t'as pas besoin de faire la conversation, il te fait de l'abonde.*
-> Cette personne est véritablement extraordinaire, mais aurais-je l'opportunité de m'exprimer à un moment donné ?
+> « Cette personne est véritablement extraordinaire, mais aurais-je l'opportunité de m'exprimer à un moment donné ?
 
-## Le souvenir
+## On dit aussi
 
-C'est un mot largement utilisé dans les deux sens, parfois dans la même phrase. Un bon pot-au-feu qui faisait de l'abonde toute la semaine, c'était une fierté. Un voisin trop bavard qui faisait de l'abonde, c'était dit avec le même sourire — mais pas tout à fait le même regard.
-Ce mot m'a longtemps intrigué, cette façon qu'avait le Bourbonnais de recycler les mêmes mots pour dire le trop-plein heureux et le trop-plein agaçant. Comme si l'abondance, au fond, était toujours un peu des deux.
+Ça foisonne, ça pullule, y'en a à revendre.
 
 ## Pour aller plus loin
 

@@ -1,6 +1,5 @@
 # Se culter
 
-## Définition
 
 Verbe pronominal signifiant **s'asseoir**, au sens familier de « poser son derrière ». L'usage est direct, populaire et imagé : *culter*, c'est littéralement **se poser le cul**.
 

@@ -1,7 +1,5 @@
 # Dail ou Daille
 
-## Définition
-
 Terme régional désignant une **faux**, c'est-à-dire l'instrument tranchant à long manche, manié à deux mains, qui sert à couper l'herbe, les céréales ou d'autres végétaux. La **daille** était un outil essentiel des travaux agricoles avant la mécanisation, symbole du labeur des champs et des foins.
 
 ## Exemples

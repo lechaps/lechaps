@@ -1,7 +1,5 @@
 # Client
 
-## Définition
-
 Dans le parler rural et familier, **client** ne désigne pas l'acheteur ou le consommateur au sens moderne, mais plutôt **celui qui vient vous déranger en plein travail**, qu'il s'agisse de demander un conseil, un service ou un coup de main.
 Le mot prend ici une nuance **ironique** : un client n'est pas un « roi », mais une personne qui vient importuner alors qu'on avait autre chose à faire.
 

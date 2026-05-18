@@ -1,7 +1,5 @@
 # Chesseresse
 
-## Définition
-
 Variante régionale et populaire de **sécheresse**. Le terme désigne de manière imagée et humoristique un **homme qui ne souffre pas de sécheresse buccale**, autrement dit quelqu'un qui **boit volontiers et abondamment**, notamment du vin.
 
 ## Exemples

@@ -1,13 +1,18 @@
 # Alléluia
 
-**Un cri de joie, une chanson joyeuse, une forme de célébration bruyante et enthousiaste.** L'alléluia en bourbonnais, c'est le bruit que font les gens contents, celui qui dérange les voisins mais qui remplit les cœurs.
+L'**alléluia**, chez nous, ce n'était pas tellement une histoire de religion. C'était surtout le bruit qu'on fait autour des choses. Les grands gestes, les démonstrations, les joies un peu trop voyantes ; tout ce qui finit par fatiguer avant même d'avoir commencé.
+Quand quelqu'un « faisait son alléluia », ça voulait dire qu'il en rajoutait. Et dans les familles bourbonnaises, où l'on se méfiait des gens trop contents d'eux-mêmes comme des coqs qui chantent avant le lever du jour, ce n'était pas forcément un compliment.
 
 ## L'exemple
 
 *Ils commencent à me plaire avec leur alléluia.*
 
-> Ces individus gagnent graduellement mon estime grâce à leurs démonstrations exubérantes de liesse collective.
+> « Ces personnes compromettent sérieusement l'estime que je pourrais leur porter par l'ostentation presque liturgique de leurs manifestations enthousiastes. »
+
+## On dit aussi
+
+Cinéma, comédie, grand tralala, tout le saint-frusquin, tintouin, ramdam
 
 ## Le souvenir
 
-L'alléluia, c'était les cris des enfants qui jouaient dehors, c'était les chants à l'église le dimanche, c'était aussi le bruit des gens qui dansaient aux fêtes. Il y avait quelque chose d'innocent dans ce mot, une forme de joie qu'on ne cherchait pas à refréner. On disait « entendre leur alléluia » pour parler du bruit de gens heureux — et il y avait de l'affection dans ce jugement, même quand on prétendait se plaindre. L'alléluia, c'était la vie qui s'exprimait bruyamment.
+L'alléluia, c'était les cris des enfants qui jouaient dehors, c'était aussi le bruit des gens qui dansaient aux fêtes. Il y avait quelque chose d'innocent dans ce mot, une forme de joie qu'on ne cherchait pas à refréner. On disait « entendre leur alléluia » pour parler du bruit de gens heureux — et il y avait de l'affection dans ce jugement, même quand on prétendait se plaindre. L'alléluia, c'était la vie qui s'exprimait bruyamment.

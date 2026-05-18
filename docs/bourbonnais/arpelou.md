@@ -1,22 +1,13 @@
 # Arpelou
 
-## Définition
-
-Terme utilisé pour désigner une personne rusée, trompeuse ou envahissante, souvent perçue comme agaçante ou générant du désordre par son agitation ou son comportement bruyant. Dans ce cas, l'emploi de arpelou est empreint de mépris ou d'exaspération.
+Un **arpelou**, c'est l'emmerdeur avec du métier. Pas forcément méchant — les vrais méchants sont souvent beaucoup plus ternes — mais toujours en train de souffler sur les braises pour voir si ça reprend. Il contredit, chipote, provoque, trafique un peu les versions, met le doigt exactement là où ça agace. Dans une réunion de famille, c'est celui qui relance un vieux sujet juste avant le fromage, par sport, par goût du désordre, ou simplement parce qu'il s'ennuierait sinon. Le mot a quelque chose de vif, de grinçant, presque une démarche : on entend déjà la voix qui dit « Ah bon ? T'es sûr de ça, toi ? » alors que tout le monde rêvait seulement de finir la soupe tranquille.
 
 ## Exemple
 
-_Il a levé l'hors-jeu et il ose se justifier, cet'arpelou !_
-> Fichtre, il semble que l'arbitre ait pris la décision de signaler un hors-jeu, une décision qui paraît, à tout le moins, manquer de probité !
+*Il a levé l'hors-jeu et il ose se justifier, cet'arpelou !*
 
-## Équivalent
+> « Fichtre, il semblerait que cet arbitre, après avoir pris une décision hautement contestable, persiste désormais à vouloir en défendre les fondements avec une assurance qui confine à la provocation. »
 
-Manipulateur, perturbateur, trublion.
+## On dit aussi
 
-## Origine
-
-Le mot appartient au registre rural, souvent employé de manière imagée pour qualifier un comportement ou une attitude.
-
-## Lien
-
-Aucune référence externe n'est connue
+Manipulateur, perturbateur, trublion, embrouilleur, cherche-noise

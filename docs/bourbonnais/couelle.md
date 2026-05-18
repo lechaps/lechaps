@@ -1,7 +1,5 @@
 # Couelle
 
-## Définition
-
 1. **Paire de sabots** : Dans le langage rural, une **couelle** désigne une paire de sabots en bois, les chaussures traditionnelles du paysan. Le terme englobe l'idée de la paire entière, et non pas le sabot pris isolément.
 
 2. **Petite pierre à aiguiser la faux** : Par extension, *couelle* désigne également une **petite pierre à aiguiser**, que l'on emporte dans son étui accroché à la ceinture pour redonner du tranchant à la faux en plein travail.

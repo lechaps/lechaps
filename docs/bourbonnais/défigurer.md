@@ -1,7 +1,5 @@
 # Défigurer
 
-## Définition
-
 **Défigurer** signifie **dévisager**, fixer quelqu'un avec insistance, souvent de façon déplacée ou indiscrète. Rien à voir ici avec l'usage courant du français (altérer le visage), mais bien avec l'idée de « scruter le visage » de manière gênante.
 
 ## Exemples

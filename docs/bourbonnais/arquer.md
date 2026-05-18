@@ -1,25 +1,25 @@
 # Arquer
 
-## Définition
-
-1. Sens propre : Désigne l'action de courber en forme d'arc, comme lorsqu'un objet ou une matière est plié pour adopter cette configuration.
-2. Sens figuré : Par extension, se réfère à une perte de souplesse corporelle, souvent liée à l'âge ou à des troubles physiques tels que les rhumatismes, l'arthrose ou les lombalgies, évoquant une posture rigide ou voûtée.
+**Arquer**, dans les campagnes, ça commence souvent par une histoire de dos. Pas le dos héroïque des statues grecques, non… le vrai dos des gens qui ont porté des sacs, ramassé des patates, poussé des brouettes récalcitrantes sous une pluie fine capable de traverser jusqu'aux pensées. Le corps arque comme une vieille branche chargée de neige. Ça se courbe, ça se raidit, ça négocie chaque mouvement avec les lombaires comme un diplomate fatigué au congrès de Vienne.
+Et puis un jour on entend : « J'peux plus arquer. » Ce n'est pas seulement une plainte. C'est presque un bulletin météorologique du corps humain.
 
 ## Exemple
 
-_Ah mon pauv', j'peux plus arquer._
-> Ah mon cher, je ne jouis plus de la même vivacité qu'autrefois.
+*Ah mon pauv', j'peux plus arquer.*
 
-## Équivalent
+> « Hélas mon ami, les années et les diverses avanies mécaniques infligées à ma respectable carcasse ne me permettent plus d'exécuter le moindre mouvement avec l'élasticité triomphante de ma jeunesse. »
 
-Plier, courber, voûter.
+## On dit aussi
 
-## Origine
+Plier, courber, se voûter, se casser en deux
 
-Le terme trouve ses racines dans la forme de l'arc, un symbole universel de courbure. Son emploi figuré pour désigner la rigidité corporelle illustre une extension naturelle de l'image du corps qui ploie sous l'effet du temps ou de la douleur.
+## Souvenir
 
-## Lien
+Je revois mon grand-père se relever du jardin en posant les deux mains sur ses cuisses, lentement, comme un vieux portail qu'on ouvre après l'hiver. Il a soufflé : « Ah mon pauvre… j'peux plus arquer»
+Et il est resté quelques secondes immobile à regarder les haricots pousser, avec cet air étrange des hommes qui constatent que leur corps vieillit sans demander l'autorisation.
 
-* [Définition de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9A2578){ target="_blank" }
-* [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/arquer){ target="_blank" }
+## Pour aller plus loin
+
+* [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9A2578){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/arquer){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/academie8/arquer){ target="_blank" }

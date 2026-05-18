@@ -1,7 +1,5 @@
 # Tenir que du branle
 
-## Définition
-
 Expression utilisée pour décrire quelque chose qui repose sur un équilibre très précaire ou une situation instable, prête à céder ou s'effondrer au moindre mouvement. Elle traduit l'impression d'instabilité d'un objet au sens propre.
 
 ## Exemple

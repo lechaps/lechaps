@@ -1,7 +1,5 @@
 # Corgnole, corniaule, corniole, courgnole, courgnaule, courniole
 
-## Définition
-
 Terme populaire et imagé désignant la **gorge** ou le **gosier**, souvent utilisé pour évoquer la sensation de boire (ou parfois de crier) avec intensité. La corniaule, c'est ce par quoi **le vin descend** et **les jurons sortent** : un mot plein de chaleur humaine, au parfum de taverne ou de table paysanne.
 
 ## Exemple

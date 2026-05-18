@@ -1,23 +1,18 @@
 # Arpion
 
-## Définition
-
-Terme d'argot utilisé pour désigner les pieds, et par métonymie, les orteils. Ce mot appartient au langage familier et populaire, souvent employé de manière humoristique ou dans des contextes informels.
+Les **arpions**, ce sont les pieds quand ils cessent d'être une noble invention anatomique pour redevenir ce qu'ils ont toujours été au fond : deux vieux outils fatigués au bout des jambes. Des trucs qui traînent dans les sabots, gonflent dans les chaussures du dimanche, sentent parfois la tomme oubliée derrière le buffet et portent malgré tout les hommes jusqu'au bistrot, au champ, à la messe ou chez la belle-sœur — ce qui demande déjà un certain courage physique. Le mot a quelque chose de goguenard, de populaire, presque affectueux. On ne parle pas d'arpions chez les duchesses ; ça appartient aux cuisines chaudes, aux vestiaires de foot, aux anciens qui retirent leurs godasses en soufflant comme des locomotives en fin de ligne.
 
 ## Exemple
 
-_J'm'en va m'tailler les arpions._
-> Je vous prie de bien vouloir m'excuser, mais il m'est nécessaire de m'absenter afin de procéder à la coupe de mes ongles de pieds.
+*J'm'en va m'tailler les arpions.*
 
-## Équivalent
+> « Je vous prie de bien vouloir m'excuser, mais certaines nécessités podologiques m'obligent présentement à procéder à l'entretien minutieux de mes extrémités inférieures. »
 
-Pieds, orteils.
+## On dit aussi
 
-## Origine
+Panos, pinceaux, gambettes du bas — quoique là on commence déjà à fréquenter des gens douteux
 
-Le mot arpion provient de l'argot et illustre une désignation imagée et décontractée des pieds ou des orteils. Il est couramment utilisé dans des expressions colorées, traduisant une certaine familiarité avec le corps ou les situations du quotidien.
+## Pour aller plus loin
 
-## Lien
-
-* [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/arpion){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/arpion){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/lexicographie/arpion){ target="_blank" }

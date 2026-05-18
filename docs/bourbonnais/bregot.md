@@ -1,27 +1,21 @@
 # Bregot ou bergot
 
-## Définition
+Le **bergot**, dans les campagnes bourbonnaises, c'était d'abord le frelon : cette espèce de torpille vivante qui déboule en bourdonnant comme un moteur mal réglé et qui suffit à vider une terrasse plus vite qu'une alerte aérienne. Un insecte impressionnant, brutal, avec ce vol lourd et nerveux qui donne immédiatement envie de reconsidérer ses activités extérieures. Les anciens le respectaient autant qu'ils le détestaient. Parce qu'un bergot dans une grange, c'était rarement une bonne nouvelle, surtout près des ruches.
 
-1. Frelon : Terme désignant un frelon, cet insecte de grande taille connu pour son vol bruyant et son dard potentiellement dangereux. Le mot bregot ou bergot est utilisé dans un contexte rural pour signaler la présence de cet insecte, souvent craint pour ses piqûres douloureuses et sa menace pour les ruches.
-
-2. Apiculteur amateur : Par extension, désigne une personne s'occupant de récupérer les essaims d'abeilles et de récolter le miel, à la manière d'un apiculteur. Cette acception régionale renvoie aux pratiques traditionnelles où certaines personnes, sans être apiculteurs de métier, étaient reconnues pour leur savoir-faire dans la manipulation des abeilles et l'extraction du miel.
+Et puis par un de ces glissements merveilleux dont le parler populaire a le secret, le mot a aussi fini par désigner le type qui venait récupérer les essaims. Le vieux connaisseur des abeilles, pas forcément apiculteur officiel avec diplôme et brochure pédagogique, non. Plutôt un homme patient, un peu mystérieux, qui arrivait avec un enfumoir bricolé, un chapeau improbable et cette tranquillité fascinante des gens capables de mettre les mains là où les autres hurlent et courent en moulinant des bras.
 
 ## Exemple
 
-1. _Fi d'putain, c'te saloperie de bergot._
-   > Cornegidouille, mettez-vous tous à l'abri, un frelon approche.
-2. _Va voir le vieux bregot, il saura quoi faire avec cet essaim dans la grange._
-   > Va demander conseil au récupérateur d'essaims, il saura gérer cette colonie d'abeilles installée dans la grange.
+1. *Fi d'putain, c'te saloperie de bergot.*
+   > « Je vous recommande vivement de sécuriser cette ouverture avant que cet impressionnant hyménoptère ne transforme notre repas en scène de panique collective. »
+2. *Va voir le vieux bregot, il saura quoi faire avec cet essaim dans la grange.*
+   > « Il me semblerait judicieux de solliciter l'intervention de cet estimable spécialiste des abeilles avant que notre improvisation ne provoque une catastrophe agricole d'ampleur regrettable. »
 
 ## Équivalent
 
 1. Frelon.
 2. Apiculteur.
 
-## Origine
+## Pour aller plus loin
 
-Le frelon est un insecte redouté pour sa piqûre et son impact sur les ruches. Il est possible que l'association avec l'apiculture provienne du fait que certaines personnes spécialisées dans la gestion des abeilles devaient aussi traiter la présence des frelons, prédateurs des ruches. Ainsi, le terme désigne à la fois un insecte nuisible et celui qui s'en occupait, contribuant à la protection des colonies d'abeilles.
-
-## Lien
-
-Aucune référence externe n'est connue
+* [Définition angevine de « bergot » – Wiki-Anjou](https://www.wiki-anjou.fr/index.php/Bergot){ target="_blank" }

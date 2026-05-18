@@ -1,7 +1,5 @@
 # Dagougneau
 
-## Définition
-
 Terme populaire et régional désignant un **simplet**, une personne un peu naïve, maladroite ou manquant d'esprit. Employé souvent sur un ton mêlant **moquerie et pitié**, parfois presque affectueux, pour souligner la faiblesse d'esprit ou la gaucherie d'un individu.
 
 ## Exemples

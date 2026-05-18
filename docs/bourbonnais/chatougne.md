@@ -1,7 +1,5 @@
 # Chatouille
 
-## Définition  
-
 Terme utilisée exclusivement dans l'expression **"Ne pas y voir plus clair qu'une chatouille"**, qui signifie **ne rien voir du tout**, être totalement aveuglé ou plongé dans l'obscurité.  
 
 L'image vient probablement du fait que la **chatouille**, une larve de lamproie vivant dans les fonds obscurs des rivières, est perçue comme un être presque aveugle. Cette analogie a donné naissance à une comparaison populaire pour exprimer un manque total de visibilité.  

@@ -1,29 +1,19 @@
 # Bousiller
 
-## Définition  
+**Bousiller**, c'est casser quelque chose avec cette combinaison très humaine de bonne volonté, d'impatience et d'incompétence approximative qui accompagne tant de grandes catastrophes domestiques. On ne bousille pas avec élégance. Ça part toujours d'une phrase dangereuse comme : « Attends, j'vais t'arranger ça » ou « C'est pas compliqué, laisse-moi faire. » Puis cinq minutes plus tard, il y a une pièce en trop sur la table, une odeur de chaud inquiétante et quelqu'un qui regarde le plafond en sifflotant pour éviter les responsabilités.
 
-1. **Abîmer, casser, détériorer** : Utilisé pour décrire une action qui endommage ou détruit un objet, souvent de manière irréversible ou maladroite.  
-2. **Rater, gâcher** : Par extension, peut aussi désigner un travail mal fait, une occasion manquée ou une action qui tourne mal.  
+Mais on peut aussi bousiller une journée, une récolte, un repas, une histoire d'amour ou un dimanche entier avec une seule réflexion mal placée. Le mot possède cette ampleur magnifique des termes populaires : il parle autant des objets cassés que des situations fichues. Et dans les campagnes, où les choses devaient durer longtemps faute d'argent pour les remplacer, bousiller quelque chose relevait presque du drame familial. Une chaise cassée, ça se réparait. Une machine bousillée pendant les foins, ça devenait immédiatement une affaire d'État.
 
-Le terme **bousiller** est employé dans un registre familier, souvent avec une pointe d'exaspération ou de reproche.  
+## Exemple
 
-## Exemple  
+*Touche à rien surtout, la dernière fois que t'as voulu aider, t'as bousillé la tondeuse et la moitié du rosier.*
+> « Je vous serais reconnaissant de limiter vos initiatives techniques, vos précédentes interventions ayant entraîné des conséquences mécaniques et botaniques particulièrement regrettables. »
 
-_Touche pas à mon téléphone, tu vas encore le bousiller !_
-> Ne manipulez pas mon téléphone, je vous prie, vous risquez une fois de plus de l'endommager.
+## On dit aussi
 
-_ Il a voulu réparer la clôture, mais il a tout bousillé.
-> Il a tenté de restaurer la clôture, mais son intervention l'a irrémédiablement détériorée.
+Casser, flinguer, massacrer, ruiner, foutre en l'air
 
-## Équivalent  
-
-Détruire, ruiner, casser, gâcher, flinguer.  
-
-## Origine  
-
-Le verbe **bousiller** souvent employé dans des situations où une action, volontaire ou non, provoque un dommage. Son ton familier et expressif en fait un terme courant pour souligner une erreur ou un acte irréfléchi ayant des conséquences fâcheuses.  
-
-## Lien  
+## Pour aller plus loin
 
 * [Définition de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9B1881){ target="_blank" }
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/bousiller){ target="_blank" }

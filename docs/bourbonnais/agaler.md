@@ -1,29 +1,30 @@
 # Agaler
 
-**Agaler**, c'est aplatir, niveler — rendre une surface plane et uniforme.
-Mais le mot a glissé, comme souvent en patois, vers les corps et les âmes : *agalé* au participe passé, c'est quelqu'un que le temps a aplati lui aussi, usé, affaibli, tassé par les années. Le même mot pour le sol et pour l'homme. Il y a quelque chose de beau et de cruel là-dedans.
+**Agaler**, c'est rendre plat, égaliser une terre, écraser une bosse du revers de la pelle ou du sabot. Mais chez nous, le mot allait plus loin. On disait aussi d'un homme qu'il était *agalé* quand les années l'avaient tassé doucement, comme si le temps lui-même avait fini par lui passer dessus. Le même mot pour la terre et pour les épaules des anciens. Quelque chose de rude, mais jamais cruel.
 
-## L'exemple
+## Exemple
 
-### Ce qu'on aplatit
+*Il faudrait agaler un peu, on va encore s'prendre les pieds dans c'te bosse.*
 
-*Agale moi s'te bosse.*
-> Je sollicite de ta part quelques légers tapotements sur l'excroissance qui altère la planéité du sol.
+> « Il conviendrait d'entreprendre sans tarder une opération méticuleuse de rééquilibrage topographique afin d'éviter qu'un passant distrait ne chute lamentablement. »
 
-### Ce que le temps aplatit
+*Ouh, je l'ai vu l'aut' jour… il est ben agalé maintenant.*
 
-*Ouh, je l'ai vu l'aut' jour et je l'ai trouvé sacrément agalé.*
-> Oh, le pauvre homme, que j'ai croisé récemment ; le passage du temps commence visiblement à imprimer sa marque sur sa personne.
+> « Hélas, le malheureux gentleman que j'ai récemment croisé semble désormais porter sur sa silhouette les effets irrévocables et quelque peu accablants du passage des décennies. »
 
-Et pour ceux qui se plaindraient trop de leur sort, la réponse bourbonnaise était toute prête :
+## On dit aussi
 
-*Jésus Christ a souffert, mais nous aussi on en a enduré.*
+Aplani, tassé, remis d'équerre, ramené à sa place
 
-## Le souvenir
+## Souvenir
 
-Agalé — c'est le mot qu'on utilisait sans méchanceté pour parler des vieux qui avaient rétrécit. Pas malade, pas mort, juste... aplati par le temps. Il y avait une tendresse dedans, et une lucidité un peu rude sur ce qui attend tout le monde.  
-La phrase sur Jésus Christ, je l'ai entendue de la bouche de mon facétieux grand-père. C'était sa façon de clore les gémissements des autres — dite avec un sourire en coin, sans appel. Une sagesse qui n'avait pas besoin d'en dire plus.
+Je revois mon grand-père avec sa marre au bout du jardin, un chapeau mangé par les années et les épaules déjà un peu rentrées dans le paysage. Il passait le dos de l'outil sur la terre fraîchement retournée en disant : « Faut agaler tout ça. » Et il faisait ça doucement, presque tendrement, comme s'il coiffait quelqu'un avant une photo de communion. Plus tard, j'ai compris qu'il parlait pareil des hommes. Ceux que la vie avait un peu trop fait gonfler. Ceux qu'un deuil, une faillite ou une femme partie avec le gars des pompes funèbres.  
+Et puis il y avait mon autre grand-père, toujours prêt à couper court aux plaintes des autres avec sa phrase à lui :
+*« Jésus Christ a souffert… nous aussi on en a enduré. »*
+Il disait ça avec un petit sourire en coin, comme une vérité qu'on ne discute pas. Après ça, plus personne n'osait trop se lamenter.
 
 ## Pour aller plus loin
 
-- [Académie Française — égaler](https://www.dictionnaire-academie.fr/article/A9E0532){ target="_blank" }
+* [Définition de l'Académie française — égaler](https://www.dictionnaire-academie.fr/article/A9E0532){ target="_blank" }
+* [Définition du CNRTL — égaler](https://www.cnrtl.fr/definition/%C3%A9galer){ target="_blank" }
+* [Définition du Wiktionnaire — égaler](https://fr.wiktionary.org/wiki/%C3%A9galer){ target="_blank" }

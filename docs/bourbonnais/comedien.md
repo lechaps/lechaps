@@ -1,7 +1,5 @@
 # Comédien, Comédienne
 
-## Définition
-
 1. Personne dont la sincérité est douteuse, qui feint les sentiments ou se donne en spectacle pour attirer l'attention. Qu'il ou elle cherche à manipuler ou simplement à briller en société, le comédien ne peut s'empêcher de surjouer les émotions ou les situations, quitte à perdre en naturel ce qu'il gagne en effet de scène.
 
 2. Personne **marginale ou nomade**, vivant **hors des cadres classiques**, parfois assimilée au **bohémien**, au **baladin** ou au **saltimbanque**, avec une vie instable faite de déplacements, de petits boulots ou de débrouillardise.

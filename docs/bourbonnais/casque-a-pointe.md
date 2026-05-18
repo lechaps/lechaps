@@ -1,32 +1,23 @@
 # Casque à pointe
 
-## Définition
+Le **casque à pointe**, c'était le surnom qu'on donnait autrefois aux Allemands, surtout en parlant des soldats prussiens des deux guerres. Le mot traînait dans les récits d'anciens, les plaisanteries de comptoir et les souvenirs de famille, avec un mélange de méfiance, de moquerie et de vieille mémoire patriotique. À force, le casque avait fini par désigner l'homme dessous — ce qui est tout de même une curieuse habitude humaine.
 
-Expression populaire désignant un **Allemand**, en particulier un **Prussien**, par allusion au casque militaire orné d'une pointe (le *Pickelhaube*) porté par les soldats allemands au XIXᵉ siècle et durant la Première Guerre mondiale.
+## Exemple
 
-Dans l'imaginaire collectif, l'image du *casque à pointe* est restée un symbole du soldat allemand conquérant, souvent évoqué avec **méfiance**, **hostilité** ou **moquerie** dans le langage familier.
+*Ah je t'en pris, j'vais pas m'faire emmerder par les casques à pointe !*
 
-## Exemples
+> « Je vous prie de croire que mon existence possède déjà suffisamment de contrariétés administratives, domestiques et intestinales pour que je refuse d'y ajouter les interventions intempestives de militaires germaniques coiffés comme des paratonnerres d'opérette. »
 
-_Ah je t'en pris, j'vais pas m'faire emmerder par les casques à pointe !_
-> Je vous en conjure, je n'ai nullement l'intention de me laisser importuner par les Allemands.
+## On dit aussi
 
-## Équivalents
+Allemand, Prussien, Boche, Fritz, Teuton
 
-* Allemand, Prussien.
-* **Sobriquets populaires** :
-  * **Boche** : très répandu en France à partir de la guerre de 1870, puis popularisé durant la Première Guerre mondiale.
-  * **Fritz** : surnom familier dérivé d'un prénom allemand courant, utilisé par les soldats français pour désigner leurs adversaires.
-  * **Teuton** : plus ancien, d'usage érudit et moqueur, employé par extension pour désigner les Allemands.
+## Souvenir
 
-## Origine
+Mon grand-père ne pouvait pas voir les Allemands en peinture. Il les appelait toujours « les casques à pointe », même trente ans après la guerre, même devant la télévision, même devant un match de foot, même pour parler d'un touriste arrêté au bord de la route avec une carte Michelin grande comme une nappe de communion. Faut dire qu'il avait combattu les Allemands pour de vrai, lui. Pas dans les livres. Pas dans les défilés. Pas dans les cérémonies. Simplement avec des souvenirs qu'on a jamais racontés.
 
-L'expression vient du **Pickelhaube**, casque de cuir surmonté d'une pointe métallique, adopté par l'armée prussienne en 1842 puis porté par la majorité des troupes allemandes jusqu'à la Première Guerre mondiale.
-Pour les populations françaises, en particulier dans les régions rurales, cette silhouette caractéristique est devenue une **métonymie** : le casque désignant directement l'ennemi.
+## Pour aller plus loin
 
-Au fil du temps, ce terme a rejoint une série de sobriquets et appellations populaires visant les Allemands, souvent teintés d'hostilité ou d'ironie, en particulier durant les conflits franco-allemands.
-
-## Lien
-
-* [Wiktionnaire – casque à pointe](https://fr.wiktionary.org/wiki/casque_%C3%A0_pointe){ target="\_blank" }
-* [CNRTL – boche](https://www.cnrtl.fr/definition/boche){ target="\_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/casque_%C3%A0_pointe){ target="_blank" }
+* [Définition du CNRTL – boche](https://www.cnrtl.fr/definition/boche){ target="_blank" }
+* [Article Wikipédia – Pickelhaube](https://fr.wikipedia.org/wiki/Pickelhaube){ target="_blank" }

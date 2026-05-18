@@ -1,7 +1,5 @@
 # Coche
 
-## Définition
-
 1. **Animal (sens rural)** : Terme désignant la **truie**, femelle du cochon, et par extension, **le cochon en général**, sans distinction de sexe. Cet usage est courant dans les milieux agricoles, notamment dans les régions rurales où l'on parle de *la coche et ses gorets*.
 
 2. **(Figuré, populaire et péjoratif)** : Employé dans un registre **familier ou moqueur**, *coche* sert à qualifier une **femme perçue comme grosse, négligée, désagréable ou vulgaire**, avec une connotation méprisante issue de l'association à l'animal.

@@ -1,25 +1,19 @@
 # Carne
 
-## Définition  
+Une **carne**, c'est quelqu'un qui semble avoir été élevé au vinaigre et aux contrariétés. Une personne dure, pénible, toujours prête à grincer des dents avant même d'avoir ouvert la bouche. Ça critique, ça soupire, ça trouve le moyen de se fâcher contre la météo, les voisins, les enfants et probablement le Bon Dieu lui-même s'il pleut un dimanche. Dans les campagnes bourbonnaises, le mot servait souvent pour désigner ces vieux caractères impossibles qui transformaient la moindre conversation en exercice de survie morale. Mais attention : derrière l'insulte, il y avait parfois une étrange forme d'admiration. Parce qu'une vraie carne, ça traversait la vie sans plier devant personne. Épouvantable, certes. Mais solide.
 
-Désigne une **personne dure, de mauvais caractère, difficile à vivre**. Le terme est souvent utilisé pour qualifier quelqu'un de particulièrement désagréable, sournois ou détestable, qu'il s'agisse d'un comportement constant ou ponctuel. L'usage peut être teinté de mépris, d'agacement ou d'une forme d'ironie mordante.  
+Le mot sent d'ailleurs encore un peu l'animal fatigué, la vieille viande coriace qu'il faut laisser cuire trois jours pour espérer en tirer quelque chose de mangeable. Une image rude, mais les campagnes n'ont jamais pratiqué la dentelle lexicale.
 
 ## Exemple  
 
-_J'suis pas prêt de lui causer, c'te vieille carne !_
-> Je suis loin d'être disposé à lui adresser la parole, à cette acariâtre mégère !
+*_*J'suis pas prêt de lui causer, c'te vieille carne !*
+> « Je suis loin d'être disposé à lui adresser la parole, à cette acariâtre mégère ! »
 
-## Équivalent
+## On dit aussi
 
-Teigne, peau de vache, vipère, peste, emmerdeur.  
+Peau de vache, teigne, peste, vipère, emmerdeur
 
-## Origine
-
-Le mot **carne** trouve son origine dans l'ancien français *caro* (chair) et désignait à l'origine une **viande de mauvaise qualité** ou un **animal usé et maigre**. Cette connotation négative a évolué pour s'appliquer aux personnes, notamment celles jugées dures, méchantes ou insupportables.  
-
-Sa présence dans la littérature, notamment chez Céline (*Voyage au bout de la nuit*, 1932) et Genevoix (*Raboliot*, 1925), atteste de son ancrage dans le langage familier, où il sert à exprimer une exaspération face à des individus au comportement détestable.  
-
-## Lien
+## Pour aller plus loin
 
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/carne){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/carne){ target="_blank" }

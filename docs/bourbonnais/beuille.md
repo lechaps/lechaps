@@ -1,29 +1,16 @@
 # Beuille
 
-## Définition
-
-Terme désignant la **bedaine**, le **bide**, ou plus largement un ventre proéminent, souvent arrondi par l'embonpoint ou les bons repas. Il sert autant à décrire une silhouette qu'à taquiner affectueusement quelqu'un sur son tour de taille.
+La **beuille**, c'est le ventre qui arrive dans une pièce une demi-seconde avant le bonhomme. Pas forcément énorme, non. Mais installé. Confortable. Un ventre de gens qui ont vécu, mangé, trinqué, recommencé. Dans les campagnes bourbonnaises, la beuille racontait souvent davantage la vie d'un homme que ses discours : les repas du dimanche, les casse-croûtes au saucisson, les litres de rouge bus debout dans les granges froides et les desserts « juste pour goûter ». On s'en moquait beaucoup, d'ailleurs. Affectueusement, bien sûr — enfin… la plupart du temps. Parce qu'ici, quand quelqu'un prenait de la beuille, ça devenait immédiatement une affaire publique, commentée avec la délicatesse d'un troupeau de sangliers dans un potager.
 
 ## Exemple
 
-_Oh dis donc, t'as pris d'la beuille depuis la dernière fois !_
-> Ma foi, il me semble que vous avez gagné quelque embonpoint depuis notre dernière rencontre.
+*Oh dis donc, t'as pris d'la beuille depuis la dernière fois !*
+> « Mon cher ami, votre remarquable développement abdominal semble désormais réclamer une organisation logistique indépendante depuis notre dernière rencontre. »
 
-_Fais gaffe à pas te coincer la beuille dans la barrière._
-> Attention à ne pas coincer ton ventre dans la barrière.
+## On dit aussi
 
-## Équivalents
+Bedaine, bide, ventre, cabine, brioche
 
-Bedaine, bide, ventre.
-
-## Origine
-
-_Beuille_ relève d'une formation expressive, imitant la rondeur ou la mollesse de ce qu'elle décrit.
-Un terme plus moderne tend aujourd'hui à remplacer _beuille_ : **cabine**, en référence humoristique à la cabine du tracteur, évoquant un habitacle large et proéminent :
-
-_Pose ta cabine !_
-> Je vous encourage vivement à vous délester de cet embonpoint !
-
-## Lien
+## Pour aller plus loin
 
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/beuille){ target="_blank" }
