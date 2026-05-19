@@ -1,6 +1,6 @@
 # Agaler
 
-**Agaler**, c'est rendre plat, égaliser une terre, écraser une bosse du revers de la pelle ou du sabot. Mais chez nous, le mot allait plus loin. On disait aussi d'un homme qu'il était *agalé* quand les années l'avaient tassé doucement, comme si le temps lui-même avait fini par lui passer dessus. Le même mot pour la terre et pour les épaules des anciens. Quelque chose de rude, mais jamais cruel.
+**Agaler**, c'est rendre plat, égaliser une terre, écraser une bosse du revers de la pelle ou du sabot. Le mot allait plus loin. On dit aussi d'un homme qu'il est *agalé* quand les années l'ont tassé doucement, comme si le temps lui-même a fini par lui passer dessus. Le même mot pour la terre et pour les épaules des anciens. Quelque chose de rude, mais jamais cruel.
 
 ## Exemple
 

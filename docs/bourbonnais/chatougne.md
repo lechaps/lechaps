@@ -1,25 +1,18 @@
 # Chatouille
 
-Terme utilisée exclusivement dans l'expression **"Ne pas y voir plus clair qu'une chatouille"**, qui signifie **ne rien voir du tout**, être totalement aveuglé ou plongé dans l'obscurité.  
+La **chatouille**, c’est surtout ce qu’on invoque quand on n’y voit strictement rien. *« J’y vois pas plus clair qu’une chatouille »*, voilà le vrai territoire du mot : la cuisine mal éclairée à six heures du matin, la cave humide, le chemin de terre après la pluie, ou les lunettes qu’on cherche alors qu’on les a sur le nez depuis vingt minutes — ce qui, avec l’âge, devient un sport régional plus pratiqué que la pétanque. L’expression possède quelque chose de merveilleusement inutile et précis à la fois : personne ne sait vraiment à quoi ressemble cette pauvre bête, mais tout le monde comprend immédiatement le degré de brouillard dans lequel vous naviguez. Et puis le mot lui-même… **chatouille**… on dirait un petit animal fabriqué avec de la vase, du silence et un vieux juron de pêcheur.
 
-L'image vient probablement du fait que la **chatouille**, une larve de lamproie vivant dans les fonds obscurs des rivières, est perçue comme un être presque aveugle. Cette analogie a donné naissance à une comparaison populaire pour exprimer un manque total de visibilité.  
+## Exemple
 
-## Exemple  
+*J’y vois pas plus clair qu’une chatouille, passe-moi donc la lampe.*
 
-_J'y vois pas plus clair qu'une chatouille, faudrait p't'être allumer la lumière !_
-> Ma vision est extrêmement limitée ; auriez-vous l'amabilité d'allumer la lampe ?
+> « Mon acuité visuelle étant désormais comparable à celle d’un organisme aquatique égaré dans les profondeurs limoneuses, je sollicite humblement un apport lumineux susceptible de sauver ma dignité. »
 
-## Équivalent
+## On dit aussi
 
-Ne rien voir, être aveugle comme une taupe, voir comme une taupe, ne pas distinguer grand-chose.  
+Voir comme une taupe, n’y voir goutte, être miro, ne rien distinguer
 
-## Origine
-
-L'expression **"ne pas y voir plus clair qu'une chatouille"** est ancrée dans le langage régional et repose sur une métaphore liée aux animaux aquatiques vivant dans des environnements sombres. La **chatouille**, larve de lamproie, évolue dans la vase et l'eau trouble des rivières, ce qui en fait un symbole d'aveuglement dans l'imaginaire populaire.  
-
-Si l'usage original du mot **chatouille** a disparu dans le domaine de la pêche, l'expression est restée, notamment en milieu rural, pour exprimer une vision extrêmement réduite.  
-
-## Lien  
+## Pour aller plus loin
 
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/chatouille){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/chatouille){ target="_blank" }

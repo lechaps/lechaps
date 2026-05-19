@@ -1,6 +1,6 @@
 # Abonde
 
-Faire de l'**abonde**, c'était autant parler d'une chose qui dure et profite que d'un trop-plein qui finit par envahir tout l'espace. Un plat qui nourrit plusieurs jours faisait de l'abonde. Une tablée trop bruyante aussi. Le mot portait cette idée très paysanne qu'il vaut mieux trop que pas assez… même si le “trop” finit parfois par fatiguer un peu.
+Faire de l'**abonde**, c'est autant parler d'une chose qui dure et profite que d'un trop-plein qui finit par envahir tout l'espace. Un plat qui nourrit plusieurs jours fait de l'abonde. Une tablée trop bruyante aussi. Le mot porte cette idée très paysanne qu'il vaut mieux trop que pas assez… même si le “trop” finit parfois par fatiguer un peu.
 
 ## L'exemple
 

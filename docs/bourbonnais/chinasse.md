@@ -1,22 +1,13 @@
 # Chinasse
 
-Désigne une **chienne**, c'est-à-dire une femelle de l'espèce canine. Ce terme appartient au langage populaire et rural, souvent utilisé de manière familière pour parler d'un chien femelle, sans connotation péjorative.  
+La **chinasse**, c'est la chienne des cours de ferme et des maisons où la porte reste rarement fermée longtemps. Une bête vive, fidèle, souvent plus au courant des affaires du village que le maire lui-même. Le mot a cette rugosité affectueuse : on l'appelle fort, on la gronde beaucoup, mais on lui garde toujours un bout de soupe ou un os sous la table. Dans certains foyers, la chinasse fait presque partie du mobilier familial — entre l'horloge, le buffet et l'oncle qui dort après le marc.
 
-## Exemple  
+## Exemple
 
-_La chinasse est partie courir après les poules encore une fois !_
-> La chienne s'est une fois de plus lancée à la poursuite des volailles !
+*La chinasse est encore partie après les poules, nom de Dieu.*
 
-## Équivalent
+> « Cette créature canine, manifestement gouvernée par un instinct de poursuite irrépressible, a de nouveau semé la panique parmi les volailles domestiques. »
 
-Chienne, femelle de chien.  
+## On dit aussi
 
-## Origine
-
-Le mot **chinasse** semble être une variante populaire et phonétique de **chienne**, formée sur le modèle de nombreux mots régionaux en _-asse_ pour insister sur une caractéristique (comme…). Ce type de formation est fréquent dans les dialectes ruraux et témoigne d'une adaptation locale du français parlé.  
-
-Il est couramment employé dans les campagnes pour désigner une chienne de travail ou de garde, soulignant l'importance des chiens dans la vie quotidienne des foyers ruraux.  
-
-## Lien
-
-Aucune référence externe n'est connue.
+Chienne, cabote, cabot, chien de ferme

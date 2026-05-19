@@ -1,8 +1,8 @@
 # Carbazeu
 
-Le **carbazeu**, c'est le gars un peu rustaud, un peu sauvage, souvent décrit avec cette poésie vacharde des campagnes qui consistait à résumer un homme entier par deux détails physiques et une réputation douteuse. Le mot traîne derrière lui une odeur de bistrot, de plaisanterie grasse et de fin de repas où les anciens commencent à raconter n'importe quoi avec un sérieux admirable. Dans certains coins du Bourbonnais, traiter quelqu'un de carbazeu revenait à le ranger dans la catégorie des types épais, velus, pas très raffinés mais solides comme des souches. Une sorte de bonhomme brut de décoffrage, fabriqué directement avec de la terre, du vin rouge et des opinions définitives.
+Le **carbazeu**, c'est le gars un peu rustaud, un peu sauvage, décrit avec cette poésie vacharde des campagnes qui consiste à résumer un homme entier par deux détails physiques et une réputation douteuse. Le mot traîne derrière lui une odeur de bistrot, de plaisanterie grasse et de fin de repas où les anciens commencent à raconter n'importe quoi avec un sérieux admirable. Traiter quelqu'un de carbazeu revient à le ranger dans la catégorie des types épais, velus, pas très raffinés mais solides comme des souches. Une sorte de bonhomme brut de décoffrage, fabriqué directement avec de la terre, du vin rouge et des opinions définitives.
 
-Et puis il faut reconnaître que les campagnes ont toujours eu une tendresse particulière pour les surnoms absurdes. Plus c'était ridicule, plus ça restait.
+Et puis il faut reconnaître que les campagnes ont toujours eu une tendresse particulière pour les surnoms absurdes. Plus c'est ridicule, plus ça reste.
 
 ## Exemple
 

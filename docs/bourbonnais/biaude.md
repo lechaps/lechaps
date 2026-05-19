@@ -1,6 +1,6 @@
 # Biaude
 
-La **biaude**, c'était la seconde peau des hommes de ferme. Une blouse de travail large, solide, souvent bleue, grise ou couleur de poussière ancienne, qui sentait le foin, la sueur froide et parfois le gasoil isse renversé sans faire exprès — enfin… « sans faire exprès », disons qu'à force, ça finissait par faire partie du tissu. On enfilait la biaude avant d'aller aux champs comme d'autres mettent un uniforme avant la bataille. Et d'une certaine manière, c'en était une. La guerre contre la pluie, les bêtes, les outils récalcitrants, les saisons qui n'en faisaient jamais qu'à leur tête. Une biaude propre, d'ailleurs, inquiétait presque. Ça donnait l'impression d'un homme qui n'avait rien fait de sa journée, ce qui dans certaines campagnes valait accusation grave.
+La **biaude**, c'est la seconde peau des hommes de ferme. Une blouse de travail large, solide, souvent bleue, grise ou couleur de poussière ancienne, qui sent le foin, la sueur froide et parfois le gasoil isse renversé sans faire exprès — enfin… « sans faire exprès », disons qu'à force, ça finit par faire partie du tissu. On enfile la biaude avant d'aller aux champs comme d'autres mettent un uniforme avant la bataille. Et d'une certaine manière, c'en est une. La guerre contre la pluie, les bêtes, les outils récalcitrants, les saisons qui n'en finissent jamais qu'à leur tête. Une biaude propre, d'ailleurs, inquiète presque. Ça donne l'impression d'un homme qui n'a rien fait de sa journée, ce qui dans certaines campagnes vaut accusation grave.
 
 ## Exemple
 

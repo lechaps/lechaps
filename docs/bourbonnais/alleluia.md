@@ -1,7 +1,7 @@
 # Alléluia
 
-L'**alléluia**, chez nous, ce n'était pas tellement une histoire de religion. C'était surtout le bruit qu'on fait autour des choses. Les grands gestes, les démonstrations, les joies un peu trop voyantes ; tout ce qui finit par fatiguer avant même d'avoir commencé.
-Quand quelqu'un « faisait son alléluia », ça voulait dire qu'il en rajoutait. Et dans les familles bourbonnaises, où l'on se méfiait des gens trop contents d'eux-mêmes comme des coqs qui chantent avant le lever du jour, ce n'était pas forcément un compliment.
+L'**alléluia**, ce n'est pas tellement une histoire de religion. C'est surtout le bruit qu'on fait autour des choses. Les grands gestes, les démonstrations, les joies un peu trop voyantes ; tout ce qui finit par fatiguer avant même d'avoir commencé.
+Quand quelqu'un « fait son alléluia », ça veux dire qu'il en rajoute. Et dans les familles bourbonnaises, où l'on se méfie des gens trop contents d'eux-mêmes comme des coqs qui chantent avant le lever du jour, ce n'est pas forcément un compliment.
 
 ## L'exemple
 

@@ -1,26 +1,17 @@
 # Chièbe - chiève
 
-1. **Chèvre** : Dans son sens premier, *chièbe* est une variante dialectale pour désigner une **chèvre**, l'animal domestique bien connu des campagnes.
+La **chièbe**, c'est d'abord la chèvre des vieux parlers : nerveuse, cabocharde, capable de grimper sur un mur avec l'assurance d'un préfet inaugurant une salle des fêtes. Mais le mot a fini par désigner aussi ce chevalet de bois en croix sur lequel on pose les bûches avant de les scier. Et au fond, ça se comprend : dans les deux cas, ça tient sur quatre pattes, ça encombre la cour, et si c'est mal fichu, ça vous met vite dans l'embarras. Le génie paysan, lui, ne va pas chercher midi à quatorze heures : quand un outil ressemble vaguement à une bête, il lui donne le nom de la bête. Voilà. Affaire réglée.
 
-2. **Outil en bois** : Par extension, *chièbe* désigne également un **chevalet en bois en forme de X**, utilisé pour maintenir le bois lors de la coupe. Cet emploi est lié à l'analogie entre l'animal et l'outil, tous deux servant d'appui.
+## Exemple
 
-## Exemples
+*La chièbe est encore montée sur l'muret, s'te carne.*
 
-1. _La chièbe est encore montée sur le mur, s'te carne !_
-   > La chèvre s'est encore juchée sur le muret, cette espiègle créature.
+> « Cette caprine manifestement habitée par un esprit de rébellion alpine a, une fois encore, entrepris l'ascension du mur avec une insolente agilité. »
 
-2. *Pose les bûches sur la chièbe, on va les tronçonner.*
-   > Disposez les bûches sur le chevalet, nous allons procéder à leur sciage.
+*Pose les bûches sur la chièbe, on va tronçonner ça.*
 
-## Équivalents
+> « Je vous prie de disposer ces pièces de bois sur le chevalet afin que nous procédions à leur débitage dans des conditions dignes d'une scierie impériale. »
 
-1. Chèvre.
-2. Chevalet à bois, support de sciage.
+## On dit aussi
 
-## Origine
-
-Le mot **chièbe** illustre le passage fréquent du vocabulaire animalier au vocabulaire des objets du quotidien. De la **chèvre**, il a glissé au **chevalet**, par analogie visuelle et fonctionnelle : les deux servent de support. Ce type de double emploi est très courant dans les parlers ruraux, où les outils héritent souvent de noms empruntés au bestiaire paysan.
-
-## Lien
-
-* Aucune référence externe n'est connue.
+Chèvre, chevalet, tréteau à bois, support de sciage

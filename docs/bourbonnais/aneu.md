@@ -1,6 +1,6 @@
 # Aneu
 
-L'**aneu**, c'est l'année comme on la porte ici : avec ses saisons, ses récoltes, ses petits malheurs et ses joies qui tiennent dans une soupe chaude ou un feu qui reprend bien. Le mot a quelque chose de rond, de patient. On ne compte pas seulement le temps ; on compte ce qu'il laisse derrière lui. Une aneu, ça use les bottes, les hommes et les calendriers des Postes accrochés sur la porte de la cuisine.
+L'**aneu**, c'est l'année comme on la porte à la campagne : avec ses saisons, ses récoltes, ses petits malheurs et ses joies qui tiennent dans une soupe chaude ou un feu qui reprend bien. Le mot a quelque chose de rond, de patient. On ne compte pas seulement le temps ; on compte ce qu'il laisse derrière lui. Une aneu, ça use les bottes, les hommes et les calendriers des Postes accrochés sur la porte de la cuisine.
 
 ## Exemple
 

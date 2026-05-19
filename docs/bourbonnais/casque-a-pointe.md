@@ -1,6 +1,6 @@
 # Casque à pointe
 
-Le **casque à pointe**, c'était le surnom qu'on donnait autrefois aux Allemands, surtout en parlant des soldats prussiens des deux guerres. Le mot traînait dans les récits d'anciens, les plaisanteries de comptoir et les souvenirs de famille, avec un mélange de méfiance, de moquerie et de vieille mémoire patriotique. À force, le casque avait fini par désigner l'homme dessous — ce qui est tout de même une curieuse habitude humaine.
+Le **casque à pointe**, c'est le surnom qu'on donnait autrefois aux Allemands, surtout en parlant des soldats prussiens des deux guerres. Le mot traîne dans les récits d'anciens, les plaisanteries de comptoir et les souvenirs de famille, avec un mélange de méfiance, de moquerie et de vieille mémoire patriotique. À force, le casque a fini par désigner l'homme dessous — ce qui est tout de même une curieuse habitude humaine.
 
 ## Exemple
 

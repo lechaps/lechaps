@@ -1,22 +1,17 @@
 # Chanion (ou chagnion) de cou
 
-Désigne un **cou ou une nuque particulièrement épais(se) et imposant(e)**, souvent associé(e) à une forte carrure ou à une corpulence massive. L'expression est utilisée de manière humoristique ou moqueuse pour qualifier une personne dotée d'un cou large et puissant, pouvant évoquer celui d'un taureau ou d'un lutteur.  
+Le **chanion d'cou**, c'est cette nuque énorme, large, compacte, qu'on voit chez certains hommes bâtis comme des buffets de campagne : épais du dos, solides des épaules, avec un cou qui semble avoir été coulé d'un seul bloc entre la tête et le reste. Le mot porte toujours un sourire au coin des lèvres — moitié moquerie, moitié admiration paysanne. Parce qu'au fond, dans ces campagnes où l'on admirait les hommes solides avec le même sérieux inquiet qu'un tracteur qui démarre du premier coup en février, un beau chanion d'cou, ça voulait dire qu'on pouvait sans doute fendre du bois, porter des sacs de grain… ou rester silencieux pendant tout un repas de famille sans jamais perdre la moindre autorité. Ce qui, entre nous, demande déjà une musculature considérable.
 
-## Exemple  
+## Exemple
 
-_Faut voir comme il est costaud, il se tape un chanion d'coup._
-> Je dois avouer être fort impressionné par sa prestance, tant sa carrure est imposante et sa nuque d'une remarquable robustesse.
+*Il a un de ces chanions d'cou!*
 
-## Équivalent
+> « Cet homme semble avoir reçu de la nature une architecture cervicale d'une telle puissance qu'elle évoque moins l'anatomie humaine que l'ingénierie militaire. »
 
-Cou massif, nuque de taureau, gros cou.  
+## On dit aussi
 
-## Origine
+Gros cou, nuque de taureau, cou de lutteur, colasse
 
-Le terme **chanion** (ou **chagnion**) semble dériver du parler régional, utilisé dans certaines campagnes pour désigner une morphologie particulièrement robuste. Il reflète une observation souvent associée aux travailleurs de force, aux lutteurs ou aux personnes corpulentes dont la musculature cervicale est très développée.  
-
-L'expression est couramment employée dans un registre humoristique, exagérant volontairement l'épaisseur du cou pour souligner la puissance ou la carrure d'une personne.  
-
-## Lien
+## Pour aller plus loin
 
 * [Article du journal de Saöne et Loire](https://www.lejsl.com/edition-montceau/2017/06/17/le-chagnon-d-cou){ target="_blank" }
