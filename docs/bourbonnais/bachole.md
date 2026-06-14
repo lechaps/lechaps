@@ -16,7 +16,7 @@ Bachoule, godet, canon, gorgeon, jatte à cochon.
 
 ## Souvenir
 
-Je revois encore le cantonier, un homme sec comme un manche de pioche mais capable de boire avec l'application méthodique d'un bénédictin en mission secrète. Il appelait toujours son verre « sa bachole », même quand il buvait dans un gobelet en moutarde.
+Je revois encore le cantonnier, un homme que la vie avait tanné sans jamais lui ôter sa gentillesse. Il appelait toujours son verre « sa bachole », même quand il buvait dans un gobelet en moutarde.
 
 ## Pour aller plus loin
 

@@ -1,6 +1,6 @@
 # Barbillon
 
-**Petit poisson d'eau douce aux barbillons caractéristiques**, très commun dans les rivières et étangs du Bourbonnais. Ce nom familier désigne généralement une jeune tanche ou un jeune barbeau, reconnaissable à ses petites excroissances charnues autour de la bouche. C'est un poisson de table apprécié dans la cuisine rurale, souvent cuisiné à la poêle ou en friture lors des repas de fête.
+Petit poisson d'eau douce, très commun dans les rivières et étangs. Ce nom familier désigne généralement une jeune tanche ou un jeune barbeau, reconnaissable à ses petites excroissances charnues autour de la bouche. C'est un poisson de table apprécié dans la cuisine rurale, souvent cuisiné à la poêle ou en friture lors des repas de fête.
 
 ## Exemple
 

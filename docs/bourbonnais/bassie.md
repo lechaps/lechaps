@@ -15,7 +15,7 @@ Arrière-cuisine, cellier, la fraîche, souillarde
 
 ## Souvenir
 
-Dans la bassie, ma grand-mère faisait son beurre et ses fromages avec des gestes lents, précis, presque religieux — mais sans le curé, ce qui reposait tout le monde. Les torchons pendaient au-dessus des claies, l'air sentait le lait frais et la cave humide, et la lumière arrivait là-dedans comme si elle avait peur de déranger.  
+Dans la bassie, ma grand-mère faisait son beurre et ses fromages avec des gestes lents, précis, presque religieux. Les torchons pendaient au-dessus des claies, l'air sentait le lait frais et la cave humide, et la lumière arrivait là-dedans comme si elle avait peur de déranger.  
 Je me souviens surtout du silence. Ce silence épais des maisons anciennes où l'on entendait seulement une faisselle qu'on pose, une cuillère contre un pot, le bois qui travaille un peu. Aujourd'hui, quand j'ouvre certains frigos modernes pleins de plastique et de lumière blanche, j'ai parfois la nostalgie brutale de cette bassie sombre où le beurre avait encore le goût des saisons.
 
 ## Pour aller plus loin

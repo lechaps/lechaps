@@ -15,4 +15,4 @@ Allons-y, on y va, en avant !
 
 ## Le souvenir
 
-« An z'y ! » C'était l'appel du chef de chantier, celui qui voulait que tout le monde se mette au boulot. Pas méchant, juste efficace. Il y a une forme de camaraderie dans ce mot — « on » y va ensemble, pas toi tout seul. Je revois mon grand-père faire cette exclamation quand on partait faire un travail collectif — rentrer les foins, vendanger. C'était l'élan du pragmatisme bourbonnais : on arrête de papoter, on se met à la tâche, et puis voilà. Simple, direct, efficace.
+« An z'y ! » C'était l'appel du chef de chantier, celui qui voulait que tout le monde se mette au boulot. Pas méchant, juste efficace. Il y a une forme de camaraderie dans ce mot — « on » y va ensemble, pas toi tout seul. Je revois mon grand-père faire cette exclamation quand on partait faire un travail collectif — rentrer les foins, vendanger. C'était l'élan du pragmatisme : on arrête de papoter, on se met à la tâche, et puis voilà. Simple, direct, efficace.

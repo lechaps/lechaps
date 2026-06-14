@@ -1,6 +1,6 @@
 # À la va comme j'te pousse
 
-Faire quelque chose **sans trop regarder si ça tient droit**, un peu dans l'urgence, un peu dans la fatigue, souvent avec cette idée qu'on verra bien après. C'est le travail bricolé sur un coin de table, la chemise boutonnée de travers, la clôture réparée avec trois bouts de fil et beaucoup de bonne volonté. Ce n'est pas forcément mal fait. C'est surtout fait comme on peut.
+Faire quelque chose **sans trop regarder si ça tient droit**, un peu dans l'urgence, un peu dans la fatigue, souvent avec cette idée qu'on verra bien après. C'est le gros œuvre mené au courage plus qu'au cordeau, le mur qu'on redresse à l'œil, les finitions qu'on remet à demain, la clôture réparée avec trois bouts de fil et beaucoup de bonne volonté. Ce n'est pas forcément mal fait. C'est surtout fait comme on peut.
 
 ## Exemple
 

@@ -1,6 +1,6 @@
 # Acabouéler
 
-**Se sentir mal, faible, couver une maladie — cet état de fragilité où le corps n'en peut plus.** Fatigue profonde, lassitude généralisée, épuisement qui vous cloue au lit. Un mot qui capture ce moment où on n'est pas vraiment malade, mais vraiment pas bien non plus.
+**Se sentir mal, faible, couver une maladie — cet état de fragilité où le corps n'en peut plus.** Fatigue profonde, lassitude généralisée, épuisement qui donne envie de retourner au lit. Un mot qui capture ce moment où on n'est pas vraiment malade, mais vraiment pas bien non plus.
 
 ## L'exemple
 

@@ -13,6 +13,3 @@ Quand quelqu'un « fait son alléluia », ça veux dire qu'il en rajoute. Et dan
 
 Cinéma, comédie, grand tralala, tout le saint-frusquin, tintouin, ramdam
 
-## Le souvenir
-
-L'alléluia, c'était les cris des enfants qui jouaient dehors, c'était aussi le bruit des gens qui dansaient aux fêtes. Il y avait quelque chose d'innocent dans ce mot, une forme de joie qu'on ne cherchait pas à refréner. On disait « entendre leur alléluia » pour parler du bruit de gens heureux — et il y avait de l'affection dans ce jugement, même quand on prétendait se plaindre. L'alléluia, c'était la vie qui s'exprimait bruyamment.
