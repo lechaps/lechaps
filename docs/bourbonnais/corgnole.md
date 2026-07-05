@@ -1,30 +1,23 @@
 # Corgnole, corniaule, corniole, courgnole, courgnaule, courniole
 
-Terme populaire et imagé désignant la **gorge** ou le **gosier**, souvent utilisé pour évoquer la sensation de boire (ou parfois de crier) avec intensité. La corniaule, c'est ce par quoi **le vin descend** et **les jurons sortent** : un mot plein de chaleur humaine, au parfum de taverne ou de table paysanne.
+## Définition
+
+La **corgnole**, ou **corniaule** quand le mot prend un peu plus de rondeur dans la bouche, c'est la **gorge**, le **gosier**, le grand tuyau de l'existence par où descendent le vin, la soupe, les rires, les jurons, les aveux mal ficelés et parfois le dernier mot qu'on aurait mieux fait de garder derrière les dents. C'est un mot de table, de cave et de grand air, un mot qui gratte juste ce qu'il faut, avec son petit bruit de bouchon qu'on arrache et de voix qui force après le troisième canon. Avoir la corgnole en pente, ce n'est pas seulement avoir soif : c'est posséder une géographie intérieure favorable aux liquides, un relief personnel où tout descend trop bien, trop vite, trop volontiers, comme si le gosier avait signé un bail avec la vigne.
 
 ## Exemple
 
-_Alors lui, il a la cognole en pente !_
-> Il me semble judiscieux de signaler la soif remarquable de monsieur.
+*Alors lui, il a la corgnole en pente !*
 
-_J'aime pas la cravate, ça m'sert la corgnole !_
-> Je n'affectionne guère la cravate ; elle m'oppresse désagréablement la nuque.
+> « Il me paraît judicieux de signaler que ce monsieur présente une disposition anatomique particulièrement favorable à l'écoulement des boissons fermentées, et cela avec une constance qui force le respect communal. »
 
-## Équivalents
+## On dit aussi
 
-Gorge, gosier, glotte, cou.
+Gorge, gosier, glotte, cou, corgnôle, corgnolon
 
-## Origine
+## Pour aller plus loin
 
-Mot typique des **parlers du centre de la France**, notamment en **Bourbonnais**, **Berry** et **Limousin**, où l'on retrouve une richesse d'expressions tournées autour de la **parole**, de la **voix** et surtout du **vin**.
-Par sa **musicalité rustique**, le mot évoque la convivialité des veillées, des repas où le vin coule, et la gouaille du parler campagnard. On l'utilise volontiers pour souligner la vigueur d'une rasade ou l'effort d'un cri bien poussé.
-
-## Notes
-
-La **forme "corniaule"** est la plus fréquente à l'oral ; **"corgnole"**, un peu plus rude, semble plus localisée. Les deux cohabitent selon les vallées… et les caves.
-
-## Lien
-
-* [Définition du dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages0/D1C0152.html){ target="_blank" }
-* [Définition du CNRTL](https://fr.wiktionary.org/wiki/corgnole){ target="_blank" }
-* [Définition du CNRTL](https://fr.wiktionary.org/wiki/corniaule){ target="_blank" }
+* [Définition du Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1C0152.html){ target="_blank" }
+* [Définition du Wiktionnaire — corgnole](https://fr.wiktionary.org/wiki/corgnole){ target="_blank" }
+* [Définition du Wiktionnaire — corniaule](https://fr.wiktionary.org/wiki/corniaule){ target="_blank" }
+* [Définition de La langue française — corgnole](https://www.lalanguefrancaise.com/dictionnaire/definition/corgnole){ target="_blank" }
+* [Définition de La langue française — corniaule](https://www.lalanguefrancaise.com/dictionnaire/definition/corniaule){ target="_blank" }

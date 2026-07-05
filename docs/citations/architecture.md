@@ -52,7 +52,7 @@ Kevin Kelly
 
 ---
 
-> La ressource la plus rare n’est ni le pétrole, ni le minerai, ni l’air pure, ni le capital, ni le travail, ni la technologie, c’est notre capacité à nous écouter à apprendre les uns des autres et à rechercher la vérité plutôt qu’à avoir raison
+> La ressource la plus rare n'est ni le pétrole, ni le minerai, ni l'air pure, ni le capital, ni le travail, ni la technologie, c'est notre capacité à nous écouter à apprendre les uns des autres et à rechercher la vérité plutôt qu'à avoir raison
 
 Donella Meadows (citation attribuée)
 

@@ -1,26 +1,20 @@
 # Couelle
 
-1. **Paire de sabots** : Dans le langage rural, une **couelle** désigne une paire de sabots en bois, les chaussures traditionnelles du paysan. Le terme englobe l'idée de la paire entière, et non pas le sabot pris isolément.
+## Définition
 
-2. **Petite pierre à aiguiser la faux** : Par extension, *couelle* désigne également une **petite pierre à aiguiser**, que l'on emporte dans son étui accroché à la ceinture pour redonner du tranchant à la faux en plein travail.
+La **couelle**, c'est d'abord la **paire de sabots**, les deux bateaux de bois qu'on enfilait pour traverser la cour. On ne disait pas ça comme une élégance de chausseur parisien, non : la couelle, c'était du solide, du creusé, du bruyant, du paysan jusqu'au bout des orteils, avec ce claquement sec sur la pierre qui annonçait quelqu'un avant même qu'on voie sa figure.  
+Mais la **couelle**, c'est aussi la petite pierre à aiguiser la faux, celle qu'on sort au champ pour redonner du mordant au fer, ce geste bref, précis, presque musical, où l'homme penché sur son outil semble discuter avec l'herbe au lieu de simplement la couper.
 
-## Exemples
+## Exemple
 
-1. _Enfile ta couelle, on va aux champs._
-   > Chaussez vos sabots, nous allons nous rendre aux champs pour y travailler.
+*Enfile ta couelle, on va aux champs.*
 
-2. _Attends un brin, faut que j'passe la faux à la couelle._
-   > Patientez un instant, je dois aiguiser ma faux à l'aide de la petite pierre.
+> « Veuillez chausser sans délai vos respectables embarcations de bois, car les travaux agricoles, toujours prompts à ignorer la paresse humaine, réclament notre présence dans les terres. »
 
-## Équivalents
+*Attends un brin, faut que j'passe la faux à la couelle.*
 
-1. Sabots (paire).
-2. Pierre à aiguiser, pierre à faux.
+> « Accordez-moi un court instant : il convient que je rende à cette lame son éloquence tranchante avant d'engager avec la prairie une conversation définitive. »
 
-## Origine
+## On dit aussi
 
-Le mot **couelle** appartient au parler paysan et illustre la richesse du vocabulaire rural, où un même terme pouvait recouvrir plusieurs réalités du quotidien agricole. La paire de sabots comme la pierre à aiguiser la faux étaient des objets familiers, indispensables à la vie aux champs.
-
-## Lien
-
-* Aucune référence externe n'est connue.
+Sabots, paire de sabots, pierre à faux, pierre à aiguiser
