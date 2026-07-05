@@ -11,3 +11,7 @@ La **chesseresse**, c'est cet homme habité par une vieille soif joyeuse qui l'e
 ## On dit aussi
 
 Jamais à sec, sac à vin, bon buveur, gosier en pente
+
+## Souvenir
+
+Mon grand-père appelait **la chesseresse** un habitué des bistrots, un de ces pèlerins du zinc dont le verre semblait avoir poussé au bout de la main. Il disait cela d’un ton sec et tendre, et tout le monde riait aussitôt, parce que le mot suffisait : il portait l’homme, le comptoir, la soif, la légende. Moi, enfant, je ne saisissais pas encore toute l’affaire, mais je comprenais la joie du surnom bien lancé, cette petite flèche sans poison que les anciens savaient décocher entre deux silences. Depuis, la chesseresse garde pour moi la voix de mon grand-père, avec son rire.

@@ -4,9 +4,9 @@ La **clairinette**, c'est la clarinette des bals de campagne, des harmonies muni
 
 ## Exemple
 
-*C'est pas la peine d'me jouer d'la clairinette, j'sais bien qu't'as cassé l'outil.*
+*C'est pas la peine d'me jouer d'la clairinette, j'sais bien que c'est toi qu'as cassé l'outil.*
 
-> « Je vous saurais gré d'interrompre immédiatement cette tentative d'enjolivement rhétorique dont la subtilité demeure, hélas, aussi discrète qu'un orchestre militaire dans une sacristie. »
+> « Je vous saurais gré d'interrompre immédiatement cette tentative d'enjolivement rhétorique dont la subtilité demeure, hélas, aussi discrète qu'un orchestre militaire. »
 
 ## On dit aussi
 

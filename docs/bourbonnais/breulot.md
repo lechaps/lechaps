@@ -1,26 +1,25 @@
-# Breulot ou berlaud(e) 
+# Brelot ou berlaud(e)
 
-1. **Nom :** Désigne une personne considérée comme **naïve, simple d'esprit ou un peu lente à la détente**. Il peut s'agir d'un individu crédule, maladroit ou dont l'intelligence est perçue comme limitée, souvent dans un registre moqueur mais parfois affectueux.
+## Définition
 
-2. **Adjectif :** Qualifie une personne ou un comportement marqué par la **simplicité excessive**, la **sottise** ou le manque de **vivacité d'esprit** ou de **finesse**.  
+Le **brelot**, ou **berlaud** quand il prend son air de cousin germain, c’est celui qui met un peu de temps à rejoindre la fanfare du bon sens. Pas forcément un idiot majuscule, non, n’allons pas convoquer les tribunaux de l’intelligence pour une cervelle partie baguenauder derrière les haies ; c’est plutôt le **naïf**, le **simple**, le **lent à la détente**, celui qui arrive au dessert quand tout le monde a déjà rincé les assiettes et rangé la vaiselle. Le mot peut piquer, bien sûr, parce que la langue de la campagne a parfois la dent dure et la moustache ironique, mais il garde souvent ce fond de tendresse qu’on réserve aux gens qu’on connaît trop bien pour les condamner sérieusement. On peut être **berlaud** d’un geste, d’une idée, d’une réponse donnée trois minutes après la bataille ; et **berlaude**, au féminin, garde la même musique de moquerie douce.
 
-Le terme possède des variantes phonétiques et orthographiques telles que berlaud et bredin, auxquelles il est étroitement lié. Contrairement à brelot, qui est invariable, berlaud possède une forme féminine : berlaude, utilisée pour désigner une femme jugée simplette ou naïve.  
+## Exemple
 
-Le mot **brelot**, ainsi que ses variantes **berlaud** ou **bredin** serait issu du verbe **berlauder**, qui signifie "baguenauder, traîner, ne rien faire de sérieux". L'évolution du terme a conduit à une association avec la naïveté ou la lenteur d'esprit.  
+*Regarde-moi ce brelot, il a encore oublié où il a garé son tracteur.*
 
-Son usage est attesté depuis le XIXᵉ siècle, notamment dans la culture bourbonnaise et dans la littérature populaire (notamment chez René Fallet, dans _La Soupe aux choux_). L'expression **"fin brelot"** renforce l'idée d'une personne particulièrement simple ou crédule.  
+> « Cet individu manifeste une telle fantaisie dans la gestion de ses repères agricoles qu’il conviendrait peut-être de lui adjoindre un secrétaire, une boussole et deux saints patrons spécialisés dans les causes mécaniques désespérées. »
 
-## Exemple  
+## On dit aussi
 
-_Regarde-moi ce brelot, il a encore oublié où il a garé son tracteur._
-> Cet homme est décidément bien étourdi, il ne se souvient même plus où il a laissé son véhicule.
+Berlaud, berlaude, brelaud, brelot, beurlaud, bredin, jobastre, fada, simplet, nigaud
 
-## On dit aussi  
+## Souvenir
 
-Bredin, jobastre, fada, simplet, nigaud 
+Le mot **brelot** me fait surtout penser à René Fallet et à *La Soupe aux choux*. Il l’emploie notamment dans *fin brelot*, et ça suffit à faire entendre tout un pays : le Glaude, le Bombé, les voisins, la soupe, les sabots, la peur d’être pris pour plus fou qu’on ne l’est déjà. Fallet ne met pas ces mots sous vitrine ; il les laisse parler comme on parle au village, avec rudesse, drôlerie et un fond de bonté.
 
 ## Pour aller plus loin
 
 * [Définition du dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1B0042.html){ target="_blank" }
-* [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/berlaud){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/berlaud){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/berlaud){ target="_blank" }

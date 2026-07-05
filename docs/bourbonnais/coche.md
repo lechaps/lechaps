@@ -1,27 +1,25 @@
 # Coche
 
-1. **Animal (sens rural)** : Terme désignant la **truie**, femelle du cochon, et par extension, **le cochon en général**, sans distinction de sexe. Cet usage est courant dans les milieux agricoles, notamment dans les régions rurales où l'on parle de *la coche et ses gorets*.
+## Définition
 
-2. **(Figuré, populaire et péjoratif)** : Employé dans un registre **familier ou moqueur**, *coche* sert à qualifier une **femme perçue comme grosse, négligée, désagréable ou vulgaire**, avec une connotation méprisante issue de l'association à l'animal.
+La **coche**, c’est la truie, la vraie, la mère à groin, la matrone de la soue, celle qui gouverne ses gorets avec une autorité de cantinière napoléonienne. Dans les fermes, le mot pouvait même finir par désigner le cochon tout court, sans lui demander ses papiers, parce qu’à force de vivre avec les bêtes, on ne faisait pas toujours passer l’état civil avant la gamelle. Et puis il y a l’autre usage, plus laid, plus coupant, celui qu’on lançait pour parler d’une femme qu’on voulait rabaisser : mot de moquerie populaire, pas très charitable, avec de la boue dans les sabots et pas mal de méchanceté dans la langue. La coche, donc, c’est à la fois l’animal du cochon de famille et l’injure qu’il faut regarder de travers, parce que les mots aussi ont parfois le groin mal élevé.
 
-## **Exemples**
+## Exemple
 
-1. _Ah on a un joli coche, ça va être fête à bras pour la saint-cochon_
-   > Ah, nous avons là un fort beau porc ; nul doute que la journée de la Saint-Cochon exigera de nous un labeur considérable !
-2. _T'as vu la coche du bistrot ? Toujours en train de brailler sur tout le monde."_
-   > Avez-vous remarqué cette femme à l'hygiène pour le moins incertaine, installée au café ? Elle ne cesse d'élever la voix à l'encontre de chacun.
+*Ah, on a un joli coche, ça va être fête à bras pour la Saint-Cochon.*
 
-## Équivalents
+> « Nous sommes manifestement en présence d’un porc d’une remarquable constitution ; il est à prévoir que la prochaine Saint-Cochon mobilisera nos forces avec une intensité quasi ministérielle. »
 
-1. Animal : truie, cochon.
-2. Figuré : rombière, mégère, harpie, grognasse (argot).
+*T’as vu la coche du bistrot ? Toujours en train de brailler sur tout l’monde.*
 
-## Origine
+> « Avez-vous remarqué cette habituée du café, dont la présence sonore et l’amabilité incertaine semblent transformer chaque conversation en conseil de guerre mal ventilé ? »
 
-Issu d'un **dérivé régressif de *cochon***, *coche* apparaît d'abord dans les campagnes pour désigner la truie. Il s'élargit à l'ensemble de l'animal dans les usages quotidiens, avant de glisser vers une **utilisation péjorative** visant les femmes, par analogie crue avec l'animal. Ce genre de glissement s'observe fréquemment dans les parlers populaires, où le vocabulaire animalier sert à caricaturer ou railler les comportements humains.
+## On dit aussi
 
-## Lien
+Truie, cochon, gorette, cochette, vieille coche
 
-* [Définition de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9C0323){ target="_blank" }
-* [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/coche){ target="_blank" }
+## Pour aller plus loin
+
+* [Définition de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9C2738){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/coche){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/coche){ target="_blank" }

@@ -14,7 +14,7 @@ Allemand, Prussien, Boche, Fritz, Teuton
 
 ## Souvenir
 
-Mon grand-père ne pouvait pas voir les Allemands en peinture. Il les appelait toujours « les casques à pointe », même trente ans après la guerre, même devant la télévision, même devant un match de foot, même pour parler d'un touriste arrêté au bord de la route avec une carte Michelin grande comme une nappe de communion. Faut dire qu'il avait combattu les Allemands pour de vrai, lui. Pas dans les livres. Pas dans les défilés. Pas dans les cérémonies. Simplement avec des souvenirs qu'on a jamais racontés.
+Mon grand-père ne pouvait pas voir les Allemands en peinture. Il les appelait toujours « les casques à pointe », même trente ans après la guerre, même devant la télévision, même devant un match de foot, même pour parler d'un touriste arrêté au bord de la route avec une carte routière grande comme une nappe de communion. Faut dire qu'il avait combattu les Allemands pour de vrai, lui. Pas dans les livres. Pas dans les défilés. Pas dans les cérémonies. Simplement avec des souvenirs qu'on a jamais racontés.
 
 ## Pour aller plus loin
 
