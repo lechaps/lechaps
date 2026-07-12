@@ -1,25 +1,19 @@
 # Culotte à manger la viande
 
-Expression populaire et humoristique désignant **le pantalon du dimanche**, celui que l'on met pour les grandes occasions, souvent lors du repas familial. L'expression insiste sur le risque de **le tacher en découpant la viande**, notamment un gigot ou une pièce de rôti, à l'aide d'un couteau (parfois électrique).
+## Définition
 
-Elle renvoie à cette opposition bien connue entre les vêtements de tous les jours, destinés au travail ou aux tâches courantes, et les habits « du dimanche », réservés aux moments importants mais toujours exposés à l'accident du repas. Habit généralement acheté chez le magasin "Raoul" à Moulins.
+La **culotte à manger la viande**, c'est le **pantalon du dimanche**, celui qu'on ne sortait pas pour aller aux raves ni retourner les patates, mais pour les repas sérieux, les communions, les noces, les visites au cimetière et ces dimanches où la famille se tenait droite avant de s'effondrer sur le rôti. C'était l'habit propre, l'habit fier, l'habit d'apparat familial, celui qui disait : aujourd'hui, on ne plaisante pas avec la table, ni avec le pli du pantalon. On l'appelait ainsi parce qu'au moment de découper la viande — gigot, rôti, volaille rebelle, monument de sauce — le danger devenait national : une éclaboussure, une goutte de jus, une maladresse de couteau, et voilà la dignité textile décorée.
 
-## Exemples
+## Exemple
 
-_C'est qu't'as mis la culotte à manger la viande ?!_
-> Ma foi, vous avez revêtu votre pantalon du dimanche.
+*C'est qu't'as mis la culotte à manger la viande ?!*
 
-## Équivalents
+> « Ma foi, vous avez revêtu votre pantalon d'apparat, celui des repas dominicaux et des cérémonies familiales où l'on expose sa dignité textile aux périls considérables du jus de rôti. »
 
-* Pantalon du dimanche.
-* Habits du dimanche.
-* Tenue d'apparat (familier et ironique).
+## On dit aussi
 
-## Origine
+Pantalon du dimanche, habits du dimanche, tenue des grands jours, culotte propre
 
-Cette expression, née dans le contexte rural et populaire, illustre avec humour la hiérarchie des vêtements : les habits de semaine, usés et salis au travail, et la **culotte du dimanche**, propre et soignée, réservée aux repas de fête ou aux cérémonies.
-La mention de la « viande » rappelle l'importance symbolique et culinaire des plats de viande lors des grandes occasions, mais aussi le risque bien réel de les tacher.
+## Souvenir
 
-## Lien
-
-* Aucune référence externe n'est connue.
+Je revois surtout mon grand-père le dimanche, avec ce soin presque cérémonieux qu'il mettait à s'habiller, comme si le repas de famille exigeait une tenue de ministre. La **culotte à manger la viande**, chez lui, venait souvent de chez **Raoul**, à Moulins, maison sérieuse où le pantalon semblait recevoir son investiture avant même de rejoindre l'armoire. Il l'enfilait avec lenteur, vérifiait le pli, tirait un peu sur la veste, passait la main sur le tissu comme on rassure une bête noble avant la foire. Puis il arrivait à table, digne et propre, exposant ce bel ordre dominical aux dangers du rôti, du jus, de la sauce et des petits-enfants remuants.

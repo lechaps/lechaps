@@ -1,22 +1,22 @@
 # Culot
 
-Dans le langage familier et régional, **culot** désigne le **fond d'une bouteille**, autrement dit ce qu'il reste à boire une fois qu'elle est presque vide. Il peut s'agir du dernier verre, ou du dépôt au fond. Par extension, le *culot* devient aussi un **prétexte convivial pour resservir**, sous forme de « dernier verre » qu'on propose rarement sans arrière-pensée.
+## Définition
 
-## Exemples
+Le **culot**, c'est le **fond de bouteille**, le dernier petit reste, le survivant liquide, la goutte de conclusion qui tremble au fond du verre comme un député au moment du vote. Ce n'est plus vraiment boire une bouteille, non, c'est lui faire les poches, c'est aller chercher dans le bas du flacon ce que les autres ont négligé par paresse, par dignité ou par manque de conviction viticole. Dans les maisons, il y avait toujours quelqu'un pour repérer le culot avant les autres, avec cet œil d'aigle domestique qui distingue, à trois mètres, une larme de rouge abandonnée derrière l'étiquette.
 
-_Verse-moi donc l'culot, ça compte pas, c'est juste pour rincer !_
-> Versez-moi donc le fond de la bouteille ; cela ne compte guère, c'est uniquement pour me rincer le palais.
+## Exemple
 
-## Équivalents
+*Laisse donc pas l'culot dans la bouteille, ça porte malheur.*
 
-Fond de bouteille, cul de bouteille, reste, dépôt.
+> « Il serait profondément regrettable, pour ne pas dire moralement discutable, d'abandonner au fond de ce récipient une ultime fraction de vin qui n'a rien demandé sinon d'accomplir dignement sa destinée. »
 
-## Origine
+## On dit aussi
 
-Le mot **culot** est issu du mot **cul**, qui désigne ici la partie basse d'un objet. Dans le cas de la bouteille, il en désigne naturellement le fond. Dans les campagnes comme au cabaret, le **culot** est l'occasion de **pousser à la consommation** : on s'arrange pour resservir « juste un petit fond », qui devient bien souvent un dernier verre en bonne et due forme.
+Fond de bouteille, reste, dernière goutte, fond de verre
 
-## Lien
+## Pour aller plus loin
 
 * [Définition de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9C5268){ target="_blank" }
-* [Définition du CNRTL – culot](https://www.cnrtl.fr/definition/culot){ target="\_blank" }
-* [Définition du wiktionnaire – culot](https://fr.wiktionary.org/wiki/culot){ target="\_blank" }
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/culot){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/culot){ target="_blank" }
+* [Définition de Larousse](https://www.larousse.fr/dictionnaires/francais/culot/21058){ target="_blank" }

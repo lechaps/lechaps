@@ -1,20 +1,15 @@
 # Dagougneau
 
-Terme populaire et régional désignant un **simplet**, une personne un peu naïve, maladroite ou manquant d'esprit. Employé souvent sur un ton mêlant **moquerie et pitié**, parfois presque affectueux, pour souligner la faiblesse d'esprit ou la gaucherie d'un individu.
+## Définition
 
-## Exemples
+Le **dagougneau**, c'est le pauvre diable qui comprend après les autres, qui part chercher la lune avec un panier percé, qui oublie ses outils, ses idées, parfois même la raison première de son déplacement. On le dit pour le **nigaud**, le **simplet**, le maladroit de naissance ou de circonstance, mais avec cette nuance de campagne qu'on aurait tort de négliger : la moquerie y porte souvent un vieux gilet de tendresse. Ce n'est pas toujours une insulte pleine gueule ; c'est parfois un soupir, un sourire, une tape invisible sur l'épaule, comme si l'on disait : “Il est comme ça, le pauvre, faut bien que le bon Dieu répartisse ses économies quelque part.” Reste que le mot pique un peu quand même ; il faut le manier comme une fourche rouillée, avec prudence et vaccin à jour.
 
-_Il a encore oublié ses outils, s'te pauv' dagougneau !._
-> Il a une fois de plus oublié ses outils, ce malheureux étourdi !
+## Exemple
 
-## Équivalents
+*Il a encore oublié ses outils, s'te pauv' dagougneau !*
 
-Simplet, nigaud, sot, bredin.
+> « Notre malheureux compagnon vient une fois de plus d'abandonner sur place les instruments nécessaires à son ouvrage, confirmant ainsi une disposition remarquable à l'étourderie rurale et au désordre métaphysique. »
 
-## Origine
+## On dit aussi
 
-Le mot **dagougneau** semble hériter d'une formation populaire en *-eau* (comme *morneau*, *grigneau*), qui donne un côté familier ou enfantin. Il appartient au vocabulaire rural des campagnes du Centre et du Massif central, où l'on a toujours eu une large palette de termes pour désigner l'**idiot du village**, figure à la fois moquée et tolérée dans la communauté.
-
-## Lien
-
-* Aucune référence externe n'est connue.
+Simplet, nigaud, sot, bredin, godiche, bestiaud

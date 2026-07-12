@@ -1,24 +1,27 @@
 # Dail ou Daille
 
-Terme régional désignant une **faux**, c'est-à-dire l'instrument tranchant à long manche, manié à deux mains, qui sert à couper l'herbe, les céréales ou d'autres végétaux. La **daille** est un outil essentiel des travaux agricoles avant la mécanisation, symbole du labeur des champs et des foins.
+## Définition
 
-## Exemples
+Le **dail**, ou la **daille**, c'est la **faux**, la grande lame courbe des foins, l'outil qui vous donnait tout de suite une allure biblique, agricole et vaguement inquiétante, même quand on allait seulement couper trois orties derrière la grange. Une daille, ça ne se prend pas comme un balai : ça se respecte, ça se porte avec attention, ça vous rappelle que l'herbe a beau faire la maligne en poussant partout, il existe depuis longtemps des hommes courbés, des gestes sûrs et du fer bien affilé pour lui expliquer la fin de l'histoire. Le mot a quelque chose de sec, de tranchant, de métallique ; on dirait presque qu'il coupe déjà rien qu'en sortant de la bouche.
 
-_Va m'cher la daille, je vais t'y couper racta !_
-> Allez donc me chercher la faux, ces herbes ont besoin d'être coupées !
+## Exemple
 
-## Équivalents
+*Va m'cher la daille, je vais t'y couper racta !*
 
-Faux, grande lame de fauchage.
+> « Veuillez me rapporter sans délai cet instrument de fauchage à lame courbe, car la végétation présente manifeste une insolence chlorophyllienne qu'il convient de corriger avec fermeté. »
 
-## Origine
+## On dit aussi
 
-Le mot **dail/daille** est une variante dialectale ancienne du français **faux**, issue du latin *dalle* ou apparenté, souvent attestée dans les parlers ruraux du centre de la France. Elle a survécu longtemps dans l'usage populaire, même après l'arrivée des outils mécaniques.
+Faux, faux courte, dail, daille, dailler
 
-La **daille** a aussi une forte charge symbolique : au-delà de l'outil paysan, elle est associée dans l'imaginaire collectif à la **Grande Faucheuse**, personnification de la Mort.
+## Souvenir
 
-## Lien
+Je me souviens de la daille comme d'un outil qu'on ne touchait pas sans avoir d'abord compris qu'on n'était pas là pour faire le zouave. Elle reposait parfois contre un mur, longue, maigre, silencieuse, avec cette élégance dangereuse des choses qui ont beaucoup travaillé et n'ont jamais réclamé de médaille. Les anciens la prenaient d'un geste simple, presque doux, puis venaient ces mouvements réguliers dans l'herbe, ce balancement du corps, cette respiration du champ qu'on ne commande pas : on l'accompagne. Et quand la pierre passait sur le fil, dans un petit bruit clair, on aurait dit que toute la campagne retenait son souffle avant de reprendre sa coupe.
 
-* [Définition du dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages0/D1D0001.html){ target="_blank" }
-* [Définition du CNRTL – faux](https://www.cnrtl.fr/definition/dail){ target="\_blank" }
-* [Définition du wiktionnaire – daille](https://fr.wiktionary.org/wiki/daille){ target="\_blank" }
+## Pour aller plus loin
+
+* [Définition du Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1D0001.html){ target="_blank" }
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/dail){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/daille){ target="_blank" }
+* [Définition du Littré — dail](https://www.littre.org/definition/dail){ target="_blank" }
+* [Définition du Littré — daille](https://www.littre.org/definition/daille){ target="_blank" }

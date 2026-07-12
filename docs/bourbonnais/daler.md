@@ -1,23 +1,20 @@
 # Dâler
 
-Verbe régional signifiant qu'il fait une **chaleur intense**, au point de **dessécher** l'air, la terre ou les personnes. On l'emploie pour exprimer une sensation d'ardeur accablante, qui brûle et assoiffe.
+## Définition
 
-## Exemples
+**Dâler**, c'est quand la chaleur ne se contente plus de chauffer : elle tape, elle mord, elle **dessèche**, elle vous transforme la langue en vieille semelle et la terre en croûte de pain oublié. Quand ça dâle, le soleil n'est plus un astre, c'est un contremaître brutal qui surveille les champs du haut du ciel avec une casquette de feu. L'air tremble, les pierres cuisent, les bêtes cherchent l'ombre, et l'homme, ce grand malin équipé d'un chapeau mou et d'une nuque rouge, comprend soudain que l'été peut avoir des manières de percepteur.
 
-1. _Ça dâle rudement, j'ai la langue qui pêle !_
-> Quelle chaleur suffocante, ma langue est toute desséchée !
+## Exemple
 
-2. _La terre dâle, y'a plus rien qui pousse._
-> La terre est brûlée par la chaleur, plus rien ne peut y pousser.
+*Ça dâle rudement, j'ai la langue qui pèle !*
 
-## Équivalents
+> « La température atteint un degré d'hostilité tel que mon organisme, privé de toute humidité raisonnable, semble entreprendre une reconversion progressive en morceau de cuir agricole. »
 
-Chauffer, brûler, dessécher, accabler.
+## On dit aussi
 
-## Origine
+Chauffer, brûler, dessécher, taper fort, cogner
 
-Le verbe **dâler** est une formation expressive issue des parlers ruraux du centre de la France. Sa sonorité évoque à la fois l'intensité et l'épreuve, comme si la chaleur elle-même « frappait ». Dans les campagnes, on l'emploie aussi bien pour décrire une personne assoiffée que pour parler de la terre craquelée par le soleil.
+## Pour aller plus loin
 
-## Lien
-
-* Aucune référence externe n'est connue.
+* [Le parler bourbonnais — Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
+* [Quelques mots de patois bourbonnais — ZeroTrois](https://zerotrois.fr/bourbonnais/patois){ target="_blank" }

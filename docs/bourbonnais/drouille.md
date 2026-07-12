@@ -1,17 +1,20 @@
-# Drouille ou drille
+# Drouille ou Drille
 
-**Gastro-entérite, la diarrhée — cette maladie qu'on attrape en été et qui vous rend misérables.** C'est un mot direct, sans détour, qui dit exactement ce qu'il se passe dans les tripes.
+## Définition
 
----
+La **drouille**, ou la **drille**, c'est la **diarrhée**, la grande débâcle intestinale, l'orage dans les boyaux, le petit malheur qui vous transforme un homme solide en poète pâle cherchant des toilettes avec la ferveur d'un pèlerin devant Lourdes. Ça vient souvent quand il fait chaud, quand la mayonnaise a pris des libertés, quand le melon avait l'air honnête mais ne l'était pas, quand le ventre, ce vieux traître, décide de quitter la République. Le mot ne fait pas de manières : il dit la misère telle qu'elle est, avec le ventre qui gargouille, les jambes prudentes et l'âme soudainement très attachée à la proximité du cabinet.
 
-## L'exemple
+## Exemple
 
 *Adieu mon caneçon blanc, j'ai chopé la drouille.*
 
-> Farewell, my pristine undergarment blanc, for I have been affligé par une indisposition gastrointestinale des plus inconvenantes.
+> « Je crains devoir faire mes adieux les plus émus à ce sous-vêtement d'une blancheur jadis irréprochable, mon organisme ayant été saisi par une insurrection gastro-intestinale d'une vigueur profondément anti-textile. »
 
----
+## On dit aussi
 
-## Le souvenir
+Drille, drouille, driller, drouiller, diarrhée, courante, chiasse
 
-La drouille, c'était la malédiction de l'été — un moment d'inattention à table, de l'eau suspecte, et voilà qu'on se retrouvait avec la drouille. C'était une affection qu'on nommait sans pudeur, au contraire — « j'ai la drouille » était une excuse suffisante pour tout. Il y avait un côté rassurant dans cette certitude : la drouille, ça passait, on savait qu'on allait survivre. C'était la maladie honnête, celle qui ne tue pas mais qui humilie.
+## Pour aller plus loin
+
+* [Patois bourbonnais — Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Drouille — Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/13701){ target="_blank" }
