@@ -44,6 +44,14 @@ copyright: 'Version : MF 158'
 
 plugins:
   - search
+  - graph:
+      name: title
+  - backlinks_section:
+      title: Pages liées
+      description: "Les pages suivantes font référence à cette page :"
+      description_no_links: "Aucune autre page ne fait référence à cette page."
+      add_to_toc: false
+      hide_if_empty: true
   - privacy
   - social
   - minify:
