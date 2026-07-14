@@ -1,17 +1,17 @@
 # Fafiot
 
-**Fou, cinglé, timbré — quelqu'un qui n'a plus sa tête à soi.** Être fafiot, c'est être un peu dehors du monde normal, voir des choses que les autres ne voient pas.
+Être **fafiot**, c'est avoir la tête un peu de travers, les idées parties courir sans prévenir et le bon sens resté derrière la porte avec ses sabots. Le fafiot n'est pas toujours fou à enfermer, non ; il est plutôt **cinglé**, extravagant, capable d'une décision si imprévisible que les autres se regardent en silence, histoire de vérifier qu'ils ont bien entendu la même sottise. Le mot peut piquer, mais il se dit souvent avec un rire, une inquiétude légère et cette tendresse méfiante qu'on réserve aux gens dont la cervelle possède ses propres chemins vicinaux.
 
----
-
-## L'exemple
+## Exemple
 
 *T'es complètement fafiot ?*
 
-> Demeureriez-vous atteint d'une forme quelconque de dérangement mental?
+> « Auriez-vous momentanément abandonné l'usage ordinaire de la raison, ou votre esprit poursuit-il désormais, sans carte ni autorisation préfectorale, une trajectoire qui lui est entièrement personnelle ? »
 
----
+## On dit aussi
 
-## Le souvenir
+Fou, cinglé, timbré, bredin, dérangé, tacaro
 
-Fafiot, c'était le verdict qu'on portait sur celui qui se comportait bizarrement — pas dangereux, juste décalé. Il y avait une forme de compassion dans ce mot, l'idée que le pauvre type n'était pas responsable d'être comme ça. Etre fafiot, c'était être exclu, mais d'une exclusion douce, celle que tout le monde tolérait parce qu'on le connaissait depuis longtemps.
+## Pour aller plus loin
+
+* [Fafiot — Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }

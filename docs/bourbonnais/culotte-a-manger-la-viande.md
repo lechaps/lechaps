@@ -1,7 +1,5 @@
 # Culotte à manger la viande
 
-## Définition
-
 La **culotte à manger la viande**, c'est le **pantalon du dimanche**, celui qu'on ne sortait pas pour aller aux raves ni retourner les patates, mais pour les repas sérieux, les communions, les noces, les visites au cimetière et ces dimanches où la famille se tenait droite avant de s'effondrer sur le rôti. C'était l'habit propre, l'habit fier, l'habit d'apparat familial, celui qui disait : aujourd'hui, on ne plaisante pas avec la table, ni avec le pli du pantalon. On l'appelait ainsi parce qu'au moment de découper la viande — gigot, rôti, volaille rebelle, monument de sauce — le danger devenait national : une éclaboussure, une goutte de jus, une maladresse de couteau, et voilà la dignité textile décorée.
 
 ## Exemple

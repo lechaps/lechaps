@@ -1,7 +1,5 @@
 # En pour
 
-## Définition
-
 **En pour**, c'est **en échange**, **en retour**, la petite récompense promise après le service rendu. L'expression ne parle pas de salaire, de facture ni de contrat timbré par la sous-préfecture : elle appartient aux coups de main, aux paniers portés, aux fagots rentrés, aux commissions faites sans trop traîner les pieds. On aide d'abord, et l'on reçoit quelque chose **en pour** — une pièce, des étrennes, une pomme, parfois seulement un merci bien appuyé, car la générosité des adultes connaissait elle aussi des années de sécheresse.
 
 ## Exemple

@@ -44,6 +44,7 @@ copyright: 'Version : MF 158'
 
 plugins:
   - search
+  - awesome-pages
   - graph:
       name: title
   - backlinks_section:
@@ -54,13 +55,12 @@ plugins:
       hide_if_empty: true
   - privacy
   - social
-  - minify:
-      minify_html: true
   - glightbox
-  - awesome-pages
   - rss:
       match_path: ".*"
       use_git: true
+  - minify:
+      minify_html: true
 
 not_in_nav: |
   /index.md

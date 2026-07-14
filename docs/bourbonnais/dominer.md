@@ -1,7 +1,5 @@
 # Dominer
 
-## Définition
-
 **Dominer**, par chez nous, ce n'est pas seulement commander, régner, tenir les autres sous sa botte comme un petit empereur de cuisine. C'est plus intérieur, plus sournois, plus lourd : c'est quand une inquiétude vous **occupe entièrement l'esprit**, quand une peine s'installe dans la tête avec ses sabots crottés et refuse de sortir malgré les prières, le café, le travail et le bon sens des voisins. Une nouvelle, une absence, une peur pour les siens, et voilà que ça vous domine : ça vous tient, ça vous serre, ça vous mange la journée par petits bouts. Le mot est beau parce qu'il dit bien cette tyrannie discrète des soucis, ceux qui ne crient pas toujours mais qui prennent toute la place, comme une ombre assise à table.
 
 ## Exemple

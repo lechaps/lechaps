@@ -1,7 +1,5 @@
 # Corner
 
-## Définition
-
 **Corner**, c'est **klaxonner**, mais avec en mémoire qu'avant d'avoir des avertisseurs électriques et des boutons au volant, on savait déjà faire du vacarme avec une corne, un cornet acoustique, et beaucoup d'intention dans le souffle.  
 On ne corne pas comme on klaxonne : klaxonner, c'est administratif, presque urbain, ça sent le Code de la route et le rond-point mal digéré ; **corner**, c'est sonore, franc, un peu paysan, comme si la voiture avait gardé quelque part, sous le capot, une vieille trompe de vacher. On corne deux coups à l'entrée d'un champ, devant une barrière, dans une cour, pour prévenir qu'on arrive, qu'on attend, qu'on s'impatiente, ou simplement qu'on existe.
 

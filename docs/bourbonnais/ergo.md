@@ -1,7 +1,5 @@
 # Ergo
 
-## Définition
-
 L'**ergo**, qu'on rencontre surtout au pluriel — **les ergos** —, c'est le **doigt de pied**, l'orteil, l'arpion, ce petit appendice qu'on oublie tant qu'il ne rencontre ni pied de lit, ni chaussure trop courte, ni ongle décidé à pousser de travers. Le mot n'a rien d'anatomique : il sent le pied nu, la bassine du samedi, les chaussettes reprisées et le coupe-ongles qu'on cherche pendant vingt minutes alors qu'il est devant soi. Se tailler les ergos, c'est donc couper ses ongles de pieds, opération modeste mais nécessaire, où l'homme découvre qu'avec l'âge ses extrémités s'éloignent de lui selon une politique parfaitement déloyale.
 
 ## Exemple

@@ -1,7 +1,5 @@
 # Déniapé
 
-## Définition
-
 **Déniapé**, c'est **déchiré**, **dépenaillé**, mis en morceaux par la vie, les ronces, les chiens, les enfants, les clous de grange et tout ce qui, dans l'existence, possède une dent contre le tissu. Une chemise déniapée n'est plus une chemise : c'est un témoignage, une plainte textile, un ancien vêtement qui continue le service par pure conscience professionnelle. On peut aussi **déniaper** quelque chose, le déchiqueter, le mettre en miettes, le réduire à l'état de pauvre loque vaincue, comme un journal passé sous la pluie ou un pantalon revenu d'une bataille contre une haie particulièrement procédurière.
 
 ## Exemple

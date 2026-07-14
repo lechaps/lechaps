@@ -1,7 +1,5 @@
 # Démarpigner
 
-## Définition
-
 **Démarpigner**, c'est **se défendre**, se débattre, en venir aux mains quand la parole a rendu son tablier et que les bras prennent le dossier en charge. Le mot n'a rien d'un duel au sabre entre gentilshommes poudrés ; ça sent plutôt la cour, le fossé, la sortie de bistrot, la foire qui tourne de travers, avec deux gars cramponnés l'un à l'autre comme des chiens se déchirant un torchon. Se démarpigner, c'est ne pas se laisser faire, rendre coup pour coup, pousser, griffer, secouer, sauver son honneur ou au moins son béret, ce qui dans certaines communes relevait déjà de la haute diplomatie.
 
 ## Exemple

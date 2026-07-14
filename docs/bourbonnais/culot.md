@@ -1,7 +1,5 @@
 # Culot
 
-## Définition
-
 Le **culot**, c'est le **fond de bouteille**, le dernier petit reste, le survivant liquide, la goutte de conclusion qui tremble au fond du verre comme un député au moment du vote. Ce n'est plus vraiment boire une bouteille, non, c'est lui faire les poches, c'est aller chercher dans le bas du flacon ce que les autres ont négligé par paresse, par dignité ou par manque de conviction viticole. Dans les maisons, il y avait toujours quelqu'un pour repérer le culot avant les autres, avec cet œil d'aigle domestique qui distingue, à trois mètres, une larme de rouge abandonnée derrière l'étiquette.
 
 ## Exemple

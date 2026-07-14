@@ -1,7 +1,5 @@
 # Dévorer
 
-## Définition
-
 **Dévorer**, en français bien peigné, c'est manger avec les dents, les crocs, la faim, l'appétit d'un loup mal élevé. Mais dans nos paroles de campagne, le mot prend d'autres chemins, plus cutanés, plus agricoles, plus franchement malcommodes. Quand les orties vous ont caressé les mollets avec leur amabilité de belle-mère électrique, **ça vous dévore** : ça pique, ça brûle, ça démange, ça vous travaille la peau comme si mille petites bêtes tenaient conseil sous votre pantalon. Et quand les sangliers passent dans un champ de trèfles, ils ne mangent pas, non, ils **dévorent** : ils arrachent, retournent, massacrent, labourent sans facture et repartent en laissant derrière eux un désastre de sous-préfecture. Le mot peut même aller jusqu'à l'homme saoul, celui qui est **dévoré** de vin, mangé de l'intérieur par la bouteille, avec l'œil brillant, le verbe mou et la dignité qui cherche une chaise.
 
 ## Exemple

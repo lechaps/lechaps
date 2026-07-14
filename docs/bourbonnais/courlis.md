@@ -1,7 +1,5 @@
 # Courlis
 
-## Définition
-
 Le **courlis**, c'est l'oiseau des marais et des rivages, grand échassier à bec long, arqué comme une vieille serpe qui aurait choisi la poésie plutôt que le bois mort. Il marche dans les vasières avec des jambes de compas, l'air grave, maigre, tiré, presque administratif, comme s'il venait mesurer la solitude au bord de l'eau. Alors, dans la langue familière, on en a fait une image pour parler des gens trop secs, trop longs, trop décharnés : **sec comme un courlis**, ça ne veut pas dire seulement maigre, ça veut dire qu'on pourrait presque vous entendre sonner dans le vent, entre deux roseaux et une mauvaise soupe.
 
 ## Exemple

@@ -1,7 +1,5 @@
 # Ensuqué
 
-## Définition
-
 Être **ensuqué**, c'est être **endormi**, encore englué dans le sommeil, avec les yeux à moitié ouverts, l'esprit resté sous l'édredon et le corps qui avance par pure habitude administrative. On n'est pas forcément couché : on peut très bien être ensuqué devant son café, assis au bord du lit, debout dans la cuisine, la tartine à la main et l'âme quelque part entre deux rêves. Le mot a quelque chose de mou, de chaud, de cotonneux ; il dit cette minute délicieuse et misérable où l'on est déjà réveillé pour les autres, mais pas encore pour soi.
 
 ## Exemple

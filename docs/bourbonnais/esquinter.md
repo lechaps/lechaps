@@ -1,7 +1,5 @@
 # Esquinter
 
-## Définition
-
 **Esquinter**, c'est **abîmer sérieusement**, mettre un objet à mal ou laisser une personne toute cabossée par un coup, une chute, le travail ou simplement cette vieille brute de vie quotidienne. On esquinte une porte en la forçant, un outil en s'en servant comme un sauvage, une veste dans les ronces ; mais on peut aussi s'esquinter le dos, le genou, l'épaule, voire la carcasse entière après une journée à porter plus lourd que son intelligence ne le recommandait. Le mot ne dit pas forcément que tout est fichu : seulement que ça a pris cher, que ça tire, que ça grince et qu'il faudra désormais négocier avec la douleur ou le bricolage.
 
 ## Exemple

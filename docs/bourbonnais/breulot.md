@@ -1,7 +1,5 @@
 # Brelot ou berlaud(e)
 
-## Définition
-
 Le **brelot**, ou **berlaud** quand il prend son air de cousin germain, c'est celui qui met un peu de temps à rejoindre la fanfare du bon sens. Pas forcément un idiot majuscule, non, n'allons pas convoquer les tribunaux de l'intelligence pour une cervelle partie baguenauder derrière les haies ; c'est plutôt le **naïf**, le **simple**, le **lent à la détente**, celui qui arrive au dessert quand tout le monde a déjà rincé les assiettes et rangé la vaiselle. Le mot peut piquer, bien sûr, parce que la langue de la campagne a parfois la dent dure et la moustache ironique, mais il garde souvent ce fond de tendresse qu'on réserve aux gens qu'on connaît trop bien pour les condamner sérieusement. On peut être **berlaud** d'un geste, d'une idée, d'une réponse donnée trois minutes après la bataille ; et **berlaude**, au féminin, garde la même musique de moquerie douce.
 
 ## Exemple
