@@ -1,17 +1,20 @@
 # Hiève (ou hiebe)
 
-**Un lièvre — cet animal timide des bois qu'on regarde courir et qu'on n'attrape jamais vraiment.** C'est le compagnon secret de la campagne, celui qui bond par-dessus les sillons.
+## Définition
 
----
+Le **hiève**, ou **hièvre**, c'est le **lièvre**, ce grand coureur des champs qui vous laisse à peine le temps de le reconnaître avant de disparaître derrière une haie, les oreilles hautes et les pattes déjà rendues deux communes plus loin. On le voit rarement longtemps : une tache brune dans un labour, un bond au bord du chemin, puis plus rien, sinon l'herbe qui remue et l'enfant qui jure l'avoir vu gros comme un veau. Le mot lui va bien, léger, soufflé, presque aussi rapide que la bête ; à peine prononcé, il a déjà filé.
 
-## L'exemple
+## Exemple
 
-*As-tu vu le hiève des bois ?*
+*As-tu vu l'hiève qui vient d'traverser l'chemin ?*
 
-> Avez-vous perçu la présence de ce lagomorphe sauvage qui s'ébat librement dans les espaces sylvestres?
+> « Auriez-vous aperçu ce remarquable lagomorphe qui, dans un éclair de fourrure et avec un mépris souverain pour notre lenteur, vient de franchir la voie avant de se soustraire définitivement à nos observations ? »
 
----
+## On dit aussi
 
-## Le souvenir
+Hiebe, hièvre, lièvre
 
-Les hièves, c'était la preuve qu'il y avait encore de la nature, de la sauvagerie à côté des champs. On en voyait l'hiver, parfois, qui cherchait de la nourriture. Il y avait quelque chose de l'ordre du secret dans cette rencontre — comme si le hiève nous disait : « vous le savez, que le monde ne vous appartient pas vraiment, qu'il y a d'autres habitants ».
+## Pour aller plus loin
+
+* [Hiève ou hièvre — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/hij.htm){ target="_blank" }
+* [Variantes bourbonnaises du nom du lièvre — Orbis Linguarum](https://orbis-linguarum.pl/articles/57/37_martin-minaret.pdf){ target="_blank" }
