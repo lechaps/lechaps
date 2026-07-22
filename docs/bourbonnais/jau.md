@@ -1,7 +1,5 @@
 # Jau
 
-## Définition
-
 Le **jau**, c'est le **coq**, le vrai, celui qu'on n'a pas transformé en chapon et qui tient à le faire savoir dès les premières lueurs, parfois même avant, parce que l'exactitude n'a jamais été la qualité première des réveils à plumes. Il règne sur la basse-cour avec son jabot de général, ses ergots, sa crête rouge et cette démarche de propriétaire terrien qui n'a pourtant jamais payé un arpent. Le mot vient de loin, du vieux fonds de la langue, mais il sonne encore très juste : bref, fier, sonore, presque aussi sec que le cocorico lancé au petit matin.
 
 ## Exemple

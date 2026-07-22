@@ -1,7 +1,5 @@
 # Jasse
 
-## Définition
-
 La **jasse**, c'est la **pie**, cette grande bavarde noire et blanche qui traverse les champs avec sa longue queue en gouvernail et son œil toujours occupé aux affaires des autres. Elle sautille dans les écoins, inspecte les sillons, jacasse du haut d'un arbre comme si elle venait d'apprendre une nouvelle assez considérable pour réveiller tout le canton. Le mot lui va bien : il est bref, vif, un peu criard, avec déjà dans la syllabe le claquement sec de l'oiseau qui commente le monde sans qu'on lui ait demandé son avis.
 
 ## Exemple

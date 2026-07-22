@@ -1,7 +1,5 @@
 # Lâcher une Louise
 
-## Définition
-
 **Lâcher une Louise**, c'est laisser échapper un **pet silencieux**, une vesse sans tambour ni trompette, discrète à l'oreille mais bientôt connue de toute l'assemblée par des voies beaucoup moins musicales. Louise ne s'annonce pas : elle se glisse, elle voyage, elle s'installe entre les convives avec l'innocence offensée de quelqu'un qui n'a rien à voir dans l'affaire. Alors les regards circulent, les narines enquêtent, chacun accuse le chien, la soupe ou son voisin, tandis que le coupable garde le sérieux magnifique des grands criminels de table.
 
 ## Exemple

@@ -1,5 +1,8 @@
 # Passer de la paille
 
-Expressement, signe d'énervement
 
-_Article en cours de rédaction_
+## Exemple
+
+*Je peux te dire que si il commence, ça va passer de la paille*
+
+

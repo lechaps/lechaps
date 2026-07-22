@@ -1,17 +1,9 @@
 # Moi-moi
 
-**Un surnom donné à quelqu'un nommé Martin qui disait toujours "moi", "moi" — l'archétype du égocentrique.** C'est un surnom cruel mais efficace, celui qui résume le caractère en deux mots.
+**Moi-moi**, c'était le surnom donné à quelqu'un de si passionné par sa propre personne qu'il commençait ses phrases par **moi**, les poursuivait avec **moi** et les concluait, par souci de cohérence, avec encore un peu de **moi**. Dans les villages, on ne s'embarrasse pas de longues analyses psychologiques : on observe, on attend, puis on vous baptise en deux syllabes, et l'affaire est classée jusqu'au Jugement dernier. C'était cruel, sans doute, mais d'une précision chirurgicale : le caractère entier tenait dans le surnom, l'emballage, la ficelle et le petit nœud compris.
 
----
+## Exemple
 
-## L'exemple
+*Il nous manquait plus que ça ! Voilà Moi-moi qui arrive.*
 
-*Voilà Moi-moi qui arrive.*
-
-> Nous apercevons à l'horizon cet individu fort préoccupé par sa propre personne.
-
----
-
-## Le souvenir
-
-Moi-moi, c'était une personne réelle du village — quelqu'un qui pensait vraiment que le monde tournait autour de lui. Le surnom était parfait, méchant dans sa précision. C'était drôle de l'entendre se présenter — « je suis Martin, mais tout le monde m'appelle Moi-moi ». Il y avait une forme d'acceptation désabusée dans cette introduction. Les surnoms comme celui-ci, ils collaient à la peau.
+> « Voici précisément que s'avance vers nous cet homme dont l'attention, déjà considérable, demeure presque exclusivement consacrée à l'étude, à la célébration et à l'administration quotidienne de sa propre personne. »

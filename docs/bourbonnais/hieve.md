@@ -1,7 +1,5 @@
 # Hiève (ou hiebe)
 
-## Définition
-
 Le **hiève**, ou **hièvre**, c'est le **lièvre**, ce grand coureur des champs qui vous laisse à peine le temps de le reconnaître avant de disparaître derrière une haie, les oreilles hautes et les pattes déjà rendues deux communes plus loin. On le voit rarement longtemps : une tache brune dans un labour, un bond au bord du chemin, puis plus rien, sinon l'herbe qui remue et l'enfant qui jure l'avoir vu gros comme un veau. Le mot lui va bien, léger, soufflé, presque aussi rapide que la bête ; à peine prononcé, il a déjà filé.
 
 ## Exemple

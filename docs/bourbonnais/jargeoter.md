@@ -1,7 +1,5 @@
 # Jargeoter
 
-## Définition
-
 **Jargeoter**, c'est **bavarder sans fin**, rabâcher, reprendre la même histoire par le manche, par la lame, puis encore par le manche, au cas où l'auditoire aurait eu l'imprudence de comprendre dès la première fois. Le jargeoteur ne cause pas forcément pour dire quelque chose : il entretient la parole, il la fait tourner, il lui ajoute des détails, des cousins, des dates approximatives et trois digressions sur la météo de 1952. Par extension, le **jargeaud** — ou **jargeot** —, c'est le bavard, le radoteur, parfois un peu simple ou hésitant, mais toujours prêt à remettre une pièce dans la machine à paroles, même lorsque le café est froid et que tout le monde cherche déjà son manteau.
 
 ## Exemple

@@ -1,7 +1,5 @@
 # Jabler
 
-## Définition
-
 **Jabler**, c'est **tomber**, ou faire tomber quelque chose d'un coup sec, comme le bonhomme qui a trop bu, la noix qui lâche sa branche ou le fruit qu'on décroche à grands coups de gaule dans le feuillage. On **jable les noix** en frappant le noyer pour faire pleuvoir la récolte, opération rustique où chacun surveille davantage son crâne que la dignité de l'arbre. Et puis il y a le **jalbe**, le fond du tonneau dans l'usage du pays : l'endroit où tout finit par descendre, le vin, le dépôt, et parfois l'homme lui-même quand il a voulu vérifier la qualité trop consciencieusement.
 
 ## Exemple

@@ -1,7 +1,5 @@
 # Jabireux
 
-## Définition
-
 Le **jabireux**, c'est l'**œsophage**, le passage entre la gorge et l'estomac, ce couloir intérieur où descendent la soupe, le vin, le pâté et toutes les imprudences consenties à table. On ne le nomme guère quand tout va bien ; il entre dans la conversation lorsqu'on a trop mangé, que le garganat affiche complet et que la dernière bouchée stationne quelque part derrière la cravate, faute d'autorisation pour aller plus bas. Avoir à manger jusqu'au jabireux, c'est donc être repu au-delà du raisonnable, rempli jusqu'à la toiture, avec le ventre qui menace de déposer une réclamation.
 
 ## Exemple

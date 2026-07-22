@@ -1,7 +1,5 @@
 # Lisette
 
-## Définition
-
 La **lisette**, c'est le **lézard**, le petit locataire des vieux murs qui se chauffe sur les pierres avec l'immobilité satisfaite d'un rentier, puis disparaît dans une fente dès qu'un enfant approche avec ses grosses intentions. Le mot s'emploie familièrement pour nommer ce vif éclair d'écailles qui traverse les cours, les murets et les tas de bois aux beaux jours. La lisette ne fait pas de bruit, ne dérange personne et semble pourtant connaître toutes les cachettes de la maison.
 
 ## Exemple

@@ -1,7 +1,5 @@
 # Imbranlable
 
-## Définition
-
 Être **imbranlable**, c'est être **incapable**, bon à rien sur le moment, sans ressort, sans allant, comme si les bras, la tête et la volonté avaient décidé de prendre congé le même jour. L'imbranlable n'est pas forcément idiot ni paresseux de naissance ; il peut simplement traverser une mauvaise passe où tout lui tombe des mains, où chaque besogne devient une expédition et chaque décision un sommet de l'Himalaya en sabots. Le mot condamne un peu, bien sûr, mais avec cette indulgence bourrue de la campagne : aujourd'hui il ne vaut pas tripette, demain il se reprendra peut-être — faut laisser le moteur refroidir.
 
 ## Exemple

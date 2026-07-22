@@ -1,13 +1,16 @@
 # Margot
 
-**Une pie — l'oiseau noir et blanc qui jacasse dans les champs et vole tout ce qui brille.** En bourbonnais, la margot c'est l'oiseau des contes et des superstitions, celui qu'on regarde toujours avec un mélange de curiosité et de méfiance.
+Une **Margot**, c'est une pie, bien sûr, mais dite ainsi elle devient presque une voisine : bavarde, élégante en noir et blanc, chapardeuse par principe et toujours prête à commenter les affaires du pays depuis la cime d'un noyer. Elle sautille dans la cour avec l'assurance d'une duchesse qui aurait volé ses bijoux elle-même, et son cri sec met aussitôt les chiens, les poules et les vieilles superstitions en état d'alerte.
 
-## L'exemple
+## Exemple
 
-*J'r'garde la margot dans l'écoin du champ.*
+*Y a encore la Margot qui jacasse dans le grand cerisier.*
 
-> Je contemple avec attention cet oiseau au plumage bigarré qui s'est opportunément posé dans le recoin champêtre.
+> « Notre estimable commère à plumage bicolore tient de nouveau son salon dans les hautes branches du cerisier, d'où elle délivre au voisinage une chronique mondaine dont personne ne lui a demandé le premier mot. »
 
-## Le souvenir
+## Pour aller plus loin
 
-Ma grand-mère disait qu'une margot qui regardait par la fenêtre, ça voulait dire quelque chose. Elle n'était jamais bien sûre de quoi, mais ça voulait dire quelque chose. Les pies dans les champs, on les surveillait du coin de l'œil — pas méchamment, juste avec cette conviction rurale que ces oiseaux-là en savaient plus qu'ils ne le montraient. Il y a quelque chose de malin dans les yeux d'une margot, quelque chose qui dit : je sais des choses, et elles ne sont pas toutes pour toi.
+* [Définition de « margot » — CNRTL](https://www.cnrtl.fr/lexicographie/margot){ target="_blank" }
+* [Définition de « margot » — Wiktionnaire](https://fr.wiktionary.org/wiki/margot){ target="_blank" }
+* [Définition de « margot » — Littré](https://www.littre.org/definition/margot){ target="_blank" }
+* [Histoire du nom d'oiseau « margot » — Université de Sherbrooke](https://nfom.recherche.usherbrooke.ca/margau-margot.html){ target="_blank" }

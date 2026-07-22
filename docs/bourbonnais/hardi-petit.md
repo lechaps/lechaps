@@ -1,7 +1,5 @@
 # Hardi petit
 
-## Définition
-
 **Hardi petit !**, c'est l'exclamation qui remet du feu dans les jambes quand le travail menace de ralentir, que les bras commencent à négocier et que quelqu'un, forcément, vient rappeler que la journée n'a pas signé de congé. Ça veut dire **allons, dépêche-toi, courage, on continue**, avec moins de tendresse qu'une berceuse mais davantage d'élan qu'un ordre sec. Le *petit* ne désigne pas forcément un enfant : c'est une manière familière de pousser l'autre en avant, comme on encourage un cheval, un apprenti ou un cousin qui croyait naïvement avoir terminé.
 
 ## Exemple

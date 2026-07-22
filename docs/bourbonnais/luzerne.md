@@ -1,7 +1,5 @@
 # Luzerne
 
-## Définition
-
 La **luzerne**, c'est cette plante fourragère, cousine du trèfle mais autrement plus sérieuse dans son métier, qu'on cultive pour nourrir les bêtes lorsque les prés ne donnent plus assez. On la coupe, on la fait sécher, on la rentre avec son odeur verte et forte, tout un été mis en réserve pour les vaches, les chevaux, les lapins et les longues mâchoires de l'hiver. Riche, généreuse, profondément enracinée, elle travaille sans bruit : elle nourrit le bétail et participe à enrichir la terre, ce qui est déjà beaucoup pour une plante qui ne réclame ni médaille ni discours du maire.
 
 ## Exemple

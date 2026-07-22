@@ -1,7 +1,5 @@
 # Jusse
 
-## Définition
-
 La **jusse**, c'est le **perchoir**, la barre de bois où les poules se juchent pour passer la nuit, rangées dans la pénombre avec la gravité somnolente d'un conseil de famille qui aurait des plumes. Elle traverse le poulailler au-dessus de la paille, assez haute pour rassurer les volailles, assez basse pour rencontrer le front de celui qui entre sans se courber. Le mot est court, sec, bien campé sur ses pattes ; on y entend presque le petit remue-ménage du soir, quand chacune cherche sa place, pousse la voisine et finit par rentrer la tête sous l'aile.
 
 ## Exemple

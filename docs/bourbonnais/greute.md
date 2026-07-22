@@ -1,7 +1,5 @@
 # Greute
 
-## Définition
-
 La **greute**, parfois écrite **greûte**, c'est la **cerise**, ce petit fruit rouge qui fait grimper les enfants dans les arbres, tache les doigts, remplit les poches et laisse autour de la bouche les preuves accablantes du larcin. Elle peut être douce, charnue, presque noire quand elle a bien pris le soleil ; et lorsqu'elle est plus aigre, elle finit volontiers dans le clafoutis, où le sucre lui apprend les bonnes manières. La greute, c'est un morceau de juin suspendu par une queue, avec un noyau dedans pour rappeler que même les plaisirs les plus simples ont leur petite pierre.
 
 ## Exemple

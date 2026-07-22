@@ -1,7 +1,5 @@
 # Kroumir
 
-## Définition
-
 Le **kroumir**, c'est le **vieux**, l'ancien fatigué, celui dont les genoux grincent avant la porte et qui regarde les jeunes s'agiter avec la compassion distraite d'un homme ayant déjà traversé tant d'hivers que le temps lui-même paraît s'être usé à le voir tenir. Le mot se lance sur un ton moqueur, parfois rude, mais souvent avec cette tendresse mal peignée où l'on préfère traiter l'aïeul de vieille carcasse plutôt que lui avouer qu'on s'inquiète pour lui. Un kroumir, ça avance moins vite, ça souffle davantage, mais ça connaît encore deux ou trois choses que les autres apprendront en se faisant mal.
 
 ## Exemple

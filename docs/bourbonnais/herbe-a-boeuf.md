@@ -1,7 +1,5 @@
 # Herbe à bœuf
 
-## Définition
-
 L'**herbe à bœuf**, c'est le **trèfle** dans le jeu de cartes, cette couleur noire à trois feuilles que les gens bien instruits nomment trèfle, mais que les anciens, eux, ramènent sans cérémonie au pré, aux bêtes et à la nourriture sérieuse. À la belote, annoncer herbe à bœuf, ce n'est donc pas commander une botte de fourrage : c'est choisir l'atout, engager la bataille et prendre aussitôt l'air entendu de celui qui possède peut-être le valet — ou seulement beaucoup d'aplomb. Le mot fait entrer la campagne jusque dans les cartes : après tout, pourquoi parler comme à Versailles quand on joue sur une toile cirée, entre un canon et les miettes de pompes aux grattons ?
 
 ## Exemple

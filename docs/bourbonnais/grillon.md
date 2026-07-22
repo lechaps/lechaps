@@ -1,7 +1,5 @@
 # Grillon
 
-## Définition
-
 Le **grillon**, qu'on rencontre surtout au pluriel, c'est une petite tranche de **lard frite dans la graisse**, dorée, pressée, croustillante sur les bords et encore assez généreuse pour faire chanter une salade de pissenlits. Rien à voir avec l'insecte qui gratte son violon dans la cheminée : celui-ci grésille dans le poêlon et parfume toute la cuisine avec l'autorité tranquille du cochon bien employé. On le gardait pour **adouber la salade**, c'est-à-dire l'assaisonner noblement de gras chaud, de vinaigre et de ces morceaux rissolés qui réconcilient la verdure avec les honnêtes gens.
 
 ## Exemple

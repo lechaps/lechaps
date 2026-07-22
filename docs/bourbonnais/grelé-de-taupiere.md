@@ -1,7 +1,5 @@
 # Grelé de taupière
 
-## Définition
-
 Un **grelé de taupière** — prononcé chez nous **guerlé de taupière** —, c'est un **gringalet**, un petit être maigre, chétif, fabriqué avec trois os, deux coudes et juste assez de chair pour empêcher le vent de siffler au travers. On dirait qu'il vient de sortir d'une taupinière avant la fin de la cuisson, encore pâle, encore froissé, avec des bras qui négocient longuement avant de soulever un seau. L'expression se moque, bien sûr, mais sans véritable venin : elle habille d'un peu de terre et de tendresse ceux que la nature a taillés dans l'économie.
 
 ## Exemple
