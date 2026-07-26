@@ -1,17 +1,18 @@
 # Penet
 
-**Un chiffon, une guenille — ce tissu usé qu'on garde parce qu'on ne sait jamais.** Un penet, c'est le début de l'usure, ce moment où le vêtement devient chiffon et s'en va vers les chiffonniers.
+Un **penet**, c'est un vieux chiffon, une guenille encore assez solide pour qu'on refuse de la jeter, mais trop fatiguée pour prétendre rester un vêtement convenable. C'est le commencement de la déchéance textile : la chemise devient linge d'atelier, le torchon perd ses honneurs, et tout cela finit sous l'évier, dans une caisse ou derrière la porte, parce que **ça peut toujours servir** — grande loi domestique qui a sauvé davantage de chiffons que de fortunes.
 
----
-
-## L'exemple
+## Exemple
 
 *Jette pas c'vieux penet, ça peut servir.*
 
-> Je vous recommande de conserver cet ustensile textile dégradé, car il pourrait opportunément trouver une utilité quelconque.
+> « Je vous prie de ne point vous défaire de ce modeste vestige de tissu, dont l'apparence certes déclinante ne saurait exclure une ultime carrière dans l'essuyage, le graissage ou quelque autre mission basse mais nécessaire. »
 
----
+## On dit aussi
 
-## Le souvenir
+chiffon, guenille, loque, vieux linge
 
-Les penets, c'était ce qu'on gardait pour nettoyer, pour torcher, pour faire les chiffons à vaisselle. Une fois qu'un vêtement devenait penet, il changeait de vie — plus de honte à le voir en public, il rejoignait le tas des choses utiles mais invisibles. J'ai connu des gens qui accumulaient les penets au-delà du raisonnable, au cas où. Il y avait une sagesse là-dedans : ne rien jeter de ce qui peut encore servir.
+## Pour aller plus loin
+
+* [« Penet » et « penille » dans le *Petit Recueil du parler de Diou*](https://projetbabel.org/diou/p.htm){ target="_blank" }
+* [Origine locale de « penet », forme de « pannet » — Patrimoine de Diou](https://www.diou03.fr/patrimoine){ target="_blank" }

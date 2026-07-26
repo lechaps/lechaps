@@ -1,17 +1,20 @@
 # Gounelle
 
-**Une guenille, un morceau de tissu pourri — ce qui tombe en lambeaux.** C'est plus usé qu'un penet, plus décomposé. C'est l'étape finale avant la disparition.
+Une **gounelle**, c'est une guenille arrivée au bout de sa carrière, un morceau de tissu si usé, si aminci, si décousu qu'il ne protège plus grand-chose, sinon le souvenir d'avoir été autrefois une chemise, un torchon ou quelque chose de présentable. C'est plus loin que le **penet** : le penet tient encore debout par habitude, tandis que la gounelle a déjà commencé à se rendre à la poussière, fil après fil, avec la discrétion d'une vieille maison qu'on n'ose plus réparer.
 
----
+## Exemple
 
-## L'exemple
+*Jette-moi donc cette gounelle, elle tient pus que par les trous.*
 
-*Ça goutte sur la figure.*
+> « Je vous prie de vous défaire de ce vestige textile dont la cohésion matérielle repose désormais moins sur ses fibres que sur une forme particulièrement émouvante d'obstination. »
 
-> La substance en question s'écoule de manière fort désagréable en direction de la physionomie.
+## On dit aussi
 
----
+guenille, loque, chiffon, haillon, penet
 
-## Le souvenir
+## Pour aller plus loin
 
-Les gounelles, c'était ce qu'on jetait vraiment — plus de récupération possible, c'était juste du déchet. Une gounelle, ça tombait en poussière si on y touchait. Il y avait quelque chose de définitif dans ce mot — le moment où un objet cessait d'être utile, même de loin. Les gounelles, c'était la fin du cycle.
+* [Définition de « guenille » — Académie française](https://www.dictionnaire-academie.fr/article/A9G1654){ target="_blank" }
+* [Définition et étymologie de « guenille » — CNRTL](https://www.cnrtl.fr/definition/guenille){ target="_blank" }
+* [Usages régionaux de « guenille » — Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1G0088.html){ target="_blank" }
+* [Définition de « guenille » — Wiktionnaire](https://fr.wiktionary.org/wiki/guenille){ target="_blank" }
