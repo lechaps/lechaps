@@ -10,7 +10,7 @@ Faire quelque chose **sans trop regarder si ça tient droit**, un peu dans l'urg
 
 ## On dit aussi
 
-À la va-vite, à l'arrache, de guingois, bâclé, cahin-caha.
+À la va-vite, à l'arrache, [de guingouin](./guingouin.md), de guingois, bâclé, cahin-caha.
 
 ## Pour aller plus loin
 

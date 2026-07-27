@@ -12,11 +12,6 @@
 
 Passable, convenable, moyen, pas si mal, correct.
 
-## Souvenir
-
-Il y avait un voisin qu'on appelait toujours pour donner un coup de main, jamais pour donner un conseil. Il réparait les barrières de travers, ratait la moitié de ses semis, mais arrivait quand même à faire tourner sa petite vie avec une sorte d'obstination tranquille. Mon grand-père disait souvent : « Oh lui, attention, c'est un à-peu-près. » Pas avec mépris. Plutôt comme on parle d'une vieille veste un peu usée qu'on continue à mettre parce qu'elle tient encore chaud.  
-Moi, enfant, « à-peu-près » je croyais presque que c'était un métier.
-
 ## Pour aller plus loin
 
 * [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9A2089){ target="_blank" }

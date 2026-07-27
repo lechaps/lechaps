@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-s'étaler, s'affaler, s'écrouler, tomber de tout son long
+[s'accatoufler](./s-accatoufler.md), s'étaler, s'affaler, s'écrouler, tomber de tout son long
 
 ## Pour aller plus loin
 

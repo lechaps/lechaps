@@ -18,5 +18,4 @@ Je devais avoir huit ou neuf ans quand mon grand-père m'a laissé pousser la vi
 
 ## Pour aller plus loin
 
-* [Définition du mot "brouette" de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9B2274){ target="_blank" }
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/berouette){ target="_blank" }

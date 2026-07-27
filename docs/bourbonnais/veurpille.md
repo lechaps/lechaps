@@ -14,7 +14,4 @@ Veurpi, verpi, vipère
 
 ## Pour aller plus loin
 
-* [Définition de « vipère » de l'Académie française](https://www.dictionnaire-academie.fr/article/A9V0890){ target="_blank" }
-* [Définition de « vipère » du CNRTL](https://www.cnrtl.fr/definition/vip%C3%A8re){ target="_blank" }
-* [Définition de « vipère » du Wiktionnaire](https://fr.wiktionary.org/wiki/vip%C3%A8re){ target="_blank" }
 * [Mots usuels du patois bourbonnais — Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }

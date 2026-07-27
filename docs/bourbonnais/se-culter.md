@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-s'asseoir, se poser, s'installer, poser son derrière
+s'asseoir, se poser, s'installer, poser son derrière, [se siter](./se-siter.md)

@@ -16,7 +16,7 @@ Faire de l'**abonde**, c'est autant parler d'une chose qui dure et profite que d
 
 ## On dit aussi
 
-Ça foisonne, ça pullule, y'en a à revendre.
+Ça foisonne, ça pullule, y'en a à revendre, [à tenant la bise](./tenant-la-bise.md)
 
 ## Pour aller plus loin
 

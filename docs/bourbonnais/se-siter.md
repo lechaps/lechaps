@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-s'assire, s'assiter, se culter, s'asseoir, se poser
+s'assire, s'assiter, se culter, s'asseoir, se poser, [se culter](./se-culter.md)
 
 ## Pour aller plus loin
 

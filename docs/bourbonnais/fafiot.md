@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Fou, cinglé, timbré, bredin, dérangé, tacaro
+Fou, cinglé, timbré, [bredin](./bredin.md), dérangé, tacaro, [breulot](./breulot.md)
 
 ## Pour aller plus loin
 

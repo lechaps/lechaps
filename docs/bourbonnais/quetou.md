@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-quetoux, queutoux, faire son quetou, faire piètre mine, avoir l'air souffrant
+[acaboueler](./acaboueler.md), quetoux, queutoux, faire son quetou, faire piètre mine, avoir l'air souffrant
 
 ## Pour aller plus loin
 

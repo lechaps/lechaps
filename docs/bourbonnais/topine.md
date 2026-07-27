@@ -18,7 +18,4 @@ Je revois ma mère penchée sur l'évier, occupée à nettoyer les topines dont 
 
 ## Pour aller plus loin
 
-* [Définition du topinambour de l'Académie française](https://www.dictionnaire-academie.fr/article/A9T1446){ target="_blank" }
-* [Définition du topinambour du CNRTL](https://www.cnrtl.fr/definition/topinambour){ target="_blank" }
-* [Définition du topinambour du Wiktionnaire](https://fr.wiktionary.org/wiki/topinambour){ target="_blank" }
 * [Topine — Dictionnaire bourbonnais du parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }

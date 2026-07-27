@@ -13,6 +13,5 @@ Besace, musette, sacoche, bissac
 
 ## Pour aller plus loin
 
-* [Définition du mot "musette" de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9B0964){ target="_blank" }
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/biasse){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/biasse){ target="_blank" }

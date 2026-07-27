@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-Patraque, mal fichu, épuisé, affaibli, raplapla.
+Patraque, mal fichu, épuisé, affaibli, raplapla, [quetou](./quetou.md)

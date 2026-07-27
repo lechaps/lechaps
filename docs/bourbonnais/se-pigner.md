@@ -1,4 +1,4 @@
-# Pigner (se)
+# Se pigner
 
 ## Définition
 

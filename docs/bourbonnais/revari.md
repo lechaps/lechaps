@@ -1,18 +1,20 @@
 # Revari
 
-Le **revari**, c'est le grand ménage, le remue-ménage, le rangement général qui saisit une maison lorsqu'on décide soudain que plus rien ne restera où le hasard, la paresse et les générations précédentes l'avaient posé. On vide les armoires, on déplace les meubles, on soulève des poussières installées là depuis le Front populaire et l'on retrouve, derrière une caisse, l'objet qu'on cherchait depuis quinze ans — juste après en avoir racheté un. C'est **Marie Kondo à la bourbonnaise** : la méthode en moins, les jurons en plus, et personne ne demande au vieux pot à clous s'il procure de la joie avant de le remettre exactement au même endroit.
+**Faire le revari**, c'est **faire le ménage en grand**, trier, remuer, secouer, ouvrir les armoires, vider les tiroirs et découvrir que la maison conservait depuis vingt ans des objets dont personne n'avait jamais réclamé le retour. Ça arrive souvent au printemps, quand le soleil entre plus franchement par les fenêtres et révèle, avec une cruauté d'huissier, la poussière, les piles de vieux journaux, les chiffons “qui peuvent encore servir” et les boîtes pleines de vis dont aucune ne correspond à rien. Le revari, ce n'est pas seulement nettoyer : c'est remettre le monde domestique dans un ordre provisoire, avant que la vie recommence à tout déranger avec son talent habituel. C'est **Marie Kondo à la bourbonnaise** : la méthode en moins, les jurons en plus, et personne ne demande au vieux pot à clous s'il procure de la joie avant de le remettre exactement au même endroit.
 
 ## Exemple
 
-*Chez eux, c'est l'revari depuis ce matin, y a tout dans la cour.*
+*Au printemps, c'est le grand revari.*
 
-> « La maisonnée s'est engagée depuis l'aube dans une opération de réorganisation d'une ampleur telle que meubles, outils, hardes et souvenirs familiaux ont provisoirement émigré sur la voie publique. »
+> « Avec le retour des beaux jours s'ouvre la vaste campagne annuelle de purification domestique, au cours de laquelle placards, greniers et consciences seront méthodiquement vidés, triés et remis dans un ordre dont la durée demeure hautement incertaine. »
 
 ## On dit aussi
 
-faire le revari, grand rangement, grand ménage, remue-ménage
+Faire le ménage, faire du tri, faire place nette, grand nettoyage, remuer la maison
 
 ## Pour aller plus loin
 
-* [« Revari » dans le Petit Recueil du parler de Diou](https://projetbabel.org/diou/r.htm){ target="_blank" }
-* [« Revari » dans le glossaire complet du parler de Diou](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Définition de « revari » — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/r.htm){ target="_blank" }
+* [Petit recueil du parler de Diou — Projet Babel](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Grammaire et dictionnaire du patois bourbonnais — Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
+* [Attestation de « faire le revari » — Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1P0040.html){ target="_blank" }

@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-à ras, rasibus, au ras, tout ras
+à ras, rasibus, au ras, tout ras, [ratiboiser](./ratiboiser.md)

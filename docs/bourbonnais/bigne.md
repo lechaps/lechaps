@@ -24,4 +24,3 @@ Et puis la bigne, c'est aussi le hanneton. Cette espèce de gros imbécile volan
 ## Pour aller plus loin
 
 * [Définition du mot "bigne" de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9B1085){ target="_blank" }
-* [Définition du mot "hanneton" de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9H0144){ target="_blank" }

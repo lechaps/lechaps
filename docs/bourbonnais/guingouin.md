@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-de guingois, de travers, de biais, de bricole
+[à la va comme j'te pousse](a-la-va-comme-j-te-pousse.md), de guingois, de travers, de biais, de bricole
 
 ## Pour aller plus loin
 
