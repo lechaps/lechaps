@@ -1,23 +1,9 @@
 # Tasiner
 
-**Harceler, importuner, faire quelque chose de manière insistante et ennuyeuse.** Tasiner quelqu'un, c'est le poursuivre avec une idée, une question, un reproche — sans lâcher prise. C'est l'agacement patient, celui qui fatigue à force de répétition.
+**Tasiner** quelqu'un, c'est lui revenir dessus, encore et encore, avec la même question, la même idée, le même reproche, jusqu'à lui user les nerfs comme une vieille corde de puits. Ce n'est pas le grand harcèlement tragique avec chevaux noirs et musique de Wagner : non, c'est l'agacement obstiné, la petite goutte humaine qui tombe toujours au même endroit et finit par creuser un trou dans la patience — laquelle, chacun le sait, n'est déjà pas une denrée bien épaisse.
 
----
-
-## L'exemple
+## Exemple
 
 *Arrête de la tasiner, tu vois bien que tu ne l'intéresses pas.*
 
-> Je vous prie de cesser cette quête insistante de son affection, il est manifeste que vos tentatives ne suscitent chez elle aucun intérêt.
-
----
-
-## On dit aussi
-
-Harceler, importuner, ennuyer, déranger.
-
----
-
-## Le souvenir
-
-Tasiner, c'était ce qu'on disait quand quelqu'un ne lâchait pas — la fille qui tasine le garçon au bal, le petit frère qui tasine sa sœur avec ses questions. Il y avait quelque chose d'inefficace et de touchant dans l'action de tasiner — ce refus d'accepter le non, cette insistance maladroite. J'ai vu des gens tasiner avec une forme d'acharnement doux, comme s'ils croyaient qu'à force de demander, la personne finirait par dire oui. Il y a de la mélancolie dans ce mot, celle de ceux qui ne renoncent pas malgré les rejets répétés.
+> « Veuille renoncer à poursuivre cette malheureuse personne de tes assiduités répétitives : son indifférence, désormais visible depuis le canton voisin, ne semble plus autoriser la moindre espérance diplomatique. »

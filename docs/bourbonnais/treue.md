@@ -1,13 +1,13 @@
 # Treue
 
-**Une truie — la femelle du porc, celle qui donne la vie et le lard.** En bourbonnais, c'est un animal qu'on connaissait intimement, celui des fermes et des traditions, celui dont on ne gaspillait rien.
+La **treue**, c'est la truie, la grosse mère de la porcherie, lourde, grognante, couchée dans la paille avec ses petits serrés contre elle comme des pièces de monnaie dans une bourse de cuir. À la ferme, on la connaissait par son caractère, son appétit et ses maternités ; elle donnait les porcelets, puis, un jour, le lard, les saucisses et ces repas d'hiver où rien ne se perdait — sauf peut-être la mesure, mais c'était déjà une autre tradition.
 
-## L'exemple
+## Exemple
 
 *La treue a eu des petits cette nuit.*
 
-> La femelle porcine a procédé à sa progéniture durant les heures nocturnes.
+> « Durant les heures nocturnes, notre estimable femelle porcine a mené à bien la délicate entreprise de mettre au monde une nombreuse descendance, sans assistance médicale, sans communiqué officiel et avec davantage de courage que bien des gouvernements. »
 
-## Le souvenir
+## Pour aller plus loin
 
-Les treues, c'était la vie à la campagne — ces animaux importants qu'on nourrissait, qu'on soignait, qu'on abattait quand venait l'hiver. Il y avait une relation particulière avec la treue, pas loin du mépris mais pas sans respect non plus. Elle était utile, elle était là, elle faisait son travail. Je me souviens d'une treue du voisin qui s'était sauvée — tout le village était en émoi. C'était un événement, une treue qui s'échappe. Il y a une certaine grandeur comique dans ça, une truie en fuite dans les rues de la campagne.
+* [Définition de « treue » du Wiktionnaire](https://fr.wiktionary.org/wiki/treue){ target="_blank" }

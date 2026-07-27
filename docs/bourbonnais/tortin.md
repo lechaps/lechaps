@@ -1,23 +1,18 @@
 # Tortin
 
-**Tortueux, retors, malin et têtu à la fois — quelqu'un qui ne va jamais droit au but.** Un tortin, c'est celui qui prend les détours, qui trouve les angles bizarres, qui refuse les solutions évidentes. C'est une ruse tranquille, enrobée dans l'apparence de la stupidité.
+Un **tortin**, c'est un retors, un malin, un têtu qui ne prend jamais le chemin droit quand il peut passer par la grange, contourner le puits et revenir par la cuisine avec l'air de n'avoir rien manigancé. Il comprend très bien, contrairement à ce qu'il laisse croire ; seulement, il comprend à sa manière, de biais, avec cette ruse tranquille qui se cache derrière un sourire d'innocent et vous fait douter jusqu'à votre propre date de naissance. Pas forcément méchant, non — mais tortueux comme une racine sous un vieux mur, et tout aussi difficile à déloger.
 
----
+## Exemple
 
-## L'exemple
+*C'est un tortin, celui-là. Y a pas moyen d'lui faire comprendre.*
 
-*C'est un tortin, celui-là. Y'a pas moyen d'lui faire comprendre.*
-
-> Cet individu se caractérise par une propension marquée à l'intrigue et à la duplicité, rendant impossible le partage de ma compréhension de ce sujet.
-
----
+> « Cet individu, dont l'intelligence progresse exclusivement par détours, embuscades et chemins vicinaux, oppose à toute explication raisonnable une résistance si ingénieuse que l'on finirait presque par admirer son obstination, si elle n'était pas aussi prodigieusement agaçante. »
 
 ## On dit aussi
 
-Tortueux, retors, rusé, malin, têtu.
+Retors, rusé, malin, têtu, entêté, espiègle, tortinerie
 
----
+## Pour aller plus loin
 
-## Le souvenir
-
-Un tortin, j'en ai connu un au village — celui qui vendait les fruits au marché. Officiellement, il était vendeur de fruits. Mais en réalité, il faisait des transactions étranges, des arrangements bizarres, des échanges louches. Il avait une façon tortin de faire les choses : jamais direct, toujours avec un détour, un sourire en coin. On le respectait pas vraiment, mais on le craignait un peu. Il y avait quelque chose d'intelligent dans sa malveillance — pas méchant, juste tortin. Quelqu'un qui refusait de jouer le jeu normal, qui trouvait des failles, qui regardait les règles d'un œil critique.
+* [Tortin — Dictionnaire bourbonnais du parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }
+* [Mots usuels du patois bourbonnais — Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }

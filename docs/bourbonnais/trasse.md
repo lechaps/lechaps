@@ -1,17 +1,18 @@
 # Trasse ou trace
 
-**Une haie — cette ligne de buissons et d'arbustes qui délimite les propriétés, qui abrite les oiseaux, qui marque les frontières sans mur.** En bourbonnais, c'est le repère du paysage, ce qui divise les champs de manière naturelle et généreuse.
+La **trasse**, ou **trace**, c'est la haie qui sépare deux prés sans les fâcher tout à fait : un fouillis de branches, de ronces et d'aubépines où les oiseaux logent gratis, où les lapins négocient leurs passages clandestins et où les enfants laissent volontiers un morceau de culotte. Elle marque la limite, certes, mais une limite vivante, changeante, fleurie au printemps, rousse à l'automne, jamais aussi bête ni aussi définitive qu'un mur.
 
----
-
-## L'exemple
+## Exemple
 
 *Faut pas passer par là, y a la trasse du voisin.*
 
-> Je vous recommande d'emprunter un autre itinéraire, cette limite naturelle appartenant à notre voisin demeurant infranchissable.
+> « Je vous recommande instamment de choisir un autre itinéraire, la frontière végétale de notre voisin présentant un enchevêtrement d'épines dont l'hospitalité paraît, à première vue, fort discutable. »
 
----
+## On dit aussi
 
-## Le souvenir
+Trace, trasse, bouchure, tierre, quierre
 
-Les trasses, c'était les routes secrètes de l'enfance — on s'y cachait, on les longeait pour raccourcir les trajets, elles étaient le refuge des lapins et des linottes. J'ai connu un enfant qui s'était perdu en suivant une trasse à travers les champs, tellement elle serpentait. Une trasse bien entretenue, c'était la marque d'un paysan qui prenait soin de ses terres. Une trasse mal fichue, c'était l'anarchie, l'abandon. Il y a quelque chose de vivant dans une haie — elle change avec les saisons, elle n'est jamais figée, elle est poreuse et pleine de vie.
+## Pour aller plus loin
+
+* [Forêts et bocage bourbonnais — Paysages d'Auvergne-Rhône-Alpes](https://www.paysages.auvergne-rhone-alpes.gouv.fr/5-01-forets-et-bocage-bourbonnais-a505.html){ target="_blank" }
+* [Patois bourbonnais : mots usuels — Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }

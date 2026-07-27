@@ -1,13 +1,13 @@
 # Voir fumer
 
-**Prévoir, sentir venir, anticiper quelque chose avant qu'il ne se produise.** C'est une forme de clairvoyance paysanne, celle qui voit le malheur s'approcher avant même qu'il soit visible. Un mot qui dit : j'ai vu les signes, j'ai flairé le coup.
+**Voir fumer**, c'est sentir venir l'affaire avant qu'elle ne montre le bout de son nez : l'orage, la dispute, la sottise ou la catastrophe ménagère avec morceaux de vaisselle. Ce n'est pas prédire l'avenir en robe étoilée devant une boule de cristal ; c'est avoir observé les silences, les regards de travers, l'enfant soudain trop sage et le chien qui quitte prudemment la cuisine. On voit la fumée avant le feu, autrement dit on a flairé le coup — et l'on attend désormais le désastre avec la satisfaction modeste de celui qui pourra dire : « Je l'avais ben dit. »
 
-## L'exemple
+## Exemple
 
-*Ah j'y voyais fumer, fallait qu'ça arrive.*
+*Ah, j'y voyais fumer, fallait qu'ça arrive.*
 
-> Certes, je pressentais cet inévitable tournant des événements depuis longtemps, et voilà que ma perspicacité s'avère des plus justifiées.
+> « Je pressentais depuis quelque temps déjà l'inéluctable dénouement de cette affaire, et les événements viennent, avec une ponctualité presque offensante, rendre un hommage éclatant à ma perspicacité. »
 
-## Le souvenir
+## On dit aussi
 
-Ma grand-mère « voyait fumer » tout. Quand quelqu'un arrivait à table avec un air bizarre, elle « voyait fumer ». Quand un enfant se mettait à être trop calme, elle « voyait fumer ». C'était sa façon de dire : « tu as vu comme j'avais raison ? Je savais, je sentais que ça allait mal tourner. » Il y avait quelque chose de magique dans cette expression, comme si elle avait le don de lire la fumée de l'avenir. Ça ressemblait à de la superstition, mais c'était surtout de la sagesse paysanne — celle qui a appris à observer.
+Sentir venir, pressentir, flairer le coup, voir venir

@@ -1,13 +1,18 @@
 # Viouner
 
-**Aller vite, se dépêcher — donner de la vitesse à quelque chose ou à quelqu'un.** Un verbe plein de mouvement, d'impatience, de dynamisme. Quand quelque chose vioune, ça ne traîne pas.
+**Viouner**, c'est aller vite, prendre de l'allure, filer avec ce petit bruit d'air et de mécanique qui annonce que, cette fois, ça ne traîne plus. Une carriole vioune, une mouche vioune autour des oreilles, et l'on peut faire viouner les enfants lorsqu'ils lambinent au lieu de mettre leurs chaussures. Le mot bourdonne autant qu'il avance : il contient le mouvement, l'impatience et cette conviction qu'avec un encouragement suffisamment sonore, même une vieille charrette finira par se croire à Longchamp.
 
-## L'exemple
+## Exemple
 
-*Elle vioune ta cariole.*
+*Elle vioune, ta cariole.*
 
-> Votre attelage se meut avec une célérité des plus remarquables.
+> « Votre attelage progresse avec une célérité si remarquable que la prudence m'oblige à envisager, derrière cette mécanique d'apparence modeste, la présence clandestine de plusieurs chevaux de compétition. »
 
-## Le souvenir
+## On dit aussi
 
-Viouner, c'était l'appel aux chevaux trop lents, c'était crier « allez, vioune ! » quand on voulait que ça bouge. Ça s'appliquait aussi aux enfants, à la vie, à tout ce qui traînait trop. Il y a quelque chose d'exaspéré et d'affectueux dans ce mot à la fois — ce mélange bourbonnais du reproche gentil et de l'impatience qui n'attend pas. C'est un mot de gens pressés, mais d'une certitude calme que ça finira par avancer, tôt ou tard.
+Vionner, feuter
+
+## Pour aller plus loin
+
+* [Quelques mots de patois bourbonnais — Plan de Baignereau](https://zerotrois.fr/bourbonnais/patois){ target="_blank" }
+* [Verbes du patois bourbonnais — Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais/){ target="_blank" }

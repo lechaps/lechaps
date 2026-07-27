@@ -1,17 +1,9 @@
 # Terziaux
 
-**Un assemblage de treize gerbes de blé — l'unité de mesure de la moisson qui disait: voilà une bonne journée de travail.** En bourbonnais, c'est le chiffre magique du faucheur, celui qui se répète dans les champs comme une chanson de travail.
+Les **terziaux**, ce sont treize gerbes de blé assemblées dans le champ, treize exactement — pas douze, chiffre d'apôtre, ni quatorze, qui serait de la gourmandise. C'était une mesure de moisson, mais aussi la preuve visible du travail accompli : le blé coupé, lié, relevé, mis à l'abri comme on pouvait avant que le ciel, ce vieux contremaître lunatique, ne décide de renverser son arrosoir sur toute l'entreprise.
 
----
-
-## L'exemple
+## Exemple
 
 *Il a fait trois terziaux avant la pluie.*
 
-> L'individu en question a procédé à l'assemblage de trente-neuf gerbes de céréales avant que les éléments météorologiques ne viennent interrompre son labeur.
-
----
-
-## Le souvenir
-
-Les terziaux, c'était le rythme de la moisson — quand on comptait pas en heures mais en terziaux. Treize gerbes, c'était précis, c'était vérifiable. J'ai entendu mon grand-père dire "j'ai fait cinq terziaux" comme un mari d'aujourd'hui dirait "j'ai fait mille kilomètres". Il y avait de la fierté dans ce nombre, et une forme de mesure du monde très concrète. Les terziaux, c'était le langage des moissonneurs entre eux, celui qui disait : on sait tous ce que ça veut dire, pas besoin d'expliquer. Treize gerbes, c'est treize gerbes, partout et toujours.
+> « Avant que les puissances météorologiques ne viennent dissoudre ses ambitions agricoles, cet homme aura néanmoins procédé à l'assemblage méthodique de trente-neuf gerbes, performance qui mériterait au minimum une médaille, un litre de rouge et le droit de s'asseoir cinq minutes. »

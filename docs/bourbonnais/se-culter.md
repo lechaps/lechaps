@@ -1,25 +1,13 @@
 # Se culter
 
+**Se culter**, c'est s'asseoir, se poser, déposer enfin son derrière sur une chaise après avoir suffisamment tourné autour de la table comme une âme en peine cherchant son rond de serviette. Le mot ne s'embarrasse ni de maintien ni de périphrase : on prend son cul, on le pose, et voilà l'homme culté, installé, disponible pour le café, le canon et les affaires du monde. Le **l** ne se prononce pas — il s'est probablement assis avant les autres — si bien que l'expression garde toute la franchise ronde et populaire de sa racine.
 
-Verbe pronominal signifiant **s'asseoir**, au sens familier de « poser son derrière ». L'usage est direct, populaire et imagé : *culter*, c'est littéralement **se poser le cul**.
+## Exemple
 
-À noter : le **L ne se prononce pas**, ce qui rapproche le mot de sa racine familière.
+*Culte-toi donc ! T'es pas pressé, t'as ben l'temps de boire un canon.*
 
-## Exemples
+> « Accordez donc quelque repos à votre personne en prenant place parmi nous ; aucune obligation suffisamment impérieuse ne saurait raisonnablement vous priver d'un verre de vin et de quelques minutes de conversation inutile, donc absolument essentielle. »
 
-_Cultes-tu donc ! T'es pas pressé ? T'as bien le temps de boire un canon._
-> Asseyez-vous donc ! Rien ne vous presse, vous avez amplement le temps de savourer un verre de vin.
+## On dit aussi
 
-## Équivalents
-
-S'asseoir, se poser, s'installer.
-
-## Origine
-
-Le verbe **culter** est directement formé sur le mot **cul**, avec le suffixe verbal *-ter* qui lui donne une allure pseudo-savante ou régulière. Il illustre parfaitement le parler populaire et rural, où les créations spontanées donnent des verbes imagés, souvent plus expressifs que leur équivalent standard.
-
-L'absence de prononciation du *L* renforce la proximité avec le mot « cul » et traduit l'oralité de ce vocabulaire.
-
-## Lien
-
-* Aucune référence externe n'est connue.
+s'asseoir, se poser, s'installer, poser son derrière

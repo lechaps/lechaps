@@ -1,17 +1,20 @@
 # Touche touche
 
-**À foison, en grande quantité, entassé pêle-mêle — quand il y en a trop et que ça s'accumule.** Le mot capture ce moment où l'abondance devient désordre, où on ne sait plus où mettre les choses tellement il y en a.
+**À touche touche**, c'est à foison, serré, entassé au point que chaque chose finit par tenir chaud à sa voisine. Il y en a partout : sur les tables, dans les paniers, entre les voitures, jusque dans les coins où l'on jurait pourtant qu'il n'y avait plus de place. L'abondance devient alors un joyeux désordre, une cohue presque fraternelle — le monde entier coude à coude, sans plan de circulation ni autorisation préfectorale.
 
----
+## Exemple
 
-## L'exemple
+*Y en avait à touche touche.*
 
-*Y'en avait à touche touche.*
+> « L'accumulation avait atteint des proportions telles que chaque élément se trouvait contraint d'entretenir avec son voisin une promiscuité dont l'intimité eût fait rougir jusqu'aux sardines de conserve. »
 
-> L'accumulation était telle que les éléments se trouvaient en une promiscuité remarquable, sans organisation discernable.
+## On dit aussi
 
----
+À touche-touche, à tout touche, à tenant, à brenonceaux
 
-## Le souvenir
+## Pour aller plus loin
 
-Touche touche, c'était le marché du dimanche vu de loin, avant qu'on descende dans la cohue — des gens à touche touche, des fruits à touche touche, des voitures stationnées à touche touche. C'était aussi ce qu'on disait quand quelqu'un rangeait mal ses affaires — « tu as mis ça à touche touche ». Il y avait quelque chose de vivant et de chaotique dans ce mot, l'idée que trop de choses dans un trop petit espace crée une sorte de poésie du désordre. Pas désagréable, finalement. Juste : dense.
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/touche-touche){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/touche-touche){ target="_blank" }
+* [Dictionnaire bourbonnais du parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }
+* [Expressions bourbonnaises du parler de Diou](https://projetbabel.org/diou/expressions.htm){ target="_blank" }

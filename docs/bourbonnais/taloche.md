@@ -1,13 +1,19 @@
 # Taloche
 
-**Une gifle — le coup qu'on donne sur la joue quand les mots ne suffisent plus.** Direct, immédiat, bruyant. C'est l'expression corporelle de l'exaspération, celle que regrettent les parents après l'avoir donnée, mais que les enfants n'oublient jamais.
+La **taloche**, c'est la gifle qui part avant la réflexion, traverse la cuisine avec un bruit de torchon mouillé et laisse derrière elle une joue chaude, un silence énorme et, chez celui qui l'a donnée, ce petit goût de honte qu'on ne sait pas toujours nommer. Jadis, les adultes prétendaient qu'elle remettait les idées en place ; en vérité, elle dérangeait surtout les souvenirs, lesquels ont la rancune patiente et vivent beaucoup plus vieux que les grandes personnes.
 
-## L'exemple
+## Exemple
 
-*Tu vas chercher une taloche si t'continues comme ça.*
+*T'vas prendre une taloche si t'continues comme ça.*
 
-> Sache que je ne tolérerai pas davantage cette insolence, et que ma main lancera prochainement un souffle des plus vigoureuses en direction de ta face.
+> « Persiste encore un instant dans cette conduite insensée, mon jeune ami, et je me verrai contraint de confier au plat de ma main la mission pédagogique que mes paroles, pourtant d'une clarté impériale, n'ont manifestement pas su remplir. »
 
-## Le souvenir
+## On dit aussi
 
-Les taloches, c'était l'avertissement qu'on entendait trop souvent : « tu vas chercher une taloche ». Parfois ça venait, parfois ça ne venait pas. Mais il y avait cette menace douce, qui n'était pas vraiment une menace, juste l'énoncé d'une limite dépassée. J'ai reçu quelques taloches dans mon enfance — pas cruelles, juste des rappels à l'ordre corporels. Il y a quelque chose d'inefficace et de touchant dans la taloche : on sait qu'elle ne résout rien, mais on la donne quand même, par fatigue ou par tradition.
+Gifle, claque, baffe, calotte, tape, soufflet
+
+## Pour aller plus loin
+
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/taloche){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/taloche){ target="_blank" }
+* [Définition du Larousse](https://www.larousse.fr/dictionnaires/francais/taloche/76487){ target="_blank" }

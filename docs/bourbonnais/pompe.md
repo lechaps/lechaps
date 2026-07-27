@@ -1,8 +1,6 @@
 # Pompe
 
-## Définition
-
-Une **pompe**, c'est un gâteau, au sens large et généreux du terme : une pâte levée, parfois sucrée, parfois enrichie de beurre, de fruits ou de quelque richesse sortie du garde-manger. Et puis il y a la **pompe aux gratons**, cousine salée, solide, parfumée, où les morceaux de porc viennent rappeler que la pâtisserie bourbonnaise n'a jamais eu peur de retrousser ses manches. Une pompe, ça se coupe en parts épaisses, ça se mange avec les doigts et ça fait aussitôt revenir les gens autour de la table, même ceux qui venaient seulement dire bonjour.
+Une **pompe**, c'est un gâteau, au sens large et généreux du terme : une pâte levée, parfois sucrée, parfois enrichie de beurre, de fruits ou de quelque richesse sortie du garde-manger. Et puis il y a la **pompe aux gratons**, cousine salée, solide, parfumée, où les morceaux de porc viennent rappeler que la gastronomie bourbonnaise n'a jamais eu peur de retrousser ses manches. Une pompe, ça se coupe en parts épaisses, ça se mange avec les doigts et ça fait aussitôt revenir les gens autour de la table, même ceux qui venaient seulement dire bonjour.
 
 ## Exemple
 

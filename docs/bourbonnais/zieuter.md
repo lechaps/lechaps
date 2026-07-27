@@ -1,13 +1,20 @@
 # Zieuter
 
-**Regarder — observer discrètement, souvent du coin de l'œil.** C'est un regard qui n'engage pas pleinement, une observation en douce. Zieuter, c'est jeter un coup d'œil sans vraiment vouloir l'admettre.
+**Zieuter**, c'est regarder sans avoir l'air d'y toucher, jeter un œil de côté tout en prétendant s'intéresser passionnément à son assiette, au journal ou à une mouche sur le buffet. Le regard s'attarde, surveille, guette parfois avec une curiosité qu'on voudrait discrète, mais qui se voit comme une tache de vin sur la nappe blanche. On ne contemple pas en zieutant : on observe en douce, avec l'innocence très relative de celui qui ne regarde surtout pas — mais qui n'en perd pas une miette.
 
-## L'exemple
+## Exemple
 
 *Je zieute par la fenêtre pour voir qui arrive.*
 
-> Je me permets un discret examen de ce qui se profile au-delà de cette ouverture vitrée.
+> « Je me permets d'examiner avec une discrétion dont je demeure, à vrai dire, le principal admirateur, l'individu qui se profile au-delà de cette ouverture vitrée. »
 
-## Le souvenir
+## On dit aussi
 
-Zieuter, c'était ce qu'on faisait à table quand on ne voulait pas qu'on nous voie regarder quelque chose d'intéressant. Une mère qui zieutait par la fenêtre pour vérifier si les enfants rentraient. Un vieux qui zieutait la télé de son voisin en feignant de regarder ailleurs. Il y a quelque chose de complice dans ce mot, comme s'il reconnaissait notre droit à observer sans nous engager franchement. C'est un regard de liberté, celle de celui qui regarde mais ne se laisse pas voir.
+Zyeuter, lorgner, reluquer, guetter, jeter un œil
+
+## Pour aller plus loin
+
+* [Définition de l'Académie française](https://dictionnaire-academie.fr/article/A9Z0049){ target="_blank" }
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/zieuter){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/zieuter){ target="_blank" }
+* [Définition du Larousse](https://www.larousse.fr/dictionnaires/francais/zyeuter/83274){ target="_blank" }

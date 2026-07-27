@@ -1,17 +1,21 @@
 # Troufignon
 
-**Un imbécile, un idiot — littéralement "trou du cul".** C'est une insulte bourbonnaise directe et sans ambiguïté, celle qu'on lance quand les mots doux ont échoué. Brutal, vulgaire, efficace.
+## Définition
 
-## L'exemple
+Le **troufignon**, au sens premier, c'est le derrière — le trou du cul, pour cesser de tourner autour du pot qui, en l'occurrence, n'est déjà pas d'une grande noblesse. Mais lancé à la figure de quelqu'un, le mot devient un jugement complet : imbécile, maladroit, obstiné dans la sottise, avec ce talent particulier qui consiste à recevoir une consigne simple et à en faire une catastrophe cantonale. C'est vulgaire, brutal, parfaitement déloyal, mais d'une efficacité que bien des discours ministériels pourraient lui envier.
 
-*Quel troufignon, celui-là ! Il a pas compris l'consigne.*
+## Exemple
 
-> Quel individu dépourvu de la moindre compétence cérébrale ! Il s'avère incapable de saisir l'essentiel des directives qu'on lui confie.
+*Quel troufignon, celui-là ! Il a pas compris la consigne.*
 
-## Le souvenir
+> « Quel individu prodigieusement démuni du côté de l'entendement ! Malgré la limpidité presque évangélique des instructions qui lui furent données, il paraît résolu à n'en saisir ni le sens, ni l'esprit, ni même l'existence. »
 
-C'était le mot ultime quand on n'avait plus de patience. Le troufignon, c'était celui qui faisait les choses à l'envers, qui posait les questions bêtes, qui s'obstinait dans l'erreur. Les enfants l'apprenaient tôt, comme on apprend les gros mots — interdit de le dire, donc obligatoire de l'essayer en cachette. Il y a quelque chose d'honnête dans ce mot, une franchise qui refuse les détours. Un troufignon, c'est un troufignon, pas besoin de s'expliquer.
+## On dit aussi
+
+Trou du cul, couillon, imbécile, idiot, cornichon
 
 ## Pour aller plus loin
 
-- [Académie Française - troufignon](https://www.dictionnaire-academie.fr/article/A9T2525)
+* [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9T2525){ target="_blank" }
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/troufignon){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/troufignon){ target="_blank" }

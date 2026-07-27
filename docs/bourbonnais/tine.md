@@ -1,17 +1,18 @@
 # Tine
 
-**Un tonneau, un baquet — ce récipient en bois cercle de fer qu'on utilisait pour presque tout.** En bourbonnais, la tine c'est l'ustensile paysan par excellence, celui qu'on retrouve partout parce qu'il faut bien mettre quelque chose quelque part.
+La **tine**, c'est ce grand récipient de bois cerclé de fer qui sert à tout, parce qu'autrefois les objets n'avaient pas une fonction mais une carrière entière. On y transporte l'eau, le lait, parfois la vendange ; on y rince, on y trempe, on y verse ce qu'il faut bien mettre quelque part en attendant mieux. Lourde à vide, traîtresse une fois pleine, elle occupe la cour avec la robuste évidence des choses indispensables — pas élégante pour deux sous, mais on ne demande pas à un baquet de danser le quadrille.
 
----
-
-## L'exemple
+## Exemple
 
 *Remplis la tine d'eau pour les bêtes.*
 
-> Veuillez procéder au remplissage du récipient cylindrique en vue de désaltérer les animaux de la basse-cour.
+> « Je te saurais gré d'emplir généreusement ce vénérable récipient de bois afin que notre cheptel, dont les exigences hydriques deviennent chaque jour plus impérieuses, puisse se désaltérer dans des conditions conformes à sa dignité. »
 
----
+## On dit aussi
 
-## Le souvenir
+Tinne, tinette, baquet, cuve, tonneau ouvert
 
-Les tines, elles étaient partout à la ferme — une pour l'eau, une pour le lait, une pour les détritus. Ma grand-mère en avait une énorme qui servait à la lessive, cette grosse tine en bois qu'on devait remplir à l'eau chaude. Elle était lourde, usée par les années, les cercles de fer rouillés. On apprenait à être prudent avec une tine, parce qu'elle était aussi solide que fragile — solide pour supporter le poids des choses, fragile parce qu'elle pouvait se fendiller, se déboîter. Une tine bien entretenue, c'était un outil qu'on transmettait, génération après génération.
+## Pour aller plus loin
+
+* [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9T1225){ target="_blank" }
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/tine){ target="_blank" }

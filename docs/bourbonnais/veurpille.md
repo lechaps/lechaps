@@ -1,13 +1,20 @@
 # Veurpille
 
-**Une vipère — le serpent qu'on craint, celui qui mord, celui qu'on déteste sans vraiment l'avoir vu.** En bourbonnais, c'est un mot qui porte la peur ancienne des champs, celle du danger tapi dans l'herbe.
+La **veurpille**, c'est la vipère, le serpent qu'on redoutait bien avant de l'avoir vu, tapi sous une pierre chaude, roulé dans les herbes ou simplement installé dans l'imagination des enfants. Le mot lui-même rampe un peu dans la bouche : il porte la méfiance ancienne des gens de la campagne devant cette bête discrète, venimeuse et beaucoup moins empressée de nous mordre que les histoires ne le prétendaient. Mais allez donc expliquer la mesure et la zoologie à quelqu'un qui vient d'apercevoir une corde bouger toute seule dans les haricots.
 
-## L'exemple
+## Exemple
 
 *Attention, y a une veurpille dans le jardin !*
 
-> Je vous recommande la plus grande vigilance, un reptile venimeux s'étant opportunément établi dans cet espace horticole.
+> « Je vous recommande la plus extrême vigilance, un reptile venimeux ayant jugé opportun d'établir ses quartiers au milieu de nos cultures, sans autorisation municipale ni considération particulière pour la tranquillité des jardiniers. »
 
-## Le souvenir
+## On dit aussi
 
-Les veurpilles, c'était l'histoire qu'on se racontait pour ne pas s'aventurer seul trop loin. Elles étaient partout et nulle part — c'est-à-dire qu'on en parlait beaucoup plus qu'on n'en voyait. Mais il y avait une véritable terreur dans ce nom-là, quelque chose d'ancien. Une veurpille, c'était l'incarnation de la nature qui ne veut pas de nous, celle qui mord au lieu de s'enfuir. Petit, j'imaginais les veurpilles beaucoup plus grandes qu'elles ne l'étaient vraiment.
+Veurpi, verpi, vipère
+
+## Pour aller plus loin
+
+* [Définition de « vipère » de l'Académie française](https://www.dictionnaire-academie.fr/article/A9V0890){ target="_blank" }
+* [Définition de « vipère » du CNRTL](https://www.cnrtl.fr/definition/vip%C3%A8re){ target="_blank" }
+* [Définition de « vipère » du Wiktionnaire](https://fr.wiktionary.org/wiki/vip%C3%A8re){ target="_blank" }
+* [Mots usuels du patois bourbonnais — Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }

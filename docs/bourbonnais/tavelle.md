@@ -1,21 +1,23 @@
 # Tavelle
 
-**Une bûche, un rondin, un gourdin — le bois que tu jettes ou qui te jette.** Une tavelle, c'est aussi la volée de coups qu'on reçoit, qu'on appelle "tisane de tavelles" quand il y en a plusieurs. Un mot qui résonne comme le bruit du bois qui tombe.
+La **tavelle**, c'est une bûche, un rondin, un gourdin : enfin du bois assez sérieux pour chauffer la soupe ou refroidir les enthousiasmes, selon la main qui s'en empare. Elle traîne près du fourneau, tombe du tas avec un bruit de justice sommaire et, lorsqu'elle sert à distribuer quelques horions, devient une **tisane de tavelles** — remède ancien, sans sucre, sans ordonnance et généralement administré à un patient qui n'avait rien demandé.
 
-## L'exemple
+## Exemple
 
 *Attention à la tavelle qui traîne là.*
 
-> Je vous recommande la plus grande vigilance, un morceau de bois demeurant opportunément étendu sur cette superficie.
+> « Je vous recommande la plus extrême vigilance, une imposante pièce de bois ayant choisi de demeurer étendue sur votre passage avec des intentions dont la bienveillance ne saurait être garantie. »
 
-*Il lui a mis une tavelle dans la gueule.*
+*Il a sorti la tisane de tavelles.*
 
-> L'individu en question a projectilisé ledit objet de manière plutôt peu courtoise vers la physionomie de son adversaire.
+> « L'individu, renonçant soudain aux subtilités du dialogue civilisé, entreprit d'administrer à son adversaire une décoction ligneuse dont la posologie reposait principalement sur la vigueur du bras. »
 
 ## On dit aussi
 
-Bûche, rondin, gourdin, volée de coups.
+Tavel, bûche, rondin, gourdin, tisane de tavelles
 
-## Le souvenir
+## Pour aller plus loin
 
-Les tavelles, c'était ce qui traînait partout à la campagne — les morceaux de bois qu'on ne range jamais vraiment. Et puis il y avait ce sens plus violent, celui qu'on n'aimait pas entendre : "il lui a mis une tavelle". C'était le langage de la baston rurale, directe et sans appel. Le mot portait en lui la crudité de la vie paysanne, là où les conflits se réglaient avec ce qu'on avait sous la main.
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/tavelle){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/tavelle){ target="_blank" }
+* [Lexique bourbonnais du parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }

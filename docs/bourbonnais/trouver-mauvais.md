@@ -1,17 +1,20 @@
 # Trouver mauvais
 
-**S'offenser, s'offusquer, prendre la mouche pour un rien.** Trouver quelque chose mauvais, c'est décider que ça dépasse les bornes, que c'est une attaque personnelle — même si c'était juste une blague ou une remarque anodine.
+## Définition
 
-## L'exemple
+**Trouver mauvais**, c'est s'offenser, se vexer, prendre pour une déclaration de guerre ce qui n'était parfois qu'une plaisanterie mal peignée. L'expression sert aussi de précaution avant de lâcher une vérité un peu raide : on demande à l'autre de ne pas « trouver mauvais », tout en sachant pertinemment qu'on s'apprête à lui marcher sur les sentiments avec les sabots du dimanche. C'est la politesse des gens directs : elle met un napperon sur la franchise, mais on sent tout de même la table en dessous.
+
+## Exemple
 
 *Tu vas pas trouver mauvais si je te dis que t'as grossi ?*
 
-> Seriez-vous susceptible de prendre ombrage d'une observation anatomique que je me permettrais de vous soumettre avec bienveillance ?
+> « Seriez-vous disposé à ne point prendre ombrage de l'observation purement anatomique que ma bienveillance, alliée à une regrettable absence de diplomatie, s'apprête à soumettre à votre jugement ? »
 
 ## On dit aussi
 
-S'offenser, s'offusquer, prendre la mouche, se vexer.
+S'offenser, s'offusquer, se vexer, prendre la mouche, prendre ombrage
 
-## Le souvenir
+## Pour aller plus loin
 
-Trouver mauvais, c'était cette danse délicate qu'on faisait à table — dire quelque chose d'un peu trop direct, et puis ajouter : « Tu vas pas trouver mauvais ? » C'était reconnaître d'avance que la chose pouvait blesser, tout en espérant que l'autre comprendrait que ce n'était pas volontaire. Il y a une forme d'amitié dans cette expression, une tentative de rester gentil malgré l'absence de finesse. Et puis il y avait ceux qui trouvaient toujours mauvais, quoi qu'on dise. Pour eux, une remarque innocente devenait soudain une trahison majeure.
+* [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9M1415){ target="_blank" }
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/trouver){ target="_blank" }
