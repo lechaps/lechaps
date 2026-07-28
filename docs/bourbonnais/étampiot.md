@@ -14,4 +14,4 @@ Tréteau, chevalet, support de table, étampiots
 
 ## Pour aller plus loin
 
-* [Forme apparentée « étampiau », au sens de tréteau — Le patois d’Étroussat, Occitanica](https://www.occitanica.eu/items/show/21109){ target="_blank" }
+* [Forme apparentée « étampiau », au sens de tréteau — Le patois d'Étroussat, Occitanica](https://www.occitanica.eu/items/show/21109){ target="_blank" }

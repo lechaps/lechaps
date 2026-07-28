@@ -10,7 +10,7 @@ Le **saint-frusquin**, c'est tout ce qu'on possède, tout ce qu'on transporte, t
 
 ## On dit aussi
 
-tout le bazar, tout le fourbi, tout le bataclan, tout l'attirail, tout son barda
+tout le bazar, tout le fourbi, tout le bataclan, tout l'attirail, tout son barda, [alleluia](./alleluia.md)
 
 ## Pour aller plus loin
 

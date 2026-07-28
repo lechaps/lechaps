@@ -18,7 +18,7 @@ Aplani, tassé, remis d'équerre, ramené à sa place
 
 ## Souvenir
 
-Je revois mon grand-père avec sa marre au bout du jardin, un chapeau mangé par les années et les épaules déjà un peu rentrées dans le paysage. Il passait le dos de l'outil sur la terre fraîchement retournée en disant : « Faut agaler tout ça. » Et il faisait ça doucement, presque tendrement, comme s'il coiffait quelqu'un avant une photo de communion. Plus tard, j'ai compris qu'il parlait pareil des hommes. Ceux que la vie avait un peu trop fait gonfler. Ceux qu'un deuil, une faillite ou une femme partie avec le gars des pompes funèbres.  
+Je revois mon grand-père avec sa marre au bout du jardin, un chapeau mangé par les années et les épaules déjà un peu rentrées dans le paysage. Il passait le dos de l'outil sur la terre fraîchement retournée en disant : « Faut agaler tout ça. » Et il faisait ça doucement, presque tendrement, comme s'il coiffait quelqu'un avant une photo de communion. Plus tard, j'ai compris qu'il parlait pareil des hommes. De ceux que la vie avait laissés prendre un peu trop de place, jusqu'à ce qu'un deuil, une faillite ou une femme partie se charge de les ramener à hauteur d'homme.  
 Et puis il y avait mon autre grand-père, toujours prêt à couper court aux plaintes des autres avec sa phrase à lui :
 *« Jésus Christ a souffert… nous aussi on en a enduré. »*
 Il disait ça avec un petit sourire en coin, comme une vérité qu'on ne discute pas. Après ça, plus personne n'osait trop se lamenter.

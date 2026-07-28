@@ -10,7 +10,7 @@ S'**accatoufler**, c'est se laisser tomber d'un coup, sans grâce et sans préca
 
 ## On dit aussi
 
-Tomber, s'écrouler, s'affaler, se vautrer, [s'élarder](./s-elarder.md)
+Tomber, s'écrouler, s'affaler, se vautrer, [s'élarder](./s-elarder.md), [éboueller](./éboueller.md)
 
 ## Le souvenir
 

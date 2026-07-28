@@ -1,7 +1,10 @@
 # Mon dictionnaire amoureux du patois bourbonnais
 
-Ce petit dictionnaire rassemble les mots de mon enfance.  
-Des mots entendus avec mes grands-parents et mes parents, pendant les repas de famille, les journées à la ferme ou les balades dans la nature. Certains viennent du patois bourbonnais, d'autres sont nés de leur imagination vive et malicieuse. Ensemble, ils racontent une langue transmise de bouche à oreille, une façon de parler, de vivre et de voir le monde.
+Ce petit dictionnaire rassemble les mots qui accompagnent ma vie depuis l'enfance. Des mots entendus auprès de mes grands-parents et de mes parents, employés en famille ou plus largement dans le Bourbonnais.
+
+Ils résonnaient pendant les repas de famille, les travaux aux champs, les journées à la ferme ou les promenades dans la nature. Certains appartiennent au patois bourbonnais ; d'autres sont peut-être nés de l'imagination vive et malicieuse de ceux qui les employaient.
+
+Transmis de bouche à oreille, ces mots racontent bien plus qu'une langue. Ils portent une manière de vivre, de rire, de nommer les choses et de regarder le monde. En les recueillant ici, je souhaite préserver un peu de cette mémoire familiale et bourbonnaise, avec toute la tendresse qui s'attache aux mots de l'enfance.
 
 Quelques rappels sur le patois du bourbonnais :
 

@@ -17,4 +17,4 @@ Lézard, lézard des murailles, lézard gris
 * [« Lisette », un lézard — Le parler bourbonnais de Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
 * [« Lisette », un lézard — Quelques mots de patois bourbonnais](https://www.zerotrois.fr/baignereau/bourbonnais/patois){ target="_blank" }
 * [« Lisette », lézard — Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
-* [« Lisette », variante de l’Allier pour le lézard des murailles — Wiktionnaire](https://fr.wiktionary.org/wiki/langrotte){ target="_blank" }
+* [« Lisette », variante de l'Allier pour le lézard des murailles — Wiktionnaire](https://fr.wiktionary.org/wiki/langrotte){ target="_blank" }

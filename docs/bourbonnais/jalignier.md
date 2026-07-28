@@ -14,7 +14,7 @@ Perchoir à poules, perchoir, juchoir
 
 ## Pour aller plus loin
 
-* [« Jalignier », mot bourbonnais désignant le poulailler — Dictionnaire historique de l’anthroponymie romane](https://dokumen.pub/dictionnaire-historique-de-lanthroponymie-romane-patronymica-romanica-volume-iii-2-les-animaux-2-les-oiseaux-poissons-et-invertebres-9783110637977-9783110637953.html){ target="_blank" }
+* [« Jalignier », mot bourbonnais désignant le poulailler — Dictionnaire historique de l'anthroponymie romane](https://dokumen.pub/dictionnaire-historique-de-lanthroponymie-romane-patronymica-romanica-volume-iii-2-les-animaux-2-les-oiseaux-poissons-et-invertebres-9783110637977-9783110637953.html){ target="_blank" }
 * [Définition de « gelinier » — CNRTL](https://www.cnrtl.fr/definition/gelinier){ target="_blank" }
 * [Définition de « gelinier » — Littré](https://www.littre.org/definition/gelinier){ target="_blank" }
 * [« Jalinier », poulailler en occitan — Wiktionnaire occitan](https://oc.wiktionary.org/wiki/jalinier){ target="_blank" }

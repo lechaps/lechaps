@@ -12,4 +12,4 @@
 
 * [Définition de « garder un chien de sa chienne » — Wiktionnaire](https://fr.wiktionary.org/wiki/garder_un_chien_de_sa_chienne){ target="_blank" }
 * [Expression « ne rien perdre pour attendre » — Expressio](https://www.expressio.fr/expressions/ne-rien-perdre-pour-attendre){ target="_blank" }
-* [Attestations de « garder un chien de sa chienne » — Bob, dictionnaire d’argot](https://www.languefrancaise.net/Bob/12130){ target="_blank" }
+* [Attestations de « garder un chien de sa chienne » — Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/12130){ target="_blank" }

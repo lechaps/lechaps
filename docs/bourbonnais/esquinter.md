@@ -14,7 +14,7 @@ Abîmer, endommager, détériorer, blesser, amocher, éreinter
 
 ## Pour aller plus loin
 
-* [Définition de l’Académie française](https://www.dictionnaire-academie.fr/article/A9E2650){ target="_blank" }
+* [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9E2650){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/esquinter){ target="_blank" }
 * [Étymologie du CNRTL](https://www.cnrtl.fr/etymologie/esquinter){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/esquinter){ target="_blank" }

@@ -17,5 +17,5 @@ pet, vent, caisse, louise
 * [Définition de « perlouse » — CNRTL](https://www.cnrtl.fr/lexicographie/perlouse){ target="_blank" }
 * [Définition de « perlouse » — Wiktionnaire](https://fr.wiktionary.org/wiki/perlouse){ target="_blank" }
 * [Définition de « perlouse » ou « perlouze » — Larousse](https://www.larousse.fr/dictionnaires/francais/perlouse/59672){ target="_blank" }
-* [« Perlouse » dans Bob, dictionnaire d’argot](https://www.languefrancaise.net/Bob/25538){ target="_blank" }
+* [« Perlouse » dans Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/25538){ target="_blank" }
 * [Définition de « perlouse » — La langue française](https://www.lalanguefrancaise.com/dictionnaire/definition/perlouse){ target="_blank" }

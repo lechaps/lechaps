@@ -14,9 +14,9 @@ Mettre la clé sous la porte, vider la caisse, faire faillite, boire le fonds, d
 
 ## Pour aller plus loin
 
-* [Définition de l’Académie française](https://www.dictionnaire-academie.fr/article/A9G1433){ target="_blank" }
+* [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9G1433){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/grenouille){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/manger_la_grenouille){ target="_blank" }
 * [Définition de Larousse](https://www.larousse.fr/dictionnaires/francais/grenouille/38156){ target="_blank" }
-* [Origine de l’expression — Expressio](https://www.expressio.fr/expressions/manger-bouffer-la-grenouille){ target="_blank" }
+* [Origine de l'expression — Expressio](https://www.expressio.fr/expressions/manger-bouffer-la-grenouille){ target="_blank" }
 * [Définition de La langue française](https://www.lalanguefrancaise.com/dictionnaire/definition/manger-la-grenouille){ target="_blank" }

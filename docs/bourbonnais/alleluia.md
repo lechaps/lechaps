@@ -11,5 +11,4 @@ Quand quelqu'un « fait son alléluia », ça veux dire qu'il en rajoute. Et dan
 
 ## On dit aussi
 
-Cinéma, comédie, grand tralala, tout le saint-frusquin, tintouin, ramdam
-
+Cinéma, comédie, grand tralala, tout le [saint-frusquin](./saint-frusquin.md), tintouin, ramdam
