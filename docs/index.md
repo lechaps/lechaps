@@ -11,7 +11,7 @@ Ces carnets sont **un mélange des genres, à mon image** : curieux, attentif, p
 
 ## Ce que vous trouverez ici
 
-### 🏰 Le dictionnaire bourbonnais
+### 🏰 Bourbonnais
 
 > Mon dictionnaire amoureux du patois bourbonnais  
 > Des mots entendus dans mon enfance, transmis de bouche à oreille, entre champs, repas de famille et histoires de village.  
