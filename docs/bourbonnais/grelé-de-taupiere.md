@@ -10,7 +10,7 @@ Un **grelé de taupière** — prononcé chez nous **guerlé de taupière** —,
 
 ## On dit aussi
 
-Guerlé de taupière, gringalet, maigrichon, demi-portion, sec comme un courlis
+Guerlé de taupière, gringalet, maigrichon, demi-portion, [sec comme un courlis](./sec-comme-un-courlis.md)
 
 ## Pour aller plus loin
 

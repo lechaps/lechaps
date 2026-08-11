@@ -15,6 +15,7 @@ Quelques rappels sur le patois du bourbonnais :
 En plus, voici quelques liens utiles :
 
 * [Dictionnaire des régionalismes de France - le Y](https://drf.4h-conseil.fr/pages/D1Y0001.html){ target="_blank" }
+* [Bourbonnais (dialectes) — Wikipédia](https://fr.wikipedia.org/wiki/Bourbonnais_(dialectes)){ target="_blank" }
 * [Centre National de Ressources Textuelles et Lexicales](https://www.cnrtl.fr/definition/){ target="_blank" }
 * [Laurent Carcone](https://zerotrois.fr/baignereau/bourbonnais/patois){ target="_blank" }
 * [Site historique du Bourbonnais - Lexique](http://micbourbonnais.free.fr/lexique.htm){ target="_blank" }

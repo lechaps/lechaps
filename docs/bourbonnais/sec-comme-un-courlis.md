@@ -10,7 +10,7 @@ Le **courlis**, c'est l'oiseau des marais et des rivages, grand échassier à be
 
 ## On dit aussi
 
-Maigre comme un clou, sec comme un coup de trique, décharné, échalas
+Maigre comme un clou, sec comme un coup de trique, décharné, échalas [avoir des cannes de serin](./canne-de-serin.md)
 
 ## Pour aller plus loin
 
@@ -18,3 +18,4 @@ Maigre comme un clou, sec comme un coup de trique, décharné, échalas
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/courlis){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/courlis){ target="_blank" }
 * [Définition de Larousse](https://www.larousse.fr/dictionnaires/francais/courlis/19921){ target="_blank" }
+
