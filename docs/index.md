@@ -49,6 +49,14 @@ Ces carnets sont **un mélange des genres, à mon image** : curieux, attentif, p
 
 ---
 
+### 🧭 Repères
+
+> Des lectures, des conférences, des récits et des outils qui ont nourri le regard sur les systèmes humains, les organisations et celles et ceux qui les font vivre.
+
+🔹 [Parcourir les repères](./reperes/index.md)
+
+---
+
 *Ces carnets suivent une intention simple, expliquée dans le [manifeste du site](./manifeste.md).*
 
 ---
