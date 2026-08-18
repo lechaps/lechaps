@@ -1,4 +1,4 @@
-# Pisse de chien (en)
+# En pisse de chien
 
 Être **en pisse de chien**, c'est être **éparpillé**, abandonné sans ordre ni soin, bout-ci, bout-là, comme si chacun avait lâché son affaire à l'endroit précis où la fatigue lui était tombée dessus. Des outils en pisse de chien dans le jardin, ce sont une bêche couchée dans les salades, un râteau en travers du passage, une binette qui rouille sous la pluie et, quelque part, un manche dressé pour casser les reins du premier innocent. L'expression n'est pas distinguée, certes, mais elle peint admirablement le désordre : plusieurs petites négligences déposées au hasard, avec cette désinvolture canine qui ne connaît ni rangement, ni remords, ni remise à outils.
 

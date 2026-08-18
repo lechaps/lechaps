@@ -1,4 +1,4 @@
-# Gonfle (ou gonfe)
+# Gonfle
 
 Être **gonfle**, ou **gonfe**, c'est être saoul, bien chargé, avec les idées qui flottent, les jambes qui prennent des initiatives et la parole qui se découvre soudain des talents d'orateur. Le mot dit moins l'ivrognerie que cet état d'expansion générale où l'homme, rempli de vin, de certitudes et d'amitié pour des gens qu'il connaît à peine, devient plus large que nature — jusqu'au moment où le banc, la haie ou le fossé lui rappellent les lois élémentaires de la gravitation.  
 Mais on peut aussi être **gonfle** après avoir trop mangé : le ventre tendu, la ceinture devenue ennemie personnelle et l'impression d'avoir avalé le repas, la nappe et peut-être un convive avec.  

@@ -1,4 +1,4 @@
-# Feneau (fneau)
+# Feneau
 
 Le **feneau**, qu'on dit plus volontiers **fneau** quand la bouche va plus vite que l'orthographe, c'est le **fenil**, le grenier où l'on entasse le foin pour nourrir les bêtes durant l'hiver. Là-haut, sous les tuiles, dorme tout un été coupé : les herbes sèches, les fleurs fanées, la chaleur des prés, avec cette odeur douce et poussiéreuse qui vous prend à la gorge et vous pique jusque dans la chemise. Le feneau n'est pas seulement une réserve ; c'est un étage secret de la ferme, chaud comme un four en juillet, glacé comme une soutane en janvier, où chaque pas doit se négocier avec une échelle, une poutre basse et quelques souris propriétaires des lieux.
 

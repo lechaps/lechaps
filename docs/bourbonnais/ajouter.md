@@ -6,7 +6,7 @@
 
 ## Exemple
 
-*Faut qu'j'aille ajouter les vaches avant qu'y fasse nuit.*
+*Faut qu'j'aille ajouter les vaches avant la nuit.*
 
 > « Les nécessités impérieuses de l'économie laitière m'obligent désormais à prendre congé de votre compagnie afin d'aller procéder, auprès de mes bovins, à l'extraction méthodique de leur production lactée vespérale. »
 

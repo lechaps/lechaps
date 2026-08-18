@@ -1,7 +1,9 @@
 # Agadon
 
-**Agadon**, c'est le doigt qu'on tend sans le tendre. Le petit coup de menton qui oblige tout le monde à regarder dans la même direction. Ça peut annoncer une catastrophe, une beauté, un voisin qui passe avec une voiture neuve ou simplement un chien qui dort devant la cuisinière.
-Le mot arrive toujours un peu brusquement, avec cette économie de syllabes propre aux gens qui ont longtemps travaillé dehors : *« Agadon… »* Et tout le monde tourne la tête. Pas besoin d'explication. Dans le Bourbonnais, on sait très bien que les grands discours fatiguent les lèvres et refroidissent la soupe.
+Agadon, c'est le doigt qu'on pointe sans même prendre la peine de lever la main. Un coup de menton, parfois un regard, et voilà toute la tablée sommée de tourner la tête dans la même direction. Ça peut annoncer une catastrophe, une merveille, le voisin qui passe avec une voiture neuve — ce qui, selon le voisin, revient parfois au même — ou simplement un chien endormi devant la cuisinière.
+
+Le mot tombe sans préavis : « Agadon… » Deux ou trois syllabes, pas davantage. Une économie de langage propre aux gens qui ont longtemps travaillé dehors et savent qu'on peut parfaitement désigner le monde sans lui faire un discours. Et tout le monde regarde. Pas besoin d'explication. Dans le Bourbonnais, on sait depuis longtemps que les grands discours fatiguent les lèvres et, surtout, refroidissent la soupe.
+
 
 ## L'exemple
 

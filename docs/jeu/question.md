@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Questions
 
 Quand ? Quoi ? Où ? Comment ? Qui ?

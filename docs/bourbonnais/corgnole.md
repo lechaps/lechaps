@@ -1,4 +1,4 @@
-# Corgnole, corniaule, corniole, courgnole, courgnaule, courniole
+# Corgnole
 
 La **corgnole**, ou **corniaule** quand le mot prend un peu plus de rondeur dans la bouche, c'est la **gorge**, le **gosier**, le grand tuyau de l'existence par où descendent le vin, la soupe, les rires, les jurons, les aveux mal ficelés et parfois le dernier mot qu'on aurait mieux fait de garder derrière les dents. C'est un mot de table, de cave et de grand air, un mot qui gratte juste ce qu'il faut, avec son petit bruit de bouchon qu'on arrache et de voix qui force après le troisième canon. Avoir la corgnole en pente, ce n'est pas seulement avoir soif : c'est posséder une géographie intérieure favorable aux liquides, un relief personnel où tout descend trop bien, trop vite, trop volontiers, comme si le gosier avait signé un bail avec la vigne.
 

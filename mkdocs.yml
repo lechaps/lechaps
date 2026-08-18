@@ -65,6 +65,7 @@ plugins:
 not_in_nav: |
   /index.md
   /jeux/*
+  bourbonnais/book-preface.md
 
 extra:
   #generator: false

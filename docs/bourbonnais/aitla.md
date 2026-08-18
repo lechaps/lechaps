@@ -14,5 +14,8 @@
 
 ## Le souvenir
 
-C'était le soupir de mon grand-père quand il se laissait tomber dans le siège du tracteur avant de le démarrer. « A y t'là ! » — dit fort, presque soulagé, comme si la voix devait couvrir le bruit du moteur. Il y avait de la fierté là-dedans, et du soulagement aussi, ce mélange des gens qui savent qu'une journée peut vous manger tout cru pour peu qu'un outil décide de faire son caractère.  
-Les travaux des champs demandaient une concentration d'horloger suisse dans des bottes pleines de boue : retourner une parcelle difficile, reculer une remorque dans la grange sans arracher la porte ni tuer le chien, ce qui était déjà une forme de réussite technique remarquable. Quand c'était terminé, le mot sortait tout seul, comme une soupape qu'on ouvre après la pression. Pas pour quelqu'un en particulier. Pour lui. Pour le ciel. Pour personne. Et le moteur partait dans une odeur d'essence et de graisse tiède qui sentent encore aujourd'hui toute mon enfance.
+C'était le soupir de mon grand-père quand il se laissait tomber sur le siège du tracteur, après s'être hissé à bord. « A y t'là ! » C'était son soupir à lui, même s'il le lançait haut et fort, presque soulagé, comme ces hommes qui ne disent pas qu'ils sont contents : ils lâchent trois syllabes, et débrouillez-vous avec le reste. Il y avait là de la fierté, du soulagement aussi, cette satisfaction discrète de ceux qui savent qu'une journée peut vous manger tout cru pour peu qu'un outil décide de faire des siennes.  
+
+Les travaux des champs demandaient une concentration d'horloger suisse dans des bottes pleines de boue : retourner une parcelle difficile, reculer une remorque dans la grange sans arracher la porte du hangar ni tuer le chien — ce qui constituait déjà, en soi, une réussite technique remarquable.  
+
+Et quand l'affaire était faite, le mot revenait. Tout seul. Une manière de relâcher enfin ce qui avait été tenu jusque-là. « A y t'là ! » Pas pour quelqu'un en particulier. Pour lui. Pour le ciel. Pour personne Puis le tracteur repartait, dans cette odeur d'essence et de graisse tiède qui, aujourd'hui encore, sent toute mon enfance.

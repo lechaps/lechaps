@@ -1,4 +1,4 @@
-# Comédien, Comédienne
+# Comédien(ne)
 
 Le **comédien**, la **comédienne**, à la campagne, ce n'est pas seulement celui qui monte sur les planches avec un pourpoint, trois tirades et l'envie de mourir au quatrième acte. C'est surtout celui qui **joue sa vie comme une pièce**, qui se compose une douleur, une surprise, une indignation, une innocence de première communion, selon l'heure, le public et la nécessité de ne pas sortir le portefeuille. On le regarde faire avec un mélange d'agacement et d'admiration, parce qu'il faut tout de même du métier pour transformer une contrariété ordinaire en naufrage grec avec violons, mouchoir et témoin à charge. Le mot peut aussi traîner du côté des gens de passage, des baladins, des bohèmes, de ceux qui vivaient un peu hors du rang, entre fascination et méfiance.
 

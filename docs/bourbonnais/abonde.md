@@ -7,11 +7,13 @@ Faire de l'**abonde**, c'est autant parler d'une chose qui dure et profite que d
 ### Ce qui dure et profite
 
 *Le plat de viande m'a fait de l'abonde, on en a mangé pendant trois jours.*
+
 > « Ce mets de viande, particulièrement roboratif, m'a sustenté avec délectation pendant trois journées entières.
 
 ### Ce qui déborde et envahit
 
 *Ha ben avec, t'as pas besoin de faire la conversation, il te fait de l'abonde.*
+
 > « Cette personne est véritablement extraordinaire, mais aurais-je l'opportunité de m'exprimer à un moment donné ?
 
 ## On dit aussi

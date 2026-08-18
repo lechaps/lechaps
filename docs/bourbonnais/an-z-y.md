@@ -1,7 +1,8 @@
 # An z'y
 
-Ça, c'est le mot qui claque. **An z'y**, c'est pas seulement “allons-y”. Non. C'est le petit coup de reins collectif avant de soulever l'armoire, de partir aux champignons, de rentrer les foins avant l'orage ou d'aller voir “ce qu'ils fabriquent encore là-bas, ces cons-là”.
-Y a dedans une impatience joyeuse, une camaraderie rustique, un élan de troupeau humain — mais noble, attention, pas le troupeau bête ; le troupeau qui sait où est la soupe. Ça fuse vite, souvent avec un geste du menton. Et parfois ça veut dire : “on arrête de causer, maintenant faut vivre un peu”. Ce qui, entre nous, est une philosophie largement supérieure à plusieurs traités contemporains de développement personnel écrits par des types qui portent des baskets blanches en intérieur.
+Ça, c'est le mot qui claque. **An z'y**, ce n'est pas seulement « allons-y ». Non. C'est le petit coup de reins collectif avant de soulever l'armoire, de partir aux champignons, de rentrer les foins avant l'orage ou d'aller voir « ce qu'ils fabriquent encore là-bas, ces cons-là ». Il y a là-dedans de l'impatience joyeuse, de la camaraderie rustique, quelque chose du troupeau humain — mais du troupeau noble, attention : celui qui sait où il va et, si possible, où est la soupe.
+
+**An z'y !** Ça part d'un coup, souvent avec le menton qui montre déjà la direction. Ça veut dire : on y va, on s'y met, on arrête de discuter. Et parfois, plus simplement : assez causé, maintenant faut vivre un peu. Ce qui, entre nous, constitue une philosophie nettement supérieure à plusieurs traités contemporains de développement personnel rédigés par des types qui portent des baskets blanches à l'intérieur.
 
 ## L'exemple
 
