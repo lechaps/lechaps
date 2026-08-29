@@ -1,6 +1,6 @@
 # Détaper
 
-**Détaper**, c'est **déterrer**, aller chercher ce qui se cache sous la terre avec la bêche, la fourche, le dos courbé et la patience d'un homme qui sait que le sol ne rend jamais rien gratis. On détape des patates, des racines, un piquet, parfois une vieille chose oubliée là-dessous depuis Mathusalem, qui ressort toute encroûtée, toute muette, comme un secret qui aurait pris l'humidité. Le mot a du poids de motte, du fer qui cogne, du ver de terre dérangé dans son administration, et cette idée que la campagne garde tout, absolument tout, jusqu'au moment où quelqu'un vient lui demander des comptes.
+**Détaper**, c'est **déterrer**, aller chercher ce qui se cache sous la terre avec la bêche, la fourche, le dos courbé et la patience d'un homme qui sait que le sol ne rend jamais rien gratis. On détape des patates, des racines, un piquet, parfois une vieille chose oubliée là-dessous depuis Mathusalem, qui ressort toute encroûtée, toute muette, comme un secret qui aurait pris l'humidité. Le mot a du poids de motte, du fer qui cogne, du ver de terre dérangé dans son administration, et cette idée que la terre garde tout, absolument tout, jusqu'au moment où quelqu'un vient lui demander des comptes.
 
 ## Exemple
 

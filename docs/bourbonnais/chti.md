@@ -1,6 +1,6 @@
 # Ch'tit(e)
 
-Le **ch'tit**, dans les campagnes, c'est un mot qui change de veste selon l'heure, le ton et le nombre de verres déjà servis. Tantôt il désigne quelque chose de petit — un canon, un bout de pain, une pluie fine qui mouille quand même jusqu'aux os — tantôt il devient une grimace de bouche pour parler d'un goût âcre, mauvais, un vin qui râpe la langue comme une lime à sabot. Et puis parfois, sans prévenir, le voilà qui glisse sur les gens : *« lui, il est ch'tit »*, c'est-à-dire pas franc du collier, un peu mauvais, le regard de travers et l'amabilité rangée dans un tiroir fermé à clé. Un petit mot, donc. Mais avec plus de vies qu'un chat de ferme élevé près des tas de foin.
+Le **ch'tit**, c'est un mot qui change de veste selon l'heure, le ton et le nombre de verres déjà servis. Tantôt il désigne quelque chose de petit — un canon, un bout de pain, une pluie fine qui mouille quand même jusqu'aux os — tantôt il devient une grimace de bouche pour parler d'un goût âcre, mauvais, un vin qui râpe la langue comme une lime à sabot. Et puis parfois, sans prévenir, le voilà qui glisse sur les gens : *« lui, il est ch'tit »*, c'est-à-dire pas franc du collier, un peu mauvais, le regard de travers et l'amabilité rangée dans un tiroir fermé à clé. Un petit mot, donc. Mais avec plus de vies qu'un chat de ferme élevé près des tas de foin.
 
 ## Exemple
 

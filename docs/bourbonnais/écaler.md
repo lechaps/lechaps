@@ -1,6 +1,6 @@
 # Écaler
 
-**Écaler**, c'est **retirer ce qui enveloppe**, ce qui couvre, ce qui protège ou ce qui gêne : la coquille d'un œuf dur, la peau fine d'une chose, la petite armure modeste que la nature met autour de ses affaires pour qu'on ne vienne pas tout lui chipoter sans effort. On écale les œufs avec les doigts, en tapotant la coquille sur le bord de l'assiette, petit travail patient où le blanc apparaît dessous, lisse, fragile, presque trop propre pour finir sous la vinaigrette. Mais chez nous, on peut aussi **s'écaler** la peau : un genou contre les cailloux, un coude sur le ciment, et voilà l'enfant ouvert en surface, pas massacré, non, mais suffisamment râpé pour réclamer justice, mercurochrome et compassion immédiate. Écaler, c'est donc enlever la peau des choses — parfois volontairement, parfois parce que la cour vous a sauté dessus.
+**Écaler**, c'est retirer ce qui enveloppe, ce qui couvre, ce qui protège ou ce qui gêne : la coquille d'un œuf dur, la peau fine d'une chose, la petite armure modeste que la nature met autour de ses affaires pour qu'on ne vienne pas tout lui chipoter sans effort. On écale les œufs avec les doigts, en tapotant la coquille sur le bord de l'assiette, petit travail patient où le blanc apparaît dessous, lisse, fragile, presque trop propre pour finir sous la vinaigrette. Mais chez nous, on peut aussi **s'écaler** la peau : un genou contre les cailloux, un coude sur le ciment, et voilà l'enfant ouvert en surface, pas massacré, non, mais suffisamment râpé pour réclamer justice, mercurochrome et compassion immédiate. Écaler, c'est donc enlever la peau des choses — parfois volontairement, parfois parce que la cour vous a sauté dessus.
 
 ## Exemple
 
@@ -14,7 +14,7 @@
 
 ## On dit aussi
 
-Peler, éplucher, dépiauter, écorcher, s'écorcher, se râper
+Peler, éplucher, [dépiauter](./dépiauter.md), écorcher, s'écorcher, se râper
 
 ## Souvenir
 

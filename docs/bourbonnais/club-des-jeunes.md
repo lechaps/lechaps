@@ -1,6 +1,6 @@
 # Club des jeunes
 
-Le **Club des jeunes**, c'est le **club du troisième âge**, mais rebaptisé avec cette ironie tendre que le bourbonnais manient mieux que les circulaires municipales. On dit ça pour les anciens qui se retrouvent à la salle des fêtes autour d'un café, d'une belote, d'un petit verre et de nouvelles du pays mâchées lentement comme du pain rassis. Des jeunes, donc. Mais des jeunes qui avaient déjà labouré la vie jusqu'au bout du champ, enterré deux ou trois illusions, usé des sabots, des genoux, des alliances, et qui continuaient pourtant de rire, de tricher aux cartes et de remettre le monde d'aplomb entre quatre chaises pliantes.
+Le **Club des jeunes**, c'est le club du troisième âge, mais rebaptisé avec cette ironie tendre que le bourbonnais manient mieux que les circulaires municipales. On dit ça pour les anciens qui se retrouvent à la salle des fêtes autour d'un café, d'une belote, d'un petit verre et de nouvelles du pays mâchées lentement comme du pain rassis. Des jeunes, donc. Mais des jeunes qui avaient déjà labouré la vie jusqu'au bout du champ, enterré deux ou trois illusions, usé des sabots, des genoux, des alliances, et qui continuaient pourtant de rire, de tricher aux cartes et de remettre le monde d'aplomb entre quatre chaises pliantes.
 
 ## Exemple
 

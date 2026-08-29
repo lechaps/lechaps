@@ -8,7 +8,7 @@ La **chiève** ou **chièbe**, c'est d'abord la chèvre : nerveuse, cabocharde, 
 
 > « Cette caprine manifestement habitée par un esprit de rébellion alpine a, une fois encore, entrepris l'ascension du mur avec une insolente agilité. »
 
-*Pose les bûches sur la chièbe, on va tronçonner ça.*
+*Pose les bûches sur la chièbe, j'va m'en occuper.*
 
 > « Je vous prie de disposer ces pièces de bois sur le chevalet afin que nous procédions à leur débitage dans des conditions dignes d'une scierie impériale. »
 

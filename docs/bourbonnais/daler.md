@@ -1,6 +1,6 @@
 # Dâler
 
-**Dâler**, c'est quand la chaleur ne se contente plus de chauffer : elle tape, elle mord, elle **dessèche**, elle vous transforme la langue en vieille semelle et la terre en croûte de pain oublié. Quand ça dâle, le soleil n'est plus un astre, c'est un contremaître brutal qui surveille les champs du haut du ciel avec une casquette de feu. L'air tremble, les pierres cuisent, les bêtes cherchent l'ombre, et l'homme, ce grand malin équipé d'un chapeau mou et d'une nuque rouge, comprend soudain que l'été peut avoir des manières de percepteur.
+**Dâler**, c'est quand la chaleur ne se contente plus de chauffer : elle tape, elle mord, elle dessèche, elle vous transforme la langue en vieille semelle et la terre en croûte de pain oublié. Quand ça dâle, le soleil n'est plus un astre, c'est un contremaître brutal qui surveille les champs du haut du ciel avec une casquette de feu. L'air tremble, les pierres cuisent, les bêtes cherchent l'ombre, et l'homme, ce grand malin équipé d'un chapeau mou et d'une nuque rouge, comprend soudain que l'été peut avoir des manières de percepteur.
 
 ## Exemple
 

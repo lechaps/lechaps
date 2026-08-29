@@ -6,7 +6,7 @@ Le **client**, à la campagne, ce n'est pas forcément celui qui paye. Non. C'é
 
 *Tiens, v'là encore un client qui débarque.*
 
-> « Voici qu'apparaît une nouvelle personnalité manifestement persuadée que mon emploi du temps possède la souplesse administrative d'un ministère un jour férié. »
+> « Voici qu'apparaît une nouvelle personnalité manifestement persuadée que mon emploi du temps possède la souplesse administrative d'un retraité un jour férié. »
 
 ## On dit aussi
 

@@ -1,6 +1,6 @@
 # Bregniace
 
-Quand **ça bergniace**, inutile d'attendre le bulletin météo : le ciel est déjà en train de préparer une saloperie. L'air devient lourd, les arbres frémissent sans vent, les chiens regardent au loin comme s'ils avaient vu passer le diable en sabots. Ce n'est pas encore franchement l'orage, non. C'est pire, presque. Cette minute suspendue où la campagne entière semble retenir sa respiration avant de se faire rincer la figure à grands coups de flotte et de tonnerre. Les anciens connaissaient ça par cœur. Eux, ils lisaient les nuages comme d'autres lisent le journal, avec cette science instinctive des gens qui dépendent du ciel pour vivre et pour manger.
+Quand ça **bergniace**, inutile d'attendre le bulletin météo : le ciel est déjà en train de préparer une saloperie. L'air devient lourd, les arbres frémissent sans vent, les chiens regardent au loin comme s'ils avaient vu passer le diable en sabots. Ce n'est pas encore franchement l'orage, non. C'est pire, presque. Cette minute suspendue où la campagne entière semble retenir sa respiration avant de se faire rincer la figure à grands coups de flotte et de tonnerre. Les anciens connaissaient ça par cœur. Eux, ils lisaient les nuages comme d'autres lisent le journal, avec cette science instinctive des gens qui dépendent du ciel pour vivre et pour manger.
 
 ## Exemple
 

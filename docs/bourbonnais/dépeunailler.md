@@ -1,6 +1,6 @@
 # Dépeunaillé
 
-**Dépeunaillé**, c'est avoir les **vêtements en désordre**, en lambeaux, en déroute complète, comme si la chemise, le pantalon et la veste avaient tenu conseil dans le dos de leur propriétaire avant de décider la mutinerie générale. On n'est pas seulement mal habillé ; on est sorti de l'armoire comme d'une haie, avec du tissu qui pend, du col qui bâille, du genou qui prend l'air et cette allure de naufragé domestique ayant combattu trois ronces, deux chiens et une porte de grange mal lunée. Le mot a du chiffon, de la fatigue et du vent dans les coutures : il ne condamne pas forcément l'homme, mais il constate que sa mise, elle, a perdu la guerre.
+**Dépeunaillé**, c'est avoir les vêtements en désordre, en lambeaux, en déroute complète, comme si la chemise, le pantalon et la veste avaient tenu conseil dans le dos de leur propriétaire avant de décider la mutinerie générale. On n'est pas seulement mal habillé ; on est sorti de l'armoire comme d'une haie, avec du tissu qui pend, du col qui bâille, du genou qui prend l'air et cette allure de naufragé domestique ayant combattu trois ronces, deux chiens et une porte de grange mal lunée. Le mot a du chiffon, de la fatigue et du vent dans les coutures : il ne condamne pas forcément l'homme, mais il constate que sa mise, elle, a perdu la guerre.
 
 ## Exemple
 
@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Dépenaillé, déguenillé, débraillé, en loques, en guenilles, mal attifé
+Dépenaillé, débraillé, en loques, mal attifé
 
 ## Pour aller plus loin
 

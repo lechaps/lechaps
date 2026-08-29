@@ -5,6 +5,7 @@ Le **bigot**, c'est l'outil des récoltes patientes, celui qu'on plantait dans l
 ## Exemple
 
 *Reste pas planté là, va m'cher le bigot qu'j'arrache les tartouffes.*
+
 > « Auriez-vous l'extrême obligeance de me fournir cet instrument agricole à double denture afin que nous procédions à l'extraction méthodique des précieux tubercules ? »
 
 ## On dit aussi

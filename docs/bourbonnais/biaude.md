@@ -1,6 +1,6 @@
 # Biaude
 
-La **biaude**, c'est la seconde peau du paysan. Une blouse de travail large, solide, souvent bleue, grise ou couleur de poussière, qui sent le foin, la sueur froide et parfois le gasoil renversé sans faire exprès — enfin… « sans faire exprès », disons qu'à force, ça finit par faire partie du tissu. On enfile la biaude avant d'aller aux champs comme d'autres mettent un uniforme avant la bataille. Et d'une certaine manière, c'en est une. La guerre contre la pluie, les bêtes, les outils récalcitrants, les saisons qui n'en finissent jamais. Une biaude propre, d'ailleurs, inquiète presque. Ça donne l'impression d'un homme qui n'a rien fait de sa journée, ce qui à la campagne vaut accusation grave.
+La **biaude**, c'est la seconde peau du paysan. Une blouse de travail large, solide, souvent bleue, grise ou couleur de poussière, qui sent le foin, la sueur froide et parfois le gasoil renversé sans faire exprès — enfin… « sans faire exprès », disons qu'à force, ça finit par faire partie du tissu. On enfile la biaude avant d'aller aux champs comme d'autres mettent un uniforme avant la bataille. Et d'une certaine manière, c'en est une. La guerre contre la pluie, les bêtes, les outils récalcitrants, les saisons qui n'en finissent jamais. Une biaude propre, d'ailleurs, inquiète presque. Ça donne l'impression d'un homme qui n'a rien fait de sa journée, ce qui dans le bourbonnais vaut accusation grave.
 
 ## Exemple
 

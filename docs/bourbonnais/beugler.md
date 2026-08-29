@@ -5,6 +5,7 @@
 ## Exemple
 
 *T'avais besoin de beugler ? Il va bien finir par la payer sa tournée !*
+
 > « Était-il réellement indispensable d'interpeller le patron de la taverne de cette manière ? Compte tenu du nombre de tournées déjà consommées, un geste commercial paraîtrait tout à fait naturel. »
 
 ## On dit aussi

@@ -1,6 +1,6 @@
 # Dail ou Daille
 
-Le **dail**, ou la **daille**, c'est la **faux**, la grande lame courbe des foins, l'outil qui vous donnait tout de suite une allure biblique, agricole et vaguement inquiétante, même quand on allait seulement couper trois orties derrière la grange. Une daille, ça ne se prend pas comme un balai : ça se respecte, ça se porte avec attention, ça vous rappelle que l'herbe a beau faire la maligne en poussant partout, il existe depuis longtemps des hommes courbés, des gestes sûrs et du fer bien affilé pour lui expliquer la fin de l'histoire. Le mot a quelque chose de sec, de tranchant, de métallique ; on dirait presque qu'il coupe déjà rien qu'en sortant de la bouche.
+Le **dail**, ou la **daille**, c'est la faux, la grande lame courbe des foins, l'outil qui vous donnait tout de suite une allure biblique, agricole et vaguement inquiétante, même quand on allait seulement couper trois orties derrière la grange. Une daille, ça ne se prend pas comme un balai : ça se respecte, ça se porte avec attention, ça vous rappelle que l'herbe a beau faire la maligne en poussant partout, il existe depuis longtemps des hommes courbés, des gestes sûrs et du fer bien affilé pour lui expliquer la fin de l'histoire. Le mot a quelque chose de sec, de tranchant, de métallique ; on dirait presque qu'il coupe déjà rien qu'en sortant de la bouche.
 
 ## Exemple
 

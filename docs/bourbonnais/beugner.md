@@ -5,6 +5,7 @@
 ## Exemple
 
 *Bordel j'ai beugné la bagnole en la sortant d'l'hangar.*
+
 > « Par une succession de manœuvres dont l'élégance mécanique demeurera contestable, j'ai malheureusement provoqué une collision entre mon véhicule utilitaire et l'architecture environnante. »
 
 ## On dit aussi

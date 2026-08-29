@@ -1,7 +1,7 @@
 # Bassie
 
 La **bassie**, c'est le ventre discret de la maison. La pièce qu'on montre jamais aux invités mais où pourtant se joue l'essentiel : les réserves, les odeurs, les secrets de soupe, les fromages enveloppées dans des torchons et les bouteilles qu'on dit “pour plus tard”.  
-C'est bas de plafond, oui. Frais comme une cave qui aurait appris la politesse. On y entre et tout semble y parler moins fort : les casseroles, les gens, même les mouches. La bassie garde le beurre, les salaisons, les confitures, parfois les colères aussi. Une pièce de travail, de patience et de silence pratique. Pas un endroit élégant, non. Mais un lieu honnête. Et à la campagne, l'honnêteté a souvent une odeur de lait froid et de bois humide.
+C'est bas de plafond, oui. Frais comme le dessous d'une pierre, mais en plus fréquentable. On y entre et tout semble y parler moins fort : les casseroles, les gens, même les mouches. La bassie garde le beurre, les salaisons, les confitures, parfois les colères aussi. Une pièce de travail, de patience et de silence pratique. Pas un endroit élégant, non. Mais un lieu honnête. Et à la campagne, l'honnêteté a souvent une odeur de lait froid et de bois humide.
 
 ## Exemple
 

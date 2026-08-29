@@ -1,6 +1,6 @@
 # Défigurer
 
-**Défigurer**, dans le bourbonnais, ce n'est pas abîmer la figure de quelqu'un à coups de pelle ou  de variole. C'est **dévisager**, regarder quelqu'un en plein museau avec une insistance qui finit par lui froisser l'âme, comme si son visage était un avis d'imposition ou une bête curieuse ramenée de la foire. On **défigure le monde** quand on fixe les gens trop longtemps, trop fort, sans pudeur, avec cet œil planté qui fouille, qui soupèse, qui démonte la personne pièce par pièce sans même avoir demandé la clef de douze. C'est un mot parfait pour rappeler que le regard aussi peut manquer d'éducation.
+**Défigurer**, dans le bourbonnais, ce n'est pas abîmer la figure de quelqu'un à coups de pelle ou  de variole. C'est dévisager, regarder quelqu'un en plein museau avec une insistance qui finit par lui froisser l'âme, comme si son visage était un avis d'imposition ou une bête curieuse ramenée de la foire. On **défigure le monde** quand on fixe les gens trop longtemps, trop fort, sans pudeur, avec cet œil planté qui fouille, qui soupèse, qui démonte la personne pièce par pièce sans même avoir demandé la clef de douze. C'est un mot parfait pour rappeler que le regard aussi peut manquer d'éducation.
 
 ## Exemple
 

@@ -7,6 +7,7 @@ Mais on peut aussi bousiller une journée, une récolte, un repas, une histoire 
 ## Exemple
 
 *Touche à rien surtout, la dernière fois que t'as voulu aider, t'as bousillé la tondeuse et la moitié du rosier.*
+
 > « Je vous serais reconnaissant de limiter vos initiatives techniques, vos précédentes interventions ayant entraîné des conséquences mécaniques et botaniques particulièrement regrettables. »
 
 ## On dit aussi

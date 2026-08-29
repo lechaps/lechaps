@@ -1,6 +1,6 @@
 # Brandillon
 
-Le **brandillon**, c'est le bras maigriot, le bras qui flotte dans la manche avec la majesté approximative d'un haricot vert fatigué. Pas forcément un bras malade, non. Juste un bras qui manque un peu de viande autour de l'os, de puissance paysanne, de cette solidité tranquille qu'avaient les anciens à force de lever des sacs, fendre du bois et tirer des seaux toute leur vie. À la campagne, avoir des brandillons valait souvent quelques moqueries affectueuses, surtout quand le propriétaire desdits bras prétendait soulever plus lourd que sa condition physique ne l'autorisait raisonnablement.
+Le **brandillon**, c'est le bras maigriot, le bras qui flotte dans la manche avec la majesté approximative d'un haricot vert fatigué. Pas forcément un bras malade, non. Juste un bras qui manque un peu de viande autour de l'os, de puissance paysanne, de cette solidité tranquille qu'avaient les anciens à force de lever des sacs, fendre du bois et tirer des seaux toute leur vie. À la ferme, avoir des brandillons valait souvent quelques moqueries affectueuses, surtout quand le propriétaire desdits bras prétendait soulever plus lourd que sa condition physique ne l'autorisait raisonnablement.
 
 ## Exemple
 

@@ -1,6 +1,6 @@
 # Chesseresse
 
-La **chesseresse**, c'est cet homme habité par une vieille soif joyeuse qui l'empêche de laisser son verre vide plus de deux minutes. Un mot tendre de bistrot et de campagne, pour ceux dont le gosier semblait réclamer du vin comme les fleurs réclament la pluie.
+La **chesseresse**, c'est cet homme habité par une vieille soif joyeuse qui l'empêche de laisser son verre vide plus de deux minutes. Un mot tendre de bistrot, pour ceux dont le gosier semblait réclamer du vin comme les fleurs réclament la pluie.
 
 ## Exemple
 

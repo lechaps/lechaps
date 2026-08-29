@@ -1,10 +1,10 @@
 # Décaniller
 
-**Décaniller**, c'est **partir vite**, filer sans demander son reste, quitter les lieux avec les jambes qui votent avant le cerveau. On ne décanille pas pour aller tranquillement acheter le pain, non : on décanille quand ça chauffe, quand on vous appelle pour travailler, quand le chien du voisin a décidé d'ouvrir une procédure dentaire, ou quand la conversation prend ce tour dangereux où quelqu'un va réclamer un coup de main. Le mot a de la fuite dans les syllabes, du talon qui claque, de la porte qui bat, du “j'étais là, j'y suis plus” exécuté avec efficacité.
+**Décaniller**, c'est partir vite, filer sans demander son reste, quitter les lieux avec les jambes qui votent avant le cerveau. On ne décanille pas pour aller tranquillement acheter le pain, non : on décanille quand ça chauffe, quand on vous appelle pour travailler, quand le chien du voisin a décidé d'ouvrir une procédure dentaire, ou quand la conversation prend ce tour dangereux où quelqu'un va réclamer un coup de main. Le mot a de la fuite dans les syllabes, du talon qui claque, de la porte qui bat, du “j'étais là, j'y suis plus” exécuté avec efficacité.
 
 ## Exemple
 
-*Quand il a vu qu'on allait rentrer le bois, il a décanillé plus vite qu'un lièvre.*
+*Quand il a vu qu'on allait rentrer le bois, il a décanillé plus vite qu'un hiève.*
 
 > « Ayant compris que l'assemblée s'apprêtait à solliciter sa participation aux travaux de manutention domestique, notre homme a jugé opportun d'organiser une disparition immédiate, souple, rapide et moralement discutable. »
 

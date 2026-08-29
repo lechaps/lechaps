@@ -2,7 +2,7 @@
 
 ## Définition
 
-**Ajouter les vaches**, c'est tout simplement **les traire**. Voilà un de ces mots magnifiques qui semblent avoir pris un chemin de traverse pendant que le français officiel regardait ailleurs. On n'ajoute pourtant rien à la vache — ni pièce détachée, ni option, ni supplément crème — on lui retire même quelque chose, ce qui prouve une fois encore que le bourbonnais n'a jamais attendu la permission de la logique pour être parfaitement comprise. « Faut aller ajouter les vaches » voulait surtout dire que l'heure était venue : celle de l'étable, du seau, des mains au travail et de ce petit rituel quotidien auquel les bêtes, elles, n'accordaient aucun congé dominical.
+**Ajouter les vaches**, c'est tout simplement les traire. Voilà un de ces mots magnifiques qui semblent avoir pris un chemin de traverse pendant que le français officiel regardait ailleurs. On n'ajoute pourtant rien à la vache — ni pièce détachée, ni option, ni supplément crème — on lui retire même quelque chose, ce qui prouve une fois encore que le bourbonnais n'a jamais attendu la permission de la logique. « Faut aller ajouter les vaches » voulait surtout dire que l'heure était venue : celle de l'étable, du seau, des mains au travail et de ce petit rituel quotidien auquel les bêtes, elles, n'accordaient aucun congé dominical.
 
 ## Exemple
 
@@ -12,7 +12,7 @@
 
 ## Souvenir
 
-C'est un mot qui me ramène à ces fins de journée où, pendant que les autres pouvaient encore traîner un peu, quelqu'un finissait toujours par dire : « Bon, faut aller ajouter les vaches. » La phrase tombait sans plainte, comme tombe une heure à l'horloge : les bêtes attendaient et cela suffisait. J'imagine encore l'étable plus fraîche que la cour, l'odeur du foin, le bruit du lait contre le seau et cette vie réglée par des gestes qu'on répétait sans penser qu'un jour ils deviendraient des souvenirs. Aujourd'hui, **ajouter** ne remplit plus le seau ; il remplit surtout le silence laissé derrière ceux qui le disaient.
+C'est un mot qui me ramène à ces fins de journée où, pendant que les autres pouvaient encore traîner un peu, quelqu'un finissait toujours par dire : « Bon, faut aller ajouter les vaches. » La phrase tombait sans plainte, comme tombe une heure à l'horloge : les bêtes attendaient et cela suffisait. Je me souviens encore de l'étable plus fraîche que la cour, l'odeur du foin, le bruit du lait contre le seau et cette vie réglée par des gestes qu'on répétait sans penser qu'un jour ils deviendraient des souvenirs. Aujourd'hui, ajouter ne remplit plus le seau ; il remplit surtout le silence laissé derrière ceux qui le disaient.
 
 ## Pour aller plus loin
 

@@ -1,6 +1,6 @@
 # Denré
 
-Le **denré**, c'est le **vaurien**, le mauvais sujet, la sale petite nature qui vous donne envie de ranger l'argenterie, les œufs frais et la confiance humaine dans le même tiroir fermé à clef. Ce n'est pas seulement quelqu'un de désagréable ; c'est une **mauvaise denrée**, justement, un produit douteux de l'humanité, mal étiqueté, mal conservé, vendu sans garantie et probablement déjà tourné avant l'ouverture. Le mot a ce génie de la campagne : il condamne sans faire de discours, il soupèse l'individu comme une pomme de terre au marché, puis le repose dans le cageot des infréquentables avec un petit soupir de justice domestique.
+Le **denré**, c'est le vaurien, le mauvais sujet, la sale petite nature qui vous donne envie de ranger l'argenterie, les œufs frais et la confiance humaine dans le même tiroir fermé à clef. Ce n'est pas seulement quelqu'un de désagréable ; c'est une **mauvaise denrée**, justement, un produit douteux de l'humanité, mal étiqueté, mal conservé, vendu sans garantie et probablement déjà tourné avant l'ouverture. Le mot a ce génie de la campagne : il condamne sans faire de discours, il soupèse l'individu comme une pomme de terre au marché, puis le repose dans le cageot des infréquentables avec un petit soupir de justice domestique.
 
 ## Exemple
 

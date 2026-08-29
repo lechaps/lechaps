@@ -5,7 +5,7 @@ Pas une recette. Pas une technique de sommelier avec tablier noir et nez qui fr�
 
 Quand il reste au fond de l'assiette un peu de soupe grasse, deux haricots qui naviguent encore comme des péniches fatiguées et trois gouttes de bonheur au lard, on verse un trait de rouge. Un vrai. Pas un vin de magazine. Un vin qui tâche les nappes et rend philosophe les gens qui n'ont jamais lu Spinoza. Puis on boit le tout à même l'assiette. Avec bruit parfois. Avec dignité toujours.
 
-Le chabrot, ça sent les cuisines de campagne, les coudes sur la toile cirée, les silences de fin de repas et les vieux qui disaient peu de choses mais les disaient comme on plante un clou : définitivement.
+Le chabrot, ça sent les cuisines rustiques, les coudes sur la toile cirée, les silences de fin de repas et les vieux qui disaient peu de choses mais les disaient comme on plante un clou : définitivement.
 
 ## Exemple  
 
