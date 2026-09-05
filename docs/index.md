@@ -1,31 +1,34 @@
 # Les carnets du Chaps
 
-Bienvenue sur le site du Chaps
+Auvergnat (un peu) 🌋, [bourbonnais](./bourbonnais/index.md) (beaucoup) 🏰, parodien (surtout) 🚜 et citoyen du monde 🌍.  
 
-Auvergnat (un peu) 🌋, [bourbonnais](./bourbonnais/index.md) (beaucoup) 🏰, parodien (surtout) 🚜 et citoyen du monde 🌍. J'écris ici pour **éclairer, transmettre et préserver ce qui fait sens, entre patrimoine et modernité, technique et humain, règles et vivant**.
+J'écris ici pour **éclairer pour relier** : comprendre les systèmes que nous habitons — humains, techniques, culturels — pour mieux y agir et mieux transmettre.
 
-Je crois que **comprendre les systèmes dans lesquels nous évoluons** — culturels, humains, techniques — permet de **s'émanciper, d'agir avec justesse et de respecter le vivant**, sans chercher à en nier la complexité.
+Patrimoine, technique, organisations, culture : des terrains différents, traversés par les mêmes questions. Ce qui tient, ce qui se transforme, ce qui se transmet — et la place que chacun peut y prendre.
 
-Geek 🖥️, papa ❤️, amateur de vin 🍷, arbitre ⚖️, acteur 🎬, architecte 💡, comédien 🎭, sportif 🏃🚴🏸, guitariste 🎸, chroniqueur radio 🎙️….  
-Ces carnets sont **un mélange des genres, à mon image** : curieux, attentif, parfois sérieux, souvent joueur, toujours tourné vers **la transmission et le collectif**.
+[Quelques mots sur celui qui tient ces carnets](./a-propos.md).
 
-## Ce que vous trouverez ici
+## Les carnets
 
 ### 🏰 Bourbonnais
 
-> Mon dictionnaire amoureux du patois bourbonnais  
-> Des mots entendus dans mon enfance, transmis de bouche à oreille, entre champs, repas de famille et histoires de village.  
-> Un projet vivant pour **préserver la langue, la culture et la malice d'un coin de pays**.
+> Mon dictionnaire amoureux du patois bourbonnais.
 
-🔹 [Feuilleter le carnet](./bourbonnais/index.md)  
+Des mots entendus dans mon enfance, transmis de bouche à oreille, entre champs, repas de famille et histoires de village.
+
+Un projet vivant pour **préserver la langue, la culture et la malice d'un coin de pays**.
+
+🔹 [Feuilleter le carnet](./bourbonnais/index.md)
 
 ---
 
 ### 🧠 HumanOps
 
-> Quand la technique rencontre l'humain.  
-> Des réflexions sur le management, la coopération et la manière d'agir avec des systèmes complexes sans écraser ceux qui les font vivre.
-> Parce qu'un système ne tient debout que si les personnes qui le composent tiennent elles aussi.
+> Quand la technique rencontre l'humain.
+
+Des réflexions sur le management, la coopération et la manière d'agir avec des systèmes complexes sans écraser celles et ceux qui les font vivre.
+
+**Parce qu'un système ne tient debout que si les personnes qui le composent tiennent elles aussi.**
 
 🔹 [Plonger dans le carnet](./humanops/index.md)
 
@@ -34,31 +37,29 @@ Ces carnets sont **un mélange des genres, à mon image** : curieux, attentif, p
 ### 💡 Les lois de la tech
 
 > Lois, paradoxes et principes pour mieux comprendre pourquoi nos projets — et parfois nos vies numériques — fonctionnent comme ils fonctionnent.
-> Un regard mêlant rigueur, recul et humour, à la croisée de la science, de la société et de la tech.
+
+Un regard mêlant rigueur, recul et humour sur les règles, les mécanismes et les effets inattendus qui façonnent nos systèmes techniques et nos façons de les habiter.
 
 🔹 [Décoder le carnet](./lois-de-la-tech/index.md)
 
----
+## Pour aller plus loin
 
 ### 💬 Citations & inspirations
 
-> Des phrases, des idées et des clins d'œil qui m'accompagnent.
-> Un espace pour **nourrir la réflexion, la curiosité et le sens**, entre architecture, savoir-être et culture
+Des phrases, des idées et des clins d'œil qui m'accompagnent, déplacent parfois le regard ou permettent de mieux nommer une situation.
 
-🔹 [Savourer le carnet](./citations/index.md)
+🔹 [Parcourir les citations](./citations/index.md)
 
 ---
 
 ### 🧭 Repères
 
-> Des lectures, des conférences, des récits et des outils qui ont nourri le regard sur les systèmes humains, les organisations et celles et ceux qui les font vivre.
+Des lectures, des conférences, des récits et des outils qui ont nourri mon regard sur les systèmes humains, les organisations et celles et ceux qui les font vivre.
 
 🔹 [Parcourir les repères](./reperes/index.md)
 
 ---
 
-*Ces carnets suivent une intention simple, expliquée dans le [manifeste du site](./manifeste.md).*
+La boussole qui relie ces carnets est posée dans le [manifeste du site](./manifeste.md).
 
----
-
-🧭 Merci d'être passé — et bonne balade dans mes mots, mes mondes et mes idées 🌿.
+**Bonne traversée.**
