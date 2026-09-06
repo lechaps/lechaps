@@ -42,6 +42,7 @@ En somme, la loi de Laborit nous enseigne ceci :
 
 ### Références
 
+* [Éloge de la suite](http://www.elogedelasuite.net/){ target="_blank" }
 * [Henri Laborit, La Nouvelle Grille](https://www.amazon.fr/nouvelle-grille-Henri-Laborit/dp/2070323374){ target="_blank" }
 * [Henri Laborit, Éloge de la fuite](https://www.amazon.fr/%C3%89loge-fuite-Henri-Laborit/dp/2070322831){ target="_blank" }
 * [Alain Resnais, Mon oncle d'Amérique](https://www.allocine.fr/film/fichefilm_gen_cfilm=2124.html){ target="_blank" }
