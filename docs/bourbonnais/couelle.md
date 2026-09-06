@@ -7,9 +7,9 @@ Mais la **couelle**, c'est aussi la petite pierre à aiguiser la faux, celle qu'
 
 *Enfile ta couelle, on va aux champs.*
 
-> « Veuillez chausser sans délai vos respectables embarcations de bois, car les travaux agricoles, toujours prompts à ignorer la paresse humaine, réclament notre présence dans les terres. »
+> « Veuillez chausser sans délai vos respectables embarcations de bois, car les travaux agricoles réclament notre présence dans les terres. »
 
-*Attends un brin, faut que j'passe la faux à la couelle.*
+*Attends un peu, faut que j'passe la faux à la couelle.*
 
 > « Accordez-moi un court instant : il convient que je rende à cette lame son éloquence tranchante avant d'engager avec la prairie une conversation définitive. »
 

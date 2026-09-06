@@ -6,7 +6,7 @@ La **drouille**, ou la **drille**, c'est la diarrhée, la grande débâcle intes
 
 *Adieu mon caneçon blanc, j'ai chopé la drouille.*
 
-> « Je crains devoir faire mes adieux les plus émus à ce sous-vêtement d'une blancheur jadis irréprochable, mon organisme ayant été saisi par une insurrection gastro-intestinale d'une vigueur profondément anti-textile. »
+> « Je crains devoir faire mes adieux les plus émus à ce sous-vêtement d'une blancheur jadis irréprochable, mon organisme ayant été saisi par une insurrection gastro-intestinale d'une vigueur profondément anti-clareté. »
 
 ## On dit aussi
 

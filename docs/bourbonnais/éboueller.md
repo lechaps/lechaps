@@ -4,7 +4,7 @@
 
 ## Exemple
 
-*Il s'est ébouellé dans la cour, on aurait dit qu'y avait plus d'os dedans.*
+*Il s'est ébouellé dans la cour.*
 
 > « Notre homme s'est affaissé sur le sol avec une telle absence de structure apparente que l'on eût pu croire son squelette momentanément parti régler une affaire personnelle. »
 

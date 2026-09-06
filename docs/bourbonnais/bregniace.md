@@ -6,7 +6,7 @@ Quand ça **bergniace**, inutile d'attendre le bulletin météo : le ciel est d�
 
 *Houuuu, ça bergniace, laisse tomber le bigot on rentre.*
 
-> « Je crains que les conditions atmosphériques ne prennent une tournure particulièrement hostile ; abandonnez donc cet outil agricole et regagnons sans délai un refuge convenable. »
+> « Je crains que les conditions atmosphériques ne prennent une tournure particulièrement hostile ; abandonnez donc ce magnifique outil agricole et regagnons sans délai un refuge convenable. »
 
 ## On dit aussi
 

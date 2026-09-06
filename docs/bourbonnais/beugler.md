@@ -6,7 +6,7 @@
 
 *T'avais besoin de beugler ? Il va bien finir par la payer sa tournée !*
 
-> « Était-il réellement indispensable d'interpeller le patron de la taverne de cette manière ? Compte tenu du nombre de tournées déjà consommées, un geste commercial paraîtrait tout à fait naturel. »
+> « Je doute qu'il fût indispensable de porter votre réclamation à un tel degré de puissance acoustique ; rassurez-vous, la pression conjuguée de l'honneur, de l'usage et du regard public finira bien par contraindre l'intéressé à un un geste commercial envers cette honorable assemblée. »
 
 ## On dit aussi
 

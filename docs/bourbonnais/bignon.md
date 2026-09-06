@@ -6,7 +6,7 @@ Le **bignon**, c'est le beignet des jours heureux, des cuisines embuées de vape
 
 *Mange donc un autre bignon, t'es maigre comme un jour sans faim.*
 
-> « Je vous conjure de prolonger cette expérience pâtissière afin de remédier à votre inquiétante apparence de privation monastique. »
+> « Auriez-vous l'obligeance de reprendre quelque nourriture ? Votre constitution affiche une parcimonie si manifeste que l'on pourrait croire votre personne soumise à un régime de privations d'une rigueur monastique. »
 
 ## On dit aussi
 

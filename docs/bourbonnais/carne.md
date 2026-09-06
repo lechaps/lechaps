@@ -8,7 +8,7 @@ Le mot sent d'ailleurs encore un peu l'animal fatigué, la vieille viande coriac
 
 *J'suis pas prêt de lui causer, c'te vieille carne !*
 
-> « Je suis loin d'être disposé à lui adresser la parole, à cette acariâtre mégère ! »
+> « Je ne conçois, à l'heure présente, aucune nécessité assez pressante pour m'inciter à soumettre mon humeur à l'épreuve d'un entretien avec cette respectable incarnation de l'aigreur. »
 
 ## On dit aussi
 

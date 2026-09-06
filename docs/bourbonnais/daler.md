@@ -6,7 +6,7 @@
 
 *Ça dâle rudement, j'ai la langue qui pèle !*
 
-> « La température atteint un degré d'hostilité tel que mon organisme, privé de toute humidité raisonnable, semble entreprendre une reconversion progressive en morceau de cuir agricole. »
+> « La température atteint un degré d'hostilité tel que mon organisme, privé de toute humidité raisonnable, semble entreprendre une reconversion progressive en morceau de cuir. »
 
 ## On dit aussi
 

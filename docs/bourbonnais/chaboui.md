@@ -5,9 +5,9 @@ Mais dans le mot, il reste souvent une petite tendresse cachée sous la mauvaise
 
 ## Exemple
 
-*Fais pas attention, c'est un vieux chaboui, il engueule même les poules quand elles pondent de travers.*
+*Fais pas attention, c'est un vieux chaboui.*
 
-> « Ne prêtez pas une importance excessive à ses emportements : cet homme, désormais parvenu à un âge où l'on converse plus volontiers avec ses rhumatismes qu'avec ses semblables, semble avoir déclaré une guerre personnelle jusque contre la basse-cour. »
+> « Ne prêtez pas une importance excessive à ses emportements : cet homme, désormais parvenu à un âge où l'on converse plus volontiers avec ses rhumatismes qu'avec ses semblables. »
 
 ## On dit aussi
 

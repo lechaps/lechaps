@@ -8,7 +8,7 @@ Le mot ressemble furieusement à **capharnaüm**, et franchement ça lui va comm
 
 *Va donc voir dans l'cafergnon, y doit bien rester un marteau quelque part sous tout l'bazar.*
 
-> « Je vous suggère d'explorer cet espace de stockage à l'organisation hautement expérimentale ; il est statistiquement plausible qu'un outil adéquat s'y trouve encore enseveli. »
+> « Je vous suggère d'explorer cet espace de stockage à l'organisation hautement expérimentale ; avec un peu de méthode, de persévérance et peut-être l'appui de l'archéologie moderne, vous devriez finir par y exhumer un outil encore utilisable. »
 
 ## On dit aussi
 

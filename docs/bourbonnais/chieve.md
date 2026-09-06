@@ -6,11 +6,11 @@ La **chiève** ou **chièbe**, c'est d'abord la chèvre : nerveuse, cabocharde, 
 
 *La chièbe est encore montée sur l'muret, s'te carne.*
 
-> « Cette caprine manifestement habitée par un esprit de rébellion alpine a, une fois encore, entrepris l'ascension du mur avec une insolente agilité. »
+> « Cette caprine, manifestement persuadée d'appartenir à la noble lignée des bouquetins alpins, a une fois encore entrepris l'ascension du muret avec une assurance et une insolence qui excèdent très largement les prérogatives ordinaires de son espèce. »
 
 *Pose les bûches sur la chièbe, j'va m'en occuper.*
 
-> « Je vous prie de disposer ces pièces de bois sur le chevalet afin que nous procédions à leur débitage dans des conditions dignes d'une scierie impériale. »
+> « Je vous prie de disposer ces pièces de bois sur le chevalet afin que nous procédions à leur débitage dans des conditions dignes. »
 
 ## On dit aussi
 

@@ -6,7 +6,7 @@ Le **besouilloux**, c'est ce garçon — ou cette vieille ganache, faut pas disc
 
 *Oh laisse-le donc, ce besouilloux-là, y lècherait les bottes du maire jusque dans les fossés.*
 
-> « Cet homme possède une telle vocation pour la flatterie appliquée qu'on le croirait né pour cirer les chaussures du pouvoir avec le zèle mystique d'un bedeau sous amphétamines. »
+> « Ne vous embarrassez donc point de cet individu ; son zèle courtisan est tel qu'il suivrait le premier magistrat de la commune jusque dans les lieux les moins recommandables, pourvu qu'il pût encore y témoigner de son obséquieuse fidélité. »
 
 ## On dit aussi
 

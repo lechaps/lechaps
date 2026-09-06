@@ -10,7 +10,7 @@ La **coche**, c'est la truie, la vraie, la mère à groin, la matrone de la soue
 
 *T'as vu la coche du bistrot ? Toujours en train de brailler sur tout l'monde.*
 
-> « Avez-vous remarqué cette habituée du café, dont la présence sonore et l'amabilité incertaine semblent transformer chaque conversation en conseil de guerre mal ventilé ? »
+> « Avez-vous remarqué cette éminente représentante de la sociabilité locale, dont la puissance vocale n'a d'égale que la constance avec laquelle elle soumet son entourage à une succession de réprimandes, comme si la paisible fréquentation d'un débit de boissons exigeait, sous son autorité, la discipline d'une garnison en état d'alerte ? »
 
 ## On dit aussi
 

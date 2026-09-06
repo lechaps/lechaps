@@ -4,9 +4,9 @@ Le **denré**, c'est le vaurien, le mauvais sujet, la sale petite nature qui vou
 
 ## Exemple
 
-*Méfie-toi d'lui, c'est un vrai denré, y t'vendrait ton propre vélo avec l'air de te rendre service.*
+*Méfie-toi d'lui, c'est une vrai denré, y t'vendrait ton propre vélo avec l'air de te rendre service.*
 
-> « Je vous invite à la plus extrême prudence à l'égard de cet individu, dont la moralité approximative lui permettrait de vous dépouiller avec le sourire charitable d'un bienfaiteur municipal. »
+> « Je vous invite à la plus extrême prudence à l'égard de cet individu, dont la moralité approximative lui permettrait de vous dépouiller avec le sourire charitable d'un bienfaiteur. »
 
 ## On dit aussi
 

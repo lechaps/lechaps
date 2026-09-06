@@ -4,7 +4,7 @@ La **chinasse**, c'est la chienne des cours de ferme et des maisons où la porte
 
 ## Exemple
 
-*La chinasse est encore partie après les poules, nom de Dieu.*
+*La chinasse est encore partie après les poules.*
 
 > « Cette créature canine, manifestement gouvernée par un instinct de poursuite irrépressible, a de nouveau semé la panique parmi les volailles domestiques. »
 

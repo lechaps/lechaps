@@ -6,9 +6,9 @@ Mais derrière la plaisanterie, il y avait du respect. Un respect bourru, mal pe
 
 ## Exemple
 
-*Peuh, nous autres les bounhoumes, on n'attend pas qu'ça pousse tout seul derrière les fenêtres.*
+*Peuh, y'a qu'nous les bounhoumes qu'travaillons le dimanche.*
 
-> « Contrairement à certaines existences manifestement plus contemplatives, notre condition exige une participation physique constante à l'effort nourricier national. »
+> « Il semblerait décidément que nous soyons les derniers représentants de cette laborieuse humanité que même le repos dominical ne parvient pas à soustraire à ses obligations. »
 
 ## On dit aussi
 

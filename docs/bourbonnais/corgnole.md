@@ -6,7 +6,7 @@ La **corgnole**, ou **corniaule** quand le mot prend un peu plus de rondeur dans
 
 *Alors lui, il a la corgnole en pente !*
 
-> « Il me paraît judicieux de signaler que ce monsieur présente une disposition anatomique particulièrement favorable à l'écoulement des boissons fermentées, et cela avec une constance qui force le respect communal. »
+> « Il me paraît judicieux de signaler que ce monsieur présente une disposition anatomique particulièrement favorable à l'écoulement des boissons fermentées, et cela avec une constance qui force le respect. »
 
 ## On dit aussi
 

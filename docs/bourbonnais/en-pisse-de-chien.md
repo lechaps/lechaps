@@ -4,9 +4,9 @@
 
 ## Exemple
 
-*Ça me fait malice qu'on laisse ses outils en pisse de chien au travers du jardin.*
+*Ça me fait malice qu'on laisse les outils en pisse de chien au travers du jardin.*
 
-> « Je ressens une contrariété considérable à la vue de ce matériel horticole dispersé dans la propriété selon une organisation qui semble avoir été confiée à un chien sans formation particulière en rangement domestique. »
+> « Je confesse éprouver une irritation certaine à voir le matériel abandonné çà et là au milieu du jardin, selon une disposition qui semble davantage relever de la divagation que d'un quelconque principe d'organisation. »
 
 ## On dit aussi
 

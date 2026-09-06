@@ -6,7 +6,7 @@
 
 *C'est un bon ouvrier, il est sacrément adret de ses mains.*
 
-> « Cet artisan possède une maîtrise manuelle si remarquable qu'il semblerait capable d'assembler une horloge suisse les yeux fermés et dans le noir le plus complet. »
+> « C'est un artisan de haute volée, doué d'une dextérité si souveraine que, sous ses doigts, la matière elle-même paraît consentir à l'obéissance. »
 
 *La petite, regarde-moi ça, elle est déjà adrette avec son aiguille.*
 

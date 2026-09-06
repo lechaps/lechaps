@@ -4,9 +4,9 @@ Rien que le nom mérite une nappe à carreaux et trois ballons de rouge. La **be
 
 ## Exemple
 
-*Je te le dis, on. ne pique pas les berlettes de gouja sur le barbecue, tu leur fais perdre tout le jus !*
+*Je te le dis. On ne pique pas les berlettes de gouja sur le barbecue, tu leur fais perdre tout le jus !*
 
-> « Je vous prie instamment de cesser cette opération de perforation intempestive sur ces nobles cylindres de chair porcine, sous peine d'en voir les sucs précieux s'échapper dans les flammes. »
+> « Je vous saurais gré de bien vouloir renoncer à toute intervention perforante sur ces respectables pièces tandis qu'elles accomplissent leur noble destinée au-dessus des braises ; pareille brutalité ne saurait avoir d'autre conséquence que de provoquer la fuite prématurée de leurs sucs les plus estimables, au détriment manifeste de la gastronomie et, oserais-je dire, du bon sens élémentaire. »
 
 ## On dit aussi
 

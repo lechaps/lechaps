@@ -4,7 +4,7 @@
 
 ## Exemple
 
-*Il faudrait agaler un peu, on va encore s'prendre les pieds dans c'te bosse.*
+*Il faudrait y'agaler un peu, on va encore s'prendre les pieds d'dans.*
 
 > « Il conviendrait d'entreprendre sans tarder une opération méticuleuse de rééquilibrage topographique afin d'éviter qu'un passant distrait ne chute lamentablement. »
 

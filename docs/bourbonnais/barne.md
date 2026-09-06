@@ -11,9 +11,9 @@ Les tailles connues :
 
 ## Exemple
 
-*Ah ben si il fait soif on peut toujours attaquer la barne.*
+*Oh vu le rendement qu'on a, j'crois qu'on va attaquer directement la barne.*
 
-> « Puisque nos gosiers persistent à réclamer leur dû avec l'insistance tragique d'un chœur antique desséché par les vents d'Auvergne, je propose d'entamer séance tenante ce respectable réservoir bachique afin de préserver la paix civile et, accessoirement, l'amitié entre les hommes. »
+> « À considérer l'allure prodigieuse à laquelle nos gosiers persistent à réclamer leur dû, je propose d'entamer séance tenante ce respectable réservoir bachique afin de préserver la paix civile et, accessoirement, l'amitié entre les hommes. »
 
 ## On dit aussi
 

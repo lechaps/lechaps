@@ -4,7 +4,7 @@ La **chatougne**, c'est surtout ce qu'on invoque quand on n'y voit strictement r
 
 ## Exemple
 
-*J'y vois pas plus clair qu'une chatougne, passe-moi donc la lampe.*
+*J'y vois pas plus clair qu'une chatougne, passe-moi la lampe.*
 
 > « Mon acuité visuelle étant désormais comparable à celle d'un organisme aquatique égaré dans les profondeurs limoneuses, je sollicite humblement un apport lumineux susceptible de sauver ma dignité. »
 

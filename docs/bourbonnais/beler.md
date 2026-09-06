@@ -6,7 +6,7 @@
 
 *T'en as pas mare de beler ? Allez, viens donc boire un canon !*
 
-> « Je vous saurais gré de mettre un terme à cette élégie corporelle permanente et de rejoindre dignement cette table afin de vous y désaltérer »
+> « Auriez-vous l'obligeance de suspendre cette incessante litanie de doléances et de daigner prendre place à cette table, où quelque honnête libation devrait suffire à restaurer tout ensemble votre humeur, votre contenance et la paix des convives ? »
 
 ## On dit aussi
 

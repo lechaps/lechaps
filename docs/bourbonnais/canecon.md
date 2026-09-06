@@ -6,7 +6,7 @@ Et puis le mot lui-même est formidable : on entend dedans quelque chose de mou,
 
 ## Exemple
 
-*Ouh ça caille tel'ment j'ai ressorti l'caneçon long et les grosses chaussettes.*
+*Ouh ça caille tel'ment j'ai ressorti l'caneçon long.*
 
 > « Les conditions climatiques actuelles m'ont contraint à adopter une stratégie vestimentaire défensive particulièrement élaborée. »
 

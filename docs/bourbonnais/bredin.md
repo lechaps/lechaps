@@ -6,7 +6,7 @@ Le **bredin**, ce n'est pas seulement le fou du village, avec la tête partie da
 
 *Tu vois bien que t'es totalement bredin.*
 
-> « Peut-être conviendrait-il de suspendre momentanément cette succession d'initiatives intellectuellement aventureuses. »
+> « Vous conviendrez tout de même que vos dernières démonstrations ne plaident guère en faveur d'une parfaite rectitude de jugement. »
 
 ## On dit aussi
 

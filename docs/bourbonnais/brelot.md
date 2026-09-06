@@ -4,9 +4,9 @@ Le **brelot**, ou **berlaud**, c'est celui qui met un peu de temps à rejoindre 
 
 ## Exemple
 
-*Regarde-moi ce brelot, il a encore oublié où il a garé son tracteur.*
+*R'garde-moi ce brelot, il a encore oublié où il a garé son tracteur.*
 
-> « Cet individu manifeste une telle fantaisie dans la gestion de ses repères agricoles qu'il conviendrait peut-être de lui adjoindre un secrétaire, une boussole et deux saints patrons spécialisés dans les causes mécaniques désespérées. »
+> « Cet individu manifeste une telle fantaisie dans la gestion de ses repères agricoles qu'il conviendrait peut-être de lui adjoindre un secrétaire, une boussole et un archiviste spécialement chargé de consigner l'emplacement successif de ses propres machines. »
 
 ## On dit aussi
 
