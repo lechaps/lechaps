@@ -4,7 +4,7 @@ Un **grelé de taupière** — prononcé chez nous **guerlé de taupière** —,
 
 ## Exemple
 
-*Regarde-moi ce guerlé de taupière, il peut pas soulever un seau !*
+*Agadon ce guerlé de taupière, il peut pas soulever un seau !*
 
 > « Observez donc cet individu d'une constitution si délicate que le déplacement d'un simple récipient semble exiger la mobilisation conjointe de ses forces, de son courage et des services techniques du canton. »
 

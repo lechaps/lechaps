@@ -2,9 +2,9 @@
 
 Auvergnat (un peu) 🌋, [bourbonnais](./bourbonnais/index.md) (beaucoup) 🏰, parodien (surtout) 🚜 et citoyen du monde 🌍.  
 
-J'écris ici pour **éclairer pour relier** : comprendre les systèmes que nous habitons — humains, techniques, culturels — pour mieux y agir et mieux transmettre.
+J'écris ici pour **éclairer pour relier** : comprendre les systèmes que nous habitons (humains, techniques, culturels) pour mieux y agir et mieux transmettre.
 
-Patrimoine, technique, organisations, culture : des terrains différents, traversés par les mêmes questions. Ce qui tient, ce qui se transforme, ce qui se transmet — et la place que chacun peut y prendre.
+Patrimoine, technique, organisations, culture : des terrains différents, traversés par les mêmes questions. Ce qui tient, ce qui se transforme, ce qui se transmet et la place que chacun peut y prendre.
 
 [Quelques mots sur celui qui tient ces carnets](./a-propos.md).
 
@@ -36,7 +36,7 @@ Des réflexions sur le management, la coopération et la manière d'agir avec de
 
 ### 💡 Les lois de la tech
 
-> Lois, paradoxes et principes pour mieux comprendre pourquoi nos projets — et parfois nos vies numériques — fonctionnent comme ils fonctionnent.
+> Lois, paradoxes et principes pour mieux comprendre pourquoi nos projets (et parfois nos vies numériques) fonctionnent comme ils fonctionnent.
 
 Un regard mêlant rigueur, recul et humour sur les règles, les mécanismes et les effets inattendus qui façonnent nos systèmes techniques et nos façons de les habiter.
 

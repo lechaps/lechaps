@@ -6,7 +6,7 @@ Le **jau**, c'est le **coq**, le vrai, celui qu'on n'a pas transformé en chapon
 
 *Ce matin, c'est l'jau qui m'a réveillé.*
 
-> « Dès les premières clartés de l'aube, le mâle non châtré de notre basse-cour a jugé nécessaire de proclamer son autorité territoriale avec une puissance sonore rendant toute poursuite du sommeil administrativement impossible. »
+> « Dès les premières clartés de l'aube, le mâle non châtré de notre basse-cour a jugé nécessaire de proclamer son autorité territoriale avec une puissance sonore rendant toute poursuite du sommeil vraissemblablement impossible. »
 
 ## On dit aussi
 

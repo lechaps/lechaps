@@ -4,7 +4,7 @@ La **lisette**, c'est le **lézard**, le petit locataire des vieux murs qui se c
 
 ## Exemple
 
-*Regarde donc la lisette su'l mur, elle prend l'soleil.*
+*Agadon la lisette su'l mur, elle prend l'soleil.*
 
 > « Observez ce minuscule reptile qui, installé sur la pierre avec une sérénité de propriétaire terrien, paraît jouir des bienfaits de l'astre solaire sans acquitter la moindre contribution foncière. »
 

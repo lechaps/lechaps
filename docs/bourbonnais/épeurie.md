@@ -4,7 +4,7 @@ L'**épeurie**, ou **epourie**, c'est l'**épouvantail**, ce grand maigre plant�
 
 ## Exemple
 
-*Regarde donc l'épeurie dans les pois, on dirait l'vieux Jules après la noce.*
+*Agadon l'épeurie dans les pois, on dirait l'vieux Jules après la noce.*
 
 > « Observez cette sentinelle agricole drapée de guenilles : sa tenue, son immobilité et son maintien légèrement effondré évoquent avec une précision troublante notre estimable voisin au lendemain des festivités matrimoniales. »
 

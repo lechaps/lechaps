@@ -1,6 +1,6 @@
 # Feurgner
 
-**Feurgner**, c'est **fouiller**, chercher avec insistance, remuer les choses et les gens jusqu'à trouver ce qu'on était venu quêter — ou jusqu'à se faire remarquer, ce qui arrive souvent aux chercheurs sans délicatesse. Le mot peut prendre un tour galant, quoique la galanterie y porte davantage les sabots que l'escarpin : **feurgner**, c'est alors rôder du côté des femmes, chercher rencontre, aventure ou compagnie, avec l'application fébrile d'un chien qui aurait flairé quelque promesse sentimentale derrière la salle des fêtes. Ça cherche, ça tourne, ça renifle presque ; enfin, le cœur prétend mener l'enquête, mais le reste du bonhomme n'est généralement pas loin derrière.
+**Feurgner**, c'est fouiller, chercher avec insistance, remuer les choses et les gens jusqu'à trouver ce qu'on était venu quêter, ou jusqu'à se faire remarquer, ce qui arrive souvent aux chercheurs sans délicatesse. Le mot peut prendre un tour galant, quoique la galanterie y porte davantage les sabots que l'escarpin : **feurgner**, c'est alors rôder du côté des femmes, chercher rencontre, aventure ou compagnie, avec l'application fébrile d'un chien qui aurait flairé quelque promesse sentimentale derrière la salle des fêtes. Ça cherche, ça tourne, ça renifle presque ; enfin, le cœur prétend mener l'enquête, mais le reste du bonhomme n'est généralement pas loin derrière.
 
 ## Exemple
 

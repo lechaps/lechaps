@@ -1,6 +1,6 @@
 # Berouette
 
-La **berouette**, c'est la brouette des gens qui travaillent pour de vrai. Pas l'objet de jardinerie proprette qu'on pousse le dimanche entre deux rosiers anglais et un podcast sur la permaculture, non. La vraie. Celle qui couine, qui penche un peu à gauche, qui garde au fond de sa caisse trois pelletées de terre séchée depuis la présidence de Giscard et un vieux clou rouillé qu'on n'ose jamais enlever « parce qu'il peut servir ». Dans les fermes bourbonnaises, la berouette faisait tout : les patates, le fumier, les bûches, les lapins morts — oui, bon, la vie rurale n'a jamais été écrite par Walt Disney. Ça grinçait, ça jurait, ça avançait quand même. Comme les gens d'ici.
+La **berouette**, c'est la brouette des gens qui travaillent pour de vrai. Pas l'objet de jardinerie proprette qu'on pousse le dimanche entre deux rosiers anglais et un podcast sur la permaculture, non. La vraie. Celle qui couine, qui penche un peu à gauche, qui garde au fond de sa caisse trois pelletées de terre séchée depuis la présidence de Giscard et un vieux clou rouillé qu'on n'ose jamais enlever « parce qu'il peut servir ». Dans les fermes bourbonnaises, la berouette faisait tout : les patates, le fumier, les bûches, les lapins morts (oui, bon, la vie rurale n'a jamais été écrite par Walt Disney). Ça grinçait, ça jurait, ça avançait quand même. Comme les gens d'ici.
 
 ## Exemple
 

@@ -1,6 +1,6 @@
 # Picorgnet
 
-Un **picorgnet**, c'est une plante, un buisson ou un arbuste tout hérissé d'épines, de ceux qui vous attrapent la manche, vous griffent les mollets et semblent avoir été installés là par une administration particulièrement hostile aux promeneurs. On le contourne quand on est sage ; on s'y frotte quand on est enfant, pressé ou mal chaussé, puis on revient avec la piau rayée comme une vieille porte de grange.
+Un **picorgnet**, c'est une plante, un buisson ou un arbuste tout hérissé d'épines, de ceux qui vous attrapent la manche, vous griffent les mollets et semblent avoir été installés là par une autorité particulièrement hostile aux promeneurs. On le contourne quand on est sage ; on s'y frotte quand on est enfant, pressé ou mal chaussé, puis on revient avec la piau rayée comme une vieille porte de grange.
 
 ## Exemple
 

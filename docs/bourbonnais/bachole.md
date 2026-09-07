@@ -2,13 +2,13 @@
 
 La **bachole**, à l'origine, c'est l'auge à cochon. Le récipient trapu, solide, toujours un peu gras sur les bords, qui sent le son mouillé, la soupe refroidie et la vie agricole. Et puis, comme souvent avec les mots, la bachole a fini par désigner aussi le verre qu'on vous tend au comptoir. Pas le cristal de réception diplomatique. Le canon honnête. Le godet convivial. Celui qu'on remplit « juste pour goûter », et qui vous fait soudain parler de votre jeunesse avec une émotion de sous-préfet à la retraite.
 
-Il y a dans ce mot quelque chose de large, de généreux, presque porcin au fond — et je dis ça avec tendresse. Une bachole, ça se vide rarement seul et jamais tristement.
+Il y a dans ce mot quelque chose de large, de généreux, presque porcin au fond (et je dis ça avec tendresse). Une bachole, ça se vide rarement seul et jamais tristement.
 
 ## Exemple
 
 *Allez, ressers-m'en une bachole.*
 
-> « Mon brave ami, devant les qualités manifestement remarquables de ce breuvage — lequel possède, soit dit en passant, une franchise aromatique que bien des grands crus devraient lui envier — je sollicite humblement un supplément de remplissage dans mon récipient personnel. »
+> « Mon brave ami, devant les qualités manifestement remarquables de ce breuvage, lequel possède, soit dit en passant, une franchise aromatique que bien des grands crus devraient lui envier, je sollicite humblement un supplément de remplissage dans mon récipient personnel. »
 
 ## On dit aussi
 

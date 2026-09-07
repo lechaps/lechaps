@@ -1,6 +1,6 @@
 # Fornier
 
-**Fornier**, c'est **quitter le nid**. L'oiseau fornie quand ses ailes le portent enfin au-delà de la branche ; le jeune, lui, quand il abandonne la maison familiale avec trois cartons, deux casseroles et cette assurance magnifique de ceux qui n'ont encore jamais payé le chauffage. Le mot dit le départ sans grands violons : on a grandi, on s'en va, la chambre se vide et la mère trouve soudain le couloir bien silencieux. Fornier, c'est prendre son vol — même lorsqu'on commence par atterrir dans un studio mal chauffé, entre une chaise bancale et des pâtes pour la semaine.
+**Fornier**, c'est quitter le nid. L'oiseau fornie quand ses ailes le portent enfin au-delà de la branche ; le jeune, lui, quand il abandonne la maison familiale avec trois cartons, deux casseroles et cette assurance magnifique de ceux qui n'ont encore jamais payé le chauffage. Le mot dit le départ sans grands violons : on a grandi, on s'en va, la chambre se vide et la mère trouve soudain le couloir bien silencieux. Fornier, c'est prendre son vol, même lorsqu'on commence par atterrir dans un studio mal chauffé, entre une chaise bancale et des pâtes pour la semaine.
 
 ## Exemple
 
@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Forgner, dépiter, forniat, fornias
+Prendre son envol, quitter le nid, prendre son indépendance, s'émanciper, voler de ses propres ailes, quitter la maison
 
 ## Pour aller plus loin
 

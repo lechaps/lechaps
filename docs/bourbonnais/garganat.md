@@ -1,12 +1,12 @@
 # Garganat
 
-Le **garganat**, c'est tout l'**appareil digestif**, la grande tuyauterie intérieure, depuis le gosier jusqu'aux profondeurs moins mondaines où la soupe, le vin, le pâté et les regrets de table vont régler leurs affaires. Avoir le garganat solide, c'est pouvoir avaler une gnôle capable de décaper une rampe d'escalier sans y perdre son sérieux ; l'avoir délicat, c'est sentir chaque bouchée convoquer le conseil de famille dans les entrailles. Le mot englobe le ventre, l'estomac, les boyaux, enfin toute cette mécanique admirable qui fonctionne sans qu'on la remercie et proteste dès qu'on la traite comme une bétonnière.
+Le **garganat**, c'est tout l'appareil digestif, la grande tuyauterie intérieure, depuis le gosier jusqu'aux profondeurs moins mondaines où la soupe, le vin, le pâté et les regrets de table vont régler leurs affaires. Avoir le garganat solide, c'est pouvoir avaler une gnôle capable de décaper une rampe d'escalier sans y perdre son sérieux ; l'avoir délicat, c'est sentir chaque bouchée convoquer le conseil de famille dans les entrailles. Le mot englobe le ventre, l'estomac, les boyaux, enfin toute cette mécanique admirable qui fonctionne sans qu'on la remercie et proteste dès qu'on la traite comme une bétonnière.
 
 ## Exemple
 
 *Ah, s'te gnôle me décalamine le garganat !*
 
-> « Cette eau-de-vie d'une vigueur industrielle semble procéder au nettoyage intégral de mon système digestif, avec une efficacité que l'on rencontre ordinairement dans l'entretien des chaudières communales. »
+> « Cette eau-de-vie d'une vigueur industrielle semble procéder au nettoyage intégral de mon système digestif, avec une efficacité que l'on rencontre ordinairement dans l'entretien des chaudières collectives. »
 
 ## On dit aussi
 

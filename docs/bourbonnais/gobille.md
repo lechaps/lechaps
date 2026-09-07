@@ -1,6 +1,6 @@
 # Gobille
 
-Une **gobille**, c'est une bille, ce petit globe de verre, de terre ou d'acier qui roulait dans les poches, sous les pupitres et jusque dans les rêves des écoliers. On la gagnait, on la perdait, on la convoitait avec une gravité d'actionnaire ruinant son voisin, et certaines, plus belles que les autres, valaient à elles seules trois goûters, deux disputes et une brouille diplomatique dans la cour de récréation. La gobille, c'était peu de chose, mais entre deux cartables elle faisait fortune, pouvoir et jalousie — la vraie vie, quoi, en culottes courtes.
+Une **gobille**, c'est une bille, ce petit globe de verre, de terre ou d'acier qui roulait dans les poches, sous les pupitres et jusque dans les rêves des écoliers. On la gagnait, on la perdait, on la convoitait avec une gravité d'actionnaire ruinant son voisin, et certaines, plus belles que les autres, valaient à elles seules trois goûters, deux disputes et une brouille diplomatique dans la cour de récréation. La gobille, c'était peu de chose, mais entre deux cartables elle faisait fortune, pouvoir et jalousie (la vraie vie, quoi, en culottes courtes).
 
 ## Exemple
 

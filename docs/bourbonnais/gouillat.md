@@ -1,6 +1,6 @@
 # Gouillat
 
-Un **gouillat**, c'est une étendue d'eau, une mare, une grande flaque où l'on peut patauger, se laver les jambes ou se baigner quand on n'est pas trop regardant sur la couleur du fond. Ce n'est pas la Méditerranée, naturellement : l'eau y sent parfois la vase, les grenouilles y tiennent conseil et les bords vous avalent les sabots avec une familiarité excessive. Mais les jours de chaleur, un gouillat suffisait à faire plage, piscine et Côte d'Azur — avec moins de palmiers, davantage de têtards et aucun marchand de glaces.
+Un **gouillat**, c'est une étendue d'eau, une mare, une grande flaque où l'on peut patauger, se laver les jambes ou se baigner quand on n'est pas trop regardant sur la couleur du fond. Ce n'est pas la Méditerranée, naturellement : l'eau y sent parfois la vase, les grenouilles y tiennent conseil et les bords vous avalent les sabots avec une familiarité excessive. Mais les jours de chaleur, un gouillat suffisait à faire plage, piscine et Côte d'Azur (avec moins de palmiers, davantage de têtards et aucun marchand de glaces).
 
 ## Exemple
 

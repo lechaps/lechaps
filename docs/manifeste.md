@@ -2,13 +2,13 @@
 
 Ces carnets existent pour **éclairer pour relier**.
 
-Ils sont nés d'un besoin simple : comprendre les systèmes que nous habitons — humains, techniques, culturels — afin de pouvoir **agir avec justesse**, sans nier leur complexité ni écraser le vivant.
+Ils sont nés d'un besoin simple : comprendre les systèmes que nous habitons (humains, techniques, culturels) afin de pouvoir **agir avec justesse**, sans nier leur complexité ni écraser le vivant.
 
 Je crois que la complexité ne se supprime pas : elle se comprend, se respecte et se traverse. La nier, c'est souvent perdre le sens, l'humain ou la liberté d'agir.
 
 Écrire ici, c'est prendre le temps de **comprendre pour s'émanciper**. Non pour maîtriser, mais pour **rendre l'action possible**. C'est regarder avant de conclure, nommer sans enfermer, transmettre sans imposer.
 
-Je m'intéresse aux **systèmes vivants** — ceux qui évoluent, se transmettent, se transforment et parfois résistent. Patrimoine, technique, management ou culture : j'y cherche les équilibres, la règle juste, le collectif et ce qui permet à chacun de tenir sa place.
+Je m'intéresse aux **systèmes vivants**, ceux qui évoluent, se transmettent, se transforment et parfois résistent. Patrimoine, technique, management ou culture : j'y cherche les équilibres, la règle juste, le collectif et ce qui permet à chacun de tenir sa place.
 
 Ces carnets sont un espace de **transmission**, ouvert à la nuance, à la curiosité, parfois à l'humour, toujours au respect.
 
@@ -30,7 +30,7 @@ Ce qui me guide est simple :
 * Respecter le vivant et les équilibres fragiles
 * Transmettre, puis savoir changer de terrain
 
-C'est cette boussole qui relie des sujets en apparence différents — patrimoine, technique, management, culture — et donne leur cohérence à ces carnets.
+C'est cette boussole qui relie des sujets en apparence différents (patrimoine, technique, management, culture) et donne leur cohérence à ces carnets.
 
 ---
 

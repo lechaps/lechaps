@@ -4,7 +4,7 @@ La **couâle**, c'est le corbeau du pays, l'oiseau noir, l'oiseau de mauvais tem
 
 ## Exemple
 
-*Regarde-moi c'te couâlle perchée su'l pommier, on dirait qu'elle attend qu'ça tombe.*
+*Agadon c'te couâlle perchée su'l pommier, on dirait qu'elle attend qu'ça tombe.*
 
 > « Observez donc ce sombre fonctionnaire des vergers, installé sur la branche avec une patience notariale, manifestement résolu à percevoir sa part dès que la pomme aura cessé de se croire immortelle. »
 

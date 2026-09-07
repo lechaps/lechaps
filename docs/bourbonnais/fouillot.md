@@ -1,6 +1,6 @@
 # Fouillot
 
-Le **fouillot**, c'est la **gastro-entérite**, la grande révolution des boyaux, celle qui vous prend sans prévenir et transforme un homme convenable en pèlerin pressé du corridor. Le ventre gargouille, se tord, proteste, puis prend le commandement général des opérations avec une autorité que ni la volonté, ni la dignité, ni le bouton du pantalon ne sauraient discuter. On est faible, pâle, misérable, condamné au bouillon clair et aux déplacements stratégiques : bref, le fouillot, c'est la maladie qui vous rappelle que l'âme est peut-être immortelle, mais que les tripes, elles, ont leurs urgences.
+Le **fouillot**, c'est la gastro-entérit*, la grande révolution des boyaux, celle qui vous prend sans prévenir et transforme un homme convenable en pèlerin pressé du corridor. Le ventre gargouille, se tord, proteste, puis prend le commandement général des opérations avec une autorité que ni la volonté, ni la dignité, ni le bouton du pantalon ne sauraient discuter. On est faible, pâle, misérable, condamné au bouillon clair et aux déplacements stratégiques : bref, le fouillot, c'est la maladie qui vous rappelle que l'âme est peut-être immortelle, mais que les tripes, elles, ont leurs urgences.
 
 ## Exemple
 
@@ -10,4 +10,4 @@ Le **fouillot**, c'est la **gastro-entérite**, la grande révolution des boyaux
 
 ## On dit aussi
 
-Gastro, gastro-entérite, drouille, drille, courante
+Gastro, gastro-entérite, [drouille](./drouille.md), drille, courante

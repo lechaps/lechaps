@@ -18,7 +18,7 @@ Adroit, habile, agile, précis.
 
 ## Le souvenir
 
-J'ai entendu ce mot toute mon enfance : « Il est adret. » On le disait de ceux qu'on estimait, de ceux qui savaient faire — et surtout faire bien. Ce n'était pas un compliment qu'on distribuait à la volée ; par chez nous, l'éloge avait le portefeuille serré. Être adret, c'était mériter qu'on vous confie les travaux délicats sans venir regarder par-dessus votre épaule toutes les cinq minutes. On savait que ce serait fait, et bien fait.
+J'ai entendu ce mot toute mon enfance : « Il est adret. » On le disait de ceux qu'on estimait, de ceux qui savaient faire (et surtout faire bien). Ce n'était pas un compliment qu'on distribuait à la volée ; par chez nous, l'éloge avait le portefeuille serré. Être adret, c'était mériter qu'on vous confie les travaux délicats sans venir regarder par-dessus votre épaule toutes les cinq minutes. On savait que ce serait fait, et bien fait.
 
 Il y avait dans ce mot une vieille forme de confiance, presque un brevet sans diplôme : celle qu'on accorde aux mains sûres, aux gestes appris en regardant les autres, puis répétés jusqu'à ce qu'ils aient l'air simples. Le savoir ne se proclamait pas. Il se voyait. Et quand on était adret, ça suffisait.
 

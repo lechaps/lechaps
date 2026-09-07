@@ -2,7 +2,7 @@
 
 ## Définition
 
-**Ajouter les vaches**, c'est tout simplement les traire. Voilà un de ces mots magnifiques qui semblent avoir pris un chemin de traverse pendant que le français officiel regardait ailleurs. On n'ajoute pourtant rien à la vache — ni pièce détachée, ni option, ni supplément crème — on lui retire même quelque chose, ce qui prouve une fois encore que le bourbonnais n'a jamais attendu la permission de la logique. « Faut aller ajouter les vaches » voulait surtout dire que l'heure était venue : celle de l'étable, du seau, des mains au travail et de ce petit rituel quotidien auquel les bêtes, elles, n'accordaient aucun congé dominical.
+**Ajouter les vaches**, c'est tout simplement les traire. Voilà un de ces mots magnifiques qui semblent avoir pris un chemin de traverse pendant que le français officiel regardait ailleurs. On n'ajoute pourtant rien à la vache, ni pièce détachée, ni option, ni supplément crème. On lui retire même quelque chose, ce qui prouve une fois encore que le bourbonnais n'a jamais attendu la permission de la logique. « Faut aller ajouter les vaches » voulait surtout dire que l'heure était venue : celle de l'étable, du seau, des mains au travail et de ce petit rituel quotidien auquel les bêtes, elles, n'accordaient aucun congé dominical.
 
 ## Exemple
 

@@ -1,6 +1,6 @@
 # Esmaillé
 
-**Esmaillé**, c'est **semer**, confier la graine à la terre avec ce grand geste souple du bras qui semble jeter une bénédiction sur le champ — mais une bénédiction de blé, de raves ou de luzernes, pas de celles qui réclament une soutane. On avançait lentement, la semence au creux du tablier ou dans un sac, en veillant à la répandre juste, ni trop serrée ni trop chichement. Après, il fallait attendre : la pluie, le soleil, la levée, et cette humeur mystérieuse de la terre qui ne signe jamais de garantie.
+**Esmaillé**, c'est semer, confier la graine à la terre avec ce grand geste souple du bras qui semble jeter une bénédiction sur le champ — mais une bénédiction de blé, de raves ou de luzernes, pas de celles qui réclament une soutane. On avance lentement, la semence au creux du tablier ou dans un sac, en veillant à la répandre juste, ni trop serrée ni trop chichement. Après, il faut attendre : la pluie, le soleil, la levée, et cette humeur mystérieuse de la terre qui ne signe jamais de garantie.
 
 ## Exemple
 

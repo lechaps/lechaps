@@ -4,7 +4,7 @@ Une **petrelle**, c'est une jeune femme vive, extravagante, expansive, de celles
 
 ## Exemple
 
-*Regarde-moi cette petrelle, elle a encore mis sa robe rouge pour aller chercher le pain.*
+*Agadon c'tte petrelle, elle a encore mis sa robe rouge pour aller chercher le pain.*
 
 > « Veuillez considérer cette jeune personne dont l'exubérance vestimentaire transforme une modeste visite à la boulangerie en apparition mondaine susceptible d'émouvoir durablement le voisinage. »
 

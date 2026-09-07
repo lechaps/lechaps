@@ -10,7 +10,7 @@ Le **client**, à la campagne, ce n'est pas forcément celui qui paye. Non. C'é
 
 ## On dit aussi
 
-Visiteur, quémandeur, importun, emmerdeur — quand la journée était déjà mal partie
+Visiteur, quémandeur, importun, emmerdeur (quand la journée était déjà mal partie)
 
 ## Pour aller plus loin
 

@@ -1,6 +1,6 @@
 # Chatougne
 
-La **chatougne**, c'est surtout ce qu'on invoque quand on n'y voit strictement rien. *« J'y vois pas plus clair qu'une chatougne»*, voilà le vrai territoire du mot : la cuisine mal éclairée à six heures du matin, la cave humide, ou les lunettes qu'on cherche alors qu'on les a sur le nez depuis vingt minutes — ce qui, avec l'âge, devient un sport régional plus pratiqué que la pétanque. L'expression possède quelque chose de merveilleusement inutile et précis à la fois : personne ne sait vraiment à quoi ressemble cette pauvre bête, mais tout le monde comprend immédiatement le degré de brouillard dans lequel vous naviguez. Et puis le mot lui-même… **chatougne**… on dirait un petit animal fabriqué avec de la vase, du silence et un vieux juron de pêcheur.
+La **chatougne**, c'est surtout ce qu'on invoque quand on n'y voit strictement rien. *« J'y vois pas plus clair qu'une chatougne»*, voilà le vrai territoire du mot : la cuisine mal éclairée à six heures du matin, la cave humide, ou les lunettes qu'on cherche alors qu'on les a sur le nez depuis vingt minutes. Ce qui, avec l'âge, devient un sport régional plus pratiqué que la pétanque. L'expression possède quelque chose de merveilleusement inutile et précis à la fois : personne ne sait vraiment à quoi ressemble cette pauvre bête, mais tout le monde comprend immédiatement le degré de brouillard dans lequel vous naviguez. Et puis le mot lui-même… **chatougne**… on dirait un petit animal fabriqué avec de la vase, du silence et un vieux juron de pêcheur.
 
 ## Exemple
 

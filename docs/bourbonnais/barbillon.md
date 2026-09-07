@@ -1,12 +1,12 @@
 # Barbillon
 
-Petit poisson d'eau douce, commun dans les rivières et les étangs. Le nom désigne généralement une jeune tanche ou un jeune barbeau, reconnaissable à ses petites excroissances charnues autour de la bouche — de quoi lui donner l'air sévère, ce qui est ambitieux pour un poisson de friture.
+Petit poisson d'eau douce, commun dans les rivières et les étangs. Le nom désigne généralement une jeune tanche ou un jeune barbeau, reconnaissable à ses petites excroissances charnues autour de la bouche. Bref, de quoi lui donner l'air sévère, ce qui est ambitieux pour un poisson de friture.
 
 On le retrouvait volontiers à table, poêlé ou frit, surtout les jours où l'on avait décidé qu'un poisson sorti de l'étang méritait mieux que d'y retourner.
 
 ## Exemple
 
-*Regarde-moi c't'barbillon qu'j'ai attrapé à la ligne.*
+*Agadpn c't'barbillon qu'j'ai attrapé à la ligne.*
 
 > « Permettez-moi d'attirer votre regard admiratif sur cet estimable pensionnaire des eaux douces que ma science halieutique, alliée à une patience quasi monastique, vient d'arracher aux profondeurs limoneuses de notre terroir. »
 

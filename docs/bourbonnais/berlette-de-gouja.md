@@ -1,6 +1,6 @@
 # Berlette de gouja
 
-Rien que le nom mérite une nappe à carreaux et trois ballons de rouge. La **berlette de gouja**, c'est la saucisse dans toute sa gloire populaire : grasse juste ce qu'il faut, grésillante sur le feu, avec cette odeur capable de faire revenir un homme du jardin plus vite qu'un clairon de cavalerie. L'expression a ce vieux parfum de plaisanterie paysanne un peu grivoise, un peu bravache, où la charcuterie et la gaudriole faisaient souvent ménage commun — faut dire qu'à la campagne, quand on avait fini de parler météo et pommes de terre, il restait toujours deux ou trois énormités pour accompagner le litre. Et puis une saucisse, hein… ça inspire les imaginations simples. Dieu reconnaîtra les poètes.
+Rien que le nom mérite une nappe à carreaux et trois ballons de rouge. La **berlette de gouja**, c'est la saucisse dans toute sa gloire populaire : grasse juste ce qu'il faut, grésillante sur le feu, avec cette odeur capable de faire revenir un homme du jardin plus vite qu'un clairon de cavalerie. L'expression a ce vieux parfum de plaisanterie paysanne un peu grivoise, un peu bravache, où la charcuterie et la gaudriole faisaient souvent ménage commun. Il faut dire qu'à la campagne, quand on avait fini de parler météo et pommes de terre, il restait toujours deux ou trois énormités pour accompagner le litre. Et puis une saucisse, hein… ça inspire les imaginations simples. Dieu reconnaîtra les poètes.
 
 ## Exemple
 

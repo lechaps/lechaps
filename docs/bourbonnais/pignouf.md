@@ -4,7 +4,7 @@ Un **pignouf**, c'est un individu mal dégrossi, impoli, rustre, un goujat qui e
 
 ## Exemple
 
-*Regarde-moi ce pignouf, les cheveux tout debout, et il a même pas dit bonjour.*
+*Agadon ce pignouf, les cheveux tout d'bout, et il a même pas dit bonjour.*
 
 > « Veuillez considérer cet individu dont le désordre capillaire n'a d'égal que l'abandon manifeste des règles les plus élémentaires de la courtoisie. »
 

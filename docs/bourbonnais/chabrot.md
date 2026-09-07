@@ -11,7 +11,7 @@ Le chabrot, ça sent les cuisines rustiques, les coudes sur la toile cirée, les
 
 *Il est tellement bon ton bouillon, j'm'en va faire chabrot.*
 
-> « Votre préparation potagère atteignant des sommets gustatifs qu'on croyait réservés aux tables impériales ou aux miracles de Lourdes — encore que Lourdes, question pinard, ça reste discutable — je me vois contraint, par élégance autant que par nécessité métaphysique, d'y verser un rouge honnête afin d'en prolonger la félicité jusqu'à la dernière goutte. »
+> « Votre préparation potagère atteignant des sommets gustatifs qu'on croyait réservés aux tables impériales ou aux miracles de Lourdes (encore que Lourdes, question pinard, ça reste discutable) je me vois contraint, par élégance autant que par nécessité métaphysique, d'y verser un rouge honnête afin d'en prolonger la félicité jusqu'à la dernière goutte. »
 
 ## On dit aussi
 
