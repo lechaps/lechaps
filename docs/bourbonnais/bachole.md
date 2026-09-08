@@ -12,7 +12,7 @@ Il y a dans ce mot quelque chose de large, de généreux, presque porcin au fond
 
 ## On dit aussi
 
-Bachoule, godet, canon, gorgeon, jatte à cochon.
+Auge, godet, canon, gorgeon, jatte à cochon.
 
 ## Souvenir
 

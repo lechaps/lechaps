@@ -10,7 +10,7 @@ L'**épeurie**, ou **epourie**, c'est l'**épouvantail**, ce grand maigre plant�
 
 ## On dit aussi
 
-Epourie, épouvantail
+Épouvantail
 
 ## Pour aller plus loin
 

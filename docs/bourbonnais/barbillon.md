@@ -12,7 +12,7 @@ On le retrouvait volontiers à table, poêlé ou frit, surtout les jours où l'o
 
 ## On dit aussi
 
-Barbeau, tanche, petit barbillon.
+Barbeau, tanche.
 
 ## Pour aller plus loin
 

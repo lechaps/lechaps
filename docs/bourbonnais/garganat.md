@@ -10,7 +10,7 @@ Le **garganat**, c'est tout l'appareil digestif, la grande tuyauterie intérieur
 
 ## On dit aussi
 
-Gargnat, estomac, ventre, boyaux, tripes, tuyauterie
+Estomac, ventre, boyaux, tripes, tuyauterie
 
 ## Pour aller plus loin
 

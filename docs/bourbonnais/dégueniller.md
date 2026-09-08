@@ -15,7 +15,8 @@ Mais, dans la bouche bourbonnaise, **dégueniller**, c'est aussi être saoul, pa
 
 ## On dit aussi
 
-Mettre en guenilles, déchirer, loqueter, se débrailler, être saoul, être rond, être beurré, avoir son compte
+1. Mettre en guenilles, déchirer, loqueter, se débrailler
+2. Être saoul, être rond, être beurré, avoir son compte
 
 ## Pour aller plus loin
 

@@ -10,7 +10,7 @@ La **corgnole**, ou **corniaule** quand le mot prend un peu plus de rondeur dans
 
 ## On dit aussi
 
-Gorge, gosier, glotte, cou, corgnôle, corgnolon
+Gorge, gosier, glotte, cou
 
 ## Pour aller plus loin
 

@@ -4,7 +4,6 @@
 
 Le mot tombe sans préavis : « Agadon… » Deux ou trois syllabes, pas davantage. Une économie de langage propre aux gens qui ont longtemps travaillé dehors et savent qu'on peut parfaitement désigner le monde sans lui faire un discours. Et tout le monde regarde. Pas besoin d'explication. Dans le Bourbonnais, on sait depuis longtemps que les grands discours fatiguent les lèvres et, surtout, refroidissent la soupe.
 
-
 ## L'exemple
 
 *Agadon, comment il s'est accatouflé.*

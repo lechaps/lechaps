@@ -6,7 +6,7 @@ La **mase**, ou **maze**, c'est la fourmi, cette petite ouvrière qui traverse l
 
 *À l'école, j'ai pas appris la fable de la cigale et de la mase.*
 
-> « Mon instruction primaire ne m'a malheureusement pas permis d'étudier l'immortelle confrontation morale opposant l'artiste imprévoyante des beaux jours à la laborieuse représentante de la gent myrmécéenne, que nous nommions chez nous, avec davantage de simplicité et beaucoup moins de grec ancien, la mase. »
+> « Mon instruction primaire ne m'a malheureusement pas permis d'étudier l'immortelle confrontation morale opposant l'artiste imprévoyante des beaux jours à la laborieuse représentante de la gent myrmécéenne, que nous nommions avec davantage de simplicité et beaucoup moins de grec ancien, la mase. »
 
 ## On dit aussi
 

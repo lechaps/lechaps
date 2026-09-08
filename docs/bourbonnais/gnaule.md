@@ -10,7 +10,7 @@ La **gnaule**, c'est l'eau-de-vie, celle qui dormait dans une bouteille sans ét
 
 ## On dit aussi
 
-gnôle, goutte, eau-de-vie, tord-boyaux
+Gnôle, goutte, eau-de-vie, tord-boyaux
 
 ## Pour aller plus loin
 

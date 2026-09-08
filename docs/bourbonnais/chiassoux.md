@@ -10,4 +10,4 @@ Le **chiassoux**, c'est ce drôle d'individu qui serre son porte-monnaie comme d
 
 ## On dit aussi
 
-Radin, grippe-sou, pingre, pas donneux, sec comme un coup de trique
+Radin, grippe-sou, pingre

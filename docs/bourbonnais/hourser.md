@@ -1,6 +1,6 @@
 # Hourser
 
-**Hourser**, c'est **tancer**, réprimander, remettre quelqu'un à sa place avec assez de vigueur pour que les oreilles rougissent et que les idées se remettent dans le bon sens. On ne hourse pas pour une peccadille, un bouton mal fermé ou une miette sur la nappe : il faut que le bougre ait insisté, abusé, recommencé malgré les avertissements, bref qu'il ait lui-même préparé l'orage et installé les chaises. Se faire hourser, c'est recevoir une bonne remontée de bretelles, sans nécessairement qu'on touche aux bretelles — la voix, bien maniée, suffit souvent à rhabiller un homme pour l'hiver.
+**Hourser**, c'est tancer, réprimander, remettre quelqu'un à sa place avec assez de vigueur pour que les oreilles rougissent et que les idées se remettent dans le bon sens. On ne hourse pas pour une peccadille, un bouton mal fermé ou une miette sur la nappe : il faut que le bougre ait insisté, abusé, recommencé malgré les avertissements, bref qu'il ait lui-même préparé l'orage et installé les chaises pur le public. Se faire hourser, c'est recevoir une bonne remontée de bretelles, sans nécessairement qu'on touche aux bretelles. La voix, bien maniée, suffit souvent à rhabiller un homme pour l'hiver.
 
 ## Exemple
 

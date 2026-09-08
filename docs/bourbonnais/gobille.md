@@ -10,7 +10,7 @@ Une **gobille**, c'est une bille, ce petit globe de verre, de terre ou d'acier q
 
 ## On dit aussi
 
-bille, gobille de verre, gobille de terre
+Bille
 
 ## Pour aller plus loin
 

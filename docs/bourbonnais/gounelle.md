@@ -4,13 +4,13 @@ Une **gounelle**, c'est une guenille arrivée au bout de sa carrière, un morcea
 
 ## Exemple
 
-*Jette-moi donc cette gounelle, elle tient pus que par les trous.*
+*Jette-moi don' c'tte vieille gounelle, ça tient p'us qu'par les trous.*
 
 > « Je vous prie de vous défaire de ce vestige textile dont la cohésion matérielle repose désormais moins sur ses fibres que sur une forme particulièrement émouvante d'obstination. »
 
 ## On dit aussi
 
-guenille, loque, chiffon, haillon, penet
+Guenille, loque, chiffon, haillon, [penet](./penet.md)
 
 ## Pour aller plus loin
 

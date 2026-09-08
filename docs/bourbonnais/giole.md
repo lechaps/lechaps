@@ -10,7 +10,7 @@ Une **giole**, c'était une cage de grillage sans fond, retournée sur la terre 
 
 ## On dit aussi
 
-crenne, cage à poule, mue
+Crenne, cage à poule, mue
 
 ## Souvenir
 

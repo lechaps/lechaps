@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Déchiré, déchiqueté, [dégueniller](./dégueniller.md), en guenilles, en loques, déguenillé
+Déchiré, déchiqueté, [dégueniller](./dégueniller.md), en guenilles, en loques
 
 ## Pour aller plus loin
 

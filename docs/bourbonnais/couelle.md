@@ -15,4 +15,5 @@ Mais la **couelle**, c'est aussi la petite pierre à aiguiser la faux, celle qu'
 
 ## On dit aussi
 
-Sabots, paire de sabots, pierre à faux, pierre à aiguiser
+1. Sabots, paire de sabots, 
+2. Pierre à faux, pierre à aiguiser

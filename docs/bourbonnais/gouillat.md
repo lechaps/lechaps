@@ -10,7 +10,7 @@ Un **gouillat**, c'est une étendue d'eau, une mare, une grande flaque où l'on 
 
 ## On dit aussi
 
-mare, flaque, trou d'eau, pièce d'eau
+Mare, flaque, trou d'eau, pièce d'eau, [grenouillat](./gouillat.md)
 
 ## Pour aller plus loin
 

@@ -11,7 +11,7 @@ On ne corne pas comme on klaxonne : klaxonner, c'est administratif, presque urba
 
 ## On dit aussi
 
-Klaxonner, donner un coup de klaxon, sonner, avertir, cornailler
+Klaxonner, donner un coup de klaxon, sonner, avertir
 
 ## Souvenir
 

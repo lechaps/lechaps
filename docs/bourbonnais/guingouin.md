@@ -1,10 +1,10 @@
 # Guingouin
 
-**De guingouin**, c'est de travers, de biais, mal fichu, pas d'aplomb — enfin tout ce qui tient encore debout par habitude, par miracle ou parce que personne n'a osé souffler dessus. Une porte peut être de guingouin, une étagère, une brouette, parfois même un raisonnement après le troisième verre. Le mot penche déjà en le prononçant : il arrive de côté, la casquette sur l'oreille, avec cette élégance douteuse des choses qui refusent obstinément la ligne droite.
+**De guingouin**, c'est de travers, de biais, mal fichu, pas d'aplomb (enfin tout ce qui tient encore debout par habitude, par miracle ou parce que personne n'a osé souffler dessus). Une porte peut être de guingouin, une étagère, une brouette, parfois même un raisonnement après le troisième verre. Le mot penche déjà en le prononçant : il arrive de côté, la casquette sur l'oreille, avec cette élégance douteuse des choses qui refusent obstinément la ligne droite.
 
 ## Exemple
 
-*Agadon, ça peut pas tenir, c'est tout de guingouin !*
+*Agadon, ça peut pas t'nir, c'est tout de guingouin !*
 
 > « Considérez donc cette construction : son inclinaison générale, son absence manifeste d'aplomb et son mépris presque philosophique des lois de l'équilibre ne permettent guère d'envisager une stabilité durable. »
 

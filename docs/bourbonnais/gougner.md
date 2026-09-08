@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-tourmenter, travailler, tirailler, faire souffrir, remuer
+Tourmenter, travailler, tirailler, faire souffrir, remuer
 
 ## Pour aller plus loin
 

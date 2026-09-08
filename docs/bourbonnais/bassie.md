@@ -11,7 +11,7 @@ C'est bas de plafond, oui. Frais comme le dessous d'une pierre, mais en plus fr�
 
 ## On dit aussi
 
-Arrière-cuisine, cellier, la fraîche, souillarde
+Arrière-cuisine, cellier
 
 ## Souvenir
 

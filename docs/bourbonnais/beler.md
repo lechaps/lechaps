@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Chouiner, piauler, se plaindre, lamenter, geignarder
+Chouiner, se plaindre, lamenter, geignarder
 
 ## Pour aller plus loin
 

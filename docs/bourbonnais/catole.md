@@ -15,7 +15,7 @@ La **catole**, c'est ce cadeau que la campagne vous laisse sous la semelle quand
 
 ## On dit aussi
 
-Bouse, gadoue, terre amoureuse, patouille, bouillasse
+Bouse, gadoue, terre amoureuse, [patouille](./patouille.md), bouillasse
 
 ## Souvenir
 

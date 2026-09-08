@@ -1,10 +1,10 @@
 # Grillon
 
-Le **grillon**, qu'on rencontre surtout au pluriel, c'est une petite tranche de **lard frite dans la graisse**, dorée, pressée, croustillante sur les bords et encore assez généreuse pour faire chanter une salade de pissenlits. Rien à voir avec l'insecte qui gratte son violon dans la cheminée : celui-ci grésille dans le poêlon et parfume toute la cuisine avec l'autorité tranquille du cochon bien employé. On le gardait pour **adouber la salade**, c'est-à-dire l'assaisonner noblement de gras chaud, de vinaigre et de ces morceaux rissolés qui réconcilient la verdure avec les honnêtes gens.
+Le **grillon**, qu'on rencontre surtout au pluriel, c'est une petite tranche de lard frite dans la graisse, dorée, pressée, croustillante sur les bords et encore assez généreuse pour faire chanter une salade de pissenlits. Rien à voir avec l'insecte qui gratte son violon dans la cheminée : celui-ci grésille dans le poêlon et parfume toute la cuisine avec l'autorité tranquille du cochon bien employé. On le gardait pour adober la salade, c'est-à-dire l'assaisonner noblement de gras chaud, de vinaigre et de ces morceaux rissolés qui réconcilient la verdure avec les honnêtes gens.
 
 ## Exemple
 
-*Mange pas les grillons dans le poêlon ; je les garde pour adouber la salade de pissenlits.*
+*Mange pas les grillons dans le poêlon ; je les garde pour adober la salade de pissenlits.*
 
 > « Je vous prie de ne point dérober ces fragments de lard croustillant, leur destinée supérieure étant d'apporter à notre salade de pissenlits l'onction charcutière sans laquelle elle ne serait qu'une modeste assemblée de feuilles contrariées. »
 

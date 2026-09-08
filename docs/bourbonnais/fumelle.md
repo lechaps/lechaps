@@ -10,7 +10,7 @@ La **fumelle**, c'est la fille, la femme, mais nommée avec cette rudesse des pa
 
 ## On dit aussi
 
-Feumelle, femme, fille, aller à la fumelle
+Femme, fille
 
 ## Pour aller plus loin
 

@@ -1,6 +1,6 @@
 # Par exemple
 
-**Par exemple**, chez nous, ne servait pas toujours à annoncer une illustration, un cas particulier ou quelque savante démonstration avec tableau noir et craie blanche. L'expression pouvait signifier **toutefois**, **cependant**, avec souvent une petite réserve cachée derrière : on consentait, oui, mais pas sans poser une borne, verrouiller la porte et garder la clef dans sa poche. C'était le frein à main de la conversation : *je veux bien, par exemple…* et aussitôt l'accord, qui galopait déjà vers les prés de la concorde, revenait se ranger sagement devant la maison.
+**Par exemple**, ne sert pas toujours à annoncer une illustration, un cas particulier ou quelque savante démonstration avec tableau noir et craie blanche. L'expression peut signifier **toutefois**, **cependant**, avec souvent une petite réserve cachée derrière : on consent, oui, mais pas sans poser une borne, verrouiller la porte et garder la clef dans sa poche. C'est le frein à main de la conversation : *je veux bien, par exemple…* et aussitôt l'accord, qui galopait déjà vers les prés de la concorde, revient se ranger sagement devant la maison.
 
 ## Exemple
 

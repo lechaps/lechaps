@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Faire le ménage, faire du tri, faire place nette, grand nettoyage, remuer la maison
+Faire le ménage, faire du tri, faire place nette, grand nettoyage, remuer la maison, [grevicher](./grevicher.md)
 
 ## Pour aller plus loin
 

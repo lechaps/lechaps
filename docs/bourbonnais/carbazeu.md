@@ -12,7 +12,7 @@ Et puis il faut reconnaître que la campagne a toujours eu une tendresse particu
 
 ## On dit aussi
 
-Rustaud, balourd, bounhoume, grand benêt
+Rustaud, balourd
 
 ## Souvenir
 

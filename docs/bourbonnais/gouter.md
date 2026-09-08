@@ -1,16 +1,16 @@
 # Goûter
 
-Le **goûter**, chez nous, ce n'était pas la tartine de quatre heures avec son carré de chocolat et son air d'enfance bien peignée. C'était le **repas de midi**, celui qu'on prenait après la matinée de travail, quand les bras commençaient à tirer, que la soupe fumait sur la table et que chacun savait, sans consulter l'horloge, qu'il était temps de reprendre des forces. Le mot a depuis glissé vers les enfants et les biscuits ; autrefois, il avait du lard, du pain, du vin et une solide responsabilité dans la suite de la journée.
+Le **goûter**, ce n'était pas la tartine de quatre heures avec son carré de chocolat et son air d'enfance bien peignée. C'était le repas de midi, celui qu'on prenait après la matinée de travail, quand les bras commençaient à tirer, que la soupe fumait sur la table et que chacun savait, sans consulter l'horloge, qu'il était temps de reprendre des forces. Le mot a depuis glissé vers les enfants et les biscuits ; autrefois, il avait du lard, du pain, du vin et une solide responsabilité dans la suite de la journée.
 
 ## Exemple
 
 *Viens donc goûter, la soupe va refroidir.*
 
-> « Veuillez interrompre vos travaux et rejoindre sans délai la table familiale, où vous attend le repas de la mi-journée, dont la température, la dignité et la patience de la cuisinière connaissent actuellement un déclin préoccupant. »
+> « Auriez-vous l'obligeance de venir enfin vous présenter à la table familiale, où vous attend le repas de la mi-journée, dont la température, la dignité et la patience de la cuisinière connaissent actuellement un déclin préoccupant. »
 
 ## On dit aussi
 
-déjeuner, repas de midi, dîner
+Déjeuner, repas de midi
 
 ## Pour aller plus loin
 

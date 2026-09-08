@@ -10,7 +10,7 @@ Le **bigot**, c'est l'outil des récoltes patientes, celui qu'on plantait dans l
 
 ## On dit aussi
 
-Fourche-bêche, pioche, fourche à pommes de terre
+Fourche-bêche, pioche
 
 ## Pour aller plus loin
 

@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Esmailler, semer, ensemencer, jeter la graine
+Semer, ensemencer, jeter la graine
 
 ## Pour aller plus loin
 

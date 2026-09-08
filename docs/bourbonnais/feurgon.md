@@ -10,7 +10,7 @@ Le **feurgon**, c'est le tisonnier, cette longue tige de fer avec laquelle on re
 
 ## On dit aussi
 
-Tisonnier, fourgon, pique-feu, attisoir
+Tisonnier, fourgon, pique-feu
 
 ## Pour aller plus loin
 

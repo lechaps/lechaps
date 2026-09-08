@@ -10,7 +10,7 @@ Le **chagnion d'cou**, c'est cette nuque énorme, large, compacte, qu'on voit ch
 
 ## On dit aussi
 
-Gros cou, nuque de taureau, cou de lutteur, colasse
+Gros cou, nuque de taureau
 
 ## Pour aller plus loin
 

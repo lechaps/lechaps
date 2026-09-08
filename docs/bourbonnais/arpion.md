@@ -10,7 +10,7 @@ Les **arpions**, ce sont les pieds quand ils cessent d'être une noble invention
 
 ## On dit aussi
 
-Panos, pinceaux, gambettes du bas (quoique là on commence déjà à fréquenter des gens douteux)
+Pinceaux, gambettes du bas (quoique là on commence déjà à fréquenter des gens douteux)
 
 ## Pour aller plus loin
 

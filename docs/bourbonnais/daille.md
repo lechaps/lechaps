@@ -10,7 +10,7 @@ Le **dail**, ou la **daille**, c'est la faux, la grande lame courbe des foins, l
 
 ## On dit aussi
 
-Faux, faux courte, dail, daille, dailler
+Faux
 
 ## Souvenir
 

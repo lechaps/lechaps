@@ -1,6 +1,6 @@
 # River ses clous
 
-**River ses clous à quelqu'un**, c'est lui régler son compte dans la conversation, lui répondre de manière si ferme qu'il ne lui reste plus qu'à ravaler ses paroles et à regarder ailleurs. On ne parle pas forcément de violence : il s'agit surtout d'**en finir avec la discussion**, de remettre l'autre à sa place, de lui fermer le caquet avec un argument sans réplique. La forme française courante est **river son clou à quelqu'un** ; chez nous, les clous se mettaient volontiers au pluriel, sans doute parce qu'un seul semblait insuffisant pour fixer certains bavards.
+**River ses clous à quelqu'un**, c'est lui régler son compte dans la conversation, lui répondre de manière si ferme qu'il ne lui reste plus qu'à ravaler ses paroles et à regarder ailleurs. On ne parle pas forcément de violence : il s'agit surtout d'**en finir avec la discussion**, de remettre l'autre à sa place, de lui fermer le caquet avec un argument sans réplique. La forme française courante est **river son clou à quelqu'un** ; chez nous, cette expression se met volontiers au pluriel, sans doute parce qu'un seul semble insuffisant pour fixer certains bavards.
 
 ## Exemple
 

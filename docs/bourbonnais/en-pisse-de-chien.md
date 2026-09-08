@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-En désordre, bout-ci bout-là, à la va-comme-je-te-pousse, à l'abandon, sens dessus dessous
+En désordre, bout-ci bout-là, [à la va-comme-je-te-pousse](./a-la-va-comme-j-te-pousse.md), à l'abandon, sens dessus dessous
 
 ## Pour aller plus loin
 

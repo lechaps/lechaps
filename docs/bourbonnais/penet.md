@@ -1,6 +1,6 @@
 # Penet
 
-Un **penet**, c'est un vieux chiffon, une guenille encore assez solide pour qu'on refuse de la jeter, mais trop fatiguée pour prétendre rester un vêtement convenable. C'est le commencement de la déchéance textile : la chemise devient linge d'atelier, le torchon perd ses honneurs, et tout cela finit sous l'évier, dans une caisse ou derrière la porte, parce que **ça peut toujours servir** — grande loi domestique qui a sauvé davantage de chiffons que de fortunes.
+Un **penet**, c'est un vieux chiffon, une guenille encore assez solide pour qu'on refuse de la jeter, mais trop fatiguée pour prétendre rester un vêtement convenable. C'est le commencement de la déchéance textile : la chemise devient linge d'atelier, le torchon perd ses honneurs, et tout cela finit sous l'évier, dans une caisse ou derrière la porte, parce que **ça peut toujours servir** (grande loi domestique qui a sauvé davantage de chiffons que de fortunes).
 
 ## Exemple
 
@@ -10,7 +10,7 @@ Un **penet**, c'est un vieux chiffon, une guenille encore assez solide pour qu'o
 
 ## On dit aussi
 
-chiffon, guenille, loque, vieux linge
+chiffon, guenille, loque, vieux linge, [gounelle](./gounelle.md)
 
 ## Pour aller plus loin
 

@@ -18,7 +18,8 @@
 
 ## On dit aussi
 
-Démanger, brûler, piquer, irriter, ravager, saccager, arracher, être rond, être saoul, avoir son compte
+1. Démanger, brûler, piquer, irriter, ravager, saccager, arracher
+2. Être rond, être saoul, avoir son compte
 
 ## Souvenir
 

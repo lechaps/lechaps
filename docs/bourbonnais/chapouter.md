@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-Emmancher, refaire un manche, caler un outil, ajuster le bois
+Emmancher, refaire un manche

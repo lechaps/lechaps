@@ -18,7 +18,8 @@ Le **ch'tit**, c'est un mot qui change de veste selon l'heure, le ton et le nomb
 
 ## On dit aussi
 
-P'tit, râpeux, aigre, mauvais coucheur, pas franc
+1. P'tit, râpeux, aigre
+2. Aigre, pas franc
 
 ## Pour aller plus loin
 

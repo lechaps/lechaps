@@ -17,7 +17,8 @@ Dans les deux cas, l'homme est plein (plein de vin ou plein de nourriture) et so
 
 ## On dit aussi
 
-saoul, soûl, ivre, plein, rond, chargé, ballonné, repu, [gueude](./gueude.md)
+1. Saoul, soûl, ivre, plein, rond, 
+2. Chargé, ballonné, repu, [gueude](./gueude.md)
 
 ## Pour aller plus loin
 

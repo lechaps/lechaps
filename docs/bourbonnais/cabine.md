@@ -12,4 +12,4 @@ Le mot est magnifique parce qu'il compare directement le ventre à la cabine d'u
 
 ## On dit aussi
 
-Beuille,  brioche, bidon, bedaine
+[Beuille](./beuille.md), brioche, bidon, bedaine

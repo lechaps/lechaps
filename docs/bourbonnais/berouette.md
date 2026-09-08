@@ -10,7 +10,7 @@ La **berouette**, c'est la brouette des gens qui travaillent pour de vrai. Pas l
 
 ## On dit aussi
 
-Brouette, beurouette, charriote
+Brouette, charriote
 
 ## Souvenir
 

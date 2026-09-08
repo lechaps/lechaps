@@ -10,7 +10,7 @@ La **couâle**, c'est le corbeau du pays, l'oiseau noir, l'oiseau de mauvais tem
 
 ## On dit aussi
 
-Couâle, corbeau, corneille, agrôle, grôle
+Corbeau, corneille
 
 ## Pour aller plus loin
 

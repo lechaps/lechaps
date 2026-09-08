@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-gigoter, se tortiller, remuer, frétiller
+Gigoter, se tortiller, remuer, frétiller
 
 ## Pour aller plus loin
 

@@ -10,4 +10,4 @@ Le **dagougneau**, c'est le pauvre diable qui comprend après les autres, qui pa
 
 ## On dit aussi
 
-Simplet, nigaud, sot, bredin, godiche, bestiaud
+Simplet, nigaud, sot, [bredin](./bredin.md), godiche, bestiaud

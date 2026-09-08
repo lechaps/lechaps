@@ -10,7 +10,7 @@ Le **feneau**, qu'on dit plus volontiers **fneau** quand la bouche va plus vite 
 
 ## On dit aussi
 
-Fneau, fenil, grenier à foin, chafaud
+Fenil, grenier à foin
 
 ## Souvenir
 

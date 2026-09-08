@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Brailler, hurler, vociférer, gueuler, mugir
+Brailler, hurler, vociférer, gueuler, mugir (ces féroces soldats, ils viennent jusque dans nos bras !)
 
 ## Pour aller plus loin
 

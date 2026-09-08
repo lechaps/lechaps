@@ -10,7 +10,7 @@ Le **brelot**, ou **berlaud**, c'est celui qui met un peu de temps à rejoindre 
 
 ## On dit aussi
 
-Berlaud, brelaud, brelot, beurlaud, [bredin](./bredin.md), jobastre, fada, simplet, nigaud
+Berlaud, brelaud, brelot, beurlaud, [bredin](./bredin.md), fada, simplet, nigaud
 
 ## Souvenir
 

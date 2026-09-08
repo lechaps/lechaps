@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-Diantre, saperlipopette, sapristi, foutre, nom d'un chien
+Diantre, saperlipopette, sapristi, foutre, nom d'un chien, mille milliards de mille sabords

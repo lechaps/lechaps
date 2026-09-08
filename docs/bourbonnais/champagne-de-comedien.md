@@ -11,4 +11,4 @@ L'expression est doucement moqueuse : on fait illusion, on donne le change, on t
 
 ## On dit aussi
 
-Vin mousseux, pétillant, mousseux bon marché
+Vin mousseux, pétillant

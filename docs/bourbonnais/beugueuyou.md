@@ -10,4 +10,4 @@ Le **beugueuyou**, c'est celui qui parle comme d'autres respirent : sans même s
 
 ## On dit aussi
 
-Bavard, moulin à paroles, causeux, pipelette, jacasseur
+Bavard, moulin à paroles, pipelette, jacasseur

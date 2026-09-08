@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Faire la bise, embrasser, bécoter, claquer la bise
+Faire la bise, embrasser, claquer la bise
 
 ## Pour aller plus loin
 

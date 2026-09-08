@@ -10,6 +10,10 @@
 
 > « Les nécessités impérieuses de l'économie laitière m'obligent désormais à prendre congé de votre compagnie afin d'aller procéder, auprès de mes bovins, à l'extraction méthodique de leur production lactée vespérale. »
 
+## On dit aussi
+
+Traire
+
 ## Souvenir
 
 C'est un mot qui me ramène à ces fins de journée où, pendant que les autres pouvaient encore traîner un peu, quelqu'un finissait toujours par dire : « Bon, faut aller ajouter les vaches. » La phrase tombait sans plainte, comme tombe une heure à l'horloge : les bêtes attendaient et cela suffisait. Je me souviens encore de l'étable plus fraîche que la cour, l'odeur du foin, le bruit du lait contre le seau et cette vie réglée par des gestes qu'on répétait sans penser qu'un jour ils deviendraient des souvenirs. Aujourd'hui, ajouter ne remplit plus le seau ; il remplit surtout le silence laissé derrière ceux qui le disaient.

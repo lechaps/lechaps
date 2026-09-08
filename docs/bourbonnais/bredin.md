@@ -10,7 +10,7 @@ Le **bredin**, ce n'est pas seulement le fou du village, avec la tête partie da
 
 ## On dit aussi
 
-Berdin, beurdin, bredine, berdine, débrediner, débredinoire, bredinerie, nigaud, simplet, benêt, fada, innocent, [breulot](./breulot.md)
+Berdin, beurdin, bredine, berdine, débrediner, débredinoire, bredinerie, nigaud, simplet, benêt, fada, innocent, [brelot](./brelot.md)
 
 ## Pour aller plus loin
 

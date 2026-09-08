@@ -7,3 +7,7 @@ L'**aneu**, c'est l'année comme on la porte à la campagne : avec ses saisons, 
 *J'te souhaite une bonne aneu, et surtout la santé.*
 
 > « Je vous adresse mes vœux les plus sincères pour cette nouvelle année, en espérant que votre santé demeure éclatante et solide. »
+
+## On dit aussi
+
+Année
