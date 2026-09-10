@@ -6,7 +6,7 @@ L'**épeurie**, ou **epourie**, c'est l'**épouvantail**, ce grand maigre plant�
 
 *Agadon l'épeurie dans les pois, on dirait l'vieux Jules après la noce.*
 
-> « Observez cette sentinelle agricole drapée de guenilles : sa tenue, son immobilité et son maintien légèrement effondré évoquent avec une précision troublante notre estimable voisin au lendemain des festivités matrimoniales. »
+> « Observez cette sentinelle des potagers drapée de guenilles : sa tenue, son immobilité et son maintien légèrement effondré évoquent avec une précision troublante notre estimable voisin au lendemain des festivités matrimoniales. »
 
 ## On dit aussi
 

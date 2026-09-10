@@ -6,7 +6,7 @@ La **berouette**, c'est la brouette des gens qui travaillent pour de vrai. Pas l
 
 *Va m'cher la berouette avant qu'il pleuve !*
 
-> « Jeune homme, veuillez acheminer sans délai ces volumineux contenants agricoles au moyen de cet élégant véhicule monoroue avant que les cieux, dans leur humeur capricieuse, ne déversent sur nous leurs hostilités liquides. »
+> « Jeune homme, veuillez acheminer sans délai ces volumineux contenants au moyen de cet élégant véhicule monoroue avant que les cieux, dans leur humeur capricieuse, ne déversent sur nous leurs hostilités liquides. »
 
 ## On dit aussi
 

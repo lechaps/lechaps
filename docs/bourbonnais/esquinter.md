@@ -6,7 +6,7 @@
 
 *J'ai esquinté la brouette et j'me suis esquinté l'dos en voulant la r'lever.*
 
-> « Dans une tentative aussi courageuse que techniquement discutable pour redresser ce véhicule agricole, j'ai simultanément compromis son intégrité mécanique et gravement contrarié l'ensemble de ma charpente lombaire. »
+> « Dans une tentative aussi courageuse que techniquement discutable pour redresser ce véhicule à propulsion humaine, j'ai simultanément compromis son intégrité mécanique et gravement contrarié l'ensemble de ma charpente lombaire. »
 
 ## On dit aussi
 

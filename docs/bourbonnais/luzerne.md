@@ -6,7 +6,7 @@ La **luzerne**, c'est cette plante fourragère, cousine du trèfle mais autremen
 
 *C'est temps de couper la luzerne pour les bêtes.*
 
-> « L'heure est venue de procéder à la récolte de cette noble légumineuse, afin que notre cheptel puisse traverser les rigueurs futures dans un état de satiété compatible avec la prospérité agricole. »
+> « L'heure est venue de procéder à la récolte de cette noble légumineuse, afin que notre cheptel puisse traverser les rigueurs futures dans un état de satiété compatible avec la prospérité de la ferme. »
 
 ## On dit aussi
 

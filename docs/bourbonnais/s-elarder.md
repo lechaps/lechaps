@@ -1,6 +1,6 @@
 # S'élarder
 
-**S'élarder**, c'est s'étaler de tout son long, tomber à plat, répandre sa personne sur le sol avec cette ampleur majestueuse que prennent les accidents lorsqu'ils manquent totalement de dignité. On ne s'élarde pas à moitié : les bras partent d'un côté, les jambes de l'autre, la casquette poursuit seule sa carrière et l'amour-propre arrive bon dernier, généralement couvert de poussière. La chute peut venir d'un pied mal posé, d'une chaise traîtresse ou d'un **accatouflement** trop enthousiaste ; dans tous les cas, l'homme qui était encore vertical une seconde auparavant se retrouve soudain déployé par terre comme une carte du canton.
+**S'élarder**, c'est s'étaler de tout son long, tomber à plat, répandre sa personne sur le sol avec cette ampleur majestueuse que prennent les accidents lorsqu'ils manquent totalement de grâce. On ne s'élarde pas à moitié : les bras partent d'un côté, les jambes de l'autre, la casquette poursuit seule sa carrière et l'amour-propre arrive bon dernier, généralement couvert de poussière. La chute peut venir d'un pied mal posé, d'une chaise traîtresse ou d'un **accatouflement** trop enthousiaste ; dans tous les cas, l'homme qui était encore vertical une seconde auparavant se retrouve soudain déployé par terre comme une carte du canton.
 
 ## Exemple
 

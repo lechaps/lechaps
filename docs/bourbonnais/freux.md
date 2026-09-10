@@ -6,7 +6,7 @@
 
 *Ah, mon pauv', dégage de là ! Il est freux.*
 
-> « Je vous conjure de quitter immédiatement ce noyer, dont la charpente végétale présente une fragilité telle que votre récolte pourrait s'achever beaucoup plus bas, et dans une position contraire à la dignité humaine. »
+> « Je vous conjure de quitter immédiatement ce noyer, dont la charpente végétale présente une fragilité telle que votre récolte pourrait s'achever beaucoup plus bas, et dans une position que l'anatomie humaine déconseille formellement. »
 
 ## On dit aussi
 

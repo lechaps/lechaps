@@ -6,7 +6,7 @@
 
 *Peuh ! Mange donc ça toi-même, ça sent mauvais.*
 
-> « Je décline avec la plus ferme détermination l'invitation à consommer cette préparation dont les effluves, la texture et l'allure générale me paraissent incompatibles avec la dignité humaine et le bon ordre de la digestion. »
+> « Je décline avec la plus ferme détermination l'invitation à consommer cette préparation dont les effluves, la texture et l'allure générale me paraissent incompatibles avec les convenances culinaires et le bon ordre de la digestion. »
 
 ## On dit aussi
 

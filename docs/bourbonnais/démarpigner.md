@@ -6,7 +6,7 @@
 
 *Il s'est bien démarpigné d'vant l'autre berdin.*
 
-> « Face à cet individu d'une intelligence manifestement vacillante, notre homme a opposé une résistance physique tout à fait honorable, mobilisant ses bras, sa dignité et une certaine conception de la légitime défense. »
+> « Face à cet individu d'une intelligence manifestement vacillante, notre homme a opposé une résistance physique tout à fait honorable, mobilisant ses bras, sa hargne et une certaine conception de la légitime défense. »
 
 ## On dit aussi
 

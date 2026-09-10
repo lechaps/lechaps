@@ -6,7 +6,7 @@ La **tine**, c'est ce grand récipient de bois cerclé de fer qui sert à tout, 
 
 *Remplis la tine d'eau pour les bêtes.*
 
-> « Je te saurais gré d'emplir généreusement ce vénérable récipient de bois afin que notre cheptel, dont les exigences hydriques deviennent chaque jour plus impérieuses, puisse se désaltérer dans des conditions conformes à sa dignité. »
+> « Je te saurais gré d'emplir généreusement ce vénérable récipient de bois afin que notre cheptel, dont les exigences hydriques deviennent chaque jour plus impérieuses, puisse se désaltérer avec tout le confort dû à ses bons et loyaux services. »
 
 ## On dit aussi
 

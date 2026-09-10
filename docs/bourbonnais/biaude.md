@@ -6,7 +6,7 @@ La **biaude**, c'est la seconde peau du paysan. Une blouse de travail large, sol
 
 *Attends deux minutes, j'vas changer la biaude avant d'aller au bourg.*
 
-> « Accordez-moi un bref instant afin que je substitue à cette tenue agricole particulièrement éprouvée un vêtement plus compatible avec les exigences minimales de la vie sociale. »
+> « Accordez-moi un bref instant afin que je substitue à cette tenue de travail particulièrement éprouvée un vêtement plus compatible avec les exigences minimales de la vie sociale. »
 
 ## On dit aussi
 

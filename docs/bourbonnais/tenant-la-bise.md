@@ -1,6 +1,6 @@
 # Tenant la bise
 
-**À tenant la bise**, c'est à foison, autant qu'on peut, jusqu'à ce qu'il n'y ait plus de place sur la table, dans le panier ni même dans les bras de la patronne, qui pourtant en a vu d'autres. L'expression porte en elle le souffle obstiné de la bise : ça arrive sans s'arrêter, ça remplit tout, ça travaille ferme, et l'on comprend aussitôt qu'on n'est plus dans la petite mesure d'apothicaire mais dans l'abondance franche, rurale, presque météorologique.
+**À tenant la bise**, c'est à foison, autant qu'on peut, jusqu'à ce qu'il n'y ait plus de place sur la table, dans le panier ni même dans les bras de la patronne, qui pourtant en a vu d'autres. L'expression porte en elle le souffle obstiné de la bise : ça arrive sans s'arrêter, ça remplit tout, ça travaille ferme, et l'on comprend aussitôt qu'on n'est plus dans la petite mesure d'apothicaire mais dans l'abondance franche, généreuse, presque météorologique.
 
 ## Exemple
 

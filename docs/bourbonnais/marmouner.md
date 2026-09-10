@@ -18,5 +18,3 @@ marmonner, marmotter, maugréer, grommeler
 * [Définition et étymologie de « marmonner » — CNRTL](https://www.cnrtl.fr/definition/marmonner){ target="_blank" }
 * [Attestation de la forme « marmouner » — Littré](https://www.littre.org/definition/marmonner){ target="_blank" }
 * [« Marmouner » dans un lexique français-bourbonnais](https://micbourbonnais.free.fr/lexique.htm){ target="_blank" }
-* [Entrée bourbonnaise « Marmouner » — Le Chaps](https://www.lechaps.com/bourbonnais/marmouner/){ target="_blank" }
-

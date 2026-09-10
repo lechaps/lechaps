@@ -1,6 +1,6 @@
 # Margoulette
 
-La **margoulette**, c'est la bouche, la mâchoire, puis, par générosité populaire, toute la figure — cette devanture humaine qu'on présente au monde avec plus ou moins de dignité selon l'heure, le vin et l'état du chemin. **Se casser la margoulette**, c'est tomber rudement, embrasser le sol sans lui avoir été présenté et se relever, quand on peut, avec de la terre aux genoux et l'amour-propre rangé de travers.
+La **margoulette**, c'est la bouche, la mâchoire, puis, par générosité populaire, toute la figure — cette devanture humaine qu'on présente au monde avec plus ou moins de prestance selon l'heure, le vin et l'état du chemin. **Se casser la margoulette**, c'est tomber rudement, embrasser le sol sans lui avoir été présenté et se relever, quand on peut, avec de la terre aux genoux et l'amour-propre rangé de travers.
 
 ## Exemple
 

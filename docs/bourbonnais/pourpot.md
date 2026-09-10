@@ -1,6 +1,6 @@
 # Pourpot
 
-Le **pourpot**, c'est le pieu planté sur le char de foin, cette grande perche solide à laquelle on s'accroche quand la charge monte haut, que l'échelle s'en va et que le sol paraît soudain beaucoup plus loin qu'au départ. Il aide à retenir le foin, à donner de la tenue au chargement et, accessoirement, à sauver la dignité de celui qui se retrouve perché là-haut comme un roi de paille sans royaume ni garde-fou. Un pourpot, ça ne parle pas, ça ne bouge pas, mais au moment où le char branle dans une ornière, on lui découvre toutes les qualités d'un ami fidèle.
+Le **pourpot**, c'est le pieu planté sur le char de foin, cette grande perche solide à laquelle on s'accroche quand la charge monte haut, que l'échelle s'en va et que le sol paraît soudain beaucoup plus loin qu'au départ. Il aide à retenir le foin, à donner de la tenue au chargement et, accessoirement, à sauver les os de celui qui se retrouve perché là-haut comme un roi de paille sans royaume ni garde-fou. Un pourpot, ça ne parle pas, ça ne bouge pas, mais au moment où le char branle dans une ornière, on lui découvre toutes les qualités d'un ami fidèle.
 
 ## Exemple
 

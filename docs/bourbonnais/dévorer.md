@@ -1,6 +1,6 @@
 # Dévorer
 
-**Dévorer**, en français bien peigné, c'est manger avec les dents, les crocs, la faim, l'appétit d'un loup mal élevé. Mais dans nos paroles rurales, le mot prend d'autres chemins, plus cutanés, plus agricoles, plus franchement malcommodes. Quand les orties vous ont caressé les mollets avec la délicatesse d'un fil barbelé sous tension, **ça vous dévore** : ça pique, ça brûle, ça démange, ça vous travaille la peau comme si mille petites bêtes tenaient conseil sous votre pantalon. Et quand les sangliers passent dans un champ de trèfles, ils ne mangent pas, non, ils **dévorent** : ils arrachent, retournent, massacrent, labourent sans facture et repartent en laissant derrière eux un désastre de lendemain de battue. Le mot peut même aller jusqu'à l'homme saoul, celui qui est **dévoré** de vin, mangé de l'intérieur par la bouteille, avec l'œil brillant, le verbe mou et la dignité qui cherche une chaise.
+**Dévorer**, en français bien peigné, c'est manger avec les dents, les crocs, la faim, l'appétit d'un loup mal élevé. Mais dans le parler de chez nous, le mot prend d'autres chemins, plus cutanés, plus terre à terre, plus franchement malcommodes. Quand les orties vous ont caressé les mollets avec la délicatesse d'un fil barbelé sous tension, **ça vous dévore** : ça pique, ça brûle, ça démange, ça vous travaille la peau comme si mille petites bêtes tenaient conseil sous votre pantalon. Et quand les sangliers passent dans un champ de trèfles, ils ne mangent pas, non, ils **dévorent** : ils arrachent, retournent, massacrent, labourent sans facture et repartent en laissant derrière eux un désastre de lendemain de battue. Le mot peut même aller jusqu'à l'homme saoul, celui qui est **dévoré** de vin, mangé de l'intérieur par la bouteille, avec l'œil brillant, le verbe mou et l'équilibre qui cherche une chaise.
 
 ## Exemple
 
@@ -10,7 +10,7 @@
 
 *Il paraît qu'les sangliers ont dévoré tout un champ de luzernes.*
 
-> « Il semblerait qu'une délégation porcine non mandatée ait procédé, durant la nuit, à la destruction quasi méthodique d'une parcelle entière de trèfle, avec un zèle agricole profondément illégal. »
+> « Il semblerait qu'une délégation porcine non mandatée ait procédé, durant la nuit, à la destruction quasi méthodique d'une parcelle entière de trèfle, avec un zèle de laboureur sans permis. »
 
 *Il était dévoré hier soir, y tenait plus debout qu'par habitude.*
 

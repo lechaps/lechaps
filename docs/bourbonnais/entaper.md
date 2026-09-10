@@ -15,4 +15,3 @@ Mettre en terre, planter, enfouir, recouvrir, enterrer
 ## Pour aller plus loin
 
 * [Entaper — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/e.htm){ target="_blank" }
-* [Entaper — Le Chaps](https://www.lechaps.com/bourbonnais/entaper/){ target="_blank" }

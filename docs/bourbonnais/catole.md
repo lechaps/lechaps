@@ -11,7 +11,7 @@ La **catole**, c'est ce cadeau que la campagne vous laisse sous la semelle quand
 
 *Le p'tit Parisien, il a mis le pied dans la catole, ça lui a coupé l'envie de faire le malin.*
 
-> « Notre élégant visiteur citadin, confronté à une généreuse bouse bovine d'une remarquable authenticité rurale, semble avoir perdu tout enthousiasme mondain et une partie notable de sa dignité. »
+> « Notre élégant visiteur citadin, confronté à une généreuse bouse bovine d'une provenance irréprochable, semble avoir perdu tout enthousiasme mondain et une partie notable de sa superbe. »
 
 ## On dit aussi
 
@@ -19,4 +19,4 @@ Bouse, gadoue, terre amoureuse, [patouille](./patouille.md), bouillasse
 
 ## Souvenir
 
-Je me revois enfant, les bottes déjà plus lourdes que mes mollets, à tirer la jambe dans les champs. Le pire, c'était au retour, dans la cour, quand les cailloux venaient se mêler à la boue collée sous les semelles, fabriquant une espèce de croûte noble, minérale, sournoise, capable de vous déséquilibrer comme si l'on vous avait juché sur des échasses pour rire. On marchait alors de travers, avec cette dignité catastrophique de mannequin débutant, pendant que les anciens regardaient ça sans compassion excessive, parce qu'à la campagne, apprendre à lever les pieds fait partie de l'éducation. Et puis venait le grand plaisir, presque coupable : racler les bottes contre le rebord de la marche, le fer, une pierre, n'importe quoi qui gratte bien, et voir tomber par plaques ce mélange de terre, de graviers et d'enfance mal peignée. Ça faisait un bruit mat, humide, satisfaisant. Le bruit même du retour à la maison.
+Je me revois enfant, les bottes déjà plus lourdes que mes mollets, à tirer la jambe dans les champs. Le pire, c'était au retour, dans la cour, quand les cailloux venaient se mêler à la boue collée sous les semelles, fabriquant une espèce de croûte noble, minérale, sournoise, capable de vous déséquilibrer comme si l'on vous avait juché sur des échasses pour rire. On marchait alors de travers, avec cette prestance catastrophique de mannequin débutant, pendant que les anciens regardaient ça sans compassion excessive, parce qu'à la campagne, apprendre à lever les pieds fait partie de l'éducation. Et puis venait le grand plaisir, presque coupable : racler les bottes contre le rebord de la marche, le fer, une pierre, n'importe quoi qui gratte bien, et voir tomber par plaques ce mélange de terre, de graviers et d'enfance mal peignée. Ça faisait un bruit mat, humide, satisfaisant. Le bruit même du retour à la maison.

@@ -1,6 +1,6 @@
 # Bignon
 
-Le **bignon**, c'est le beignet des jours heureux, des cuisines embuées de vapeur et des tables où personne ne comptait vraiment les calories parce qu'on avait déjà du mal à compter les personnes à table. Rond, doré, gonflé comme un vendeur voiture sans permis, il arrivait souvent accompagné d'un nuage de sucre et d'une odeur capable de faire abandonner immédiatement toute dignité humaine. On en mangeait un « pour goûter », puis deux « pour accompagner le café », puis six sans plus aucune justification morale. Dans certaines maisons, le bignon tenait presque du rite religieux : on sortait les grands saladiers, les torchons propres, les bouteilles d'huile, et tout le monde savait que la journée allait sentir le gras chaud jusque dans les rideaux pendant une semaine.
+Le **bignon**, c'est le beignet des jours heureux, des cuisines embuées de vapeur et des tables où personne ne comptait vraiment les calories parce qu'on avait déjà du mal à compter les personnes à table. Rond, doré, gonflé comme un vendeur voiture sans permis, il arrivait souvent accompagné d'un nuage de sucre et d'une odeur capable de faire abandonner immédiatement toute retenue humaine. On en mangeait un « pour goûter », puis deux « pour accompagner le café », puis six sans plus aucune justification morale. Dans certaines maisons, le bignon tenait presque du rite religieux : on sortait les grands saladiers, les torchons propres, les bouteilles d'huile, et tout le monde savait que la journée allait sentir le gras chaud jusque dans les rideaux pendant une semaine.
 
 ## Exemple
 

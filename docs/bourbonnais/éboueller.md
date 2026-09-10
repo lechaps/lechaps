@@ -2,7 +2,7 @@
 
 **Éboueller**, c'est s'effondrer d'un coup, perdre toute tenue, toute structure et, pour ainsi dire, toute confiance dans la verticalité.
 
-On peut s'éboueller soi-même : tomber de tout son poids, se retrouver par terre, en vrac, les genoux, les coudes, la veste et la dignité rangés dans un ordre que personne n'avait demandé. Ce n'est pas la petite chute propre, avec main sur le cœur et soupir de marquise. Éboueller, c'est quand le corps renonce à faire semblant d'être une architecture.
+On peut s'éboueller soi-même : tomber de tout son poids, se retrouver par terre, en vrac, les genoux, les coudes, la veste et l'amour-propre rangés dans un ordre que personne n'avait demandé. Ce n'est pas la petite chute propre, avec main sur le cœur et soupir de marquise. Éboueller, c'est quand le corps renonce à faire semblant d'être une architecture.
 
 Mais le mot ne s'arrête pas à l'homme. Un mur peut s'éboueller, une grange peut s'éboueller, une armoire, une pile de caisses, un vieux buffet ou tout autre gros objet ayant vécu jusque-là dans l'illusion raisonnable qu'il était solide. Il suffit qu'un ensemble qui se tenait encore à peu près décide soudain de ne plus collaborer.
 

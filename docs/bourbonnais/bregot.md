@@ -11,7 +11,7 @@ Et puis par un de ces glissements merveilleux dont le parler populaire a le secr
 
 *Va voir le vieux bregot, il saura quoi faire avec c't'essaim dans la grange.*
 
-> « Il me semblerait judicieux de solliciter l'intervention de cet estimable spécialiste des abeilles avant que notre improvisation ne provoque une catastrophe agricole d'ampleur regrettable. »
+> « Il me semblerait judicieux de solliciter l'intervention de cet estimable spécialiste des abeilles avant que notre improvisation ne provoque une débâcle apicole d'ampleur regrettable. »
 
 ## On dit aussi
 

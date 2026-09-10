@@ -1,6 +1,6 @@
 # Peuhu
 
-**Peuhu !**, c'est **pan !**, le bruit sec d'un choc, d'une chute, d'une porte qui claque ou d'un coup parti sans prévenir. Le mot jaillit tout rond, tout brutal, avec déjà dedans quelque chose qui tombe, qui casse ou qui vous remet les idées d'aplomb. On raconte une scène, on lève la main, et **peuhu !** : l'affaire est faite, le seau est par terre, l'autre sur le derrière et la dignité quelque part sous la table.
+**Peuhu !**, c'est **pan !**, le bruit sec d'un choc, d'une chute, d'une porte qui claque ou d'un coup parti sans prévenir. Le mot jaillit tout rond, tout brutal, avec déjà dedans quelque chose qui tombe, qui casse ou qui vous remet les idées d'aplomb. On raconte une scène, on lève la main, et **peuhu !** : l'affaire est faite, le seau est par terre, l'autre sur le derrière et la superbe quelque part sous la table.
 
 ## Exemple
 

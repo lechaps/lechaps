@@ -6,7 +6,7 @@ L'**écoin**, c'est le coin d'un champ, l'endroit où les raies se rencontrent d
 
 *Le meilleur de la récolte, c'est dans les écoins.*
 
-> « Les portions les plus remarquables de cette production agricole semblent, par une délicatesse toute provinciale, s'être réfugiées dans les angles les moins accessibles de la parcelle. »
+> « Les portions les plus remarquables de cette récolte semblent, par une délicatesse toute provinciale, s'être réfugiées dans les angles les moins accessibles de la parcelle. »
 
 ## On dit aussi
 

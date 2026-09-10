@@ -6,7 +6,7 @@
 
 *J'vas chapouter l'bigot, l'manche a lâché c'matin.*
 
-> « Il me faut désormais procéder à une opération de menuiserie rustique afin de restituer à cet outil agricole une dignité mécanique malheureusement compromise par une rupture fort malvenue. »
+> « Il me faut désormais procéder à une opération de menuiserie rustique afin de restituer à cet outil agricole une intégrité mécanique malheureusement compromise par une rupture fort malvenue. »
 
 ## On dit aussi
 

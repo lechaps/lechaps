@@ -1,6 +1,6 @@
 # Jalignier
 
-Le **jalignier**, c'est le **perchoir à poules**, cette barre de bois où les volailles viennent se ranger pour la nuit, serrées les unes contre les autres avec la gravité d'un conseil municipal à plumes. Dans le poulailler, il domine la paille, les pondoirs et tout un petit royaume d'ailes froissées, de gloussements méfiants et d'odeurs qui ne prétendent pas rivaliser avec la violette. 
+Le **jalignier**, c'est le perchoir à poules, cette barre de bois où les volailles viennent se ranger pour la nuit, serrées les unes contre les autres avec la gravité d'un conseil municipal à plumes. Dans le poulailler, il domine la paille, les pondoirs et tout un petit royaume d'ailes froissées, de gloussements méfiants et d'odeurs qui ne prétendent pas rivaliser avec la violette.
 
 ## Exemple
 

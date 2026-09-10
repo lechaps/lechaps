@@ -6,7 +6,7 @@
 
 *Pardi que j'y vais, j'vas pas rester là à regarder les autres !*
 
-> « Par la divinité elle-même, il va de soi que je prendrai part à cette entreprise, ma dignité m'interdisant de demeurer spectateur tandis que mes semblables s'agitent sans moi. »
+> « Par la divinité elle-même, il va de soi que je prendrai part à cette entreprise, mon tempérament m'interdisant de demeurer spectateur tandis que mes semblables s'agitent sans moi. »
 
 ## On dit aussi
 

@@ -6,7 +6,7 @@ La **greute**, parfois écrite **greûte**, c'est la cerise (et pas celle de Gro
 
 *Mange pas trop de greutes, t'vas choper la drouille.*
 
-> « Je vous recommande de modérer votre consommation de cerises, sous peine de provoquer dans votre appareil digestif une insurrection estivale dont votre dignité et votre caneçon pourraient conserver un souvenir durable. »
+> « Je vous recommande de modérer votre consommation de cerises, sous peine de provoquer dans votre appareil digestif une insurrection estivale dont votre amour-propre et votre caneçon pourraient conserver un souvenir durable. »
 
 ## On dit aussi
 

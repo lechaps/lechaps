@@ -1,6 +1,6 @@
 # Marmelu
 
-Le **marmelu**, c'est tout ce qui reste quand il ne reste presque plus rien : poussière, miettes, éclats minuscules, débris si fins qu'ils passent entre les doigts et vous font perdre patience, dignité et parfois le balai. On le trouve au fond d'un sac, sous l'établi, dans les plis d'un vieux tiroir ; petite misère de matière, légère comme une promesse et autrement plus difficile à ramasser.
+Le **marmelu**, c'est tout ce qui reste quand il ne reste presque plus rien : poussière, miettes, éclats minuscules, débris si fins qu'ils passent entre les doigts et vous font perdre patience, bonne humeur et parfois le balai. On le trouve au fond d'un sac, sous l'établi, dans les plis d'un vieux tiroir ; petite misère de matière, légère comme une promesse et autrement plus difficile à ramasser.
 
 ## Exemple
 

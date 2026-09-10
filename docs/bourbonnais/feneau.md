@@ -6,7 +6,7 @@ Le **feneau**, qu'on dit plus volontiers **fneau** quand la bouche va plus vite 
 
 *Viens m'aider à démarner le fnau.*
 
-> « Je sollicite votre concours afin de procéder au déplacement méthodique du foin, des sacs et des reliques agricoles accumulées dans les hauteurs de cette vénérable dépendance. »
+> « Je sollicite votre concours afin de procéder au déplacement méthodique du foin, des sacs et des reliques des moissons passées accumulées dans les hauteurs de cette vénérable dépendance. »
 
 ## On dit aussi
 

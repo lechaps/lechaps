@@ -6,7 +6,7 @@ Le **goûter**, ce n'était pas la tartine de quatre heures avec son carré de c
 
 *Viens donc goûter, la soupe va refroidir.*
 
-> « Auriez-vous l'obligeance de venir enfin vous présenter à la table familiale, où vous attend le repas de la mi-journée, dont la température, la dignité et la patience de la cuisinière connaissent actuellement un déclin préoccupant. »
+> « Auriez-vous l'obligeance de venir enfin vous présenter à la table familiale, où vous attend le repas de la mi-journée, dont la température décline aussi dangereusement que la patience de la cuisinière. »
 
 ## On dit aussi
 

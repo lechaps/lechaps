@@ -6,7 +6,7 @@
 
 *Écale donc les œufs pendant que j'coupe le pain.*
 
-> « Veuillez débarrasser ces œufs de leur enveloppe calcaire afin que le repas puisse progresser avec ordre, dignité et mayonnaise éventuelle. »
+> « Veuillez débarrasser ces œufs de leur enveloppe calcaire afin que le repas puisse progresser avec ordre, méthode et mayonnaise éventuelle. »
 
 *Le chti est tombé, bah il s'est écalé les g'noux.*
 
@@ -18,7 +18,7 @@ Peler, éplucher, [dépiauter](./dépiauter.md), écorcher, s'écorcher, se râp
 
 ## Souvenir
 
-Je me souviens des œufs durs qu'on écalait à table ou sur un coin d'évier, avec ces petits éclats de coquille qui collaient aux doigts comme s'ils voulaient encore défendre leur affaire. Mais le mot, chez moi, revient surtout par les genoux : mes genoux d'enfant, toujours devant, toujours premiers arrivés dans les gravillons, les marches, la cour, le monde entier, avec une confiance magnifique et parfaitement injustifiée. Je tombais souvent, trop souvent peut-être, assez pour que mes pantalons finissent avec des genouillères, ces pièces de tissu cousues comme des rustines sur ma petite dignité ambulante. Je rentrais la peau écalée, le chagrin au bord des yeux et cette fierté idiote des gamins qui confondent blessure et médaille. Les adultes regardaient ça vite fait, parlaient de désinfecter, de faire attention, de lever les pieds (vaste programme !) et moi j'apprenais que la vie avait des cailloux, des angles, et une curieuse obstination à viser toujours les mêmes genoux.
+Je me souviens des œufs durs qu'on écalait à table ou sur un coin d'évier, avec ces petits éclats de coquille qui collaient aux doigts comme s'ils voulaient encore défendre leur affaire. Mais le mot, chez moi, revient surtout par les genoux : mes genoux d'enfant, toujours devant, toujours premiers arrivés dans les gravillons, les marches, la cour, le monde entier, avec une confiance magnifique et parfaitement injustifiée. Je tombais souvent, trop souvent peut-être, assez pour que mes pantalons finissent avec des genouillères, ces pièces de tissu cousues comme des rustines sur ma petite carcasse aventureuse. Je rentrais la peau écalée, le chagrin au bord des yeux et cette fierté idiote des gamins qui confondent blessure et médaille. Les adultes regardaient ça vite fait, parlaient de désinfecter, de faire attention, de lever les pieds (vaste programme !) et moi j'apprenais que la vie avait des cailloux, des angles, et une curieuse obstination à viser toujours les mêmes genoux.
 
 ## Pour aller plus loin
 

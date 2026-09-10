@@ -6,7 +6,7 @@
 
 *Quand je vois ça, ça me fait malice.*
 
-> « La contemplation d'un pareil spectacle m'inspire un mélange si profond de honte, de peine et de contrariété que ma dignité elle-même semble en avoir reçu une gifle devant témoins. »
+> « La contemplation d'un pareil spectacle m'inspire un mélange si profond de honte, de peine et de contrariété que ma sensibilité elle-même semble en avoir reçu une gifle devant témoins. »
 
 ## On dit aussi
 

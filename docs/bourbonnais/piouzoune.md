@@ -6,7 +6,7 @@
 
 *Faut que j'en achète un autre, c'est tout piousouné.*
 
-> « Il me paraît désormais indispensable de procéder au remplacement de cet objet, dont l'état général, les signes avancés de fatigue et la dignité matérielle déclinante ne permettent plus d'envisager une carrière prolongée. »
+> « Il me paraît désormais indispensable de procéder au remplacement de cet objet, dont l'état général, les signes avancés de fatigue et la solidité désormais toute théorique ne permettent plus d'envisager une carrière prolongée. »
 
 ## On dit aussi
 

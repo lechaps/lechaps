@@ -6,7 +6,7 @@ Le **beugueuyou**, c'est celui qui parle comme d'autres respirent : sans même s
 
 *Laisse-le causer… c'est un beugueuyou, y pourrait raconter sa vie à une barrière.*
 
-> « Cet homme possède une telle abondance verbale qu'il semblerait capable d'entretenir une conversation soutenue avec le mobilier agricole le plus récalcitrant. »
+> « Cet homme possède une telle abondance verbale qu'il semblerait capable d'entretenir une conversation soutenue avec la plus récalcitrante des barrières. »
 
 ## On dit aussi
 

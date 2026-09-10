@@ -18,5 +18,4 @@ mitaines, gants de laine, moufles
 * [Étymologie de « mitaine » et ancien français « mite » — CNRTL](https://www.cnrtl.fr/etymologie/mitaine){ target="_blank" }
 * [Usages régionaux de « mitaine » et attestation de « mite » — Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1M0078.html){ target="_blank" }
 * [« Mite » au sens de mitaine ou gant tricoté — Glossaire du parler de Diou](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
-* [Entrée bourbonnaise « Mite » — Le Chaps](https://www.lechaps.com/bourbonnais/mite/){ target="_blank" }
 * [Correspondance « mitaine, mite » — Lexique français-bourbonnais](https://micbourbonnais.free.fr/lexique.htm){ target="_blank" }

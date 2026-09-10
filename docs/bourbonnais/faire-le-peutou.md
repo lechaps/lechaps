@@ -6,7 +6,7 @@
 
 *Arrête donc de faire le peutou, on va pas y passer l'dimanche !*
 
-> « Je vous invite à mettre un terme à cette démonstration silencieuse de dignité offensée, la famille ne pouvant raisonnablement consacrer l'intégralité du repos dominical à l'examen de votre contrition faciale. »
+> « Je vous invite à mettre un terme à cette démonstration silencieuse de confusion embarrassée, la famille ne pouvant raisonnablement consacrer l'intégralité du repos dominical à l'examen de votre contrition faciale. »
 
 ## On dit aussi
 

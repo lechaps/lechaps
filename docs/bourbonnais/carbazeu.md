@@ -8,7 +8,7 @@ Et puis il faut reconnaître que la campagne a toujours eu une tendresse particu
 
 *Oh lui, c'est le fameux carbazeu….*
 
-> « Cet individu présente une rusticité si affirmée qu'il semble avoir été directement assemblé à partir de matériaux agricoles traditionnels. »
+> « Cet individu présente une rusticité si affirmée qu'il semble avoir été directement assemblé à partir de terre glaise et de vieux manches de pioche. »
 
 ## On dit aussi
 

@@ -6,7 +6,7 @@
 
 *Arrête d'y pitrouiller sans cesse, c'est pas propre.*
 
-> « Je vous prie de mettre un terme à cette manipulation incessante, dont le caractère à la fois inutile, insalubre et obstinément tactile compromet désormais la dignité de l'objet comme celle de vos mains. »
+> « Je vous prie de mettre un terme à cette manipulation incessante, dont le caractère à la fois inutile, insalubre et obstinément tactile compromet désormais la propreté de l'objet comme celle de vos mains. »
 
 ## On dit aussi
 
