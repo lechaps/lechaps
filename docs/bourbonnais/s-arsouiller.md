@@ -1,6 +1,10 @@
 # S'arsouiller
 
-**S'arsouiller**, c'est d'abord être trempé jusqu'aux os, imbibé par la pleue, les vêtements collés à la piau, les souliers pleins comme deux mares communales et l'eau qui vous descend dans le dos avec la délicatesse d'un huissier. Puis, par extension — et par cette logique populaire qui vaut bien tous les traités de philosophie — le mot en est venu à désigner celui qui s'imbibe autrement, par le dedans cette fois, à coups de rouge, de gnaule et de tournées généreuses. Dans les deux cas, l'homme est saturé, ruisselant, plus tout à fait étanche : seulement, l'un sent le chien mouillé, l'autre la cave, et les plus accomplis parviennent parfois à cumuler les deux.
+**S'arsouiller**, c'est d'abord être trempé jusqu'aux os, imbibé par la pleue, les vêtements collés à la piau, les souliers pleins comme deux mares communales et l'eau qui vous descend dans le dos avec la délicatesse d'un huissier.
+
+Puis, par extension, et par cette logique populaire qui vaut bien tous les traités de philosophie, le mot en est venu à désigner celui qui s'imbibe autrement, par le dedans cette fois, à coups de rouge, de gnaule et de tournées généreuses.
+
+Dans les deux cas, l'homme est saturé, ruisselant, plus tout à fait étanche : seulement, l'un sent le chien mouillé, l'autre la cave, et les plus accomplis parviennent parfois à cumuler les deux.
 
 ## Exemple
 
@@ -10,7 +14,8 @@
 
 ## On dit aussi
 
-s'enivrer, se soûler, se cuiter, se tremper, être trempé comme une soupe
+1. Se tremper, être trempé comme une soupe
+2. S'enivrer, se soûler, se cuiter
 
 ## Pour aller plus loin
 

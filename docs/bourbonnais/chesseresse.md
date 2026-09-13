@@ -10,7 +10,7 @@ La **chesseresse**, c'est cet homme habité par une vieille soif joyeuse qui l'e
 
 ## On dit aussi
 
-Jamais à sec, sac à vin, bon buveur, gosier en pente
+Jamais à sec, sac à vin, bon buveur, gosier en pente, évier
 
 ## Souvenir
 

@@ -4,7 +4,7 @@ Le **nid à poussière**, c'est d'abord le nombril, ce petit creux au milieu du 
 
 ## Exemple
 
-*Va donc te laver le nid à poussière, on dirait qu't'as roulé dans l'grenier.*
+*Va donc te laver le nid à poussière, on dirait qu't'as roulé dans l'f'neau.*
 
 > « Je vous saurais gré de procéder à une toilette méticuleuse de cette cavité anatomique où semble s'être constitué, à votre insu, un échantillon particulièrement représentatif des poussières du canton. »
 

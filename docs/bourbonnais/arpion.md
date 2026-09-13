@@ -15,4 +15,4 @@ Pinceaux, gambettes du bas (quoique là on commence déjà à fréquenter des ge
 ## Pour aller plus loin
 
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/arpion){ target="_blank" }
-* [Définition du CNRTL](https://www.cnrtl.fr/lexicographie/arpion){ target="_blank" }
+* [Définition du CNRTL](https://www.cnrtl.fr/definition/arpion/nom){ target="_blank" }

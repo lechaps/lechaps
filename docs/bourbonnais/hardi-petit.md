@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Allez donc, en avant, dépêche-toi, courage, au travail, [an z'](./an-z-y.md)
+Allez donc, en avant, dépêche-toi, courage, au travail, [an z'y](./an-z-y.md)
 
 ## Pour aller plus loin
 

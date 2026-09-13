@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-faire bon effet, faire mauvais effet, ça fait bien, ça fait mal
+Faire bon effet, faire mauvais effet, ça fait bien, ça fait mal
 
 ## Pour aller plus loin
 

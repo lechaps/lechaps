@@ -8,10 +8,6 @@ La **luzerne**, c'est cette plante fourragère, cousine du trèfle mais autremen
 
 > « L'heure est venue de procéder à la récolte de cette noble légumineuse, afin que notre cheptel puisse traverser les rigueurs futures dans un état de satiété compatible avec la prospérité de la ferme. »
 
-## On dit aussi
-
-Luzerne cultivée, alfalfa
-
 ## Souvenir
 
 Je me souviens de la luzerne fraîchement coupée, étendue dans le champ, avec cette odeur verte qui semblait rester accrochée aux vêtements longtemps après le retour. Enfant, je marchais dans les andains en soulevant les pieds trop haut, persuadé d'aider alors que je dérangeais surtout l'ouvrage et quelques insectes qui n'avaient rien demandé. Les anciens surveillaient le ciel, retournaient la récolte, parlaient de pluie avec la gravité de généraux préparant une bataille. Moi, je ne voyais qu'une mer d'herbe parfumée ; eux savaient déjà qu'elle nourrirait les bêtes lorsque les prés seraient devenus gris.

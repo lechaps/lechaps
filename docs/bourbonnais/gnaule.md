@@ -1,16 +1,16 @@
-# Gnaule
+# Gnole
 
-La **gnaule**, c'est l'eau-de-vie, celle qui dormait dans une bouteille sans étiquette, au fond du buffet, entre les verres à liqueur et les papiers qu'on ne jetait jamais. Elle sentait la prune, la poire, parfois le feu de bois et souvent l'autorité. On en versait un doigt (mesure éminemment variable selon le doigt, l'humeur et le degré d'amitié) pour se réchauffer, digérer, désinfecter ou célébrer, car autrefois un même flacon pouvait servir la médecine, la diplomatie et les fins de repas.
+La **gnole**, c'est l'eau-de-vie, celle qui dormait dans une bouteille sans étiquette, au fond du buffet, entre les verres à liqueur et les papiers qu'on ne jetait jamais. Elle sentait la prune, la poire, parfois le feu de bois et souvent l'autorité. On en versait un doigt (mesure éminemment variable selon le doigt, l'humeur et le degré d'amitié) pour se réchauffer, digérer, désinfecter ou célébrer, car autrefois un même flacon pouvait servir la médecine, la diplomatie et les fins de repas.
 
 ## Exemple
 
-*Verse donc une goutte de gnaule, ça nous r'mettra d'aplomb.*
+*Verse donc une goutte de gnole, ça nous r'mettra d'aplomb.*
 
 > « Accordez à ce malheureux une modeste rasade de cette eau-de-vie artisanale, dont les propriétés réparatrices devraient restaurer simultanément sa circulation sanguine, son courage moral et une conception plus aimable de l'existence. »
 
 ## On dit aussi
 
-Gnôle, goutte, eau-de-vie, tord-boyaux
+Goutte, eau-de-vie, tord-boyaux
 
 ## Pour aller plus loin
 

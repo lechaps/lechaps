@@ -1,10 +1,10 @@
 # Margot
 
-Une **Margot**, c'est une pie, bien sûr, mais dite ainsi elle devient presque une voisine : bavarde, élégante en noir et blanc, chapardeuse par principe et toujours prête à commenter les affaires du pays depuis la cime d'un noyer. Elle sautille dans la cour avec l'assurance d'une duchesse qui aurait volé ses bijoux elle-même, et son cri sec met aussitôt les chiens, les poules et les vieilles superstitions en état d'alerte.
+Une **margot**, c'est une pie, bien sûr, mais dite ainsi elle devient presque une voisine : bavarde, élégante en noir et blanc, chapardeuse par principe et toujours prête à commenter les affaires du pays depuis la cime d'un noyer. Elle sautille dans la cour avec l'assurance d'une duchesse qui aurait volé ses bijoux elle-même. Une duchesse, que dis-je, la margot est une reine à la différence que son cri sec met aussitôt les chiens, les poules et les vieilles superstitions en état d'alerte.
 
 ## Exemple
 
-*Y a encore la Margot qui jacasse dans le grand cerisier.*
+*Y a encore la margot qui jacasse dans le grand cerisier.*
 
 > « Notre estimable commère à plumage bicolore tient de nouveau son salon dans les hautes branches du cerisier, d'où elle délivre au voisinage une chronique mondaine dont personne ne lui a demandé le premier mot. »
 

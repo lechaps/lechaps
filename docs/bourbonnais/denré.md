@@ -10,7 +10,7 @@ Le **denré**, c'est le vaurien, le mauvais sujet, la sale petite nature qui vou
 
 ## On dit aussi
 
-Denrée, vaurien, mauvais sujet, canaille, fripouille, crapule
+Vaurien, mauvais sujet, canaille, fripouille, crapule
 
 ## Pour aller plus loin
 

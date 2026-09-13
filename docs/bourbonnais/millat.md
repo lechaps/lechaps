@@ -27,7 +27,7 @@ Pour la pâte:
 
 Pour la garniture :
 
-5* 00 g. de cerises mi-aigres, mi-douces ou de prunes sucrées, non dénoyautées.
+500 g. de cerises mi-aigres, mi-douces ou de prunes sucrées, non dénoyautées.
 
 Mélangez le sucre, la farine, le lait et les oeufs, afin d'obtenir une pâte à crêpe, un peu épaisse.  
 Beurrez un plat allant au four et versez-y les fruits et le mélange.  

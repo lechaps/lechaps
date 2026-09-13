@@ -3,6 +3,8 @@
 La **bassie**, c'est le ventre discret de la maison. La pièce qu'on montre jamais aux invités mais où pourtant se joue l'essentiel : les réserves, les odeurs, les secrets de soupe, les fromages enveloppées dans des torchons et les bouteilles qu'on dit “pour plus tard”.  
 C'est bas de plafond, oui. Frais comme le dessous d'une pierre, mais en plus fréquentable. On y entre et tout semble y parler moins fort : les casseroles, les gens, même les mouches. La bassie garde le beurre, les salaisons, les confitures, parfois les colères aussi. Une pièce de travail, de patience et de silence pratique. Pas un endroit élégant, non. Mais un lieu honnête. Et à la campagne, l'honnêteté a souvent une odeur de lait froid et de bois humide.
 
+Et toujours tournée au nord. Le soleil pouvait bien faire le malin sur la façade, ici on lui ouvrait pas. On lui laissait les géraniums et les conversations sur le pas de la porte. Le beurre, lui, avait besoin de tenue. Alors la bassie regardait du côté de l'ombre, avec sa petite fenêtre qui donnait juste assez de jour pour distinguer un pot de crème d'un pot de saindoux. Pas besoin d'éblouir les provisions. Il fallait du frais qui dure, même en août, quand les volets du reste de la maison se fermaient dès le matin. On n'avait pas de thermostat, ni de réfrigérateur, mais on savait où trouver la fraîcheur.
+
 ## Exemple
 
 *Va m'cher l'fromage à la bassie.*

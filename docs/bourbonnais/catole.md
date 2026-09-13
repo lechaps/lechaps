@@ -1,7 +1,8 @@
 # Catole
 
 La **catole**, c'est ce cadeau que la campagne vous laisse sous la semelle quand elle estime que vous n'êtes pas passé assez longtemps chez elle. Tantôt bouse de vache bien franche, bien démocratique, celle qui attend le citadin au détour du pré avec la patience stratégique d'un inspecteur. Tantôt paquet de terre grasse, collante, amoureuse comme on dit, cette glaise qui vous grimpe aux bottes avec l'obstination d'un voisin venue “juste cinq minutes” et qui finit le ratafia.
-Ça pèse, la catole. Pas seulement au pied. Ça ralentit l'homme, ça lui rappelle que la terre commande encore un peu la danse, même aux plus pressés. Et dans certains chemins de février, entre deux haies dégarnies, on avançait avec deux kilos accrochés à chaque godasse. Une allure de scaphandrier agricole.
+Ça pèse, la catole. Pas seulement au pied. Ça ralentit l'homme, ça lui rappelle que la terre commande encore un peu la danse, même aux plus pressés. Et dans certains chemins de février, entre deux haies dégarnies, on avançait avec deux kilos accrochés à chaque godasse. Une allure de scaphandrier agricole.  
+Et à l'école aussi, on ramassait des catoles. Des mauvaises notes, bien tassées dans la marge, au stylo rouge, avec parfois un « peut mieux faire » pour décorer le désastre. Un 2 en dictée, un 3 en calcul, et vous voilà lesté pour le retour. Celle-là collait au cahier avec la même conviction que la glaise aux godasses, sauf qu'on pouvait pas la racler sur le bord de la marche avant d'entrer. Il fallait la poser sur la table de la cuisine et attendre que quelqu'un relève la tête. On expliquait que la dictée était difficile, que le voisin avait eu zéro, que presque toute la classe s'était trompée. Une solidarité scolaire admirable, mais qui impressionnait rarement.
 
 ## Exemple
 

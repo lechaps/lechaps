@@ -14,6 +14,4 @@ Faire quelque chose sans trop regarder si ça tient droit, un peu dans l'urgence
 
 ## Pour aller plus loin
 
-* [Définition du CNRTL](https://www.cnrtl.fr/definition/v%C3%A1//1)
-* [Synonymes du CNRTL](https://www.cnrtl.fr/synonymie/%C3%A0%20la%20va-comme-je-te-pousse)
 * [Définition d'Expressio](https://www.expressio.fr/expressions/a-la-va-comme-je-te-pousse){ target="_blank" }

@@ -14,5 +14,5 @@ Mobylette, mob, pétrolette, vélomoteur, bécane
 
 ## Souvenir
 
-La **jument bleue**, c'était la mobylette de mon grand-père, et surtout son seul moyen de locomotion. Je le revois partir dessus, droit sur la selle, la veste battue par l'air, tandis qu'un petit nuage bleu restait derrière eux, comme le crottin qu'une vraie jument abandonne sur la route : une preuve modeste, fumante et parfaitement assumée de son passage.  
+La **jument bleue**, c'était la mobylette de mon grand-père, et surtout son seul moyen de locomotion. Je le revois partir dessus, droit sur la selle, la veste battue par l'air, avec dans son sillage un petit nuage bleu, un peu comme le crottin qu'une vraie jument abandonne sur la route : une preuve modeste, fumante et parfaitement assumée de son passage.  
 Elle l'emmenait partout : aux courses, chez le voisin, au bourg, au réparateur aussi, parce que les vieilles montures ont leurs rhumatismes et les mécaniques leur caractère. Pour moi, elle faisait partie de lui, comme sa voix, ses habitudes, ses outils ; quand je pense à mon grand-père, je le vois encore sur cette mobylette bleue, fidèle, et libre à sa manière.

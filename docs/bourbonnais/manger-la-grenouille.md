@@ -1,10 +1,10 @@
 # Manger la grenouille
 
-**Manger la grenouille**, c'est vider la caisse, dilapider l'argent de l'affaire et finir par **mettre la clé sous la porte**. La grenouille, ici, c'est la petite réserve, le magot, ce qui devait permettre au commerce de tenir debout quand les jours devenaient maigres. Mais quand elle est mangée, plus de trésorerie, plus de boutique, plus rien qu'un rideau baissé et des créanciers qui regardent la devanture avec des idées peu chrétiennes.
+**Manger la grenouille**, c'est vider la caisse, dilapider l'argent de l'affaire et finir par mettre la clé sous la porte. La grenouille, ici, c'est la petite réserve, le magot, ce qui devait permettre au commerce de tenir debout quand les jours devenaient maigres. Mais quand elle est mangée, plus de trésorerie, plus de boutique, plus rien qu'un rideau baissé et des créanciers qui regardent la devanture avec des idées peu chrétiennes.
 
 ## Exemple
 
-*C'était pas bézef, ils ont mangé la grenouille.*
+*C'était pas bézef, il a mangé la grenouille.*
 
 > « L'entreprise, déjà pourvue de ressources financières d'une remarquable discrétion, semble avoir consommé ses dernières réserves avant de cesser définitivement toute activité commerciale. »
 

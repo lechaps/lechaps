@@ -1,16 +1,16 @@
 # Marmouner
 
-**Marmouner**, c'est parler entre ses dents, assez fort pour qu'on comprenne qu'il y a du mécontentement dans l'air, mais pas assez pour qu'on puisse vous demander des comptes proprement. Ça grogne, ça mâchonne des syllabes, ça fait mijoter la contrariété sous le nez comme une soupe qu'on aurait oubliée sur le coin du fourneau. On marmoune quand on n'ose pas dire, quand on ne veut pas répéter, ou quand on espère — avec cette mauvaise foi délicieuse des familles — être entendu sans avoir l'air d'avoir parlé.
+**Marmouner**, c'est parler entre ses dents, assez fort pour qu'on comprenne qu'il y a du mécontentement dans l'air, mais pas assez pour qu'on puisse vous demander des comptes proprement. Ça grogne, ça mâchonne des syllabes, ça fait mijoter la contrariété sous le nez comme une soupe qu'on aurait oubliée sur le coin du fourneau. On marmoune quand on n'ose pas dire, quand on ne veut pas répéter, ou quand on espère, avec cette mauvaise foi délicieuse des familles, être entendu sans avoir l'air d'avoir parlé.
 
 ## Exemple
 
-*Qu'est-ce que tu marmounes encore dans ton coin ?*
+*Qu'est-ce t'as à marmouner encore dans ton coin ?*
 
 > « Auriez-vous l'obligeance d'articuler publiquement le sombre réquisitoire que vous semblez actuellement confier à votre moustache, afin que l'assemblée puisse en apprécier toute la profondeur diplomatique ? »
 
 ## On dit aussi
 
-marmonner, marmotter, maugréer, grommeler
+Marmonner, marmotter, maugréer, grommeler
 
 ## Pour aller plus loin
 

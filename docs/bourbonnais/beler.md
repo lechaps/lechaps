@@ -1,4 +1,4 @@
-# Beler
+# Bêler
 
 **Bêler**, c'est se plaindre pour un oui, pour un non, geindre à longueur de journée, chouiner comme une vieille charnière qui réclame sa retraite. On l'emploie souvent pour ceux qui transforment le moindre tracas en tragédie nationale, avec cette musique plaintive qui finit par user les nerfs plus sûrement qu'un robinet qui goutte dans la nuit.
 
@@ -16,4 +16,4 @@ Chouiner, se plaindre, lamenter, geignarder
 
 * [Définition de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9B0782){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/b%C3%AAler){ target="_blank" }
-* * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/b%C3%AAler){ target="_blank" }
+* [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/b%C3%AAler){ target="_blank" }

@@ -1,7 +1,6 @@
 # Arquer
 
-**Arquer**, ça commence souvent par une histoire de dos. Pas le dos héroïque des statues grecques, non… le vrai dos des gens qui ont porté des sacs, ramassé des patates, poussé des brouettes récalcitrantes sous une pluie fine capable de traverser jusqu'aux os. Le corps arque comme une vieille branche chargée de neige. Ça se courbe, ça se raidit, ça négocie chaque mouvement avec les lombaires comme un diplomate fatigué au congrès de Vienne.
-Et puis un jour on entend : « J'peux plus arquer. » Ce n'est pas seulement une plainte. C'est presque un bulletin météorologique du corps humain.
+**Arquer**, ça commence souvent par une histoire de dos. Pas le dos héroïque des statues grecques, non… le vrai dos des gens qui ont porté des sacs, ramassé des patates, poussé des brouettes récalcitrantes sous une pluie fine capable de traverser jusqu'aux os. Le corps arque comme une vieille branche chargée de neige. Ça se courbe, ça se raidit, ça négocie chaque mouvement avec les lombaires comme un diplomate fatigué au congrès de Vienne. Et puis un jour on entend : « J'peux plus arquer. » Ce n'est pas seulement une plainte. C'est presque un bulletin météorologique du corps humain.
 
 ## Exemple
 

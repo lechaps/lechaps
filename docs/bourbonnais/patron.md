@@ -1,6 +1,6 @@
 # Patron(ne)
 
-Le **patron**, c'est celui qui tient l'exploitation agricole, qui décide des travaux, des bêtes, des semis, des dépenses et de tout ce qui, sur une ferme, peut tomber en panne avant le dîner. La **patronne** peut être celle qui dirige elle-même, mais le mot désigne aussi, plus familièrement, la femme ou la compagne du patron — celle dont on sollicite l'avis avec une prudence qui en dit souvent plus long que les titres officiels. Et dans l'usage, soyons honnêtes, c'est surtout **patronne** qu'on entend : parce qu'un homme peut bien se croire chef dehors, il sait généralement à qui demander avant d'inviter du monde le dimanche.
+Le **patron**, c'est celui qui tient l'exploitation agricole, qui décide des travaux, des bêtes, des semis, des dépenses et de tout ce qui, sur une ferme, peut tomber en panne avant le dîner. La **patronne** peut être celle qui dirige elle-même, mais le mot désigne aussi, plus familièrement, la femme ou la compagne du patron, celle dont on sollicite l'avis avec une prudence qui en dit souvent plus long que les titres officiels. Et dans l'usage, soyons honnêtes, c'est surtout **patronne** qu'on entend : parce qu'un homme peut bien se croire chef dehors, il sait généralement à qui demander avant d'inviter du monde le dimanche.
 
 ## Exemple
 

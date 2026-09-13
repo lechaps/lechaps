@@ -8,3 +8,6 @@ Le **marmelu**, c'est tout ce qui reste quand il ne reste presque plus rien : po
 
 > « Je m'épuise vainement à recueillir cette multitude de fragments infinitésimaux, dont la ténuité semble avoir été spécialement conçue pour défier le balai, la pelle et, plus généralement, la patience humaine. »
 
+## On dit aussi
+
+Miettes, poussière, menus débris, petits éclats, résidus, broutilles

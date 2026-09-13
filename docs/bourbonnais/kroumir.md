@@ -1,16 +1,16 @@
 # Kroumir
 
-Le **kroumir**, c'est le **vieux**, l'ancien fatigué, celui dont les genoux grincent avant la porte et qui regarde les jeunes s'agiter avec la compassion distraite d'un homme ayant déjà traversé tant d'hivers que le temps lui-même paraît s'être usé à le voir tenir. Le mot se lance sur un ton moqueur, parfois rude, mais souvent avec cette tendresse mal peignée où l'on préfère traiter l'aïeul de vieille carcasse plutôt que lui avouer qu'on s'inquiète pour lui. Un kroumir, ça avance moins vite, ça souffle davantage, mais ça connaît encore deux ou trois choses que les autres apprendront en se faisant mal.
+Le **kroumir**, c'est le vieux grincheux, l'ancien encroûté, celui dont les genoux grincent avant la porte et qui regarde les jeunes s'agiter avec la conviction que le monde a commencé à mal tourner le jour où l'on a cessé de lui demander son avis. Toute nouveauté lui paraît suspecte, toute joie un peu bruyante mérite une remontrance, et le bon vieux temps avait surtout cet avantage que personne ne peut venir vérifier ce qu'il en raconte. Le mot se lance sur un ton moqueur, parfois franchement peu charitable : on vise moins le grand âge que le caractère fermé, les idées qui sentent le renfermé et cette façon de recevoir son prochain comme s'il venait réclamer de l'argent. Un kroumir, ça regrette hier, ça condamne aujourd'hui et ça se méfie déjà de demain.
 
 ## Exemple
 
-*Il en peut pu, le kroumir.*
+*L'écoute pas, ce vieux kroumir, il trouve jamais rien d'bon à c'que font les jeunes.*
 
-> « Notre vénérable compagnon semble avoir atteint les limites conjointes de son endurance, de sa patience et de plusieurs articulations pourtant longtemps dévouées au service de la famille. »
+> « Notre estimable censeur considère toute initiative postérieure à sa jeunesse comme une regrettable erreur de civilisation, dont il entend bien nous faire personnellement porter la responsabilité. »
 
 ## On dit aussi
 
-Vieux, ancien, vieux bonhomme, croulant, vieille branche
+Vieux grincheux, vieux ronchon, vieux rétrograde, vieux réac, vieux bougon
 
 ## Pour aller plus loin
 
