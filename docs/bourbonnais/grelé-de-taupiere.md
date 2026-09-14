@@ -10,7 +10,7 @@ Un **grelé de taupière**, prononcé **guerlé de taupière**, c'est un gringal
 
 ## On dit aussi
 
-Gringalet, maigrichon, demi-portion, [sec comme un courlis](./sec-comme-un-courlis.md)
+Gringalet, maigrichon, demi-portion, [sec comme un courlis](./courlis.md)
 
 ## Pour aller plus loin
 

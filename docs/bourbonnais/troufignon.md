@@ -1,7 +1,5 @@
 # Troufignon
 
-## Définition
-
 Le **troufignon**, au sens premier, c'est le derrière — le trou du cul, pour cesser de tourner autour du pot qui, en l'occurrence, n'est déjà pas d'une grande noblesse. Mais lancé à la figure de quelqu'un, le mot devient un jugement complet : imbécile, maladroit, obstiné dans la sottise, avec ce talent particulier qui consiste à recevoir une consigne simple et à en faire une catastrophe cantonale. C'est vulgaire, brutal, parfaitement déloyal, mais d'une efficacité que bien des discours ministériels pourraient lui envier.
 
 ## Exemple

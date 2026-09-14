@@ -1,7 +1,5 @@
 # Trouver mauvais
 
-## Définition
-
 **Trouver mauvais**, c'est s'offenser, se vexer, prendre pour une déclaration de guerre ce qui n'était parfois qu'une plaisanterie mal peignée. L'expression sert aussi de précaution avant de lâcher une vérité un peu raide : on demande à l'autre de ne pas « trouver mauvais », tout en sachant pertinemment qu'on s'apprête à lui marcher sur les sentiments avec les sabots du dimanche. C'est la politesse des gens directs : elle met un napperon sur la franchise, mais on sent tout de même la table en dessous.
 
 ## Exemple

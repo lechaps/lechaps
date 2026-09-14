@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-pouah, beurk, fi
+Pouah, beurk,
 
 ## Pour aller plus loin
 

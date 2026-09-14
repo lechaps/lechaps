@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-pan, paf, boum
+Pan, paf, boum

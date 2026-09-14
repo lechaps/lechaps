@@ -1,7 +1,5 @@
 # Matouiller
 
-## Définition
-
 **Matouiller**, c'est mâchonner longuement, sans grande conviction, en promenant dans sa bouche un morceau devenu presque une connaissance de famille. On matouille un bout de pain, une herbe, un reste de viande trop coriace, parfois même le coin de sa moustache quand les idées tardent à venir. Ce n'est ni manger franchement ni recracher : c'est négocier avec la matière, dent par dent, jusqu'à ce que l'un des deux abandonne.
 
 ## Exemple
