@@ -10,9 +10,10 @@ La **trasse**, ou **trace**, c'est la haie qui sépare deux prés sans les fâch
 
 ## On dit aussi
 
-Trace, trasse, bouchure, tierre, quierre
+Bouchure, tierre, quierre
 
 ## Pour aller plus loin
 
-* [Forêts et bocage bourbonnais — Paysages d'Auvergne-Rhône-Alpes](https://www.paysages.auvergne-rhone-alpes.gouv.fr/5-01-forets-et-bocage-bourbonnais-a505.html){ target="_blank" }
-* [Patois bourbonnais : mots usuels — Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }
+* [Définition de « trace » - Académie française (sens général : marque ou vestige)](https://www.dictionnaire-academie.fr/article/A9T1724){ target="_blank" }
+* [Forêts et bocage bourbonnais - Paysages d'Auvergne-Rhône-Alpes](https://www.paysages.auvergne-rhone-alpes.gouv.fr/5-01-forets-et-bocage-bourbonnais-a505.html){ target="_blank" }
+* [Patois bourbonnais : mots usuels - Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }

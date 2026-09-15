@@ -1,7 +1,7 @@
 # Hohpe
 
 Tu as déjà vu une organisation paralysée parce qu'aucune décision claire n'est prise ?  
-Tout le monde discute, temporise, ajoute des exceptions, crée des comités… Et au bout du compte, la décision n'existe plus — elle se dissout.  
+Tout le monde discute, temporise, ajoute des exceptions, crée des comités… Et au bout du compte, la décision n'existe plus - elle se dissout.  
 Bienvenue dans **la loi de Hohpe**.
 
 > Excessive complexity is nature's punishment for organizations that are incapable of making decisions - Gregor Hohpe
@@ -10,7 +10,7 @@ Autrement dit : **le chaos s'invite quand on refuse de choisir**. Ne pas décide
 
 Bref : **Quand personne ne tranche, la complexité tranche pour eux**.
 
-Mais — nuance importante — cela ne veut pas dire qu'il faut tout décider vite.  
+Mais - nuance importante - cela ne veut pas dire qu'il faut tout décider vite.  
 **Une décision lente mais assumée vaut mieux qu'une décision inexistante.**  
 Ce que Hohpe pointe, ce n'est pas la réflexion.  
 **C'est l'indécision subie**, celle qui s'étire, s'évite et se masque derrière des processus.
@@ -29,7 +29,7 @@ Mais il y a une différence fondamentale entre :
   * un horizon clair
   * des signaux de réévaluation définis → l'incertitude est maîtrisée
 
-**Décider de ne pas décider est déjà une décision** — à condition qu'elle soit assumée.
+**Décider de ne pas décider est déjà une décision** - à condition qu'elle soit assumée.
 Le problème commence quand le flou devient un refuge confortable.
 
 ## Pourquoi la loi de Hohpe est si parlante
@@ -39,7 +39,7 @@ Le problème commence quand le flou devient un refuge confortable.
 * Et comme aucun choix clair ne simplifie, la structure gonfle...jusqu'à devenir illisible.
 * C'est comme refuser de ranger son grenier parce qu'on ne veut rien jeter : à la fin, on n'y entre même plus.
 
-Dans les organisations nous connaissons ces règles critiques qui comptent des exceptions. Personne ne sait plus pourquoi elles existent — mais tout le monde respecte "au cas où".  
+Dans les organisations nous connaissons ces règles critiques qui comptent des exceptions. Personne ne sait plus pourquoi elles existent - mais tout le monde respecte "au cas où".  
 Résultat : un système rigide, coûteux, et paradoxalement...contourné en permanence.
 
 Et tu l'as sûrement déjà vécu :
@@ -94,7 +94,7 @@ Ses travaux rappellent un principe simple : **en architecture comme en managemen
 
 ### Et maintenant, que faire ?
 
-Quelques antidotes simples — mais exigeants :
+Quelques antidotes simples - mais exigeants :
 
 * **Limiter le "peut-être"** → Protéger le **oui** et le **non**
 * **Nommer un decision owner** → Une décision sans propriétaire n'existe pas
@@ -108,11 +108,11 @@ C'est un choix. Et souvent, un acte de courage.
 ## Et si le problème n'était pas "décider", mais quand décider ?
 
 La loi de Hohpe montre comment la complexité prolifère quand **personne n'ose trancher**.  
-Mais l'excès inverse existe aussi : décider trop tôt, trop vite, trop définitivement — et figer une organisation dans des choix prématurés.
+Mais l'excès inverse existe aussi : décider trop tôt, trop vite, trop définitivement - et figer une organisation dans des choix prématurés.
 
 Autrement dit, le vrai risque n'est pas seulement l'indécision. C'est **le mauvais timing**.
 
-**[Lire la suite : Hohpe × Falkland — trancher vs attendre](../humanops/decision.md)**
+**[Lire la suite : Hohpe × Falkland - trancher vs attendre](../humanops/decision.md)**
 
 ### Références
 

@@ -18,7 +18,7 @@ Bref : **Focus sur les 20% qui changent tout**.
 
 Le reste ? Du bruit, du stress, et souvent du perfectionnisme inutile. La loi de Pareto, c'est un grand coup de projecteur sur une vérité simple : **tout n'a pas le même impact**.
 
-Ce principe n'est pas une excuse pour en faire moins — **c'est une invitation à mettre ton énergie là où elle compte vraiment**.  
+Ce principe n'est pas une excuse pour en faire moins - **c'est une invitation à mettre ton énergie là où elle compte vraiment**.  
 
 Concentre-toi sur les 20 % qui changent tout, et laisse le reste s'ajuster autour.
 

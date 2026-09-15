@@ -14,7 +14,7 @@ Bille
 
 ## Pour aller plus loin
 
-* [Attestation historique de « gobille » au sens de « bille » — CNRTL](https://www.cnrtl.fr/definition/bhvf/gobille){ target="_blank" }
-* [Définition de « gobille » — Wiktionnaire](https://fr.wiktionary.org/wiki/gobille){ target="_blank" }
-* [Définition de « gobille », terme d'écoliers — Littré](https://www.littre.org/definition/gobille){ target="_blank" }
+* [Attestation historique de « gobille » au sens de « bille » - CNRTL](https://www.cnrtl.fr/definition/bhvf/gobille){ target="_blank" }
+* [Définition de « gobille » - Wiktionnaire](https://fr.wiktionary.org/wiki/gobille){ target="_blank" }
+* [Définition de « gobille », terme d'écoliers - Littré](https://www.littre.org/definition/gobille){ target="_blank" }
 * [« Gobille » dans le *Petit Recueil du parler de Diou*](https://projetbabel.org/diou/g.htm){ target="_blank" }

@@ -14,4 +14,4 @@ Fou, cinglé, timbré, [bredin](./bredin.md), dérangé, [tacaro](./tacaro.md), 
 
 ## Pour aller plus loin
 
-* [Fafiot — Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Fafiot - Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }

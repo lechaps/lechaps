@@ -6,7 +6,7 @@ Félicitations, tu viens de vivre **la loi de Cunningham**.
 
 > The best way to get the right answer on the Internet is not to ask a question, but to post the wrong answer - Howard G. Cunningham
 
-Autrement dit : **Une erreur attire plus de réponses qu'une question sincère — corriger stimule plus que contribuer.**
+Autrement dit : **Une erreur attire plus de réponses qu'une question sincère - corriger stimule plus que contribuer.**
 
 Bref : **L'erreur est un aimant à experts.**
 
@@ -21,10 +21,10 @@ Ce principe, formulé comme une blague, résume parfaitement pourquoi les discus
 Résultat : **l'erreur génère plus d'intelligence collective que la demande de vérité.**
 
 Mais nuance importante :  
-Dans certains espaces, la mauvaise réponse n'est pas corrigée — elle est relayée, amplifiée, consolidée. Sur Twitter, Facebook ou TikTok, une erreur bien emballée peut devenir virale avant même qu'un expert ait le temps de respirer.  
+Dans certains espaces, la mauvaise réponse n'est pas corrigée - elle est relayée, amplifiée, consolidée. Sur Twitter, Facebook ou TikTok, une erreur bien emballée peut devenir virale avant même qu'un expert ait le temps de respirer.  
 **L'erreur attire, mais peut aussi contaminer.**
 
-La loi de Cunningham, c'est donc un rappel sur les dynamiques sociales d'Internet : la contradiction motive plus que l'entraide, la correction plus que la réponse — mais seulement si la correction arrive à temps.
+La loi de Cunningham, c'est donc un rappel sur les dynamiques sociales d'Internet : la contradiction motive plus que l'entraide, la correction plus que la réponse - mais seulement si la correction arrive à temps.
 
 ## D'où vient la loi de Cunningham ?
 
@@ -51,7 +51,7 @@ Comment exploiter Cunningham intelligemment
 * **En innovation produit** → formuler une hypothèse imparfaite pour faire réagir et obtenir du feedback.
 * **En contenu** → lancer un débat avec une affirmation provocante… puis nourrir les corrections.
 
-L'idée n'est pas de tromper — mais de stimuler la pensée collective par la friction.
+L'idée n'est pas de tromper - mais de stimuler la pensée collective par la friction.
 Une étincelle suffit à générer du feu… si la communauté a assez d'oxygène pour brûler.
 
 ## Références

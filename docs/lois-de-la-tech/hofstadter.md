@@ -1,7 +1,7 @@
 # Hofstadter
 
 Tu t'étais dit que ce projet prendrait deux semaines… et trois mois plus tard, tu y es encore ? Ou commencé une tâche "rapide" qui s'est transformée en labyrinthe sans fin ? Et même quand tu anticipes que ça va prendre plus longtemps… ça prend encore plus longtemps ?  
-Tu n'as pas mal calculé — tu viens juste de croiser **la loi de Hofstadter**.
+Tu n'as pas mal calculé - tu viens juste de croiser **la loi de Hofstadter**.
 
 > It always takes longer than you expect, even when you take into account Hofstadter's Law - Douglas Hofstadter, 1979
 
@@ -12,7 +12,7 @@ Bref : **Tout fout le camp.**.
 ## Pourquoi la loi de Hofstadter est si parlante
 
 Ce que la loi de Hofstadter révèle, au-delà de notre optimisme naturel, c'est **la nature même des systèmes complexes** : ils évoluent, s'entrelacent et produisent des effets émergents impossibles à anticiper entièrement.  
-Dans un système complexe — une équipe, un produit, un codebase, une organisation — **chaque tâche influence les autres**, et de petites frictions invisibles au départ deviennent, en cascade, des délais imprévus.
+Dans un système complexe - une équipe, un produit, un codebase, une organisation - **chaque tâche influence les autres**, et de petites frictions invisibles au départ deviennent, en cascade, des délais imprévus.
 
 Autrement dit, si tout prend plus de temps que prévu, ce n'est pas seulement parce que nous planifions mal :
 c'est parce que **nous planifions comme si le monde était simple**, alors que la réalité fonctionne comme un réseau dynamique, non linéaire, plein d'interactions et de rétroactions.
@@ -28,7 +28,7 @@ Cette loi vient de **Douglas Hofstadter**, chercheur américain en sciences cogn
 Hofstadter formulait cette idée dans le contexte de la programmation informatique et de la recherche en intelligence artificielle, où les projets prennent presque toujours plus de temps que prévu.  
 Mais sa portée dépasse largement la tech : elle décrit le biais de planification, étudié plus tard par **Daniel Kahneman** et **Amos Tversky**, qui explique pourquoi même les experts échouent à estimer correctement la durée d'une tâche.  
 
-Depuis, la loi de Hofstadter est devenue un mantra du management, du design, et de la recherche scientifique : toute tâche complexe prend plus de temps qu'on ne le croit — même quand on sait qu'elle prendra plus de temps.
+Depuis, la loi de Hofstadter est devenue un mantra du management, du design, et de la recherche scientifique : toute tâche complexe prend plus de temps qu'on ne le croit - même quand on sait qu'elle prendra plus de temps.
 
 En somme, la loi de Hofstadter nous invite à la modestie : **tout prend plus de temps, même la prise en compte de cette vérité**.  
 Accepter ce décalage, c'est déjà mieux planifier… et surtout, moins s'en vouloir.

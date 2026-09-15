@@ -1,13 +1,13 @@
 # Twyman
 
-Tu as déjà repéré une courbe spectaculaire, un chiffre qui "saute aux yeux", un résultat trop beau (ou trop bizarre) pour être vrai ? Un pic soudain dans des analytics, une performance hors norme, une métrique qui explose du jour au lendemain… et ton premier réflexe est de t'enthousiasmer — avant de réaliser que c'était juste un bug, un artefact, un mauvais import ?
+Tu as déjà repéré une courbe spectaculaire, un chiffre qui "saute aux yeux", un résultat trop beau (ou trop bizarre) pour être vrai ? Un pic soudain dans des analytics, une performance hors norme, une métrique qui explose du jour au lendemain… et ton premier réflexe est de t'enthousiasmer - avant de réaliser que c'était juste un bug, un artefact, un mauvais import ?
 
 Bienvenue dans **la loi de Twyman**.
 
 > Any figure that looks interesting or different is usually wrong - Tony Twyman
 
 Autrement dit :
-**Si un chiffre attire ton attention, commence par suspecter une erreur — les données spectaculaires sont souvent des illusions.**
+**Si un chiffre attire ton attention, commence par suspecter une erreur - les données spectaculaires sont souvent des illusions.**
 
 Mais nuance importante : Twyman ne dit pas que ces chiffres sont faux.
 Il dit qu'ils doivent être **vérifiés avant d'être interprétés**.
@@ -106,4 +106,4 @@ Ils chuchotent.
 ### Références
 
 * [Twyman's law by Ronny Kohavi](https://www.exp-platform.com/Documents/TwymansLaw.pdf)
-* [Wikipedia (EN) — Twyman's Law](https://en.wikipedia.org/wiki/Twyman%27s_law)
+* [Wikipedia (EN) - Twyman's Law](https://en.wikipedia.org/wiki/Twyman%27s_law)

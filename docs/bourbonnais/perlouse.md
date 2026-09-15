@@ -10,12 +10,12 @@ Une **perlouse**, c'est un pet, mais nommé avec assez de dentelle pour donner a
 
 ## On dit aussi
 
-pet, vent, caisse, louise
+Pet, vent, caisse, louise
 
 ## Pour aller plus loin
 
-* [Définition de « perlouse » — CNRTL](https://www.cnrtl.fr/lexicographie/perlouse){ target="_blank" }
-* [Définition de « perlouse » — Wiktionnaire](https://fr.wiktionary.org/wiki/perlouse){ target="_blank" }
-* [Définition de « perlouse » ou « perlouze » — Larousse](https://www.larousse.fr/dictionnaires/francais/perlouse/59672){ target="_blank" }
+* [Définition de « perlouse »CNRTL](https://www.cnrtl.fr/lexicographie/perlouse){ target="_blank" }
+* [Définition de « perlouse »Wiktionnaire](https://fr.wiktionary.org/wiki/perlouse){ target="_blank" }
+* [Définition de « perlouse » ou « perlouze »Larousse](https://www.larousse.fr/dictionnaires/francais/perlouse/59672){ target="_blank" }
 * [« Perlouse » dans Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/25538){ target="_blank" }
-* [Définition de « perlouse » — La langue française](https://www.lalanguefrancaise.com/dictionnaire/definition/perlouse){ target="_blank" }
+* [Définition de « perlouse »La langue française](https://www.lalanguefrancaise.com/dictionnaire/definition/perlouse){ target="_blank" }

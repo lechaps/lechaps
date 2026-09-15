@@ -10,4 +10,4 @@ Un **picorgnet**, c'est une plante, un buisson ou un arbuste tout hérissé d'é
 
 ## On dit aussi
 
-épineux, buisson d'épines, roncier
+Épineux, buisson d'épines, roncier

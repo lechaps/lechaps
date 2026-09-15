@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-mettre ses habits du dimanche, se mettre sur son trente-et-un, s'endimancher
+Mettre ses habits du dimanche, se mettre sur son trente-et-un, s'endimancher

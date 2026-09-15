@@ -1,6 +1,6 @@
 # Rapia
 
-Un **rapia**, c'est un radin, un rapiat, un de ces particuliers qui ouvrent leur porte-monnaie comme on entrouvre un tombeau égyptien : rarement, avec précaution, et dans la crainte qu'un trésor ne s'en échappe. Il compte les sous, surveille les parts, coupe les ficelles en quatre pour en conserver trois bouts et trouve toujours qu'on a mis trop de café dans la cafetière — surtout lorsque c'est lui qui régale. Le mot est dur, moqueur, mais précis : le rapia ne manque pas forcément d'argent ; il souffre seulement de le voir circuler, cette maladie-là ne figurant toujours pas au remboursement de la Sécurité sociale.
+Un **rapia**, c'est un radin, un rapiat, un de ces particuliers qui ouvrent leur porte-monnaie comme on entrouvre un tombeau égyptien : rarement, avec précaution, et dans la crainte qu'un trésor ne s'en échappe. Il compte les sous, surveille les parts, coupe les ficelles en quatre pour en conserver trois bouts et trouve toujours qu'on a mis trop de café dans la cafetière (surtout lorsque c'est lui qui régale). Le mot est dur, moqueur, mais précis : le rapia ne manque pas forcément d'argent ; il souffre seulement de le voir circuler, cette maladie-là ne figurant toujours pas au remboursement de la Sécurité sociale.
 
 ## Exemple
 
@@ -10,7 +10,7 @@ Un **rapia**, c'est un radin, un rapiat, un de ces particuliers qui ouvrent leur
 
 ## On dit aussi
 
-rapiat, radin, pingre, grippe-sou, avare
+Rapiat, radin, pingre, grippe-sou, avare
 
 ## Pour aller plus loin
 

@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-mâchonner, mâchouiller, matouiller, mastiquer
+Mâchonner, mâchouiller, matouiller, mastiquer
 
 ## Pour aller plus loin
 

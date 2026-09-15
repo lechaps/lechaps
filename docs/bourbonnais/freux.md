@@ -14,4 +14,5 @@ Cassant, fragile, traître, peu solide
 
 ## Pour aller plus loin
 
-* [Répertoire des dictionnaires et glossaires bourbonnais — Lexilogos](https://www.lexilogos.com/bourbonnais_dictionnaire.htm){ target="_blank" }
+* [Définition de « freux » - Académie française (autre sens : corbeau)](https://www.dictionnaire-academie.fr/article/A9F1649){ target="_blank" }
+* [Répertoire des dictionnaires et glossaires bourbonnais - Lexilogos](https://www.lexilogos.com/bourbonnais_dictionnaire.htm){ target="_blank" }

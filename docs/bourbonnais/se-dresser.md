@@ -1,6 +1,6 @@
 # Se dresser
 
-**Se dresser**, c'est prendre de grands airs, redresser le menton, bomber le torse et regarder le voisinage depuis une hauteur que la naissance, la fortune ou la simple réalité ne justifient pas toujours. Le geste est d'abord physique — on se tient plus droit, on se rengorge, on gagne soudain trois centimètres d'importance — mais l'orgueil suit aussitôt, installé sur les épaules comme un coq sur son tas de fumier. Il suffit parfois d'une carriole neuve, d'un petit avancement ou d'un veston du dimanche pour que l'homme se dresse au-dessus du commun ; la vanité, cette plante robuste, pousse avec fort peu d'engrais.
+**Se dresser**, c'est prendre de grands airs, redresser le menton, bomber le torse et regarder le voisinage depuis une hauteur que la naissance, la fortune ou la simple réalité ne justifient pas toujours. Le geste est d'abord physique : on se tient plus droit, on se rengorge, on gagne soudain trois centimètres d'importance. Mais l'orgueil suit aussitôt, installé sur les épaules comme un coq sur son tas de fumier. Il suffit parfois d'une carriole neuve, d'un petit avancement ou d'un veston du dimanche pour que l'homme se dresse au-dessus du commun ; la vanité, cette plante robuste, pousse avec fort peu d'engrais.
 
 ## Exemple
 
@@ -10,8 +10,8 @@
 
 ## On dit aussi
 
-se rengorger, prendre de grands airs, se hausser du col, bomber le torse
+Se rengorger, prendre de grands airs, se hausser du col, bomber le torse
 
 ## Pour aller plus loin
 
-* [Définition de « dresser » et expression « se dresser sur ses ergots » — Académie française](https://www.dictionnaire-academie.fr/article/A9D3251){ target="_blank" }
+* [Définition de « dresser » et expression « se dresser sur ses ergots » - Académie française](https://www.dictionnaire-academie.fr/article/A9D3251){ target="_blank" }

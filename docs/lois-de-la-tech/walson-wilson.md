@@ -1,7 +1,7 @@
 # Walson ou Wilson
 
 Tu t'es déjà retrouvé à suivre un expert les yeux fermés… pour finalement te dire : « J'aurais mieux fait de m'écouter.»  
-Bienvenue dans ce qu'on appelle parfois — selon les versions — la loi de Walson, ou la loi de Wilson.
+Bienvenue dans ce qu'on appelle parfois - selon les versions - la loi de Walson, ou la loi de Wilson.
 
 > The more you let people own the process, the more they care about the outcome.
 
@@ -34,7 +34,7 @@ Contrairement à d'autres lois bien documentées (comme celles de Pareto ou de M
 Elle circule en ligne depuis des années, parfois attribuée à un certain S. M. Walson, d'autres fois à un Robert Wilson, ou encore simplement reprise comme une maxime anonyme.  
 
 Mais aucune trace académique, scientifique ou historique sérieuse ne vient confirmer ces attributions.  
-Tout indique qu'il s'agit d'une citation apocryphe — une phrase populaire née sur Internet, reprise et transformée au fil du temps.  
+Tout indique qu'il s'agit d'une citation apocryphe - une phrase populaire née sur Internet, reprise et transformée au fil du temps.  
 
 Et c'est peut-être ça, finalement, le vrai message de cette « loi » : **Ne crois pas tout ce qu'on te dit. Vérifie par toi-même**.  
 
@@ -44,5 +44,5 @@ En somme, qu'elle soit de Walson, de Wilson, ou de personne en particulier, cett
 
 * [Canon of Life](https://canonish.com/working-smarter-with-walsons-law/){ target="_blank" }
 * [Wilson's Law – the key to success through intellectual growth.](https://trojanczyk.eu/wilsons-law/){ target="_blank" }
-* [Behavioural Psychology, Part II — The Only 5 Laws Of The World You Ever Need To Know](https://udaypb.medium.com/the-only-5-laws-of-the-world-you-ever-need-to-know-59c5ae7b4ab7){ target="_blank" }
+* [Behavioural Psychology, Part II - The Only 5 Laws Of The World You Ever Need To Know](https://udaypb.medium.com/the-only-5-laws-of-the-world-you-ever-need-to-know-59c5ae7b4ab7){ target="_blank" }
 * [5 top laws to swear by in life situations](https://medium.com/@sumanas27/5-top-laws-to-swear-by-in-life-situations-7722deea4daa){ target="_blank" }

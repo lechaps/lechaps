@@ -1,6 +1,6 @@
-# Marreau
+# Maro
 
-Le **marreau**, c'est le chat, celui de la maison, de la grange ou du voisin — distinction assez théorique, car un chat appartient surtout à l'endroit où la gamelle est pleine. Il chasse le loir dans le f'nau, dort sur les sacs de grain, disparaît trois jours sans laisser d'adresse et revient ensuite avec l'air offensé d'un propriétaire qui trouverait ses domestiques bien négligents.
+Le **maro**, c'est le chat, celui de la maison, de la grange ou du voisin, distinction assez théorique, car un chat appartient surtout à l'endroit où la gamelle est pleine. Il chasse le loir dans le f'nau, dort sur les sacs de grain, disparaît trois jours sans laisser d'adresse et revient ensuite avec l'air offensé d'un propriétaire qui trouverait ses domestiques bien négligents.
 
 ## Exemple
 
@@ -10,7 +10,7 @@ Le **marreau**, c'est le chat, celui de la maison, de la grange ou du voisin —
 
 ## On dit aussi
 
-chat, matou, minet
+Chat, matou, minet
 
 ## Souvenir
 
@@ -18,5 +18,5 @@ Je repense au jour où mon grand-père avait ouvert une boîte de Sheba, persuad
 
 ## Pour aller plus loin
 
-* [Attestation de « maro » au sens de matou dans le Cher, l'Indre et la Creuse — *La création métaphorique en français et en roman*](https://archive.org/stream/lacrationmtapho00goog/lacrationmtapho00goog_djvu.txt){ target="_blank" }
-* [Étude mentionnant « marot » parmi les noms dialectaux du chat — *Le français dialectal et marginal*](https://www.jstor.org/stable/44592777){ target="_blank" }
+* [Attestation de « maro » au sens de matou dans le Cher, l'Indre et la Creuse - *La création métaphorique en français et en roman*](https://archive.org/stream/lacrationmtapho00goog/lacrationmtapho00goog_djvu.txt){ target="_blank" }
+* [Étude mentionnant « marot » parmi les noms dialectaux du chat - *Le français dialectal et marginal*](https://www.jstor.org/stable/44592777){ target="_blank" }

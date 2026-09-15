@@ -1,6 +1,6 @@
 # Repeller
 
-**Repeller**, c'est tailler une haie, raccourcir les branches, couper tout ce qui dépasse et prend ses aises au-dessus du mur, dans le passage ou chez le voisin. On repelle avec le sécateur, la cisaille et cette conviction magnifique qu'il suffit d'enlever encore « un petit bout » — petit bout qui, de proche en proche, finit parfois par transformer la haie en rangée de manches à balai. Le mot sent la feuille coupée, le bois vert et les bras qui tirent après l'ouvrage.
+**Repeller**, c'est tailler une haie, raccourcir les branches, couper tout ce qui dépasse et prend ses aises au-dessus du mur, dans le passage ou chez le voisin. On repelle avec le sécateur, la cisaille et cette conviction magnifique qu'il suffit d'enlever encore « un petit bout ». Petit bout qui, de proche en proche, finit parfois par transformer la haie en rangée de manches à balai. Le mot sent la feuille coupée, le bois vert et les bras qui tirent après l'ouvrage.
 
 ## Exemple
 
@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-tailler, retailler, élaguer, rabattre
+Tailler, retailler, élaguer, rabattre

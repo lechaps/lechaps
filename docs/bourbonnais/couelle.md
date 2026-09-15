@@ -5,9 +5,13 @@ Mais la **couelle**, c'est aussi la petite pierre à aiguiser la faux, celle qu'
 
 ## Exemple
 
+### Ce qui calque
+
 *Enfile ta couelle, on va aux champs.*
 
 > « Veuillez chausser sans délai vos respectables embarcations de bois, car les travaux agricoles réclament notre présence dans les terres. »
+
+### Ce qui mord
 
 *Attends un peu, faut que j'passe la faux à la couelle.*
 
@@ -15,5 +19,5 @@ Mais la **couelle**, c'est aussi la petite pierre à aiguiser la faux, celle qu'
 
 ## On dit aussi
 
-1. Sabots, paire de sabots, 
+1. Sabots, paire de sabots
 2. Pierre à faux, pierre à aiguiser

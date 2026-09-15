@@ -14,5 +14,5 @@ Vaurien, mauvais sujet, canaille, fripouille, crapule
 
 ## Pour aller plus loin
 
-* [Patois bourbonnais — Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
-* [Denrée — DVLF](https://dvlf.uchicago.edu/mot/denr%C3%A9e){ target="_blank" }
+* [Patois bourbonnais - Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Denrée - DVLF](https://dvlf.uchicago.edu/mot/denr%C3%A9e){ target="_blank" }

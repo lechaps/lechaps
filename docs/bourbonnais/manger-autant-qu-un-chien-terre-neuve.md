@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-avoir un appétit d'ogre, manger comme quatre, avoir un estomac sans fond, évier
+Avoir un appétit d'ogre, manger comme quatre, avoir un estomac sans fond, évier
 
 ## Souvenir
 

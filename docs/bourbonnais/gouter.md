@@ -14,6 +14,7 @@ Déjeuner, repas de midi
 
 ## Pour aller plus loin
 
-* [« Goûter » au sens de « repas de midi » — Petit Recueil du parler de Diou](https://projetbabel.org/diou/g.htm){ target="_blank" }
+* [Définition de « goûter » - Académie française (collation de l’après-midi)](https://www.dictionnaire-academie.fr/article/A9G1113){ target="_blank" }
+* [« Goûter » au sens de « repas de midi » - Petit Recueil du parler de Diou](https://projetbabel.org/diou/g.htm){ target="_blank" }
 * [« Goûter » dans le glossaire bourbonnais de Diou](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
-* [« Le goûter, c'était le repas de midi » — Le Parler braizois](https://zerotrois.fr/braize/parler-braizois){ target="_blank" }
+* [« Le goûter, c'était le repas de midi » - Le Parler braizois](https://zerotrois.fr/braize/parler-braizois){ target="_blank" }

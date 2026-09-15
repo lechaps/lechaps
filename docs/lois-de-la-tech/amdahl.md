@@ -1,12 +1,12 @@
 # Amdahl
 
-Tu as déjà vécu ce moment frustrant où tu optimises tout — code, infra, process — et pourtant… les performances globales ne bougent presque pas ?
+Tu as déjà vécu ce moment frustrant où tu optimises tout - code, infra, process - et pourtant… les performances globales ne bougent presque pas ?
 
 Plus de serveurs, plus de threads, plus de budget. Mais toujours cette sensation de plafond invisible.
 
 Félicitations : tu viens de rencontrer la **loi d'Amdahl**.
 
-> The overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used — Gene M. Amdahl, 1967
+> The overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used - Gene M. Amdahl, 1967
 
 Autrement dit : **Tu peux optimiser autant que tu veux : si la partie critique reste lente, tout reste lent.**
 
@@ -16,7 +16,7 @@ Ou, encore plus brutal : **Ce qui ne scale pas limite tout le reste**.
 
 La loi d'Amdahl pose une vérité simple et dérangeante : **Le gain maximal d'un système est limité par sa part non parallélisable**.
 
-Même si 90 % de ton système est ultra-rapide et parallélisable, les 10 % restants — séquentiels, bloquants, dépendants — fixent le plafond.
+Même si 90 % de ton système est ultra-rapide et parallélisable, les 10 % restants - séquentiels, bloquants, dépendants - fixent le plafond.
 
 Et ce plafond est dur. Mathématique. Non négociable.
 
@@ -92,7 +92,7 @@ Elle t'oblige à poser les bonnes questions avant d'investir plus, plus gros, pl
 ### D'où vient la loi d'Amdahl
 
 Gene M. Amdahl (1922–2015), architecte informatique majeur chez IBM, formalise la loi en 1967 dans _Validity of the Single Processor Approach to Achieving Large-Scale Computing Capabilities_.
-Il y oppose la vision — alors dominante — qui pensait que "plus de processeurs = plus de performance".
+Il y oppose la vision - alors dominante - qui pensait que "plus de processeurs = plus de performance".
 Amdahl démontre au contraire que **le séquentiel est une limite absolue**, quelle que soit la quantité de ressources ajoutées.
 
 Une idée vieille de plus de 50 ans… et toujours aussi inconfortable.
@@ -102,9 +102,9 @@ Une idée vieille de plus de 50 ans… et toujours aussi inconfortable.
 La loi d'Amdahl rappelle une vérité rude : tant qu'une partie du système reste séquentielle, ajouter des ressources ne change presque rien.  
 Mais Amdahl n'est qu'un étage du raisonnement : le parallélisme peut aussi servir à agrandir le problème (Gustafson), et la réalité impose un coût de coordination souvent sous-estimé (Gunther).
 
-Pour relier frein, horizon et coût — et scaler sans se raconter d'histoires — il faut lire les trois lois ensemble.
+Pour relier frein, horizon et coût - et scaler sans se raconter d'histoires - il faut lire les trois lois ensemble.
 
-**[Lire la suite : Amdahl × Gustafson × Gunther — Scaling](../humanops/logiciel.md)**
+**[Lire la suite : Amdahl × Gustafson × Gunther - Scaling](../humanops/logiciel.md)**
 
 ### Références
 

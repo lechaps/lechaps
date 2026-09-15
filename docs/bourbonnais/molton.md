@@ -10,9 +10,9 @@ Le **molton**, c'est le mollet, cette brave pièce de chair coincée entre le ge
 
 ## On dit aussi
 
-mollet
+Mollet
 
 ## Pour aller plus loin
 
-* [Définition de « mollet » — CNRTL](https://www.cnrtl.fr/definition/mollet){ target="_blank" }
-* [Définition de « mollet » — Wiktionnaire](https://fr.wiktionary.org/wiki/mollet){ target="_blank" }
+* [Définition de « mollet »CNRTL](https://www.cnrtl.fr/definition/mollet){ target="_blank" }
+* [Définition de « mollet »Wiktionnaire](https://fr.wiktionary.org/wiki/mollet){ target="_blank" }

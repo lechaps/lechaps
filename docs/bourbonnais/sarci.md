@@ -1,6 +1,6 @@
 # Sarci
 
-**Sarci**, c'est rapiécer, reprendre un trou avec un morceau d'étoffe, du fil solide et cette philosophie qui refuse d'enterrer un pantalon pour une simple blessure au genou. On sarcit les chaussettes, les chemises, les tabliers, tout ce que l'usure avait commencé à grignoter mais qui peut encore rendre service. La reprise n'était pas toujours invisible — parfois même elle se voit comme le nez au milieu de la figure — mais elle tient, et dans les maisons où l'on comte davantage sur l'aiguille que sur le porte-monnaie, **tenir** était déjà une forme d'élégance.
+**Sarci**, c'est rapiécer, reprendre un trou avec un morceau d'étoffe, du fil solide et cette philosophie qui refuse d'enterrer un pantalon pour une simple blessure au genou. On sarcit les chaussettes, les chemises, les tabliers, tout ce que l'usure avait commencé à grignoter mais qui peut encore rendre service. La reprise n'était pas toujours invisible (parfois même elle se voit comme le nez au milieu de la figure) mais elle tient, et dans les maisons où l'on comte davantage sur l'aiguille que sur le porte-monnaie, **tenir** était déjà une forme d'élégance.
 
 ## Exemple
 
@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-sarciner, rapiécer, repriser, raccommoder
+Sarciner, rapiécer, repriser, raccommoder

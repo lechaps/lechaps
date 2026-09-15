@@ -1,6 +1,6 @@
 # Tarbouif
 
-Le **tarbouif**, c'est le nez, surtout lorsqu'il s'avance dans l'existence avec l'assurance d'un éperon de cuirassé. Un nez franc, un nez sonore, un nez qui entre dans la pièce quelques secondes avant son propriétaire et qui, en cas de bagarre, peut même servir de pare-chocs — fonction peu glorieuse, certes, mais la République ne décore pas assez ses organes dévoués.
+Le **tarbouif**, c'est le nez, surtout lorsqu'il s'avance dans l'existence avec l'assurance d'un éperon de cuirassé. Un nez franc, un nez sonore, un nez qui entre dans la pièce quelques secondes avant son propriétaire et qui, en cas de bagarre, peut même servir de pare-chocs. Fonction peu glorieuse, certes, mais la République ne décore pas assez ses organes dévoués.
 
 ## Exemple
 

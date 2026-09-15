@@ -7,3 +7,7 @@ La **pinasse**, c'est cette semelle de paille qu'on glissait au fond des sabots 
 *Ma chinasse a chié dans ma pinasse.*
 
 > « Ma chienne ayant jugé opportun de souiller la garniture végétale de mon sabot, je me trouve désormais privé simultanément de chaussure, de confort et de toute estime raisonnable pour le règne animal. »
+
+## Pour aller plus loin
+
+* [Définition de « pinasse » - Académie française (autre sens : embarcation)](https://www.dictionnaire-academie.fr/article/A9P2429){ target="_blank" }

@@ -14,7 +14,7 @@ Faire le ménage, faire du tri, faire place nette, grand nettoyage, remuer la ma
 
 ## Pour aller plus loin
 
-* [Définition de « revari » — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/r.htm){ target="_blank" }
-* [Petit recueil du parler de Diou — Projet Babel](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
-* [Grammaire et dictionnaire du patois bourbonnais — Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
-* [Attestation de « faire le revari » — Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1P0040.html){ target="_blank" }
+* [Définition de « revari » - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/r.htm){ target="_blank" }
+* [Petit recueil du parler de Diou - Projet Babel](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Grammaire et dictionnaire du patois bourbonnais - Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
+* [Attestation de « faire le revari » - Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1P0040.html){ target="_blank" }

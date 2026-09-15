@@ -49,7 +49,7 @@ Si c'est exploitable, c'est utilisé.
 Si c'est utilisé, **c'est une promesse implicite**.
 
 La loi de Hyrum ne dit pas que les utilisateurs ont raison.  
-Elle dit qu'ils existent — et qu'ils s'adaptent.
+Elle dit qu'ils existent - et qu'ils s'adaptent.
 
 ### 2. Chaque détail est un engagement potentiel
 
@@ -86,7 +86,7 @@ La loi de Hyrum est attribuée à **Hyrum Wright**, ingénieur chez Google. Elle
 
 Chez Google, où les systèmes comptent des milliards d'utilisateurs et des millions de dépendances internes, cette loi n'est pas théorique : **elle est vécue au quotidien**.
 
-Ils ont appris — parfois dans la douleur — qu'un changement "raisonnable" pouvait casser des usages invisibles, mais critiques. Et que la seule vraie question n'est pas *"avons-nous promis ?"*. 
+Ils ont appris - parfois dans la douleur - qu'un changement "raisonnable" pouvait casser des usages invisibles, mais critiques. Et que la seule vraie question n'est pas *"avons-nous promis ?"*. 
 Mais *"est-ce observable ?"*
 
 ## La leçon derrière la loi
@@ -109,9 +109,9 @@ En somme, la loi de Hyrum nous enseigne ceci :
 
 Pas seulement pour les systèmes. Mais pour tout ce qui crée des dépendances humaines.
 
-Car quand quelqu'un s'appuie sur toi — même sans contrat explicite — tu fais déjà partie de son architecture.
+Car quand quelqu'un s'appuie sur toi - même sans contrat explicite - tu fais déjà partie de son architecture.
 
 ### Références
 
 * Hyrum Wright, [Hyrum's Law - citation originale](https://www.hyrumslaw.com/){ target="_blank" }
-* Titus Winters, Tom Manshreck, Hyrum Wright — [Software Engineering at Google](https://www.amazon.fr/Software-Engineering-Google-Lessons-Programming/dp/1492082791){ target="_blank" }
+* Titus Winters, Tom Manshreck, Hyrum Wright - [Software Engineering at Google](https://www.amazon.fr/Software-Engineering-Google-Lessons-Programming/dp/1492082791){ target="_blank" }

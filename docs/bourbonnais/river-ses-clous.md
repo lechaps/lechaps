@@ -10,10 +10,10 @@
 
 ## On dit aussi
 
-river son clou, clouer le bec, rabattre le caquet, remettre à sa place
+River son clou, clouer le bec, rabattre le caquet, remettre à sa place
 
 ## Pour aller plus loin
 
-* [Définition de « river » — Académie française](https://www.dictionnaire-academie.fr/article/A9R2734){ target="_blank" }
-* [Synonymes de « river son clou » — CNRTL](https://www.cnrtl.fr/synonymie/river%20son%20clou/verbe){ target="_blank" }
-* [Définition de « river son clou » — Wiktionnaire](https://fr.wiktionary.org/wiki/river_son_clou){ target="_blank" }
+* [Définition de « river » - Académie française](https://www.dictionnaire-academie.fr/article/A9R2734){ target="_blank" }
+* [Synonymes de « river son clou » - CNRTL](https://www.cnrtl.fr/synonymie/river%20son%20clou/verbe){ target="_blank" }
+* [Définition de « river son clou » - Wiktionnaire](https://fr.wiktionary.org/wiki/river_son_clou){ target="_blank" }

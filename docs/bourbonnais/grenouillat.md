@@ -14,4 +14,4 @@ Mare, flaque d'eau, [gouillat](./gouillat.md), trou d'eau
 
 ## Pour aller plus loin
 
-* [Grenouillat — Patois bourbonnais de Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }
+* [Grenouillat - Patois bourbonnais de Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }

@@ -5,10 +5,10 @@ Des jeux vidéo, des traitements d'images, des outils 3D, des applications de bu
 Si c'est possible de le faire en JavaScript, quelqu'un finira par le faire.
 Bienvenue dans **la loi d'Atwood**.
 
-> Any application that can be written in JavaScript, will eventually be written in JavaScript — Jeff Atwood, 2007
+> Any application that can be written in JavaScript, will eventually be written in JavaScript - Jeff Atwood, 2007
 
 Autrement dit : **si quelque chose peut tourner dans un navigateur, tôt ou tard, ça tournera dans un navigateur**.
-Pas forcément parce que c'est la meilleure solution — mais parce que c'est possible.
+Pas forcément parce que c'est la meilleure solution - mais parce que c'est possible.
 
 ## Pourquoi la loi d'Atwood est si parlante
 
@@ -17,7 +17,7 @@ Pas forcément parce que c'est la meilleure solution — mais parce que c'est po
 À l'origine, JavaScript n'était qu'un petit langage de script pour animer des pages web.
 Aujourd'hui, il est partout : serveurs, applications desktop, jeux, IA, outils 3D, objets connectés.
 
-Ce n'est pas parce qu'il est parfait pour tout — mais parce qu'il est **disponible partout**, par défaut.
+Ce n'est pas parce qu'il est parfait pour tout - mais parce qu'il est **disponible partout**, par défaut.
 Le navigateur est devenu une plateforme universelle, et JavaScript son langage natif.
 
 ### **Parce que c'est pratique (souvent)**
@@ -40,7 +40,7 @@ Résultat : on a vu apparaître :
 * des émulateurs, des IDE, des moteurs 3D,
 * et même des expériences de calcul quantique simulé.
 
-C'est parfois absurde, parfois brillant — souvent les deux à la fois.
+C'est parfois absurde, parfois brillant - souvent les deux à la fois.
 Mais c'est surtout **très représentatif de l'esprit du web**.
 
 ## Mais la loi d'Atwood a aussi un côté sombre
@@ -61,7 +61,7 @@ La vraie question n'est donc pas :
 > mais :
 > *"Est-ce qu'on devrait le faire en JavaScript ?"*
 
-Et la loi d'Atwood nous rappelle que, très souvent, la réponse choisie par l'industrie est "oui" — même quand le débat mérite d'exister.
+Et la loi d'Atwood nous rappelle que, très souvent, la réponse choisie par l'industrie est "oui" - même quand le débat mérite d'exister.
 
 ## D'où vient la loi d'Atwood ?
 
@@ -71,7 +71,7 @@ Cette loi vient de **Jeff Atwood**, **développeur, blogueur et cofondateur de S
 Mais la prophétie s'est réalisée.
 
 Avec l'essor de **Node.js**, des frameworks front-end, puis des runtimes hybrides, JavaScript est devenu un **langage de convergence**.
-Non pas parce qu'il est le meilleur partout — mais parce qu'il est **le point de rencontre** entre le web, le desktop et le serveur.
+Non pas parce qu'il est le meilleur partout - mais parce qu'il est **le point de rencontre** entre le web, le desktop et le serveur.
 
 ## Et aujourd'hui ?
 
@@ -91,7 +91,7 @@ mais celle du **navigateur comme environnement universel**.
 La **loi d'Atwood**, c'est un mélange d'humour et de lucidité.
 
 Elle ne dit pas que JavaScript est la meilleure solution à tout.
-Elle dit que **là où le web va, JavaScript suit — ou ouvre la voie**.
+Elle dit que **là où le web va, JavaScript suit - ou ouvre la voie**.
 
 Et elle nous rappelle surtout une chose essentielle en informatique :
 
@@ -104,9 +104,9 @@ Quand une application doit réduire la friction (installation, compatibilité, m
 
 Et cette migration n'arrive pas seule : elle est souvent précédée par un logiciel qui **grossit**, puis qui **devient programmable**.
 
-**[Lire la suite : Zawinski × Greenspun × Atwood — Logiciel](../humanops/logiciel.md)**
+**[Lire la suite : Zawinski × Greenspun × Atwood - Logiciel](../humanops/logiciel.md)**
 
 ### Références
 
-* [Jeff Atwood — *Any Application That Can Be Written in JavaScript, Will Eventually Be Written in JavaScript* (Coding Horror, 2007)](https://blog.codinghorror.com/the-principle-of-least-power/){ target="_blank" }
+* [Jeff Atwood - *Any Application That Can Be Written in JavaScript, Will Eventually Be Written in JavaScript* (Coding Horror, 2007)](https://blog.codinghorror.com/the-principle-of-least-power/){ target="_blank" }
 * [Wikipedia – *Atwood's Law*](https://en.wikipedia.org/wiki/Atwood%27s_law){ target="_blank" }

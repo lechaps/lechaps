@@ -1,4 +1,4 @@
-# Client
+# Client(e)
 
 Le **client**, à la campagne, ce n'est pas forcément celui qui paye. Non. C'était surtout celui qui arrive précisément au moment où vous avez les deux mains prises, la brouette en travers du chemin ou le cochon à moitié découpé. Le type qui vient « juste demander un renseignement », ce qui annonce généralement vingt bonnes minutes perdues et parfois le prêt d'un outil qu'on ne reverra pas avant la Toussaint suivante. Le mot se dit avec un mélange d'ironie, de fatalité et cette politesse grinçante des gens occupés depuis sept heures du matin.
 

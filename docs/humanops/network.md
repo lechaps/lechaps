@@ -1,7 +1,7 @@
 # Réseaux : Sarnoff x Metcalfe x Reed x Beckstrom
 
 Pourquoi **Facebook**, **TikTok**, **Bitcoin**, **Reddit** ou même **Internet** valent-ils autant ?
-Pas seulement parce qu'ils existent — mais parce qu'ils **connectent**, **font interagir** et **font collaborer** des millions de personnes.
+Pas seulement parce qu'ils existent - mais parce qu'ils **connectent**, **font interagir** et **font collaborer** des millions de personnes.
 
 Depuis un siècle, plusieurs chercheurs, ingénieurs et économistes ont tenté de décrire **comment la valeur d'un réseau grandit**.
 Chacun à leur époque, ils ont posé une "loi" pour expliquer ce phénomène.
@@ -35,7 +35,7 @@ Un groupe de passionnés, une équipe projet, un fandom, une DAO (Decentralized 
 > **La valeur d'un réseau est la somme des bénéfices de toutes les transactions qu'il permet**.
 
 **Ce n'est pas le réseau qui vaut, c'est ce qu'on y fait** : Rod Beckstrom, entrepreneur et théoricien du Web, ramène tout à l'essentiel : la valeur réelle d'un réseau ne vient **ni du nombre d'utilisateurs, ni des liens, ni des groupes**… mais **de ce qui s'y passe**.  
-Chaque interaction — un échange, une transaction, un transfert de données, une conversation — ajoute une valeur mesurable.
+Chaque interaction - un échange, une transaction, un transfert de données, une conversation - ajoute une valeur mesurable.
 
 ## En somme
 
@@ -50,10 +50,10 @@ Ces quatre lois dessinent **l'évolution de la valeur dans l'ère numérique** :
 
 Autrement dit, **du message à la valeur partagée** : 
 
-> **Sarnoff** comptait les spectateurs 🎙️ — la diffusion.
-> **Metcalfe** comptait les connexions 🔗 — la connexion.  
-> **Reed** comptait les communautés 👥 — la collaboration.  
-> **Beckstrom** compte ce qui en émerge 💡 — la création.
+> **Sarnoff** comptait les spectateurs 🎙️ - la diffusion.
+> **Metcalfe** comptait les connexions 🔗 - la connexion.  
+> **Reed** comptait les communautés 👥 - la collaboration.  
+> **Beckstrom** compte ce qui en émerge 💡 - la création.
 
 Chaque étape nous a rapprochés d'un modèle plus **humain, interactif et participatif**. D'un monde où la puissance venait du micro, à un monde où elle vient **des liens, des communautés et des échanges réels**.  
 Chaque étape rapproche la valeur du **vivant** : moins liée à la taille du réseau, plus ancrée dans **les interactions et l'usage réel**.  

@@ -25,6 +25,6 @@ Il disait ça avec un petit sourire en coin, comme une vérité qu'on ne discute
 
 ## Pour aller plus loin
 
-* [Définition de l'Académie française — égaler](https://www.dictionnaire-academie.fr/article/A9E0532){ target="_blank" }
-* [Définition du CNRTL — égaler](https://www.cnrtl.fr/definition/%C3%A9galer){ target="_blank" }
-* [Définition du Wiktionnaire — égaler](https://fr.wiktionary.org/wiki/%C3%A9galer){ target="_blank" }
+* [Définition de l'Académie française - égaler](https://www.dictionnaire-academie.fr/article/A9E0532){ target="_blank" }
+* [Définition du CNRTL - égaler](https://www.cnrtl.fr/definition/%C3%A9galer){ target="_blank" }
+* [Définition du Wiktionnaire - égaler](https://fr.wiktionary.org/wiki/%C3%A9galer){ target="_blank" }

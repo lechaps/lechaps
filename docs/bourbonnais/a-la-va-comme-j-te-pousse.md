@@ -14,4 +14,5 @@ Faire quelque chose sans trop regarder si ça tient droit, un peu dans l'urgence
 
 ## Pour aller plus loin
 
+* [Expression « à la va comme je te pousse » - Académie française, article « pousser »](https://www.dictionnaire-academie.fr/article/A9P3814){ target="_blank" }
 * [Définition d'Expressio](https://www.expressio.fr/expressions/a-la-va-comme-je-te-pousse){ target="_blank" }

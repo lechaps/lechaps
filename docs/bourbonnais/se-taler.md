@@ -1,6 +1,6 @@
 # Se taler
 
-**Se taler**, c'est d'abord s'abîmer sous l'effet d'un choc, d'une pression ou d'une chute — comme une pomme tombée du panier, une poire écrasée sous ses voisines ou une tomate qu'on a rouchée sans ménagement au fond du cageot. Le fruit reste entier, oui, mais sous la piau la chair a pris un coup, elle brunit, elle mollit, elle garde la marque : bref, il est **talé**, et il faudra le manger vite avant que la République entière ne s'effondre autour du compotier. Par extension bourbonnaise, une personne peut elle aussi se taler après un accident, une maladie ou un grand malheur : elle se relève, elle continue, mais quelque chose demeure meurtri, durablement cabossé dans le corps ou dans l'âme. Le mot ne dit pas seulement la blessure ; il dit ce qui ne revient jamais tout à fait comme avant.
+**Se taler**, c'est d'abord s'abîmer sous l'effet d'un choc, d'une pression ou d'une chute : comme une pomme tombée du panier, une poire écrasée sous ses voisines ou une tomate qu'on a rouchée sans ménagement au fond du cageot. Le fruit reste entier, oui, mais sous la piau la chair a pris un coup, elle brunit, elle mollit, elle garde la marque : bref, il est **talé**, et il faudra le manger vite avant que la République entière ne s'effondre autour du compotier. Par extension bourbonnaise, une personne peut elle aussi se taler après un accident, une maladie ou un grand malheur : elle se relève, elle continue, mais quelque chose demeure meurtri, durablement cabossé dans le corps ou dans l'âme. Le mot ne dit pas seulement la blessure ; il dit ce qui ne revient jamais tout à fait comme avant.
 
 ## Exemple
 
@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-taler, être talé, meurtrir, cotir, abîmer
+Taler, être talé, meurtrir, cotir, abîmer
 
 ## Souvenir
 

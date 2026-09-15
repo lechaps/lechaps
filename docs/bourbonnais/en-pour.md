@@ -14,5 +14,5 @@ En échange, en retour, en remerciement, pour la peine
 
 ## Pour aller plus loin
 
-* [En pour — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/p.htm){ target="_blank" }
-* [Expressions patoisantes — Commune de Saint-Ennemond](https://www.saint-ennemond.fr/nouv/expressions-patoisantes/){ target="_blank" }
+* [En pour - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/p.htm){ target="_blank" }
+* [Expressions patoisantes - Commune de Saint-Ennemond](https://www.saint-ennemond.fr/nouv/expressions-patoisantes/){ target="_blank" }

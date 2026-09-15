@@ -5,13 +5,13 @@ Bienvenue dans **la loi de Little**.
 
 > The average number of items in a system equals the average arrival rate multiplied by the average time an item spends in the system. (L = λW) - John D. C. Little, 1961
 
-Autrement dit : **Si les éléments entrent plus vite qu'ils ne sortent, ça s'accumule — toujours, mathématiquement, inévitablement**.
+Autrement dit : **Si les éléments entrent plus vite qu'ils ne sortent, ça s'accumule - toujours, mathématiquement, inévitablement**.
 
 Bref : **Ralentis le flux, et tout s'empile**.
 
 ## Pourquoi la loi de Little est si parlante
 
-Parce qu'elle s'applique partout où il y a du flux — c'est-à-dire absolument partout :
+Parce qu'elle s'applique partout où il y a du flux - c'est-à-dire absolument partout :
 
 * **Dans une file d'attente** : plus de clients arrivent que de commandes servies → la queue s'allonge.
 * **Dans ton agenda** : trop de tâches commencées → tout se bloque, rien n'avance.
@@ -20,7 +20,7 @@ Parce qu'elle s'applique partout où il y a du flux — c'est-à-dire absolument
 
 Dans tous ces cas, le résultat est le même : **Le système se remplit, le temps de cycle augmente, et l'expérience se dégrade.**
 
-Et ce que la loi de Little mesure, c'est ton **WIP — Work In Progress, ton "en-cours".
+Et ce que la loi de Little mesure, c'est ton **WIP - Work In Progress, ton "en-cours".
 Plus ton WIP est élevé, plus tout ralentit**.
 
 La loi de Little dit une chose simple : Le flux dépend du nombre d'éléments en cours, de ce qui entre, et du temps que chaque élément passe dans le système.
@@ -57,7 +57,7 @@ Sa force ?
 
 La loi de Little nous apprend une chose essentielle : **Tu ne gères pas des tâches, tu gères des flux.**
 
-Si tu veux qu'un système — une équipe, un agenda, un pipeline — respire et crée de la valeur :
+Si tu veux qu'un système - une équipe, un agenda, un pipeline - respire et crée de la valeur :
 
 * Réduis l'afflux.
 * Raccourcis le séjour.

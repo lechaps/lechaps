@@ -14,4 +14,5 @@ Tenir en place, patienter, rester tranquille, se tenir coi, durer dans sa peau
 
 ## Pour aller plus loin
 
-* [Dictionnaire bourbonnais — Projet Babel](https://projetbabel.org/diou/d.htm){ target="_blank" }
+* [Définition de « durer » - Académie française (sens général du verbe)](https://www.dictionnaire-academie.fr/article/A9D3385){ target="_blank" }
+* [Dictionnaire bourbonnais - Projet Babel](https://projetbabel.org/diou/d.htm){ target="_blank" }

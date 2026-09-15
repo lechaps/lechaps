@@ -16,7 +16,7 @@ Bienvenue face à **la loi de Gall**.
 
 > A complex system that works is invariably found to have evolved from a simple system that worked.  
 > A complex system designed from scratch never works and cannot be made to work.  
-> You have to start over with a working simple system. — John Gall, 1975
+> You have to start over with a working simple system. - John Gall, 1975
 
 Autrement dit :
 **la complexité qui fonctionne est toujours une complexité qui a évolué**.
@@ -29,7 +29,7 @@ Quand il échoue, il ne se corrige pas.
 ## Ce que dit vraiment la loi de Gall
 
 La loi de Gall ne dit pas que la complexité est mauvaise.
-Elle dit quelque chose de plus précis — et plus inconfortable :
+Elle dit quelque chose de plus précis - et plus inconfortable :
 
 > **La complexité ne peut pas être conçue correctement d'avance.
 > Elle doit émerger.**
@@ -132,7 +132,7 @@ Elle nous rappelle que :
 Si ta version simple ne fonctionne pas, **ta version complexe a très peu de chances de fonctionner durablement**.
 
 Commence par faire fonctionner quelque chose.
-Le reste viendra — ou ne devra peut-être jamais venir.
+Le reste viendra - ou ne devra peut-être jamais venir.
 
 ## D'où vient la loi de Gall
 
@@ -157,7 +157,7 @@ Revenir à un état "plus sain" comme si rien ne s'était passé ?
 
 C'est là qu'intervient une autre loi fondamentale, qui rappelle que **les trajectoires comptent autant que les états**.
 
-**[Lire la suite : Complexité — Gall × Dollo](../humanops/complexite.md)**
+**[Lire la suite : Complexité - Gall × Dollo](../humanops/complexite.md)**
 
 ### Références
 

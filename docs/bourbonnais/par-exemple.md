@@ -10,10 +10,11 @@
 
 ## On dit aussi
 
-toutefois, cependant, néanmoins, quand même
+Toutefois, cependant, néanmoins, quand même
 
 ## Pour aller plus loin
 
-* [« Par exemple » comme synonyme de « cependant » — CNRTL](https://www.cnrtl.fr/synonymie/cependant/adverbe){ target="_blank" }
-* [Emploi familier de « par exemple » au sens de « mais, toutefois » — Le Robert](https://dictionnaire.lerobert.com/definition/exemple){ target="_blank" }
-* [« Par exemple » au sens de « cependant, par contre » — Wiktionnaire](https://fr.wiktionary.org/wiki/par_exemple){ target="_blank" }
+* [Locution « par exemple »Académie française, article « exemple »](https://www.dictionnaire-academie.fr/article/A9E3312){ target="_blank" }
+* [« Par exemple » comme synonyme de « cependant »CNRTL](https://www.cnrtl.fr/synonymie/cependant/adverbe){ target="_blank" }
+* [Emploi familier de « par exemple » au sens de « mais, toutefois »Le Robert](https://dictionnaire.lerobert.com/definition/exemple){ target="_blank" }
+* [« Par exemple » au sens de « cependant, par contre »Wiktionnaire](https://fr.wiktionary.org/wiki/par_exemple){ target="_blank" }

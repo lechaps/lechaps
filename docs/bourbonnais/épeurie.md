@@ -14,4 +14,4 @@ L'**épeurie**, ou **epourie**, c'est l'**épouvantail**, ce grand maigre plant�
 
 ## Pour aller plus loin
 
-* [Formes apparentées « époiriot », « epouquiot » et « épouri » — Bulletin de la Société des sciences historiques et naturelles de l'Yonne](https://archive.org/stream/BulletinDeLaSocieteDesSciencesYonne36/Bulletin_de_la_Societe_des_sciences_Yonne_36_djvu.txt){ target="_blank" }
+* [Formes apparentées « époiriot », « epouquiot » et « épouri » - Bulletin de la Société des sciences historiques et naturelles de l'Yonne](https://archive.org/stream/BulletinDeLaSocieteDesSciencesYonne36/Bulletin_de_la_Societe_des_sciences_Yonne_36_djvu.txt){ target="_blank" }

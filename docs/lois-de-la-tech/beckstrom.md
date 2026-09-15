@@ -6,7 +6,7 @@ Bienvenue dans **la loi de Beckstrom**.
 
 > The value of a network equals the net value added to each user's transactions conducted through that network, summed over all users - Rod Beckstrom
 
-Autrement dit : **Un réseau ne vaut pas par son existence, mais par ce qu'il permet vraiment d'échanger — valeur, info, contacts, business. Plus les transactions créent de la valeur, plus le réseau lui-même en prend**.
+Autrement dit : **Un réseau ne vaut pas par son existence, mais par ce qu'il permet vraiment d'échanger - valeur, info, contacts, business. Plus les transactions créent de la valeur, plus le réseau lui-même en prend**.
 
 Bref : **Un réseau vaut autant que ce qu'il rend possible**.
 
@@ -30,14 +30,14 @@ Trois leviers pour faire croître un réseau :
 2. Valoriser les contributeurs (partage, entraide, mises en relation)
 3. Réduire la friction des transactions (infos, intros, business)
 
-**On ne construit pas un réseau — on construit les conditions pour que la valeur y circule.**
+**On ne construit pas un réseau - on construit les conditions pour que la valeur y circule.**
 
 ## D'où vient la loi de Beckstrom ?
 
 Cette loi vient de **Rod Beckstrom**, **entrepreneur, écrivain et ancien directeur de l'ICANN (Internet Corporation for Assigned Names and Numbers)**.  
 Formulée au début des années **2000**, elle est née d'une réflexion sur **l'économie des réseaux** et la **valeur distribuée** dans les systèmes connectés.
 
-Il développe cette idée dans son livre _The Starfish and the Spider (2006)_, où il explore la puissance des organisations décentralisées — ces structures capables de croître sans centre, comme Wikipédia ou Linux.  
+Il développe cette idée dans son livre _The Starfish and the Spider (2006)_, où il explore la puissance des organisations décentralisées - ces structures capables de croître sans centre, comme Wikipédia ou Linux.  
 
 La loi de Beckstrom est aujourd'hui **une base conceptuelle** pour comprendre la **valeur des écosystèmes numériques**, des **réseaux décentralisés** et même des **cryptomonnaies**, où la valeur émerge des interactions entre les utilisateurs.
 
@@ -47,12 +47,12 @@ Un réseau vivant n'est pas celui qui compte le plus de nœuds, mais celui où *
 
 ## Et si la taille du réseau ne suffisait plus à expliquer sa valeur ?
 
-Beckstrom renverse la fascination pour les grands nombres : un réseau ne vaut pas par ses utilisateurs, ni même par ses liens — mais par **ce qu'il permet réellement d'échanger**.  
+Beckstrom renverse la fascination pour les grands nombres : un réseau ne vaut pas par ses utilisateurs, ni même par ses liens - mais par **ce qu'il permet réellement d'échanger**.  
 C'est la dernière étape d'une évolution : de l'audience (Sarnoff) à l'interconnexion (Metcalfe), puis aux communautés (Reed), jusqu'à la valeur d'usage (Beckstrom).
 
-Pour voir comment ces lois s'emboîtent — et comment elles racontent le passage du public à la participation — il faut les mettre côte à côte.
+Pour voir comment ces lois s'emboîtent - et comment elles racontent le passage du public à la participation - il faut les mettre côte à côte.
 
-**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom — Réseaux](../humanops/network.md)**
+**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom - Réseaux](../humanops/network.md)**
 
 ### Références
 

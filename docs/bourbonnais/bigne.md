@@ -6,9 +6,13 @@ Et puis la bigne, c'est aussi le hanneton. Cette espèce de gros imbécile volan
 
 ## Exemple
 
+### Ce qui ce mérite
+
 *Fais encore l'malin et tu vas ramasser une bigne qui va t'ranger les idées.*
 
 > « Je vous recommande vivement de reconsidérer votre attitude bravache avant qu'une intervention corrective d'ordre facial ne vienne rétablir une forme de discipline intellectuelle. »
+
+### Ce qui est mérité
 
 *Lui ? Il est fin comme le cul d'une bigne !*
 

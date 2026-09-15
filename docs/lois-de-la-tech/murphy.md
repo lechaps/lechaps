@@ -6,7 +6,7 @@ Bienvenue dans **la loi de Murphy**.
 
 > If there's any way to do it wrong, he will - Edward Aloysius Murphy Jr., 1949
 
-Autrement dit : **le pire scénario n'est pas une surprise — c'est une probabilité**.
+Autrement dit : **le pire scénario n'est pas une surprise - c'est une probabilité**.
 
 ## Pourquoi la loi de Murphy est si parlante
 
@@ -17,7 +17,7 @@ Autrement dit : **le pire scénario n'est pas une surprise — c'est une probabi
 
 C'est ce qu'on appelle **l'effet démo**, ou **l'effet Bonaldi** (du nom du journaliste dont les expériences « ratées » en direct étaient devenues légendaires). En réalité, ce n'est pas de la malchance : **c'est juste la statistique qui s'invite quand tu ne peux plus te rater**.  
 
-Mais la loi de Murphy n'est pas un hymne au pessimisme — **c'est un rappel à la rigueur**.
+Mais la loi de Murphy n'est pas un hymne au pessimisme - **c'est un rappel à la rigueur**.
 Elle dit : « si quelque chose peut mal tourner, prépare-toi pour que ce ne soit pas le cas.»
 
 ## D'où vient la loi de Murphy ?
@@ -29,7 +29,7 @@ Lors d'un essai, plusieurs capteurs sont montés à l'envers. Les données devie
 > "If there's any way to do it wrong, he will."
 > (*S'il existe une façon de faire quelque chose de travers, il la trouvera.*)
 
-À ce moment-là, il ne s'agit ni d'une loi, ni d'une maxime philosophique. C'est une **constatation d'ingénieur**, adressée non pas à la malchance, mais à la conception du système lui-même. Le problème n'est pas l'erreur humaine — **c'est d'avoir laissé une possibilité d'erreur**.
+À ce moment-là, il ne s'agit ni d'une loi, ni d'une maxime philosophique. C'est une **constatation d'ingénieur**, adressée non pas à la malchance, mais à la conception du système lui-même. Le problème n'est pas l'erreur humaine - **c'est d'avoir laissé une possibilité d'erreur**.
 
 La phrase circule dans l'équipe, puis est reformulée, généralisée, et finit par devenir ce que l'on appellera bientôt la **loi de Murphy** :
 
@@ -51,13 +51,13 @@ Et c'est précisément pour cela qu'elle reste, aujourd'hui encore, un pilier de
 
 La loi de Murphy nous apprend à penser l'échec comme une **hypothèse normale** : si quelque chose peut mal tourner, cela arrivera.
 
-Mais une autre loi pousse la logique plus loin — et plus douloureusement : elle explique quand cet échec se manifestera.
+Mais une autre loi pousse la logique plus loin - et plus douloureusement : elle explique quand cet échec se manifestera.
 
 Pas pendant les tests.  
 Pas quand tout va bien.  
 Mais quand il n'y a plus aucune marge.
 
-**[Lire la suite : Murphy × Finagle — Fiabilité](../humanops/fiabilite.md)**
+**[Lire la suite : Murphy × Finagle - Fiabilité](../humanops/fiabilite.md)**
 
 ### Références
 

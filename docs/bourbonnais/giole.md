@@ -18,6 +18,6 @@ Crenne, cage à poule, mue
 
 ## Pour aller plus loin
 
-* [« Giole », cage en osier servant à enfermer les poules — *Glossaire du Poitou, de la Saintonge et de l'Aunis*](https://archive.org/details/glossairedupotou00favruoft/page/174/mode/2up){ target="_blank" }
-* [Définition de « mue », cage pour une poule et ses poussins — Larousse](https://www.larousse.fr/dictionnaires/francais/mue/53099){ target="_blank" }
-* [Définition de « mue » — Académie française, via le CNRTL](https://www.cnrtl.fr/definition/academie9/mue/2){ target="_blank" }
+* [« Giole », cage en osier servant à enfermer les poules - *Glossaire du Poitou, de la Saintonge et de l'Aunis*](https://archive.org/details/glossairedupotou00favruoft/page/174/mode/2up){ target="_blank" }
+* [Définition de « mue », cage pour une poule et ses poussins - Larousse](https://www.larousse.fr/dictionnaires/francais/mue/53099){ target="_blank" }
+* [Définition de « mue » - Académie française, via le CNRTL](https://www.cnrtl.fr/definition/academie9/mue/2){ target="_blank" }

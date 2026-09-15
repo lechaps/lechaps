@@ -14,6 +14,6 @@ Cerise, griotte
 
 ## Pour aller plus loin
 
-* [« Greûte », cerise douce — Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
-* [« Grieute », griotte ou cerise aigre — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/g.htm){ target="_blank" }
-* [« Grieute », griotte ou cerise acide — Dictionnaire du patois de Mancey](https://archive.org/stream/bnf-bpt6k65585193/bnf-bpt6k65585193_djvu.txt){ target="_blank" }
+* [« Greûte », cerise douce - Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
+* [« Grieute », griotte ou cerise aigre - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/g.htm){ target="_blank" }
+* [« Grieute », griotte ou cerise acide - Dictionnaire du patois de Mancey](https://archive.org/stream/bnf-bpt6k65585193/bnf-bpt6k65585193_djvu.txt){ target="_blank" }

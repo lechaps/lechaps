@@ -13,7 +13,7 @@ C'est brutal.
 C'est cynique.
 Et c'est beaucoup trop courant.
 
-On ne règle pas le problème — **on le déplace dans un bureau plus haut**.
+On ne règle pas le problème - **on le déplace dans un bureau plus haut**.
 
 ## Pourquoi le principe de Dilbert est si parlante
 
@@ -29,7 +29,7 @@ Résultat :
 
 Le principe de Dilbert montre une vérité inconfortable :
 certaines entreprises n'optimisent pas pour la compétence, mais pour **la paix interne**.
-On ne cherche pas à mieux faire — on cherche à **faire moins de vagues**.
+On ne cherche pas à mieux faire - on cherche à **faire moins de vagues**.
 
 ## Ce que le principe de Dilbert révèle sur les organisations
 
@@ -58,7 +58,7 @@ Le principe est souvent comparé à la loi de Peter, mais avec une nuance essent
 * avec Peter, on monte **jusqu'à** l'incompétence ;
 * avec Dilbert, **on y place délibérément les mauvaises personnes**.
 
-En somme, le principe de Dilbert nous rappelle que, dans certaines organisations, le management n'est pas une reconnaissance — c'est une zone tampon. Et que quand la hiérarchie devient un refuge pour l'incompétence, ce n'est pas un problème individuel, mais **un échec systémique**.
+En somme, le principe de Dilbert nous rappelle que, dans certaines organisations, le management n'est pas une reconnaissance - c'est une zone tampon. Et que quand la hiérarchie devient un refuge pour l'incompétence, ce n'est pas un problème individuel, mais **un échec systémique**.
 
 ## Et si Peter et Dilbert décrivaient le même résultat… par deux logiques inverses ?
 
@@ -69,7 +69,7 @@ D'un côté, on crée l'incompétence. De l'autre, on la déplace.
 
 Et au final, les organisations obtiennent le même effet.
 
-**[Lire la suite : Peter × Dilbert — Management](../humanops/management.md)**
+**[Lire la suite : Peter × Dilbert - Management](../humanops/management.md)**
 
 ### Références
 

@@ -10,10 +10,10 @@ La **jasse**, c'est la pie, cette grande bavarde noire et blanche qui traverse l
 
 ## On dit aussi
 
-[margot](./margot.md), oyasse, pie
+[Margot](./margot.md), oyasse, pie
 
 ## Pour aller plus loin
 
-* [Jasse, au sens régional de pie — Wiktionnaire](https://fr.wiktionary.org/wiki/jasse){ target="_blank" }
-* [Jasse, nom donné à la pie dans la Limagne — Souvenirs de la langue d'Auvergne](https://upload.wikimedia.org/wikipedia/commons/5/52/Souvenirs_de_la_langue_d%27Auvergne_%28microforme%29_%28IA_fre_b1887659%29.pdf){ target="_blank" }
-* [Jasse — Abécédaire du langage auvergnat](https://www.regardsetviedauvergne.fr/2012/09/petit-abecedaire-du-langage-auvergnat.html){ target="_blank" }
+* [Jasse, au sens régional de pie - Wiktionnaire](https://fr.wiktionary.org/wiki/jasse){ target="_blank" }
+* [Jasse, nom donné à la pie dans la Limagne - Souvenirs de la langue d'Auvergne](https://upload.wikimedia.org/wikipedia/commons/5/52/Souvenirs_de_la_langue_d%27Auvergne_%28microforme%29_%28IA_fre_b1887659%29.pdf){ target="_blank" }
+* [Jasse - Abécédaire du langage auvergnat](https://www.regardsetviedauvergne.fr/2012/09/petit-abecedaire-du-langage-auvergnat.html){ target="_blank" }

@@ -10,4 +10,8 @@ Le **petit poste**, c'était la radio, par opposition au **grand poste**, la té
 
 ## On dit aussi
 
-radio, poste de radio, transistor
+Radio, poste de radio, transistor
+
+## Pour aller plus loin
+
+* [Expression « petit poste »Académie française, 8e édition, article « poste » (autre sens : poste militaire)](https://www.dictionnaire-academie.fr/article/A8P2233){ target="_blank" }

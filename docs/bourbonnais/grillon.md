@@ -18,5 +18,6 @@ Je me souviens des grillons encore chauds dans le poêlon, luisants de graisse, 
 
 ## Pour aller plus loin
 
+* [Définition de « grillon » - Académie française (autre sens : insecte)](https://www.dictionnaire-academie.fr/article/A9G1505){ target="_blank" }
 * [Définition du Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1G0082.html){ target="_blank" }
-* [Grillon — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/g.htm){ target="_blank" }
+* [Grillon - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/g.htm){ target="_blank" }

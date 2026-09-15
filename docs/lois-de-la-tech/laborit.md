@@ -14,18 +14,18 @@ Mais derrière l'excuse facile « c'est mon cerveau », il y a en réalité **un
 * Quand une tâche semble coûteuse mentalement ou peu gratifiante, notre cerveau peut la percevoir comme « risque, dépense inutile ».
 * Il oriente alors vers des activités à récompense rapide : mails, café, notifications, petites actions faciles.
 * Ce n'est pas de la paresse : c'est un mécanisme biologique pour **économiser de l'énergie et éviter l'inconfort**.
-* Mais attention : Laborit ne parlait pas seulement de « flemme ». Il étudiait **l'inhibition provoquée par l'impossibilité d'agir** — une forme de stress bien plus profonde que de simples distractions.
+* Mais attention : Laborit ne parlait pas seulement de « flemme ». Il étudiait **l'inhibition provoquée par l'impossibilité d'agir** - une forme de stress bien plus profonde que de simples distractions.
 * Résultat : on procrastine, on s'éparpille… mais surtout, on se sent mal quand on **ne se sent pas libre d'agir vraiment**.
 
 Comprendre ce mécanisme, c'est donc plus que « se discipliner » : c'est apprendre à **reprendre du contrôle sur l'action**.
 
-Créer des rituels, découper les tâches, commencer petit — tout ce qui rend l'effort plus accessible réduit la menace perçue, et **réactive la possibilité d'agir**.
+Créer des rituels, découper les tâches, commencer petit - tout ce qui rend l'effort plus accessible réduit la menace perçue, et **réactive la possibilité d'agir**.
 
 En résumé, notre cerveau évite l'inconfort immédiat, mais **le bien-être durable émerge lorsqu'on peut agir de façon libre et progressive**, et non sous contrainte.
 
 ## D'où vient la loi de Laborit ?
 
-Ce principe vient du docteur **Henri Laborit** (1914–1995), médecin, biologiste et neurophysiologiste français. Il a consacré ses recherches à comprendre **pourquoi nous agissons — et pourquoi nous n'agissons pas**.
+Ce principe vient du docteur **Henri Laborit** (1914–1995), médecin, biologiste et neurophysiologiste français. Il a consacré ses recherches à comprendre **pourquoi nous agissons - et pourquoi nous n'agissons pas**.
 
 Dans *La Nouvelle Grille* (1974) et *Éloge de la fuite* (1976), Laborit montre que nos comportements ne sont pas guidés uniquement par le plaisir et la douleur, mais aussi par **l'environnement qui permet, bloque ou sanctionne l'action**.
 
@@ -38,7 +38,7 @@ Ses travaux sont aujourd'hui considérés comme **inspirants mais partiellement 
 Son influence dépasse pourtant la science : le film *Mon Oncle d'Amérique* (1980) d'Alain Resnais illustre ces mécanismes de façon magistrale, mêlant comportement, inhibition et société.
 
 En somme, la loi de Laborit nous enseigne ceci :
-**le confort est naturel, mais la liberté et la croissance apparaissent seulement lorsque l'action redevient possible — par des conditions adaptées, et non par la force brute.**
+**le confort est naturel, mais la liberté et la croissance apparaissent seulement lorsque l'action redevient possible - par des conditions adaptées, et non par la force brute.**
 
 ### Références
 

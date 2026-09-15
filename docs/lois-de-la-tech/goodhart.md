@@ -1,7 +1,7 @@
 # Goodhart
 
 Tu as déjà vu une équipe se battre pour atteindre un chiffre… au point d'en oublier pourquoi elle le poursuit ?
-On fixe un objectif, on fait des tableaux, on compte tout — et petit à petit, on ne cherche plus à s'améliorer, mais juste à faire gonfler la métrique.
+On fixe un objectif, on fait des tableaux, on compte tout - et petit à petit, on ne cherche plus à s'améliorer, mais juste à faire gonfler la métrique.
 Bienvenue dans **la loi de Goodhart**.
 
 > When a measure becomes a target, it ceases to be a good measure - Charles Goodhart, 1975
@@ -25,7 +25,7 @@ Quelques exemples classiques :
 * **À l'école** : si seule la note compte, les élèves apprennent à réussir l'examen, pas à comprendre le sujet.
 * **En politique publique** : on améliore des statistiques visibles plutôt que de résoudre les problèmes de fond.
 
-Résultat : on crée **des systèmes performants sur le papier**, mais inefficaces — voire contre-productifs — dans la réalité.
+Résultat : on crée **des systèmes performants sur le papier**, mais inefficaces - voire contre-productifs - dans la réalité.
 La loi de Goodhart rappelle que **les chiffres doivent servir la vision**, pas la remplacer.
 
 ## Le paradoxe central : peut-on piloter sans chiffres ?
@@ -49,7 +49,7 @@ Le problème n'est donc pas la mesure, c'est **l'illusion qu'un chiffre peut con
 ## D'où vient la loi de Goodhart ?
 
 Le principe vient de **Charles Goodhart**, économiste britannique et ancien conseiller de la Banque d'Angleterre.  
-En 1975, il observe que dès qu'un indicateur monétaire devient un objectif officiel, il cesse d'être fiable : les acteurs économiques modifient leur comportement pour atteindre la cible — même si cela fragilise le système.
+En 1975, il observe que dès qu'un indicateur monétaire devient un objectif officiel, il cesse d'être fiable : les acteurs économiques modifient leur comportement pour atteindre la cible - même si cela fragilise le système.
 
 Formulée dans *Problems of Monetary Management: The U.K. Experience*, cette intuition a ensuite été généralisée :
 
@@ -91,9 +91,9 @@ Mais ils ne doivent jamais devenir la destination.
 La loi de Goodhart montre comment un indicateur perd sa valeur dès qu'il devient une cible.
 Mais cette dérive ne s'arrête pas à la fiabilité du chiffre : **elle transforme progressivement tout le système qui s'organise autour de lui**.
 
-Une autre loi explore précisément cette dimension systémique — celle qui explique comment les indicateurs, une fois institutionnalisés, finissent par déformer les pratiques qu'ils étaient censés améliorer.
+Une autre loi explore précisément cette dimension systémique - celle qui explique comment les indicateurs, une fois institutionnalisés, finissent par déformer les pratiques qu'ils étaient censés améliorer.
 
-**[Lire la suite : Goodhart × Campbell — Métriques](../humanops/indicateur.md)**
+**[Lire la suite : Goodhart × Campbell - Métriques](../humanops/indicateur.md)**
 
 ### Références
 

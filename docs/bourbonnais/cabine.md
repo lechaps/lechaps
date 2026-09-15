@@ -13,3 +13,7 @@ Le mot est magnifique parce qu'il compare directement le ventre à la cabine d'u
 ## On dit aussi
 
 [Beuille](./beuille.md), brioche, bidon, bedaine
+
+## Pour aller plus loin
+
+* [Définition de « cabine » - Académie française (sens général : local ou habitacle)](https://www.dictionnaire-academie.fr/article/A9C0022){ target="_blank" }

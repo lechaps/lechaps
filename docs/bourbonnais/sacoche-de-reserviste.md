@@ -10,7 +10,7 @@ Les **sacoches de réserviste**, c'est une poitrine généreuse, abondante, de c
 
 ## On dit aussi
 
-forte poitrine, poitrine généreuse, belle devanture
+Forte poitrine, poitrine généreuse, belle devanture
 
 ## Souvenir
 

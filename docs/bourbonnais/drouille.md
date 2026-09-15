@@ -10,9 +10,10 @@ La **drouille**, ou la **drille**, c'est la diarrhée, la grande débâcle intes
 
 ## On dit aussi
 
-Drille, drouille, driller, drouiller, diarrhée, courante, chiasse
+Driller, drouiller, diarrhée, courante, chiasse
 
 ## Pour aller plus loin
 
-* [Patois bourbonnais — Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
-* [Drouille — Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/13701){ target="_blank" }
+* [Définition de « drille » - Académie française (autre sens : soldat ou compagnon)](https://www.dictionnaire-academie.fr/article/A9D3261){ target="_blank" }
+* [Patois bourbonnais - Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Drouille - Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/13701){ target="_blank" }

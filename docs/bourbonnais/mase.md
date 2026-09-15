@@ -1,6 +1,6 @@
 # Mase ou Maze
 
-La **mase**, ou **maze**, c'est la fourmi, cette petite ouvrière qui traverse la cour avec trois fois son poids sur le dos et pas une minute à perdre pour les états d'âme. Elle s'invite dans le sucre, monte à l'assaut des confitures, bâtit sous les pierres des empires minuscules et donne, sans jamais prononcer un mot, des leçons de travail à toute la maisonnée — lesquelles, comme toutes les bonnes leçons, sont généralement destinées aux autres.
+La **mase**, ou **maze**, c'est la fourmi, cette petite ouvrière qui traverse la cour avec trois fois son poids sur le dos et pas une minute à perdre pour les états d'âme. Elle s'invite dans le sucre, monte à l'assaut des confitures, bâtit sous les pierres des empires minuscules et donne, sans jamais prononcer un mot, des leçons de travail à toute la maisonnée, lesquelles, comme toutes les bonnes leçons, sont généralement destinées aux autres.
 
 ## Exemple
 
@@ -10,7 +10,7 @@ La **mase**, ou **maze**, c'est la fourmi, cette petite ouvrière qui traverse l
 
 ## On dit aussi
 
-mase, maze, fourmi
+Fourmi
 
 ## Pour aller plus loin
 

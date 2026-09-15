@@ -26,7 +26,7 @@ Résultat : un ordinateur d'aujourd'hui est plus rapide qu'un supercalculateur d
 
 Bien sûr, la comparaison a ses limites.
 Les logiciels modernes accomplissent des tâches infiniment plus complexes qu'autrefois.
-Mais la question que pose la loi de Wirth n'est pas *ce que* nos logiciels font — c'est *tout ce qu'ils font sans nécessité*.
+Mais la question que pose la loi de Wirth n'est pas *ce que* nos logiciels font - c'est *tout ce qu'ils font sans nécessité*.
 La lenteur n'est pas toujours le prix de la complexité ; elle est souvent celui de l'accumulation.
 
 En résumé, la loi de Wirth nous rappelle une vérité dérangeante : **on sacrifie trop souvent la simplicité sur l'autel du confort**.
@@ -44,9 +44,9 @@ Wirth prône une approche **sobre, lisible et optimisée du code**, où chaque l
 La loi de Wirth n'est toutefois pas une fatalité universelle.
 Elle s'applique surtout là où l'optimisation cesse d'être une priorité culturelle.
 Dans les systèmes embarqués, les moteurs de jeux, les bases de données ou certains environnements modernes orientés performance, l'efficacité reste une contrainte centrale.
-La lenteur n'est donc pas inévitable — **elle est le symptôme d'un choix**.
+La lenteur n'est donc pas inévitable - **elle est le symptôme d'un choix**.
 
-En somme, la loi de Wirth nous met face à un paradoxe moderne : nous avons rendu le matériel toujours plus puissant, mais nous avons souvent renoncé à la rigueur logicielle — et parfois, au bon sens.
+En somme, la loi de Wirth nous met face à un paradoxe moderne : nous avons rendu le matériel toujours plus puissant, mais nous avons souvent renoncé à la rigueur logicielle - et parfois, au bon sens.
 
 ## La loi d'Andy & Bill : la version ironique
 
@@ -70,7 +70,7 @@ En résumé : chaque gain matériel est immédiatement absorbé par des logiciel
 Cette dérive n'est pas uniquement le fait des développeurs ou des éditeurs.
 Elle est aussi encouragée par un marché qui valorise la quantité de fonctionnalités plus que leur pertinence.
 
-À chaque mise à jour, nous acceptons — voire réclamons — toujours plus :
+À chaque mise à jour, nous acceptons - voire réclamons - toujours plus :
 plus d'options, plus d'effets, plus d'intégrations.
 Mais nous exigeons rarement plus simple, plus rapide, plus lisible.
 
@@ -80,7 +80,7 @@ La question devient alors inconfortable :
 ## Conclusion
 
 La loi de Wirth ne dit pas que le progrès est une illusion.
-Elle nous rappelle que **sans discipline, la puissance ne crée pas la qualité — elle masque simplement nos renoncements**.
+Elle nous rappelle que **sans discipline, la puissance ne crée pas la qualité - elle masque simplement nos renoncements**.
 
 Dans un monde obsédé par l'ajout, la véritable innovation reste peut-être encore de savoir quoi enlever.
 
@@ -91,7 +91,7 @@ Mais cette lourdeur n'est qu'un étage du puzzle : elle s'appuie sur l'accélér
 
 Ces trois lois ne se contredisent pas : elles s'emboîtent.
 
-**[Lire la suite : Moore × Wirth × Claasen — Progrès](../humanops/progres.md)**
+**[Lire la suite : Moore × Wirth × Claasen - Progrès](../humanops/progres.md)**
 
 ### Références
 

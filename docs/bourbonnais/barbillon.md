@@ -14,5 +14,6 @@ Barbeau, tanche.
 
 ## Pour aller plus loin
 
-* [Le barbeau — dictionnaire ichtyologique](https://fr.wikipedia.org/wiki/Barbeau_(poisson)){ target="_blank" }
-* [La tanche — poisson d'eau douce](https://fr.wikipedia.org/wiki/Tanche){ target="_blank" }
+* [Définition de « barbillon » - Académie française (petit barbeau)](https://www.dictionnaire-academie.fr/article/A9B0397){ target="_blank" }
+* [Le barbeau - dictionnaire ichtyologique](https://fr.wikipedia.org/wiki/Barbeau_(poisson)){ target="_blank" }
+* [La tanche - poisson d'eau douce](https://fr.wikipedia.org/wiki/Tanche){ target="_blank" }

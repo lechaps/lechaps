@@ -10,7 +10,7 @@ Une **penoufle**, c'est un morceau de tissu épais, roulé, mouillé et fixé au
 
 ## On dit aussi
 
-écouvillon, chiffon de four, serpillière de four
+Écouvillon, chiffon de four, serpillière de four
 
 ## Pour aller plus loin
 

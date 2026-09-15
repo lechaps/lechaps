@@ -1,6 +1,6 @@
 # Roisser
 
-**Roisser**, c'est déambuler, traîner par les rues et les chemins sans destination bien pressée, avec les mains dans les poches et l'après-midi devant soi. On roisse pour voir du monde, tuer le temps, glaner une nouvelle ou simplement repousser le moment de rentrer — occupation sans rendement déclaré, mais d'une grande importance dans la circulation des nouvelles locales. Le roisseur n'est pas tout à fait perdu : il prend seulement le chemin le plus long entre nulle part et pas grand-chose.
+**Roisser**, c'est déambuler, traîner par les rues et les chemins sans destination bien pressée, avec les mains dans les poches et l'après-midi devant soi. On roisse pour voir du monde, tuer le temps, glaner une nouvelle ou simplement repousser le moment de rentrer. Occupation sans rendement déclaré, mais d'une grande importance dans la circulation des nouvelles locales. Le roisseur n'est pas tout à fait perdu : il prend seulement le chemin le plus long entre nulle part et pas grand-chose.
 
 ## Exemple
 
@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-traîner, rôder, déambuler, battre les rues, baguenauder
+Traîner, rôder, déambuler, battre les rues, baguenauder

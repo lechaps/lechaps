@@ -14,7 +14,7 @@ Coq
 
 ## Pour aller plus loin
 
-* [Jau — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/hij.htm){ target="_blank" }
-* [Petit recueil du parler de Diou — Roger Gilliet](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
-* [Jau — Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
-* [Jau — Wiktionnaire](https://fr.wiktionary.org/wiki/jau){ target="_blank" }
+* [Jau - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/hij.htm){ target="_blank" }
+* [Petit recueil du parler de Diou - Roger Gilliet](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Jau - Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Jau - Wiktionnaire](https://fr.wiktionary.org/wiki/jau){ target="_blank" }

@@ -6,7 +6,7 @@ Félicitation tu viens de croiser **la loi de Postel**.
 
 > Be conservative in what you do, be liberal in what you accept from others - Jon Postel
 
-Autrement dit : **Fais les choses proprement de ton côté, mais accepte que les autres soient un peu chaotiques — c'est comme ça qu'on construit des systèmes résilients**.
+Autrement dit : **Fais les choses proprement de ton côté, mais accepte que les autres soient un peu chaotiques - c'est comme ça qu'on construit des systèmes résilients**.
 
 Bref : **Sois strict en sortie, flexible en entrée**.
 
@@ -16,7 +16,7 @@ Ce principe vient d'Internet, mais il s'applique à beaucoup plus large que la t
 
 * **Sur le web** : un bon navigateur affiche même une page mal codée, mais un bon dev écrit un code propre, clair, conforme au standard.
 * **En communication** : on tolère les imperfections des autres, mais on livre des messages solides, structurés, compréhensibles.
-* **Dans la vie** : on accepte les maladresses, les flous, les angles morts — mais on s'exprime avec rigueur et intention.
+* **Dans la vie** : on accepte les maladresses, les flous, les angles morts - mais on s'exprime avec rigueur et intention.
 
 Ce principe, **c'est l'art de la robustesse** : ne pas s'écrouler parce qu'en face tout n'est pas parfait, mais ne pas devenir fouillis sous prétexte d'ouverture.
 
@@ -28,11 +28,11 @@ Et c'est cet équilibre qui distingue les systèmes (et les humains) qui durent�
 
 ## D'où vient la loi de Postel ?
 
-La loi de Postel porte le nom de **Jon Postel** (1943–1998), un des architectes silencieux mais essentiels d'Internet.Il a contribué à la création de TCP/IP, SMTP (les mails) ou DNS (les noms de domaine) — bref, une grande partie de l'infrastructure qui fait tourner le monde numérique.
+La loi de Postel porte le nom de **Jon Postel** (1943–1998), un des architectes silencieux mais essentiels d'Internet.Il a contribué à la création de TCP/IP, SMTP (les mails) ou DNS (les noms de domaine) - bref, une grande partie de l'infrastructure qui fait tourner le monde numérique.
 
 Dans les années 1970, alors que tout était encore expérimental et fragile, il formule cette règle simple et visionnaire. Cette idée a rendu Internet incroyablement robuste : même un message imparfait pouvait passer. L'enjeu était clair : pour connecter le monde, il fallait des systèmes capables de comprendre l'imperfection, mais d'émettre eux-mêmes du signal clair.
 
-Mais — nuance intéressante — ce principe a aussi montré ses limites. Trop permissif, un système devient ambigu, vulnérable, difficile à standardiser. Tellement vrai que l'IETF, dans le RFC « Robustness Principle Reconsidered », estime aujourd'hui que la loi de Postel doit être appliquée avec discernement.
+Mais - nuance intéressante - ce principe a aussi montré ses limites. Trop permissif, un système devient ambigu, vulnérable, difficile à standardiser. Tellement vrai que l'IETF, dans le RFC « Robustness Principle Reconsidered », estime aujourd'hui que la loi de Postel doit être appliquée avec discernement.
 
 Comme souvent, le génie n'est pas dans l'ouverture totale, mais dans la maîtrise consciente.  
 Clarté en émission. Tolérance en réception.  
@@ -40,7 +40,7 @@ Ni raideur. Ni laxisme.
 
 Une règle qui vaut autant pour les ordinateurs… que pour les humains.
 
-En somme, la loi de Postel nous enseigne une chose simple : les systèmes (et les personnes) les plus solides sont ceux qui allient rigueur, bienveillance — **et la clarté sur où se situe la limite.**.
+En somme, la loi de Postel nous enseigne une chose simple : les systèmes (et les personnes) les plus solides sont ceux qui allient rigueur, bienveillance - **et la clarté sur où se situe la limite.**.
 
 ### Références
 

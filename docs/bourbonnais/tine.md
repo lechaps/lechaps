@@ -1,6 +1,6 @@
 # Tine
 
-La **tine**, c'est ce grand récipient de bois cerclé de fer qui sert à tout, parce qu'autrefois les objets n'avaient pas une fonction mais une carrière entière. On y transporte l'eau, le lait, parfois la vendange ; on y rince, on y trempe, on y verse ce qu'il faut bien mettre quelque part en attendant mieux. Lourde à vide, traîtresse une fois pleine, elle occupe la cour avec la robuste évidence des choses indispensables — pas élégante pour deux sous, mais on ne demande pas à un baquet de danser le quadrille.
+La **tine**, c'est ce grand récipient de bois cerclé de fer qui sert à tout, parce qu'autrefois les objets n'avaient pas une fonction mais une carrière entière. On y transporte l'eau, le lait, parfois la vendange ; on y rince, on y trempe, on y verse ce qu'il faut bien mettre quelque part en attendant mieux. Lourde à vide, traîtresse une fois pleine, elle occupe la cour avec la robuste évidence des choses indispensables : pas élégante pour deux sous, mais on ne demande pas à un baquet de danser le quadrille.
 
 ## Exemple
 

@@ -17,6 +17,6 @@ Papillon
 ## Pour aller plus loin
 
 * [« Parpillon » dans la Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://studylibfr.com/doc/4308539/grammaire-et-dictionnaire-du-patois-bourbonnais){ target="_blank" }
-* [Grammaire et dictionnaire du patois bourbonnais — édition numérisée](https://openlibrary.org/books/OL13524129M){ target="_blank" }
+* [Grammaire et dictionnaire du patois bourbonnaisédition numérisée](https://openlibrary.org/books/OL13524129M){ target="_blank" }
 * [« Parpillon » dans le dictionnaire angevin Wiki-Anjou](https://www.wiki-anjou.fr/index.php/Parpillon){ target="_blank" }
-* [« Papillon » dans le Littré — avec mention de la forme « parpillon »](https://www.littre.org/definition/papillon){ target="_blank" }
+* [« Papillon » dans le Littréavec mention de la forme « parpillon »](https://www.littre.org/definition/papillon){ target="_blank" }

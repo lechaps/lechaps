@@ -14,5 +14,5 @@ Chauffer, brûler, dessécher, taper fort, cogner
 
 ## Pour aller plus loin
 
-* [Le parler bourbonnais — Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
-* [Quelques mots de patois bourbonnais — ZeroTrois](https://zerotrois.fr/bourbonnais/patois){ target="_blank" }
+* [Le parler bourbonnais - Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
+* [Quelques mots de patois bourbonnais - ZeroTrois](https://zerotrois.fr/bourbonnais/patois){ target="_blank" }

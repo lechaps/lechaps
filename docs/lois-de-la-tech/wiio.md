@@ -23,7 +23,7 @@ Mais au-delà de l'humour, ces lois mettent en lumière la complexité des inter
 * **On pense être clair**… mais chacun interprète selon son propre contexte, ses émotions, son langage, son expérience.
 * **Plus un message est important**, plus il risque d'être mal compris (ironie du sort).
 * **Plus il y a d'intermédiaires**, plus l'information se dégrade. Comme un téléphone arabe géant.
-* **Les systèmes complexes** — organisations, projets, administrations — transforment la communication en une succession de frictions.
+* **Les systèmes complexes** - organisations, projets, administrations - transforment la communication en une succession de frictions.
 * **L'intention ne garantit jamais la réception** : tu peux être précis, concis, méthodique… et être mal compris quand même.
 
 En résumé : les lois de Wiio nous rappellent que **communiquer vraiment demande un effort démesuré**, bien plus que simplement parler ou écrire.

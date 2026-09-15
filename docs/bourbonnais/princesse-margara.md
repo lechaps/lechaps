@@ -1,6 +1,6 @@
 # Princesse Margara
 
-La **princesse Margara**, c'était une princesse de haute naissance, une de ces dames de sang royal dont les mariages, les voyages, les chapeaux et les enterrements entraient dans les maisons par le grand poste, portés par la voix solennelle de Léon Zitrone. Le nom avait été légèrement bousculé en chemin — la noblesse elle-même n'échappe pas aux oreilles du village — mais il disait tout un monde de palais, de cérémonies et de gens importants qu'on ne connaissait pas, sinon par la télévision et le commentaire majestueux d'un homme capable de transformer un cortège funèbre en bataille d'Austerlitz.
+La **princesse Margara**, c'était une princesse de haute naissance, une de ces dames de sang royal dont les mariages, les voyages, les chapeaux et les enterrements entraient dans les maisons par le grand poste, portés par la voix solennelle de Léon Zitrone. Le nom avait été légèrement bousculé en chemin (la noblesse elle-même n'échappe pas aux oreilles du village) mais il disait tout un monde de palais, de cérémonies et de gens importants qu'on ne connaissait pas, sinon par la télévision et le commentaire majestueux d'un homme capable de transformer un cortège funèbre en bataille d'Austerlitz.
 
 ## Exemple
 
@@ -10,7 +10,7 @@ La **princesse Margara**, c'était une princesse de haute naissance, une de ces 
 
 ## On dit aussi
 
-princesse Margaret, princesse de sang, altesse royale
+Princesse Margaret, princesse de sang, altesse royale
 
 ## Souvenir
 

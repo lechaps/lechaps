@@ -14,6 +14,7 @@ Fourche-bêche, pioche
 
 ## Pour aller plus loin
 
+* [Définition de « bigot » - Académie française (autre sens : personne dévote)](https://www.dictionnaire-academie.fr/article/A9B1092){ target="_blank" }
 * [Définition du dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1B0059.html){ target="_blank" }
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/bigot){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/bigot){ target="_blank" }

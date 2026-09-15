@@ -7,9 +7,13 @@ Dans les deux cas, l'homme est plein (plein de vin ou plein de nourriture) et so
 
 ## Exemple
 
+### Ce qui déborde
+
 *Laisse-le donc, il est gonfle comme une outre.*
 
 > « Je vous recommande de ne point solliciter davantage cet homme, dont l'organisme semble actuellement contenir une quantité de vin suffisante pour compromettre sa verticalité, son jugement et plusieurs articles du code de la bienséance. »
+
+### Ce qui serre
 
 *J'suis gonfle, j'aurais pas dû reprendre six fois du pâté.*
 
@@ -22,4 +26,4 @@ Dans les deux cas, l'homme est plein (plein de vin ou plein de nourriture) et so
 
 ## Pour aller plus loin
 
-* [« Gonfle » au sens de « pris de boisson » dans l'Allier — Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1G0048.html){ target="_blank" }
+* [« Gonfle » au sens de « pris de boisson » dans l'Allier - Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1G0048.html){ target="_blank" }

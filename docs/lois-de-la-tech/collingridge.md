@@ -38,7 +38,7 @@ On en découvre les effets : bulles informationnelles, surveillance, addictions,
 
 Mais :
 
-* **Changer un système adopté par des milliards coûte une fortune — ou se heurte à des lobbys immenses.**
+* **Changer un système adopté par des milliards coûte une fortune - ou se heurte à des lobbys immenses.**
 * **Toucher au cœur d'une infrastructure qu'on utilise tous est politiquement explosif.**
 
 Exemple parfait :
@@ -71,10 +71,10 @@ De là découlent trois enseignements clés :
 3. **Concevoir des technologies modifiables, réversibles et responsables** : Le design est une forme de gouvernance.
 
 En d'autres termes :
-**Le vrai pouvoir n'est pas dans la régulation tardive — mais dans les choix de design dès le départ.**
+**Le vrai pouvoir n'est pas dans la régulation tardive - mais dans les choix de design dès le départ.**
 
 C'est ce principe qui structure aujourd'hui l'innovation responsable, des politiques sur l'IA, des réflexions sur la biotechnologie, l'énergie, le numérique….  
-C'est la question-clé du futur : *Comment accepter de gouverner sans comprendre parfaitement — tout en refusant l'inaction comme excuse ?*
+C'est la question-clé du futur : *Comment accepter de gouverner sans comprendre parfaitement - tout en refusant l'inaction comme excuse ?*
 
 ### Références
 

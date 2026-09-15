@@ -14,5 +14,5 @@ Plein, repu, rassasié, gavé, avoir son compte, [gonfle](./gonfle.md)
 
 ## Pour aller plus loin
 
-* [Gueudé, « rassasié, repu » — Dictionnaire bourguignon](https://www.dicobourguignon.fr/index.php?lang=bourguignon&recherche=gueud%C3%A9){ target="_blank" }
-* [Guédé, « repu, rempli » — Dictionnaire manchois](https://www.wikimanche.fr/Gu%C3%A9d%C3%A9){ target="_blank" }
+* [Gueudé, « rassasié, repu » - Dictionnaire bourguignon](https://www.dicobourguignon.fr/index.php?lang=bourguignon&recherche=gueud%C3%A9){ target="_blank" }
+* [Guédé, « repu, rempli » - Dictionnaire manchois](https://www.wikimanche.fr/Gu%C3%A9d%C3%A9){ target="_blank" }

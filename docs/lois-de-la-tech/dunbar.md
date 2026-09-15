@@ -3,7 +3,7 @@
 Tu as déjà essayé de garder le contact avec tous tes anciens collègues, amis d'école, contacts LinkedIn et copains de sport ?
 Au début tu réponds, tu likes, tu commentes… puis, au bout d'un moment, tu décroches.
 
-> A stable social group is limited in size by the cognitive capacity of the individuals who form it — roughly 150 meaningful relationships - Robin Dunbar, 1992
+> A stable social group is limited in size by the cognitive capacity of the individuals who form it - roughly 150 meaningful relationships - Robin Dunbar, 1992
 
 Autrement dit : **au-delà d'un certain seuil, nos relations se diluent… puis finissent par disparaître**.
 
@@ -15,7 +15,7 @@ Bref : **notre capacité relationnelle n'est pas infinie**.
 * Le chiffre de **150** regroupe famille, amis, collègues, connaissances proches..
 * Au-delà, ce n'est pas une question de volonté ou de sociabilité : **notre temps, notre attention et notre énergie mentale ne suivent plus**.
 * **Ce chiffre n'est pas arbitraire** : dans l'histoire, les villages, tribus et unités militaires tournent souvent autour de groupes proches de ce seuil.
-* Ce n'est **pas une limite rigide**, mais une moyenne. Certains oscillent à 100, d'autres à 200 — selon la personnalité, les cultures, l'introversion, l'engagement émotionnel de nos relations.
+* Ce n'est **pas une limite rigide**, mais une moyenne. Certains oscillent à 100, d'autres à 200 - selon la personnalité, les cultures, l'introversion, l'engagement émotionnel de nos relations.
 
 En résumé, la loi de Dunbar nous rappelle une chose essentielle : **nos relations obéissent à la biologie, pas à l'algorithme**.
 
@@ -23,7 +23,7 @@ En résumé, la loi de Dunbar nous rappelle une chose essentielle : **nos relati
 
 Le nombre de Dunbar vient des travaux du **professeur Robin Dunbar**, anthropologue et psychologue évolutionniste à l'Université d'Oxford.  
 Dans les années 1990, il observe une corrélation entre **la taille du néocortex et la taille moyenne des groupes sociaux chez les primates**.  
-En extrapolant à l'être humain, il en déduit que nous pouvons entretenir environ 150 relations stables — un chiffre devenu célèbre sous le nom de « nombre de Dunbar ».  
+En extrapolant à l'être humain, il en déduit que nous pouvons entretenir environ 150 relations stables - un chiffre devenu célèbre sous le nom de « nombre de Dunbar ».  
 
 Ses recherches, publiées dans le _Journal of Human Evolution_ (1992), ont depuis été précisées.
 Nous aurions en réalité plusieurs cercles de proximité, organisés par paliers :

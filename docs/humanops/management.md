@@ -6,7 +6,7 @@ Tu connais ce collègue brillant qui a été promu… et qui depuis semble compl
 Ou au contraire, ce collègue médiocre soudain propulsé "en responsabilité" sans que personne ne comprenne pourquoi ?
 
 Ces deux scènes, en apparence opposées, ont pourtant une même racine.
-Elles illustrent deux lois cultes du management — **la loi de Peter** et le **principe de Dilbert** — qui expliquent chacune à leur manière comment les organisations finissent par se faire diriger par des personnes inadaptées à leur poste.
+Elles illustrent deux lois cultes du management - **la loi de Peter** et le **principe de Dilbert** - qui expliquent chacune à leur manière comment les organisations finissent par se faire diriger par des personnes inadaptées à leur poste.
 
 ## 1. La loi de Peter : promus jusqu'à l'incompétence
 
@@ -24,7 +24,7 @@ Résultat : **dans une hiérarchie, chacun finit promu… jusqu'à son niveau d'
 * Des experts reconnus passent soudain plus de temps à gérer qu'à exceller.
 
 Le problème est aggravé par un tabou universel : **on ne rétrograde presque jamais** quelqu'un.
-Une fois promu, on reste en place — même si on n'est plus compétent. Les organisations se remplissent ainsi de personnes **brillantes hier, mais inadaptées aujourd'hui**.
+Une fois promu, on reste en place - même si on n'est plus compétent. Les organisations se remplissent ainsi de personnes **brillantes hier, mais inadaptées aujourd'hui**.
 
 La loi de Peter ne blâme pas les individus.
 Elle blâme le système : on confond **récompenser** et **changer de métier**, comme si promouvoir le meilleur violoniste en **chef d'orchestre** allait de soi.
@@ -43,7 +43,7 @@ C'est brutal.
 C'est cynique.
 Et c'est beaucoup trop courant.
 
-On ne règle pas le problème — **on le déplace dans un bureau plus haut**.
+On ne règle pas le problème - **on le déplace dans un bureau plus haut**.
 
 ### Pourquoi le principe de Dilbert fonctionne si bien (dans la vraie vie)
 
@@ -91,7 +91,7 @@ Le problème est que **les organisations produisent mécaniquement des managers 
 Peter et Dilbert convergent vers une même vérité :
 
 > **Une organisation mature ne promeut pas par défaut.
-> Elle choisit, prépare, accompagne — et parfois corrige.**
+> Elle choisit, prépare, accompagne - et parfois corrige.**
 
 Tant que :
 

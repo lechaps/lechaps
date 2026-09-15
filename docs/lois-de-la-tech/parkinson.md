@@ -6,7 +6,7 @@ Bienvenue dans **la loi de Parkinson**.
 
 > Work expands so as to fill the time available for its completion - Cyril Northcote Parkinson, 1955
 
-Autrement dit : **Plus tu donnes de temps à une tâche, plus elle prend du temps — même si elle pourrait être faite bien plus vite**.
+Autrement dit : **Plus tu donnes de temps à une tâche, plus elle prend du temps - même si elle pourrait être faite bien plus vite**.
 
 Bref : **Plus tu as de temps, plus tu en perds**.
 
@@ -23,13 +23,13 @@ Et quand il reste un peu de temps, les équipes le passent souvent à discuter�
 
 ## D'où vient la loi de Parkinson ?
 
-La loi de Parkinson a été formulée en 1955 par **Cyril Northcote Parkinson**, historien et essayiste britannique, dans un article culte du _The Economist_. Fort de son expérience dans la fonction publique, il écrit — avec un humour mordant — que « le travail s'étend de façon à occuper tout le temps disponible pour son achèvement.»  
+La loi de Parkinson a été formulée en 1955 par **Cyril Northcote Parkinson**, historien et essayiste britannique, dans un article culte du _The Economist_. Fort de son expérience dans la fonction publique, il écrit - avec un humour mordant - que « le travail s'étend de façon à occuper tout le temps disponible pour son achèvement.»  
 
 Deux ans plus tard, il en fait un livre : _Parkinson's Law and Other Studies in Administration_ (1957), où il démonte les absurdités des organisations : **la lenteur, la dilution des responsabilités, et la croissance sans but réel**.  
 
 Sous son ton ironique, Parkinson touche juste : **sans contrainte, tout système se dilate**. Le temps, les équipes, les réunions… tout prend plus de place que nécessaire.
 
-En somme, la loi de Parkinson nous rappelle que : **le temps qu'on s'accorde devient le temps qu'on perd**. Alors fixe-toi moins de temps, moins de monde, moins de complexité — et regarde ton efficacité exploser.
+En somme, la loi de Parkinson nous rappelle que : **le temps qu'on s'accorde devient le temps qu'on perd**. Alors fixe-toi moins de temps, moins de monde, moins de complexité - et regarde ton efficacité exploser.
 
 ### Références
 

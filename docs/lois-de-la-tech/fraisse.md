@@ -8,7 +8,7 @@ Bienvenue dans **la loi de Fraisse**.
 > La durée psychologique d'une activité dépend de la manière dont notre attention y est engagée : plus elle est pauvre, subie ou répétitive, plus elle paraît longue - Paul Fraisse, 1967
 
 Autrement dit : **Le temps ne se mesure pas seulement en minutes, mais en intensité.
-Plus on vit pleinement, plus il semble court — et plus on s'ennuie, plus il s'étire.**
+Plus on vit pleinement, plus il semble court - et plus on s'ennuie, plus il s'étire.**
 
 Bref : **Quand c'est pénible, ça traîne ; quand ça passionne, ça passe.**
 

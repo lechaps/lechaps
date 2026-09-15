@@ -8,7 +8,7 @@ Bienvenue dans **la loi de Kidlin**.
 
 Autrement dit : **Formuler clairement un problème, c'est déjà en résoudre la moitié. Le flou est l'ennemi, la précision est la clé**.
 
-Bref : **Écris le problème — la solution suivra**.
+Bref : **Écris le problème - la solution suivra**.
 
 ## Pourquoi la loi de Kidlin est si parlante
 

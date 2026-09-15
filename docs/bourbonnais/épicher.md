@@ -14,4 +14,4 @@
 
 ## Pour aller plus loin
 
-* [Ressource lexicale auvergnate — Occitanica](https://www.occitanica.eu/items/show/21109){ target="_blank" }
+* [Ressource lexicale auvergnate - Occitanica](https://www.occitanica.eu/items/show/21109){ target="_blank" }

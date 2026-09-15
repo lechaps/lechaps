@@ -14,4 +14,5 @@ Semer, ensemencer, jeter la graine
 
 ## Pour aller plus loin
 
-* [Variante « smer » — Lexique du patois de Sivignon](https://data.over-blog-kiwi.com/0/56/82/00/201309/ob_ac04f4_lexique-de-sivignon-version-2013-09.pdf){ target="_blank" }
+* [Graphie ancienne « esmaillé » - Académie française, 2e édition, article « esmailler » (autre sens : orner, émailler)](https://www.dictionnaire-academie.fr/article/A2E0959){ target="_blank" }
+* [Variante « smer » - Lexique du patois de Sivignon](https://data.over-blog-kiwi.com/0/56/82/00/201309/ob_ac04f4_lexique-de-sivignon-version-2013-09.pdf){ target="_blank" }

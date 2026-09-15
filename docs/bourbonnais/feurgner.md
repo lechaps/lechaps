@@ -14,5 +14,5 @@ Fouiller, fureter, rôder, chercher la fumelle, courir la gueuse, chercher avent
 
 ## Pour aller plus loin
 
-* [Définition du Wiktionnaire — feugner](https://fr.wiktionary.org/wiki/feugner){ target="_blank" }
-* [Feugner — Les mots du patois d'hier à aujourd'hui, L'Est Républicain](https://www.estrepublicain.fr/edition-de-pont-a-mousson/2017/05/23/feugner){ target="_blank" }
+* [Définition du Wiktionnaire - feugner](https://fr.wiktionary.org/wiki/feugner){ target="_blank" }
+* [Feugner - Les mots du patois d'hier à aujourd'hui, L'Est Républicain](https://www.estrepublicain.fr/edition-de-pont-a-mousson/2017/05/23/feugner){ target="_blank" }

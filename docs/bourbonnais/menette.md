@@ -10,7 +10,7 @@ Une **menette**, c'est une chèvre, mais dite comme ça elle entre aussitôt dan
 
 ## On dit aussi
 
-chèvre, biquette
+Chèvre, biquette
 
 ## Pour aller plus loin
 

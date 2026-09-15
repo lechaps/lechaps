@@ -1,6 +1,6 @@
 # Soupe électrique
 
-La **soupe électrique**, c'est la soupe lyophilisée en sachet, celle qu'on prépare à coups d'eau bouillante, de cuillère pressée et de fatigue assumée. Pas de poireaux à laver, pas de pommes de terre à éplucher, pas de marmite à surveiller : on déchire, on verse, on remue, et la modernité vous sert un potage en trois minutes, avec parfois davantage de sel que de légumes et une couleur que la nature n'aurait pas osé déposer seule dans une assiette. On dit **électrique** parce qu'elle va vite, qu'elle sort du placard comme un miracle industriel et qu'elle dispense surtout de faire vraiment la cuisine — ce qui, certains soirs, relève moins de la paresse que de la légitime défense.
+La **soupe électrique**, c'est la soupe lyophilisée en sachet, celle qu'on prépare à coups d'eau bouillante, de cuillère pressée et de fatigue assumée. Pas de poireaux à laver, pas de pommes de terre à éplucher, pas de marmite à surveiller : on déchire, on verse, on remue, et la modernité vous sert un potage en trois minutes, avec parfois davantage de sel que de légumes et une couleur que la nature n'aurait pas osé déposer seule dans une assiette. On dit **électrique** parce qu'elle va vite, qu'elle sort du placard comme un miracle industriel et qu'elle dispense surtout de faire vraiment la cuisine (ce qui, certains soirs, relève moins de la paresse que de la légitime défense).
 
 ## Exemple
 
@@ -10,7 +10,7 @@ La **soupe électrique**, c'est la soupe lyophilisée en sachet, celle qu'on pr�
 
 ## On dit aussi
 
-soupe en sachet, soupe instantanée, potage déshydraté
+Soupe en sachet, soupe instantanée, potage déshydraté
 
 ## Souvenir
 

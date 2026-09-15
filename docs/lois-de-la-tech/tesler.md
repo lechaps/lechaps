@@ -6,13 +6,13 @@ Bienvenue dans **la loi de Tesler**.
 
 > Every application has an inherent amount of irreducible complexity. The only question is: who will have to deal with it ? - Larry Tesler
 
-Autrement dit : **La complexité ne disparaît jamais — on choisit juste qui va la porter**.
+Autrement dit : **La complexité ne disparaît jamais - on choisit juste qui va la porter**.
 
 Bref : **Si quelque chose te semble simple, c'est que quelqu'un a pris la complexité sur ses épaules avant toi.**.
 
 ## Pourquoi la loi de Tesler est si parlante
 
-La complexité est une constante. Un système — logiciel, service, organisation — possède toujours un noyau de complexité incompressible :
+La complexité est une constante. Un système - logiciel, service, organisation - possède toujours un noyau de complexité incompressible :
 
 * des règles,
 * des contraintes,
@@ -46,7 +46,7 @@ Un mauvais produit, lui, externalise ses problèmes :
 C'est un arbitrage clair :
 
 * soit l'équipe prend la charge (design, tech, produit),
-* soit l'utilisateur la paye — en temps, en stress, en confiance perdue.
+* soit l'utilisateur la paye - en temps, en stress, en confiance perdue.
 
 La friction n'est jamais neutre. Quelqu'un la subit toujours.
 
@@ -111,7 +111,7 @@ Un bon produit IA ne fait pas semblant de tout maîtriser :
 
 ## D'où vient la loi de Tesler ?
 
-La loi porte le nom de **Larry Tesler** (1945–2020), pionnier de l'informatique et inventeur du copier-coller. Il a travaillé chez Xerox PARC, puis chez Apple, Amazon et Yahoo! — avec une obsession constante : retirer les frictions inutiles de l'expérience humaine. Sa conviction était simple : « La complexité d'un système est une constante : on ne peut pas la supprimer, seulement décider qui la portera.»  
+La loi porte le nom de **Larry Tesler** (1945–2020), pionnier de l'informatique et inventeur du copier-coller. Il a travaillé chez Xerox PARC, puis chez Apple, Amazon et Yahoo! - avec une obsession constante : retirer les frictions inutiles de l'expérience humaine. Sa conviction était simple : « La complexité d'un système est une constante : on ne peut pas la supprimer, seulement décider qui la portera.»  
 
 Tesler croyait à un design centré sur l'humain. Plutôt que de laisser l'utilisateur se battre avec des interfaces inutiles, il défendait une approche simple : faire le travail compliqué avant, pour que l'expérience soit fluide après. C'est cette philosophie qui a façonné l'ADN d'Apple et inspiré toute une génération de designers.  
 
@@ -135,9 +135,9 @@ Mais dès qu'on parle d'interface, deux questions apparaissent immédiatement :
 * combien de choix on impose à l'utilisateur (Hick-Hyman),
 * et comment on l'aide à agir puis comprendre ce qui s'est passé (Norman).
 
-Autrement dit : la simplicité n'est pas un slogan — c'est un arbitrage précis entre complexité, décision et action.
+Autrement dit : la simplicité n'est pas un slogan - c'est un arbitrage précis entre complexité, décision et action.
 
-**[Lire la suite : Tesler × Hick-Hyman × Norman — UX](../humanops/ux.md)**
+**[Lire la suite : Tesler × Hick-Hyman × Norman - UX](../humanops/ux.md)**
 
 ### Références
 

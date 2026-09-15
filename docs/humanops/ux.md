@@ -2,7 +2,7 @@
 
 > Porter la complexité, payer le choix, révéler au bon moment
 
-Il existe trois principes qui expliquent pourquoi certains produits paraissent évidents — et pourquoi d'autres, pourtant "bien conçus", restent pénibles, confus ou frustrants.
+Il existe trois principes qui expliquent pourquoi certains produits paraissent évidents - et pourquoi d'autres, pourtant "bien conçus", restent pénibles, confus ou frustrants.
 
 Trois principes utilisés en design produit, en UX, en logiciel, en services complexes, en IA.
 
@@ -18,7 +18,7 @@ La loi de Tesler, la loi de Hick-Hyman et le principe de progressivité (popular
 Hick-Hyman montre la charge.
 Norman montre le rythme.**
 
-## Tesler — La complexité est une constante
+## Tesler - La complexité est une constante
 
 Tout système possède une complexité incompressible :
 
@@ -50,7 +50,7 @@ Soit :
 
 Tesler fixe le cadre stratégique. Il empêche la naïveté.
 
-## Hick-Hyman — Chaque choix a un coût cognitif
+## Hick-Hyman - Chaque choix a un coût cognitif
 
 Même si la complexité est assumée côté système,
 **on ne peut pas tout montrer en même temps**.
@@ -71,7 +71,7 @@ Elle dit :
 
 Hick-Hyman fixe la contrainte cognitive. Il empêche la brutalité.
 
-## Norman — La complexité doit être progressive
+## Norman - La complexité doit être progressive
 
 C'est ici que la checklist UX échoue le plus souvent.
 
@@ -157,7 +157,7 @@ L'expérience utilisateur non plus.
 > Hick-Hyman montre la limite humaine.
 > Norman montre le bon moment.**
 
-Tout le reste — guidelines, heuristiques, checklists —
+Tout le reste - guidelines, heuristiques, checklists —
 n'est que de l'outillage.
 
 **L'UX n'est pas une conformité. C'est une stratégie de décisions sous contrainte.**

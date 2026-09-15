@@ -14,5 +14,5 @@ Vionner, feuter
 
 ## Pour aller plus loin
 
-* [Quelques mots de patois bourbonnais — Plan de Baignereau](https://zerotrois.fr/bourbonnais/patois){ target="_blank" }
-* [Verbes du patois bourbonnais — Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais/){ target="_blank" }
+* [Quelques mots de patois bourbonnais - Plan de Baignereau](https://zerotrois.fr/bourbonnais/patois){ target="_blank" }
+* [Verbes du patois bourbonnais - Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais/){ target="_blank" }

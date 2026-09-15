@@ -10,9 +10,9 @@ Un **penet**, c'est un vieux chiffon, une guenille encore assez solide pour qu'o
 
 ## On dit aussi
 
-chiffon, guenille, loque, vieux linge, [gounelle](./gounelle.md)
+Chiffon, guenille, loque, vieux linge, [gounelle](./gounelle.md)
 
 ## Pour aller plus loin
 
 * [« Penet » et « penille » dans le *Petit Recueil du parler de Diou*](https://projetbabel.org/diou/p.htm){ target="_blank" }
-* [Origine locale de « penet », forme de « pannet » — Patrimoine de Diou](https://www.diou03.fr/patrimoine){ target="_blank" }
+* [Origine locale de « penet », forme de « pannet »Patrimoine de Diou](https://www.diou03.fr/patrimoine){ target="_blank" }

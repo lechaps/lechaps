@@ -10,4 +10,4 @@ Un **peurpougnot**, c'est quelqu'un qu'on remarque à peine, une silhouette sans
 
 ## On dit aussi
 
-quidam, quelconque, passant, pauvre bougre
+Quidam, quelconque, passant, pauvre bougre

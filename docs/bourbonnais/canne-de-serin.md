@@ -11,7 +11,7 @@ L'expression se lance, sans méchanceté véritable, avec cette délicatesse qui
 
 ## On dit aussi
 
-cuisses de mouche, mollets de coq
+Cuisses de mouche, mollets de coq
 
 ## Pour aller plus loin
 

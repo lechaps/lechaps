@@ -2,7 +2,7 @@
 
 *Récit inspiré de l'expérience de L. David Marquet à bord de l'USS Santa Fe. Les événements centraux sont documentés ; certains dialogues, pensées et éléments de mise en scène sont reconstitués afin de donner au récit sa continuité narrative.*
 
-## Chapitre 1 — Un capitaine, un sous-marin et une erreur de casting
+## Chapitre 1 - Un capitaine, un sous-marin et une erreur de casting
 
 Avant de descendre sous la surface, une précision mérite d'être apportée, car les histoires de leadership ont parfois tendance à accorder quelques galons supplémentaires à leurs héros. L. David Marquet est régulièrement présenté dans des conférences ou des récits francophones comme « l'amiral Marquet », mais les sources de l'US Navy et de l'U.S. Naval Institute le désignent comme **Captain L. David Marquet, U.S. Navy (Retired)**. Il s'agit donc d'un capitaine de l'US Navy, grade correspondant approximativement à celui de capitaine de vaisseau dans la Marine nationale française, et non d'un amiral. Diplômé de l'U.S. Naval Academy en 1981, il effectue vingt-huit années dans la marine américaine avant de prendre sa retraite en 2009 ; entre 1999 et 2001, il commande l'USS *Santa Fe*, sous-marin nucléaire d'attaque de la classe *Los Angeles*.
 
@@ -12,7 +12,7 @@ Marquet n'arrive pourtant pas à bord du *Santa Fe* avec la confortable certitud
 
 Pour un architecte de système d'information, la situation possède quelque chose de délicieusement familier. Imaginez avoir passé un an à étudier une plateforme, ses flux, ses dépendances, ses procédures de reprise et ses composants critiques, puis entendre quelques semaines avant de prendre vos fonctions : « Il y a eu un changement, finalement vous récupérez l'autre système. » Vous demandez naturellement si l'architecture est comparable ; on vous répond qu'elle l'est globalement, ce qui, dans le vocabulaire des projets complexes, signifie généralement qu'elle ne l'est précisément pas aux endroits où cela va devenir important. Dans une entreprise, une telle découverte conduit à ouvrir la documentation, convoquer quelques experts et augmenter temporairement la consommation de café ; dans un sous-marin nucléaire, elle possède un caractère légèrement plus engageant.
 
-## Chapitre 2 — L'ordre impossible
+## Chapitre 2 - L'ordre impossible
 
 Marquet aurait pu suivre une logique parfaitement classique. Puisqu'il connaissait moins bien le bâtiment que prévu, il aurait pu compenser cette faiblesse par davantage de contrôle, multiplier les vérifications et concentrer encore davantage les décisions au niveau du commandement. Après tout, il était le capitaine et la structure hiérarchique de la marine était précisément conçue pour qu'un ordre donné depuis le sommet puisse descendre rapidement jusqu'à ceux qui devaient l'exécuter. Le système leader-follower qu'il critiquera plus tard repose sur cette idée apparemment raisonnable : le chef possède la responsabilité de décider et les autres possèdent celle d'exécuter correctement ses décisions.
 
@@ -22,7 +22,7 @@ L'officier de quart répète l'ordre, mais le marin chargé de l'exécuter ne fa
 
 On peut reconstituer littérairement le moment sans prétendre en connaître les paroles exactes. Marquet se tourne vers l'officier de quart et lui demande en substance s'il savait que l'ordre était incorrect ; l'officier confirme qu'il le savait. La question suivante vient naturellement : pourquoi, dans ce cas, l'avoir répété ? La réponse rapportée par Marquet tient à l'essentiel : parce que l'ordre venait du capitaine. L'épisode du commandement impossible et le fait que l'officier ait transmis l'instruction tout en sachant qu'elle était erronée sont racontés par Marquet lui-même ; la formulation précise de l'échange présentée ici relève de la reconstitution narrative.
 
-## Chapitre 3 — Quand le système fonctionne… trop bien
+## Chapitre 3 - Quand le système fonctionne… trop bien
 
 Ce qui se produit alors dans l'esprit du commandant est plus important que l'erreur technique elle-même. Il aurait pu simplement apprendre que le moteur électrique du *Santa Fe* ne possédait pas ce réglage, corriger son ordre et ajouter cette information à la longue liste des différences entre son nouveau bâtiment et ceux qu'il connaissait. Pourtant, le problème qu'il vient d'observer est beaucoup plus profond : un officier compétent, possédant une information dont son supérieur ne disposait pas, avait choisi de transmettre une mauvaise instruction plutôt que de remettre en cause l'ordre venant du sommet.
 
@@ -32,7 +32,7 @@ C'est ici que le sous-marin de Marquet commence à ressembler étrangement à ce
 
 On pourrait presque représenter l'organisation sur un diagramme d'architecture avec un énorme composant central baptisé « CAPITAINE », relié à toutes les fonctions critiques et accompagné, dans un coin du schéma, d'une petite annotation que les architectes connaissent bien : *single point of failure*. La boutade prête à sourire, mais le phénomène qu'elle décrit est sérieux : lorsqu'un système dépend excessivement d'un seul décideur, la robustesse apparente de la hiérarchie masque en réalité une fragilité profonde.
 
-## Chapitre 4 — De Leader-Follower à Leader-Leader
+## Chapitre 4 - De Leader-Follower à Leader-Leader
 
 Marquet commence alors à faire évoluer son modèle de commandement vers ce qu'il appellera **Leader-Leader**, par opposition à **Leader-Follower**. La transformation ne consiste pas à abolir la hiérarchie, à laisser chacun agir selon ses préférences ou à transformer un sous-marin nucléaire en communauté autogérée, perspective qui aurait probablement provoqué quelques conversations intéressantes avec l'état-major de l'US Navy. Elle consiste à déplacer l'autorité de décision vers le niveau où se trouvent effectivement les compétences et l'information nécessaires, tout en construisant les conditions permettant à cette autonomie de rester cohérente avec la mission.
 
@@ -42,7 +42,7 @@ Pour y parvenir, il faut cependant davantage qu'une déclaration généreuse sur
 
 Cette distinction est fondamentale pour quiconque travaille sur des organisations ou des systèmes complexes, car l'autonomie n'est pas naturellement synonyme d'efficacité. Donner du pouvoir de décision sans développer les compétences revient simplement à distribuer les erreurs ; former des experts auxquels on refuse ensuite toute capacité d'action revient à produire de la frustration ; enfin, créer des équipes autonomes qui ne partagent aucune compréhension de la finalité globale permet seulement d'obtenir plusieurs groupes très performants avançant rapidement dans des directions incompatibles. Dans le langage de l'architecture des systèmes d'information, Marquet ne cherche donc pas à supprimer l'architecture centrale, mais à passer d'un système centralisé dans lequel toutes les transactions doivent être autorisées par le centre à un modèle distribué reposant sur des contrats, des règles et une intention partagée.
 
-## Chapitre 5 — Le jour où le langage change
+## Chapitre 5 - Le jour où le langage change
 
 Le changement va également passer par le langage, car les architectures organisationnelles se cachent parfois dans des expressions que plus personne ne remarque. Lorsqu'un marin vient voir son supérieur en demandant ce qu'il doit faire, il transmet implicitement la responsabilité de la décision vers le niveau supérieur ; l'information remonte et attend que l'autorité redescende. Marquet encourage progressivement une autre formulation, devenue emblématique de son approche : **« I intend to… »**, que l'on peut traduire par « j'ai l'intention de… ».
 
@@ -52,7 +52,7 @@ On peut imaginer la différence dans une scène quotidienne du bâtiment. Dans l
 
 Ce déplacement paraît linguistique ; il est en réalité architectural. Au lieu de faire remonter la réflexion vers le sommet, le système maintient la capacité d'analyse là où l'information apparaît. L'intelligence ne voyage plus nécessairement pour obtenir une autorisation ; elle agit dans un cadre de responsabilité explicite.
 
-## Chapitre 6 — Le défi du chef : ne plus répondre à tout
+## Chapitre 6 - Le défi du chef : ne plus répondre à tout
 
 À mesure que cette culture s'installe, quelque chose de plus subtil se produit : le commandant doit lui-même apprendre à résister à son envie de commander. La transformation décrite par Marquet ne concerne pas uniquement les marins qui doivent devenir davantage responsables ; elle concerne aussi le responsable qui doit accepter de ne plus fournir immédiatement les réponses qu'on attend de lui. La recension publiée en 2025 par *Naval Aviation News* insiste justement sur cette lutte intérieure de Marquet, qui raconte combien il lui était parfois difficile de ne pas revenir à son ancienne habitude consistant à donner directement l'ordre permettant d'aller plus vite.
 
@@ -60,7 +60,7 @@ Cette difficulté est probablement l'une des dimensions les plus universelles de
 
 Il existe dans cette boucle une forme d'élégance tragique : plus le dirigeant résout les problèmes de son organisation, plus il entraîne cette organisation à ne plus savoir les résoudre sans lui. Marquet va chercher à rompre précisément cette boucle en développant la compétence, en explicitant l'intention, en posant les limites et en laissant progressivement les décisions être prises là où se trouve la connaissance. Le commandement ne disparaît donc pas ; il change d'échelle et de fonction, passant de l'administration permanente des décisions locales à la conception des conditions permettant à ces décisions d'être prises correctement.
 
-## Chapitre 7 — Le sous-marin comme architecture distribuée
+## Chapitre 7 - Le sous-marin comme architecture distribuée
 
 Pour un architecte de système d'information, l'analogie devient alors presque impossible à ignorer. Dans une architecture fragile, l'architecte historique connaît chaque dépendance, participe à toutes les décisions importantes et devient progressivement l'API humaine que tout le monde doit appeler avant de modifier quoi que ce soit. Son agenda se remplit, les projets ralentissent et l'organisation finit par considérer sa surcharge comme la preuve de sa valeur, alors qu'elle constitue peut-être exactement l'inverse : le signe que le système n'a pas encore appris à fonctionner sans son intervention.
 
@@ -70,7 +70,7 @@ L'USS *Santa Fe* offre ainsi une métaphore particulièrement puissante de l'arc
 
 Entre ces deux extrêmes apparaît la véritable architecture : distribuer l'intelligence et l'autorité sans perdre la cohérence. C'est exactement ce qui rend le modèle de Marquet si intéressant pour les systèmes d'information modernes, dans lesquels la complexité ne permet plus à une seule équipe ou à une seule personne de comprendre l'ensemble avec suffisamment de détail pour décider de tout.
 
-## Chapitre 8 — La transformation du Santa Fe
+## Chapitre 8 - La transformation du Santa Fe
 
 Les performances du *Santa Fe* s'améliorent au cours du commandement de Marquet, et l'U.S. Naval Institute comme les publications de l'US Navy présentent aujourd'hui cette transformation comme une réussite du modèle Leader-Leader, associée à une amélioration des performances et du moral. Marquet affirme de son côté que le bâtiment est passé des plus mauvais résultats aux meilleurs classements en matière opérationnelle et de rétention et que plusieurs hommes ayant servi dans cette organisation ont ensuite accédé à des responsabilités importantes, dont dix futurs commandants de sous-marins.
 
@@ -78,7 +78,7 @@ Ces chiffres sont largement repris dans sa biographie et dans ses interventions,
 
 Les sources permettent néanmoins d'établir qu'il a effectivement commandé l'USS *Santa Fe* de 1999 à 2001, que son approche Leader-Leader a été mise en œuvre à bord, qu'elle reposait sur la distribution de l'autorité accompagnée de mécanismes de compétence et de clarté, et que des publications professionnelles de la marine américaine présentent la transformation comme ayant amélioré les performances du bâtiment. Les descriptions telles que « worst to first », les chiffres précis de rétention ou le nombre de futurs commandants sont davantage dépendants du récit de Marquet et de son éditeur ; ils peuvent être cités, mais avec cette réserve méthodologique.
 
-## Chapitre 9 — Une idée qui quitte le monde des sous-marins
+## Chapitre 9 - Une idée qui quitte le monde des sous-marins
 
 Après son départ de l'US Navy en 2009, Marquet fera de cette expérience la matière d'un ouvrage, *Turn the Ship Around!*, publié en 2013 dans son édition américaine de référence. L'U.S. Naval Institute en publie la même année une recension qui décrit explicitement sa tentative de transformer le *Santa Fe* à travers une approche Leader-Leader et considère que les méthodes exposées ont produit des résultats mesurables sur le bâtiment. Le livre permettra à cette histoire de sortir de l'univers très particulier des sous-marins nucléaires pour entrer dans les entreprises, les écoles de management et les réflexions contemporaines sur les organisations distribuées.
 
@@ -86,7 +86,7 @@ Il serait cependant dommage de réduire l'histoire de Marquet à une nouvelle m�
 
 Dans un environnement complexe où l'information est abondante, spécialisée et rapidement périssable, cette architecture atteint ses limites. Celui qui possède l'autorité ne possède pas nécessairement la connaissance la plus pertinente au moment où la décision doit être prise. L'enjeu n'est donc plus simplement de mieux transmettre l'information vers le sommet, mais de construire des systèmes dans lesquels la décision peut rester au plus près de la connaissance sans perdre l'alignement général.
 
-## Chapitre 10 — Ne plus être indispensable
+## Chapitre 10 - Ne plus être indispensable
 
 C'est peut-être ainsi qu'il faut imaginer Marquet à la fin de cette transformation, non comme le commandant qui aurait enfin appris tous les secrets techniques de son sous-marin, mais comme celui qui aurait progressivement cessé d'avoir besoin de les connaître tous. Son véritable progrès n'était pas d'être devenu le cerveau le plus puissant du système, mais d'avoir compris que le système possédait déjà des dizaines de cerveaux et que son rôle consistait à leur permettre de fonctionner ensemble. Là se trouve probablement la partie la plus inspirante de son expérience : la maturité du leader commence peut-être lorsqu'il cesse de mesurer son importance au nombre de décisions qui ont besoin de lui.
 
@@ -96,7 +96,7 @@ Si l'organisation a continuellement besoin de son architecte pour fonctionner, c
 
 Dans le vocabulaire de l'architecture, il ne devient plus le processeur central chargé d'exécuter toutes les opérations, mais le concepteur des règles qui permettent à un système distribué de rester cohérent. Ce changement de posture ne diminue pas son importance ; il la déplace du traitement des décisions vers la conception du système qui permet aux décisions d'émerger correctement.
 
-## Chapitre 11 — La véritable leçon du Santa Fe
+## Chapitre 11 - La véritable leçon du Santa Fe
 
 L'histoire avait pourtant commencé par un ordre impossible transmis parce qu'il venait du capitaine. C'est peut-être ce détail qui lui donne toute sa force, car les transformations importantes ne commencent pas toujours par de grandes visions stratégiques ; elles commencent parfois par un petit dysfonctionnement qui révèle soudain la véritable architecture d'un système. Ce jour-là, quelque part dans les entrailles de l'USS *Santa Fe*, Marquet découvre que son problème le plus dangereux n'est pas qu'un marin refuse d'obéir à son capitaine, mais qu'il puisse lui obéir alors même qu'il sait que son capitaine se trompe.
 
@@ -106,31 +106,31 @@ Au fond, Marquet n'a pas seulement appris à « retourner le bateau », comme le
 
 Et sous plusieurs centaines de mètres d'eau, dans un environnement où la moindre erreur rappelle brutalement que les systèmes complexes ne pardonnent pas l'approximation, il a mis en évidence une idée qui dépasse largement le monde naval : **le rôle ultime d'un architecte ou d'un leader n'est pas de devenir indispensable au système, mais de concevoir un système capable de rester intelligent lorsqu'il n'est pas là.**
 
-### Pour aller plus loin — Sources et fact-checking
+### Pour aller plus loin - Sources et fact-checking
 
-Pour approfondir l'histoire de David Marquet et vérifier les faits présentés dans ce récit, il est préférable de croiser plusieurs catégories de sources. Les publications de l'US Navy et de l'U.S. Naval Institute sont particulièrement utiles pour confirmer son parcours militaire, son commandement de l'USS *Santa Fe* et la reconnaissance de son approche du leadership. Le site personnel de David Marquet constitue quant à lui une source de première main précieuse pour comprendre son témoignage et certains épisodes précis, mais les affirmations qui y figurent — notamment les classements de performance ou certains chiffres — doivent être considérées comme des éléments autobiographiques et, lorsque cela est possible, recoupées avec des sources indépendantes.
+Pour approfondir l'histoire de David Marquet et vérifier les faits présentés dans ce récit, il est préférable de croiser plusieurs catégories de sources. Les publications de l'US Navy et de l'U.S. Naval Institute sont particulièrement utiles pour confirmer son parcours militaire, son commandement de l'USS *Santa Fe* et la reconnaissance de son approche du leadership. Le site personnel de David Marquet constitue quant à lui une source de première main précieuse pour comprendre son témoignage et certains épisodes précis, mais les affirmations qui y figurent - notamment les classements de performance ou certains chiffres - doivent être considérées comme des éléments autobiographiques et, lorsque cela est possible, recoupées avec des sources indépendantes.
 
-* [U.S. Naval Institute — Proceedings] (https://www.usni.org/){ target="_blank" }  
+* [U.S. Naval Institute - Proceedings] (https://www.usni.org/){ target="_blank" }  
   Source professionnelle majeure pour vérifier le parcours de Marquet, son grade, son expérience de commandement et les analyses publiées sur son approche du leadership.
 
-* [U.S. Naval Institute — recension de *Turn the Ship Around!* (2013)]
+* [U.S. Naval Institute - recension de *Turn the Ship Around!* (2013)]
 (https://www.usni.org/magazines/proceedings/2013/november/book-reviews){ target="_blank" }  
   Utile pour vérifier la réception professionnelle de son expérience et l'existence du modèle Leader-Leader dès la publication de l'ouvrage.
 
-* [Naval Aviation News — U.S. Navy] (https://navalaviationnews.navy.mil/Editorial-Staff-Tools/Article-Submission/Article/4258451/editors-choice/){ target="_blank" }  
+* [Naval Aviation News - U.S. Navy] (https://navalaviationnews.navy.mil/Editorial-Staff-Tools/Article-Submission/Article/4258451/editors-choice/){ target="_blank" }  
   Publication officielle de l'US Navy décrivant le modèle Leader-Leader, le déplacement de l'autorité vers le niveau où se trouve l'expertise, ainsi que les notions de contrôle, compétence et clarté.
 
-* [David Marquet — “My Story”](https://davidmarquet.com/my-story/){ target="_blank" }  
+* [David Marquet - “My Story”](https://davidmarquet.com/my-story/){ target="_blank" }  
   Source autobiographique essentielle pour l'épisode du « ahead two-thirds », sa préparation initiale pour l'USS *Olympia* et son propre récit de la transformation du *Santa Fe*. Les chiffres très précis issus de cette page doivent néanmoins être considérés comme des affirmations de l'auteur.
 
-* [Penguin Random House — *Turn the Ship Around!*](https://www.penguinrandomhouse.com/books/314163/turn-the-ship-around-by-l-david-marquet/){ target="_blank" }  
+* [Penguin Random House - *Turn the Ship Around!*](https://www.penguinrandomhouse.com/books/314163/turn-the-ship-around-by-l-david-marquet/){ target="_blank" }  
   Permet de vérifier les références bibliographiques de l'ouvrage et de retrouver la présentation générale du parcours raconté par Marquet.
 
-* [Penguin Random House — biographie de L. David Marquet](https://www.penguinrandomhouse.com/authors/304730/l-david-marquet/){ target="_blank" }  
+* [Penguin Random House - biographie de L. David Marquet](https://www.penguinrandomhouse.com/authors/304730/l-david-marquet/){ target="_blank" }  
   Source complémentaire pour vérifier sa période de commandement de l'USS *Santa Fe* et son parcours ultérieur comme auteur et consultant.
 
 ---
 
-* [HumanOps — Être](../humanops/etre.md)
-* [HumanOps — Agir](../humanops/agir.md)
-* [HumanOps — Manager](../humanops/manager.md)
+* [HumanOps - Être](../humanops/etre.md)
+* [HumanOps - Agir](../humanops/agir.md)
+* [HumanOps - Manager](../humanops/manager.md)

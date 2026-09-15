@@ -19,7 +19,9 @@ Je revois mon grand-père partir au jardin avec la mare sur l'épaule, le manche
 
 ## Pour aller plus loin
 
+* [Emploi de « marre » dans « en avoir marre »Académie française (autre sens : en avoir assez)](https://www.dictionnaire-academie.fr/article/A9M1201){ target="_blank" }
+* [Définition de « mare »Académie française (autre sens : étendue d’eau)](https://www.dictionnaire-academie.fr/article/A9M1063){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/marre){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/marre){ target="_blank" }
-* [Variante « mare » — Wiktionnaire](https://fr.wiktionary.org/wiki/mare){ target="_blank" }
-* [Grammaire et dictionnaire du patois bourbonnais — Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
+* [Variante « mare »Wiktionnaire](https://fr.wiktionary.org/wiki/mare){ target="_blank" }
+* [Grammaire et dictionnaire du patois bourbonnaisPaul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }

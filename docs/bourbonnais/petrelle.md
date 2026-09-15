@@ -10,4 +10,4 @@ Une **petrelle**, c'est une jeune femme vive, extravagante, expansive, de celles
 
 ## On dit aussi
 
-extravertie, extravagante, écervelée, délurée
+Extravertie, extravagante, écervelée, délurée

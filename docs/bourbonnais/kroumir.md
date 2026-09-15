@@ -14,6 +14,6 @@ Vieux grincheux, vieux ronchon, vieux rétrograde, vieux réac, vieux bougon
 
 ## Pour aller plus loin
 
-* [Kroumir, ancien emploi argotique : « voyou, malotru » — CNRTL](https://www.cnrtl.fr/definition/kroumir){ target="_blank" }
-* [Kroumir — Dictionnaire vivant de la langue française](https://dvlf.uchicago.edu/mot/kroumir){ target="_blank" }
-* [Kroumir, chausson porté dans les sabots — Académie française](https://www.dictionnaire-academie.fr/article/A9K0178){ target="_blank" }
+* [Kroumir, ancien emploi argotique : « voyou, malotru » - CNRTL](https://www.cnrtl.fr/definition/kroumir){ target="_blank" }
+* [Kroumir - Dictionnaire vivant de la langue française](https://dvlf.uchicago.edu/mot/kroumir){ target="_blank" }
+* [Kroumir, chausson porté dans les sabots - Académie française](https://www.dictionnaire-academie.fr/article/A9K0178){ target="_blank" }

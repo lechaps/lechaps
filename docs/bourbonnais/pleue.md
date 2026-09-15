@@ -10,8 +10,8 @@ La **pleue**, c'est la pluie, celle qu'on voit venir de loin au-dessus des haies
 
 ## On dit aussi
 
-pluie
+Pluie
 
 ## Pour aller plus loin
 
-* [« Pleue » au sens de « pluie » — Petit Recueil du parler de Diou](https://projetbabel.org/diou/p.htm){ target="_blank" }
+* [« Pleue » au sens de « pluie » - Petit Recueil du parler de Diou](https://projetbabel.org/diou/p.htm){ target="_blank" }

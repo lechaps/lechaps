@@ -14,8 +14,8 @@ Allez donc, en avant, dépêche-toi, courage, au travail, [an z'y](./an-z-y.md)
 
 ## Pour aller plus loin
 
-* [« Hardi petit ! », exclamation exprimant la hâte — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/hij.htm){ target="_blank" }
-* [Petit recueil du parler de Diou — Roger Gilliet](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
-* [Définition de « hardi » — CNRTL](https://www.cnrtl.fr/definition/hardi){ target="_blank" }
-* [Définition de « hardi » — Académie française](https://www.dictionnaire-academie.fr/article/A9H0180){ target="_blank" }
-* [Définition de « hardi-petit » — Wiktionnaire](https://fr.wiktionary.org/wiki/hardi-petit){ target="_blank" }
+* [« Hardi petit ! », exclamation exprimant la hâte - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/hij.htm){ target="_blank" }
+* [Petit recueil du parler de Diou - Roger Gilliet](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Définition de « hardi » - CNRTL](https://www.cnrtl.fr/definition/hardi){ target="_blank" }
+* [Définition de « hardi » - Académie française](https://www.dictionnaire-academie.fr/article/A9H0180){ target="_blank" }
+* [Définition de « hardi-petit » - Wiktionnaire](https://fr.wiktionary.org/wiki/hardi-petit){ target="_blank" }

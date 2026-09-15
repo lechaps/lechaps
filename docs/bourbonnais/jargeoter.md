@@ -10,11 +10,11 @@
 
 ## On dit aussi
 
-Jargeaud, jargeot, jarjot, jarjoter, rabâcher, radoter, bavasser
+Rabâcher, radoter, bavasser
 
 ## Pour aller plus loin
 
-* [Jargeoter et jargeaud — Petit recueil du parler de Diou](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
-* [Jargeot — Le parler bourbonnais de Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
-* [Jargeot et jargeoter — Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
-* [Jargeot — Quelques mots de patois bourbonnais](https://www.zerotrois.fr/baignereau/bourbonnais/patois){ target="_blank" }
+* [Jargeoter et jargeaud - Petit recueil du parler de Diou](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Jargeot - Le parler bourbonnais de Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
+* [Jargeot et jargeoter - Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Jargeot - Quelques mots de patois bourbonnais](https://www.zerotrois.fr/baignereau/bourbonnais/patois){ target="_blank" }

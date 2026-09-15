@@ -6,23 +6,23 @@ Bienvenue dans **la loi de Sarnoff**.
 
 > The value of a broadcast network is proportional to the number of viewers - David Sarnoff
 
-Autrement dit : **Dans un système en diffusion, chaque nouvel utilisateur ajoute de la valeur — mais seulement linéairement.**
+Autrement dit : **Dans un système en diffusion, chaque nouvel utilisateur ajoute de la valeur - mais seulement linéairement.**
 
 Bref : **Plus il y a d'audience, plus ça vaut**.
 
 ## Pourquoi la loi de Sarnoff est si parlante
 
-* **C'est la loi des médias à sens unique**. Imagine une station de radio, une chaîne télé ou une newsletter : plus il y a d'auditeurs, de téléspectateurs ou d'abonnés, **plus la diffusion a de valeur** — pour les annonceurs, les marques ou les créateurs.
+* **C'est la loi des médias à sens unique**. Imagine une station de radio, une chaîne télé ou une newsletter : plus il y a d'auditeurs, de téléspectateurs ou d'abonnés, **plus la diffusion a de valeur** - pour les annonceurs, les marques ou les créateurs.
 * **Elle mesure l'effet d'audience, pas d'interaction**. Dans le modèle de Sarnoff, **un seul émetteur** parle à **une foule de récepteurs**. La valeur augmente avec la taille de l'audience, mais **les utilisateurs ne se connectent pas entre eux**. C'est une vision **linéaire** de la valeur du réseau : 1 vers N.
 * **Elle est devenue le socle de la communication de masse**. Plus un média touche de gens, plus il pèse économiquement et culturellement. C'est la loi qui explique pourquoi **Super Bowl**, **YouTube**, **Instagram** ou **Netflix** valent des milliards : l'audience, c'est la monnaie du réseau.
 
-Mais dans un monde où les utilisateurs peuvent aussi interagir — commenter, partager, créer des groupes —, cette loi montre vite ses limites.
+Mais dans un monde où les utilisateurs peuvent aussi interagir - commenter, partager, créer des groupes —, cette loi montre vite ses limites.
 C'est là que **Metcalfe** (les connexions) et **Reed** (les communautés) prennent le relais.
 
 ## D'où vient la loi de Sarnoff ?
 
 Cette loi porte le nom de **David Sarnoff** (1891–1971), **pionnier américain de la radiodiffusion** et président de la **RCA (Radio Corporation of America)**.  
-Visionnaire, Sarnoff voyait dans la radio et la télévision des réseaux capables de **connecter le monde entier** — mais sous un modèle centralisé, dominé par les grands diffuseurs.  
+Visionnaire, Sarnoff voyait dans la radio et la télévision des réseaux capables de **connecter le monde entier** - mais sous un modèle centralisé, dominé par les grands diffuseurs.  
 
 Il aurait formulé cette idée dans les années **1930–1940**, à l'époque où les réseaux de communication étaient avant tout **des systèmes de diffusion unidirectionnels**.  
 Chaque nouvel utilisateur (auditeur, abonné, téléspectateur) augmentait **directement** la valeur du réseau, **sans interaction entre eux**.  
@@ -33,16 +33,16 @@ La loi de Sarnoff est donc **la première des "lois des réseaux"**, celle qui p
 
 En somme, la **loi de Sarnoff** nous rappelle d'où vient la valeur de l'audience : du **nombre**, pas encore du **lien**.  
 C'est la loi d'un monde où l'on écoutait, pas où l'on répondait.  
-Un monde où la puissance venait du mégaphone — avant que l'interconnexion ne donne la parole à tout le monde.
+Un monde où la puissance venait du mégaphone - avant que l'interconnexion ne donne la parole à tout le monde.
 
 ## Et si l'audience n'était que le premier étage de la valeur ?
 
 La loi de Sarnoff explique la valeur des réseaux à sens unique : plus il y a de spectateurs, plus le média vaut.
 Mais dès que les utilisateurs peuvent se connecter entre eux, cette croissance linéaire devient insuffisante.
 
-Pour comprendre comment on passe de la diffusion aux liens, puis aux communautés — et enfin à la valeur d'usage — il faut mettre Sarnoff en perspective avec trois autres lois.
+Pour comprendre comment on passe de la diffusion aux liens, puis aux communautés - et enfin à la valeur d'usage - il faut mettre Sarnoff en perspective avec trois autres lois.
 
-**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom — Réseaux](../humanops/network.md)**
+**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom - Réseaux](../humanops/network.md)**
 
 ### Références
 

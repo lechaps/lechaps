@@ -1,6 +1,6 @@
 # Carlson
 
-Tu connais ce moment où tu travailles concentré, en plein dans ton élan… et *ding* — une notification, un message, une réunion qui tombe ? Tu reviens à ta tâche, mais il te faut quelques minutes pour retrouver le fil.
+Tu connais ce moment où tu travailles concentré, en plein dans ton élan… et *ding* - une notification, un message, une réunion qui tombe ? Tu reviens à ta tâche, mais il te faut quelques minutes pour retrouver le fil.
 
 Bienvenue dans **la loi de Carlson**.
 
@@ -8,7 +8,7 @@ Bienvenue dans **la loi de Carlson**.
 
 Autrement dit : **ce qui compte n'est pas le temps travaillé, mais le temps continu.** Chaque interruption casse ton momentum et augmente le coût réel de la tâche.
 
-Bref : **Interrompre, c'est diviser — se concentrer, c'est multiplier**.
+Bref : **Interrompre, c'est diviser - se concentrer, c'est multiplier**.
 
 Ce principe explique pourquoi **les interruptions réduisent l'efficacité et augmentent l'effort mental** : la coupure n'est pas seulement une perte de temps… elle est surtout une perte d'énergie cognitive.
 
@@ -16,7 +16,7 @@ Ce principe explique pourquoi **les interruptions réduisent l'efficacité et au
 
 * Chaque fois qu'**on interrompt une tâche, on doit reconstruire le contexte**.
 * Le cerveau doit **se souvenir de ce qu'il faisait**, et **remonter en intensité de concentration**.
-* Cette reconstruction demande du temps, mais aussi de l'énergie — souvent plus qu'on ne l'imagine.
+* Cette reconstruction demande du temps, mais aussi de l'énergie - souvent plus qu'on ne l'imagine.
 * À l'inverse, **le travail continu facilite l'accès au "flow"**, cet état où tout s'enchaîne naturellement.
 
 En résumé, la loi de Carlson nous montre que l'efficacité n'est pas qu'une affaire d'organisation, mais **de continuité attentionnelle**.

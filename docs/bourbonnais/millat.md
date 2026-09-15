@@ -1,6 +1,6 @@
 # Millat
 
-Le **millat**, ou **meillat**, c'est notre clafoutis bourbonnais : une pâte épaisse de farine, de lait, d'œufs et de sucre, dans laquelle on jette des **greutes** — des cerises — ou des prunes, en leur laissant les noyaux, parce qu'autrefois on avait de bonnes dents, de la patience et moins de formulaires d'assurance. Rien à voir, donc, avec une danse marseillaise : on peut danser le Mia, certes, mais le millat, lui, se mange assis, de préférence après refroidissement et avant que les gourmands ne découvrent le plat. 
+Le **millat**, ou **meillat**, c'est notre clafoutis bourbonnais : une pâte épaisse de farine, de lait, d'œufs et de sucre, dans laquelle on jette des **greutes** ou des prunes, en leur laissant les noyaux, parce qu'autrefois on avait de bonnes dents, de la patience et moins de formulaires d'assurance. Rien à voir, donc, avec une danse marseillaise : on peut danser le Mia, certes, mais le millat, lui, se mange assis, de préférence après refroidissement et avant que les gourmands ne découvrent le plat. 
 
 ## Exemple
 
@@ -10,7 +10,7 @@ Le **millat**, ou **meillat**, c'est notre clafoutis bourbonnais : une pâte ép
 
 ## On dit aussi
 
-meillat, clafoutis, millard
+Meillat, clafoutis, millard
 
 ## Souvenir
 
@@ -37,5 +37,5 @@ Laissez refroidir et dégustez.
 ## Pour aller plus loin
 
 * [Le millat ou meillat dans la gastronomie de Monétay-sur-Allier](https://monetay3.free.fr/gastronomie.php){ target="_blank" }
-* [Définition de « millard » et mention de la variante bourbonnaise « millat » — Wiktionnaire](https://fr.wiktionary.org/wiki/millard){ target="_blank" }
-* [Définition du clafoutis — CNRTL](https://www.cnrtl.fr/definition/clafoutis){ target="_blank" }
+* [Définition de « millard » et mention de la variante bourbonnaise « millat »Wiktionnaire](https://fr.wiktionary.org/wiki/millard){ target="_blank" }
+* [Définition du clafoutisCNRTL](https://www.cnrtl.fr/definition/clafoutis){ target="_blank" }

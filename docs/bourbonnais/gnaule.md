@@ -14,6 +14,7 @@ Goutte, eau-de-vie, tord-boyaux
 
 ## Pour aller plus loin
 
+* [Définition de « gnole » - Académie française](https://www.dictionnaire-academie.fr/article/A9G0920){ target="_blank" }
 * [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9G0920-A){ target="_blank" }
 * [Définition et étymologie du CNRTL](https://www.cnrtl.fr/lexicographie/gn%C3%B4le){ target="_blank" }
 * [Définition du Larousse](https://www.larousse.fr/dictionnaires/francais/gnole/37344){ target="_blank" }

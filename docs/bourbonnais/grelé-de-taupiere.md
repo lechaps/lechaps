@@ -14,7 +14,7 @@ Gringalet, maigrichon, demi-portion, [sec comme un courlis](./courlis.md)
 
 ## Pour aller plus loin
 
-* [Forme apparentée « grelet », au sens de chétif ou malingre — Wiktionnaire](https://fr.wiktionary.org/wiki/grelet){ target="_blank" }
-* [Définition de « gringalet » — CNRTL](https://www.cnrtl.fr/definition/gringalet){ target="_blank" }
-* [Définition de « gringalet » — Académie française](https://www.dictionnaire-academie.fr/article/A9G1527){ target="_blank" }
-* [Attestations de « taupière » et de « gringalet » — Dictionnaire patois de la Bresse louhannaise](https://archive.org/stream/dictionnairepato00guiluoft/dictionnairepato00guiluoft_djvu.txt){ target="_blank" }
+* [Forme apparentée « grelet », au sens de chétif ou malingre - Wiktionnaire](https://fr.wiktionary.org/wiki/grelet){ target="_blank" }
+* [Définition de « gringalet » - CNRTL](https://www.cnrtl.fr/definition/gringalet){ target="_blank" }
+* [Définition de « gringalet » - Académie française](https://www.dictionnaire-academie.fr/article/A9G1527){ target="_blank" }
+* [Attestations de « taupière » et de « gringalet » - Dictionnaire patois de la Bresse louhannaise](https://archive.org/stream/dictionnairepato00guiluoft/dictionnairepato00guiluoft_djvu.txt){ target="_blank" }

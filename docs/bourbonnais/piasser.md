@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-coller aux chaussures, s'empâter, s'engluer
+Coller aux chaussures, s'empâter, s'engluer

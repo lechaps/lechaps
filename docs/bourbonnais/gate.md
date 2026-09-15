@@ -14,6 +14,6 @@ Fille, jeune fille, la petite, la gamine
 
 ## Pour aller plus loin
 
-* [Gâte, « petite fille » — Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://archive.org/stream/grammaireetdicti00duchuoft/grammaireetdicti00duchuoft_djvu.txt){ target="_blank" }
-* [Gatte, féminin de gars — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/g.htm){ target="_blank" }
-* [Gas et gatte, « garçon et fille » — Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Gâte, « petite fille » - Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://archive.org/stream/grammaireetdicti00duchuoft/grammaireetdicti00duchuoft_djvu.txt){ target="_blank" }
+* [Gatte, féminin de gars - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/g.htm){ target="_blank" }
+* [Gas et gatte, « garçon et fille » - Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }

@@ -13,7 +13,7 @@ Bref : **si tu t'arrêtes, le monde continue sans toi**.
 ## Pourquoi la loi de la Red Queen est si frappante
 
 La loi de la Red Queen explique un phénomène simple mais brutal :
-dans un environnement compétitif et en évolution constante, **l'amélioration n'est plus un avantage — c'est une condition de survie**.
+dans un environnement compétitif et en évolution constante, **l'amélioration n'est plus un avantage - c'est une condition de survie**.
 
 * **Ne rien faire**, c'est **reculer**.
 * **S'améliorer**, c'est souvent **juste rester à flot**.
@@ -26,7 +26,7 @@ C'est contre-intuitif, et pourtant omniprésent :
 * Les produits **s'alourdissent de fonctionnalités** pour suivre le marché… sans forcément créer plus de valeur.
 
 La Red Queen nous rappelle une réalité inconfortable :
-**l'effort constant n'est pas synonyme de progrès — parfois, c'est juste le prix du statu quo**.
+**l'effort constant n'est pas synonyme de progrès - parfois, c'est juste le prix du statu quo**.
 
 ## La Red Queen à l'œuvre partout
 
@@ -34,7 +34,7 @@ Quelques exemples concrets :
 
 * **Les startups**
   Elles lèvent toujours plus, recrutent toujours plus, shipent toujours plus vite…
-  non pas pour gagner — mais pour **ne pas se faire dépasser**.
+  non pas pour gagner - mais pour **ne pas se faire dépasser**.
 
 * **Le SEO et les réseaux sociaux**
   Tu publies plus, tu optimises plus, tu analyses plus…
@@ -84,7 +84,7 @@ Depuis, la loi de la Red Queen s'est imposée en :
 * technologie.
 
 Elle met des mots sur une vérité moderne :
-**le changement n'est plus ponctuel — il est structurel**.
+**le changement n'est plus ponctuel - il est structurel**.
 
 ## Ce que la loi de la Red Queen nous apprend
 

@@ -6,9 +6,13 @@ Et puis le bisiau, c'est aussi ce vent froid qui vous traverse les vêtements co
 
 ## Exemple
 
+### Ce qui est froid
+
 *Ça passe à coté d'nous sans nous dire bonjour, comme des bisiaux.*
 
 > « Observez donc ces distingués personnages dont la remarquable élévation sociale semble désormais incompatible avec les usages élémentaires de la politesse villageoise. »
+
+### Ce qui est glacial
 
 *Sarre'don la porte, ça caille, y'a l'bisiau qui rentre.*
 

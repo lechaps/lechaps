@@ -14,8 +14,9 @@ Gros rat, rat des granges, rat d'écurie
 
 ## Pour aller plus loin
 
-* [Grammaire et dictionnaire du patois bourbonnais — Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
-* [Petit recueil du parler de Diou — Roger Gilliet](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
-* [Le parler bourbonnais — Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
-* [Quelques mots de patois bourbonnais — ZeroTrois](https://www.zerotrois.fr/baignereau/bourbonnais/patois){ target="_blank" }
-* [Définition dialectale de « liron » — CNRTL](https://www.cnrtl.fr/definition/liron){ target="_blank" }
+* [Définition de « liron » - Académie française, 8e édition (renvoi à « lérot »)](https://www.dictionnaire-academie.fr/article/A8L0642){ target="_blank" }
+* [Grammaire et dictionnaire du patois bourbonnais - Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
+* [Petit recueil du parler de Diou - Roger Gilliet](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Le parler bourbonnais - Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
+* [Quelques mots de patois bourbonnais - ZeroTrois](https://www.zerotrois.fr/baignereau/bourbonnais/patois){ target="_blank" }
+* [Définition dialectale de « liron » - CNRTL](https://www.cnrtl.fr/definition/liron){ target="_blank" }

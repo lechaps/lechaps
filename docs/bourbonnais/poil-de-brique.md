@@ -10,10 +10,10 @@ Un **poil de brique**, c'est un roux, quelqu'un dont les cheveux tirent sur le c
 
 ## On dit aussi
 
-roux, tête rousse, rouquin, poil de carotte
+Roux, tête rousse, rouquin, poil de carotte
 
 ## Pour aller plus loin
 
-* [« Poil de brique » au sens de « roux » — Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/7658){ target="_blank" }
-* [Attestations historiques de « poil de brique » — Argot français de 1808 à 1907](https://www.argoji.net/page.php?a=Poil+de+brique&l=FrFr){ target="_blank" }
-* [« Poil de brique » parmi les emplois populaires de « poil » — Dictionnaire vivant de la langue française](https://dvlf.uchicago.edu/mot/poil){ target="_blank" }
+* [« Poil de brique » au sens de « roux » - Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/7658){ target="_blank" }
+* [Attestations historiques de « poil de brique » - Argot français de 1808 à 1907](https://www.argoji.net/page.php?a=Poil+de+brique&l=FrFr){ target="_blank" }
+* [« Poil de brique » parmi les emplois populaires de « poil » - Dictionnaire vivant de la langue française](https://dvlf.uchicago.edu/mot/poil){ target="_blank" }

@@ -14,6 +14,6 @@ Prendre son envol, quitter le nid, prendre son indépendance, s'émanciper, vole
 
 ## Pour aller plus loin
 
-* [Fornier — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/f.htm){ target="_blank" }
-* [Fornier et forgner — Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
-* [Forniat — Patois bourbonnais de Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }
+* [Fornier - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/f.htm){ target="_blank" }
+* [Fornier et forgner - Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Forniat - Patois bourbonnais de Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }

@@ -19,6 +19,6 @@ Dans les deux cas, l'homme est saturé, ruisselant, plus tout à fait étanche :
 
 ## Pour aller plus loin
 
-* [Définition de « arsouiller » — CNRTL](https://www.cnrtl.fr/definition/arsouiller){ target="_blank" }
-* [Définition de « arsouiller » — Wiktionnaire](https://fr.wiktionary.org/wiki/arsouiller){ target="_blank" }
-* [« S'arsouiller » au sens de « boire jusqu'à être ivre » — Patois bourbonnais](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Définition de « arsouiller » - CNRTL](https://www.cnrtl.fr/definition/arsouiller){ target="_blank" }
+* [Définition de « arsouiller » - Wiktionnaire](https://fr.wiktionary.org/wiki/arsouiller){ target="_blank" }
+* [« S'arsouiller » au sens de « boire jusqu'à être ivre » - Patois bourbonnais](https://syt58.fr/genealogie/patois.php){ target="_blank" }

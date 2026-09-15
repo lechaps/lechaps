@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-pardieu, ma foi, bien sûr, évidemment
+Pardieu, ma foi, bien sûr, évidemment
 
 ## Pour aller plus loin
 

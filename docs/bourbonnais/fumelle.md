@@ -14,5 +14,5 @@ Femme, fille
 
 ## Pour aller plus loin
 
-* [Fumelle — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/f.htm){ target="_blank" }
+* [Fumelle - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/f.htm){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/lexicographie/fumelle){ target="_blank" }

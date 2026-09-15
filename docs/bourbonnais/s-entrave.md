@@ -1,6 +1,6 @@
 # S'entraver
 
-**S'entraver**, c'est se prendre les pieds dans une racine, un barreau d'échelle, une ficelle, parfois dans le vide — les maladroits possèdent des obstacles que la science n'a pas encore répertoriés — et finir par **se casser la gueule** avec une ampleur variable. Le pied reste, le reste du corps poursuit sa route, et la pesanteur, vieille fonctionnaire incorruptible, règle aussitôt le différend. On peut trébucher avec discrétion ; quand on s'entrave, généralement, les bras moulinent, la casquette s'envole et toute la cour profite de la représentation.
+**S'entraver**, c'est se prendre les pieds dans une racine, un barreau d'échelle, une ficelle, parfois dans le vide. Les maladroits possèdent des obstacles que la science n'a pas encore répertoriés, et finir par **se casser la gueule** avec une ampleur variable. Le pied reste, le reste du corps poursuit sa route, et la pesanteur, vieille fonctionnaire incorruptible, règle aussitôt le différend. On peut trébucher avec discrétion ; quand on s'entrave, généralement, les bras moulinent, la casquette s'envole et toute la cour profite de la représentation.
 
 ## Exemple
 
@@ -10,9 +10,10 @@
 
 ## On dit aussi
 
-s'antraver, trébucher, s'empêtrer, se casser la margoulette, bicher sa grand-mère
+S'antraver, trébucher, s'empêtrer, se casser la margoulette, bicher sa grand-mère
 
 ## Pour aller plus loin
 
-* [Emploi bourbonnais de « s'entraver » — Petit Recueil du parler de Diou](https://projetbabel.org/diou/b.htm){ target="_blank" }
-* [Définition et attestations de « s'entraver » — CNRTL](https://www.cnrtl.fr/definition/entraver){ target="_blank" }
+* [Définition de « entraver » - Académie française](https://www.dictionnaire-academie.fr/article/A9E1922){ target="_blank" }
+* [Emploi bourbonnais de « s'entraver » - Petit Recueil du parler de Diou](https://projetbabel.org/diou/b.htm){ target="_blank" }
+* [Définition et attestations de « s'entraver » - CNRTL](https://www.cnrtl.fr/definition/entraver){ target="_blank" }

@@ -20,5 +20,5 @@ Je l'entends encore dans la bouche de mon grand oncle, le parrain de ma mère : 
 
 ## Pour aller plus loin
 
-* [« Nieut ou gneut » — nuit, dans la Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://studylibfr.com/doc/4308539/grammaire-et-dictionnaire-du-patois-bourbonnais){ target="_blank" }
-* [« Neu » — nuit, dans les Études historiques sur le Forez](https://upload.wikimedia.org/wikipedia/commons/5/5a/%C3%89tudes_historiques_sur_le_Forez_Chronique_des_chateaux_et_des_abbayes_%28IA_bub_gb_RzooAAAAYAAJ%29.pdf){ target="_blank" }
+* [« Nieut ou gneut »nuit, dans la Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://studylibfr.com/doc/4308539/grammaire-et-dictionnaire-du-patois-bourbonnais){ target="_blank" }
+* [« Neu »nuit, dans les Études historiques sur le Forez](https://upload.wikimedia.org/wikipedia/commons/5/5a/%C3%89tudes_historiques_sur_le_Forez_Chronique_des_chateaux_et_des_abbayes_%28IA_bub_gb_RzooAAAAYAAJ%29.pdf){ target="_blank" }

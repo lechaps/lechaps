@@ -10,11 +10,11 @@ Le **brelot**, ou **berlaud**, c'est celui qui met un peu de temps à rejoindre 
 
 ## On dit aussi
 
-Berlaud, brelaud, brelot, beurlaud, [bredin](./bredin.md), fada, simplet, nigaud
+[Bredin](./bredin.md), fada, simplet, nigaud
 
 ## Souvenir
 
-Le mot **brelot** me fait surtout penser à René Fallet et à *La Soupe aux choux*. Il l'emploie notamment dans *fin brelot*, et ça suffit à faire entendre tout un pays : le Glaude, le Bombé, les voisins, la soupe, les sabots, la peur d'être pris pour plus fou qu'on ne l'est déjà. Fallet ne met pas ces mots sous vitrine ; il les laisse parler comme on parle au village, avec rudesse, drôlerie et un fond de bonté.
+Le mot **brelot** me fait surtout penser à René Fallet et à *La Soupe aux choux*. Il l'emploie notamment dans **fin brelot**, et ça suffit à faire entendre tout un pays : le Glaude, le Bombé, les voisins, la soupe, les sabots, la peur d'être pris pour plus fou qu'on ne l'est déjà. Fallet ne met pas ces mots sous vitrine ; il les laisse parler comme on parle au village, avec rudesse, drôlerie et un fond de bonté.
 
 ## Pour aller plus loin
 

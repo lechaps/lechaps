@@ -10,7 +10,7 @@ Un **pignouf**, c'est un individu mal dégrossi, impoli, rustre, un goujat qui e
 
 ## On dit aussi
 
-rustre, goujat, malotru, mufle, grossier personnage, ébouriffé
+Rustre, goujat, malotru, mufle, grossier personnage, ébouriffé
 
 ## Pour aller plus loin
 

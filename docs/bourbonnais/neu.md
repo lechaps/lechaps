@@ -1,6 +1,6 @@
 # Neu(ve)
 
-**Neu**, au masculin, **neuve** au féminin : c'est tout simplement **neuf**, mais débarrassé de son *f* final, laissé quelque part au bord du chemin comme un bouton de biaude après la moisson. On disait une veste neuve, un couteau neu, des souliers encore raides de boutique — ces choses qu'on regardait avec plaisir, qu'on ménageait trois jours, puis qu'on salissait consciencieusement pour leur apprendre la vie.
+**Neu**, au masculin, **neuve** au féminin : c'est tout simplement **neuf**, mais débarrassé de son *f* final, laissé quelque part au bord du chemin comme un bouton de biaude après la moisson. On disait une veste neuve, un couteau neu, des souliers encore raides de boutique. Ces choses qu'on regardait avec plaisir, qu'on ménageait trois jours, puis qu'on salissait consciencieusement pour leur apprendre la vie.
 
 ## Exemple
 
@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-neu, neuve, neuf, nouvelle
+Neuf, nouvelle
 
 ## Pour aller plus loin
 

@@ -10,11 +10,11 @@
 
 ## On dit aussi
 
-grandir, pousser, se développer, prendre de la force
+Grandir, pousser, se développer, prendre de la force
 
 ## Pour aller plus loin
 
-* [Définition de « profiter » — Académie française, 8e édition](https://www.dictionnaire-academie.fr/article/A8P2823){ target="_blank" }
-* [Définition et attestations de « profiter » — CNRTL](https://www.cnrtl.fr/definition/profiter){ target="_blank" }
-* [Définition de « profiter » — Wiktionnaire](https://fr.wiktionary.org/wiki/profiter){ target="_blank" }
-* [Définition de « profiter » — Larousse](https://www.larousse.fr/dictionnaires/francais/profiter/64177){ target="_blank" }
+* [Définition de « profiter » - Académie française, 8e édition](https://www.dictionnaire-academie.fr/article/A8P2823){ target="_blank" }
+* [Définition et attestations de « profiter » - CNRTL](https://www.cnrtl.fr/definition/profiter){ target="_blank" }
+* [Définition de « profiter » - Wiktionnaire](https://fr.wiktionary.org/wiki/profiter){ target="_blank" }
+* [Définition de « profiter » - Larousse](https://www.larousse.fr/dictionnaires/francais/profiter/64177){ target="_blank" }

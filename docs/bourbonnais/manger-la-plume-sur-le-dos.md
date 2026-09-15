@@ -14,7 +14,7 @@ Ne pas se laisser faire, ne pas se laisser plumer, ne pas être né de la derni�
 
 ## Pour aller plus loin
 
-* [Expression apparentée « se laisser manger la laine sur le dos » — Académie française](https://www.dictionnaire-academie.fr/article/A9T1403){ target="_blank" }
-* [« Manger, dévorer ou tondre la laine sur le dos de quelqu'un » — CNRTL](https://www.cnrtl.fr/definition/laine){ target="_blank" }
-* [« Se laisser manger la laine sur le dos » — Wiktionnaire](https://fr.wiktionary.org/wiki/se_laisser_manger_la_laine_sur_le_dos){ target="_blank" }
-* [« Se laisser manger ou tondre la laine sur le dos » — Larousse](https://www.larousse.fr/dictionnaires/francais/dos/26513){ target="_blank" }
+* [Expression apparentée « se laisser manger la laine sur le dos » - Académie française](https://www.dictionnaire-academie.fr/article/A9T1403){ target="_blank" }
+* [« Manger, dévorer ou tondre la laine sur le dos de quelqu'un » - CNRTL](https://www.cnrtl.fr/definition/laine){ target="_blank" }
+* [« Se laisser manger la laine sur le dos » - Wiktionnaire](https://fr.wiktionary.org/wiki/se_laisser_manger_la_laine_sur_le_dos){ target="_blank" }
+* [« Se laisser manger ou tondre la laine sur le dos » - Larousse](https://www.larousse.fr/dictionnaires/francais/dos/26513){ target="_blank" }

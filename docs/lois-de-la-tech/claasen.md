@@ -164,7 +164,7 @@ Pour comprendre pourquoi ce décalage existe, il faut le relier à deux autres d
 
 Ensemble, ces trois lois racontent l'histoire complète d'un progrès qui accélère… sans toujours améliorer l'expérience.
 
-**[Lire la suite : Moore × Wirth × Claasen — Progrès](../humanops/progres.md)**
+**[Lire la suite : Moore × Wirth × Claasen - Progrès](../humanops/progres.md)**
 
 ### Références
 

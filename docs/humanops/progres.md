@@ -76,7 +76,7 @@ Pour Wirth, le problème n'est pas technique, mais culturel :
 > **« Programmer, c'est simplifier. »**
 
 La loi de Wirth rappelle une vérité dérangeante :
-**la puissance sans discipline ne crée pas la qualité — elle la masque**.
+**la puissance sans discipline ne crée pas la qualité - elle la masque**.
 
 ## 3. Claasen : quand l'utilité progresse lentement
 

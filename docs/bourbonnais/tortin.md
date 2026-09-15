@@ -1,6 +1,6 @@
 # Tortin
 
-Un **tortin**, c'est un retors, un malin, un têtu qui ne prend jamais le chemin droit quand il peut passer par la grange, contourner le puits et revenir par la cuisine avec l'air de n'avoir rien manigancé. Il comprend très bien, contrairement à ce qu'il laisse croire ; seulement, il comprend à sa manière, de biais, avec cette ruse tranquille qui se cache derrière un sourire d'innocent et vous fait douter jusqu'à votre propre date de naissance. Pas forcément méchant, non — mais tortueux comme une racine sous un vieux mur, et tout aussi difficile à déloger.
+Un **tortin**, c'est un retors, un malin, un têtu qui ne prend jamais le chemin droit quand il peut passer par la grange, contourner le puits et revenir par la cuisine avec l'air de n'avoir rien manigancé. Il comprend très bien, contrairement à ce qu'il laisse croire ; seulement, il comprend à sa manière, de biais, avec cette ruse tranquille qui se cache derrière un sourire d'innocent et vous fait douter jusqu'à votre propre date de naissance. Pas forcément méchant, non , mais tortueux comme une racine sous un vieux mur, et tout aussi difficile à déloger.
 
 ## Exemple
 
@@ -14,5 +14,5 @@ Retors, rusé, malin, têtu, entêté, espiègle, tortinerie
 
 ## Pour aller plus loin
 
-* [Tortin — Dictionnaire bourbonnais du parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }
-* [Mots usuels du patois bourbonnais — Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }
+* [Tortin - Dictionnaire bourbonnais du parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }
+* [Mots usuels du patois bourbonnais - Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }

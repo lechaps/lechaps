@@ -10,10 +10,10 @@
 
 ## On dit aussi
 
-[s'accatoufler](./s-accatoufler.md), s'étaler, s'affaler, s'écrouler, tomber de tout son long
+[S'accatoufler](./s-accatoufler.md), s'étaler, s'affaler, s'écrouler, tomber de tout son long
 
 ## Pour aller plus loin
 
-* [« Élarder » au sens de « s'étaler de tout son long » — Quelques mots de patois bourbonnais](https://www.zerotrois.fr/baignereau/bourbonnais/patois){ target="_blank" }
+* [« Élarder » au sens de « s'étaler de tout son long » - Quelques mots de patois bourbonnais](https://www.zerotrois.fr/baignereau/bourbonnais/patois){ target="_blank" }
 * [« S'élarder » dans le Glossaire du parler de Diou](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
-* [« Élarder », régionalisme bourbonnais — Exionnaire](https://www.exionnaire.com/elarder.html){ target="_blank" }
+* [« Élarder », régionalisme bourbonnais - Exionnaire](https://www.exionnaire.com/elarder.html){ target="_blank" }

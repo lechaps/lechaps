@@ -1,6 +1,6 @@
 # Tenir que du branle
 
-**Tenir que du branle**, c'est tenir debout par miracle, par habitude ou parce que personne n'a encore eu la mauvaise idée de tousser à côté. On le dit d'une étagère bancale, d'un échafaudage bricolé avec trois planches, d'un buffet qui penche, enfin de tout ce qui oscille, gémit et menace de s'effondrer au premier courant d'air. Ça tient, oui — mais comme un ivrogne tient son discours : avec conviction, mouvement et très peu de garanties.
+**Tenir que du branle**, c'est tenir debout par miracle, par habitude ou parce que personne n'a encore eu la mauvaise idée de tousser à côté. On le dit d'une étagère bancale, d'un échafaudage bricolé avec trois planches, d'un buffet qui penche, enfin de tout ce qui oscille, gémit et menace de s'effondrer au premier courant d'air. Ça tient, oui, mais comme un ivrogne tient son discours : avec conviction, mouvement et très peu de garanties.
 
 ## Exemple
 

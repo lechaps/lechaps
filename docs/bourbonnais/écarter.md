@@ -14,4 +14,5 @@
 
 ## Pour aller plus loin
 
+* [Définition de « écarter » - Académie française (sens général du verbe)](https://www.dictionnaire-academie.fr/article/A9E0106){ target="_blank" }
 * [Définition du Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1E0002.html){ target="_blank" }

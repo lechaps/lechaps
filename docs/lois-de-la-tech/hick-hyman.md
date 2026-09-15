@@ -6,7 +6,7 @@ Bienvenue dans **la loi de Hick-Hyman**.
 
 > The time it takes to make a decision increases with the number and complexity of choices.
 
-Autrement dit : **Plus on a de choix, plus la décision prend du temps** — et parfois, plus elle devient inconfortable.
+Autrement dit : **Plus on a de choix, plus la décision prend du temps** - et parfois, plus elle devient inconfortable.
 
 Bref : **Trop de choix tue le choix**.
 
@@ -57,7 +57,7 @@ Mais cette charge ne tombe pas du ciel : elle vient souvent d'une complexité no
 
 Pour relier choix, complexité et action, il faut lire ces lois ensemble.
 
-**[Lire la suite : Tesler × Hick-Hyman × Norman — UX](../humanops/ux.md)**
+**[Lire la suite : Tesler × Hick-Hyman × Norman - UX](../humanops/ux.md)**
 
 ### Références
 

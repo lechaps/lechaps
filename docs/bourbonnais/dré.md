@@ -14,4 +14,4 @@ Droit, tout droit, dret, tout dret, adret
 
 ## Pour aller plus loin
 
-* [Patois bourbonnais — Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Patois bourbonnais - Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }

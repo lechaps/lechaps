@@ -17,12 +17,12 @@ Bref : **si ça n'a pas besoin d'être décidé, ne le décide pas - encore .**
 * Trop réfléchir ou trop agir, c'est **créer parfois des problèmes qui n'existaient pas**.
 * Attendre, observer, laisser mûrir, c'est souvent **décider avec plus d'informations et moins de regrets**.
 
-La loi de Falkland ne prône pas l'inaction — elle défend le **timing**.  
+La loi de Falkland ne prône pas l'inaction - elle défend le **timing**.  
 Attendre, ce n'est pas reculer, c'est laisser la situation révéler ce qui mérite réellement une décision.
 
-Dans beaucoup de contextes — produit, tech, organisation — décider trop tôt fige des hypothèses fragiles. Décider trop vite rassure parfois… mais complexifie durablement.
+Dans beaucoup de contextes - produit, tech, organisation - décider trop tôt fige des hypothèses fragiles. Décider trop vite rassure parfois… mais complexifie durablement.
 
-### Attendre, oui — mais pas n'importe comment
+### Attendre, oui - mais pas n'importe comment
 
 La loi de Falkland **n'est pas une excuse pour éviter les décisions difficiles**. Elle s'applique lorsque le coût d'attendre est inférieur au coût d'un mauvais choix.
 
@@ -47,7 +47,7 @@ alors **ne pas décider tout de suite est souvent la meilleure décision**.
 * Architecture : figer un framework, une base de données ou un découpage trop tôt. → Laisser le système évoluer permet de décider avec des contraintes réelles, pas théoriques.
 * Organisation : créer un process pour un problème ponctuel. → Attendre évite d'institutionnaliser une exception.
 
-Dans tous ces cas, la décision n'est pas mauvaise en soi — elle est simplement prématurée.
+Dans tous ces cas, la décision n'est pas mauvaise en soi - elle est simplement prématurée.
 
 ### Falkland, Continuous Architecture et le bon moment pour décider
 
@@ -72,7 +72,7 @@ Certaines décisions ne doivent pas être différées :
 * les décisions éthiques ou légales,
 * les décisions où ne pas décider est déjà une décision coûteuse.
 
-Dans ces cas-là, attendre n'est plus une stratégie — c'est une fuite.
+Dans ces cas-là, attendre n'est plus une stratégie - c'est une fuite.
 
 La loi de Falkland s'adresse aux décisions **non critiques à l'instant T**, pas à celles qui engagent immédiatement des conséquences graves.
 
@@ -81,13 +81,13 @@ La loi de Falkland s'adresse aux décisions **non critiques à l'instant T**, pa
 Cette maxime remonte à Lucius Cary, 2ᵉ vicomte de Falkland (1610–1643), homme politique et philosophe anglais.  
 Dans une époque marquée par la guerre civile et les excès idéologiques, il prônait la modération et la réflexion avant l'action.
 
-Selon la tradition, il formule cette maxime dans les années 1640, à un moment où vouloir trancher chaque question menait à des choix irréversibles — et parfois à des conflits évitables.
+Selon la tradition, il formule cette maxime dans les années 1640, à un moment où vouloir trancher chaque question menait à des choix irréversibles - et parfois à des conflits évitables.
 
 Elle est devenue au fil du temps une règle de sagesse universelle, reprise dans les domaines du management, du droit et de la stratégie : **ne pas décider trop tôt, c'est parfois éviter de très mauvaises décisions**.
 
 En somme, la loi de Falkland nous enseigne une chose simple, mais exigente : **savoir attendre, c'est déjà décider**.
 
-Différer un choix n'est pas une absence de responsabilité — c'est assumer pleinement le timing de la décision.
+Différer un choix n'est pas une absence de responsabilité - c'est assumer pleinement le timing de la décision.
 
 La vraie maturité n'est pas de décider vite, mais de décider au moment juste, quand la décision éclaire plus qu'elle ne rassure.
 
@@ -98,7 +98,7 @@ Mais poussée trop loin, cette sagesse peut se transformer en piège : quand on 
 
 Le point clé n'est donc pas "attendre ou trancher", mais sav**oir faire l'un ou l'autre consciemment**, avec une intention, un propriétaire et un horizon.
 
-**[Lire la suite : Hohpe × Falkland — trancher vs attendre](../humanops/decision.md)**
+**[Lire la suite : Hohpe × Falkland - trancher vs attendre](../humanops/decision.md)**
 
 ### Références
 

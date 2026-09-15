@@ -4,7 +4,7 @@ Tu as déjà eu l'impression que l'univers entier complotait contre toi ?
 Tu sais, ce moment où tout fonctionne parfaitement… jusqu'à ce que pile au pire instant tout dérape ?
 Félicitations, tu viens de croiser **la loi de Finagle**.
 
-> Anything that can go wrong, will — at the worst possible moment.
+> Anything that can go wrong, will - at the worst possible moment.
 
 Autrement dit : **ce n'est pas seulement que ça va foirer… c'est que ça va foirer quand c'est le plus douloureux.**
 
@@ -16,7 +16,7 @@ Bref : **Murphy prévoit la panne, Finagle choisit le timing.**
 * **Un outil casse pile quand tu n'as aucune marge.**
 * **Une erreur surgit dans la démo, pas dans la répétition.**
 
-Finagle, ce n'est pas la malchance — **c'est l'optimisation du chaos**.
+Finagle, ce n'est pas la malchance - **c'est l'optimisation du chaos**.
 Comme si l'univers attendait que tu sois vulnérable pour tester la solidité de ton système, ton organisation, ton sang-froid.
 
 C'est cruel. Parfois hilarant. Souvent vrai.  
@@ -61,11 +61,11 @@ Résultat : la loi passe du folklore technique à un adage universel.
 
 ## Et si le problème n'était pas seulement ce qui casse… mais quand ?
 
-La loi de Finagle met le doigt sur une vérité cruelle : les systèmes ne lâchent pas au hasard — **ils lâchent quand l'enjeu est maximal**.
+La loi de Finagle met le doigt sur une vérité cruelle : les systèmes ne lâchent pas au hasard - **ils lâchent quand l'enjeu est maximal**.
 
 Mais pour comprendre pourquoi ces échecs sont possibles en premier lieu, il faut remonter à une autre loi, plus fondamentale, qui parle non pas du timing… mais de la possibilité même de l'échec.
 
-**[Lire la suite : Murphy × Finagle — Fiabilité](../humanops/fiabilite.md)**
+**[Lire la suite : Murphy × Finagle - Fiabilité](../humanops/fiabilite.md)**
 
 ### Références
 

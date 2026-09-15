@@ -1,11 +1,11 @@
 # Bascule : Dornbusch × Amara
 
-Il existe deux lois qui expliquent à merveille pourquoi les crises nous surprennent… et pourquoi les innovations aussi. Deux lois qui parlent du temps long, de l'attente, du silence — et du moment où tout bascule.
+Il existe deux lois qui expliquent à merveille pourquoi les crises nous surprennent… et pourquoi les innovations aussi. Deux lois qui parlent du temps long, de l'attente, du silence - et du moment où tout bascule.
 
 D'un côté, **la loi de Dornbusch**, qui décrit la dynamique des crises.
 De l'autre, **la loi d'Amara**, qui décrit la dynamique des innovations.
 
-À elles deux, elles forment une seule idée puissante : **Les systèmes — économiques, technologiques, sociaux, personnels — évoluent lentement… jusqu'à ce qu'ils changent d'un coup.**
+À elles deux, elles forment une seule idée puissante : **Les systèmes - économiques, technologiques, sociaux, personnels - évoluent lentement… jusqu'à ce qu'ils changent d'un coup.**
 
 ## 1. La loi de Dornbusch : les crises mûrissent dans le silence
 
@@ -20,7 +20,7 @@ Autrement dit : **Rien ne se passe… jusqu'à ce que tout se passe.**
 ### Pourquoi cette loi est si parlante ?
 
 * Les problèmes s'accumulent lentement, longtemps invisibles ou ignorés.
-* Le système semble stable — comme un barrage qui se fissure sans céder.
+* Le système semble stable - comme un barrage qui se fissure sans céder.
 * Puis un seuil invisible est franchi, les réactions en chaîne s'enclenchent et tout s'accélère.
 
 On retrouve ce schéma partout : **économie, politique, entreprises… et même vies personnelles**.

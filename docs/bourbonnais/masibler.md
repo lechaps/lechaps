@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-abîmer, casser, esquinter, détériorer, cribler de coups
+Abîmer, casser, esquinter, détériorer, cribler de coups
 
 ## Pour aller plus loin
 

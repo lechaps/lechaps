@@ -6,7 +6,7 @@ Bienvenue dans **les lois de Lehman**, un ensemble de huit lois qui décrivent c
 
 > A software system that is used in the real world must continually be adapted, or it becomes progressively less useful. - Meir "Manny" Lehman, 1974
 
-Autrement dit : **un logiciel vivant doit changer — sinon, il meurt**.
+Autrement dit : **un logiciel vivant doit changer - sinon, il meurt**.
 Le monde avance ; le logiciel aussi. Ce qui ne s'adapte pas décroche. Ce qui ne s'entretient pas se dégrade. Un programme n'est pas figé : c'est un organisme en évolution.
 
 ## Pourquoi les lois de Lehman sont si parlantes ?
@@ -51,7 +51,7 @@ La maintenance n'est pas un coût : c'est le moteur de l'innovation.
 En résumé, les logiciels qui durent sont ceux qui apprennent à évoluer intelligemment.  
 L'évolution n'est pas le problème. Le problème, c'est d'évoluer sans architecture, sans nettoyage, sans garde-fous.
 
-Lehman nous donne donc une loi générale, au-delà du code : **Dans le logiciel comme dans la nature, ce qui survit n'est pas ce qui ne change pas — mais ce qui sait changer**.
+Lehman nous donne donc une loi générale, au-delà du code : **Dans le logiciel comme dans la nature, ce qui survit n'est pas ce qui ne change pas - mais ce qui sait changer**.
 
 ## D'où viennent les lois de Lehman ?
 
@@ -59,7 +59,7 @@ Ces principes viennent de Meir M. Lehman (1925–2010), informaticien et cherche
 Dans son article fondateur _Programs, Life Cycles, and Laws of Software Evolution_ (1974), il démontre que les logiciels complexes suivent les mêmes dynamiques que les organismes vivants : croissance, adaptation, usure et déclin.
 
 Lehman a ensuite formalisé ces huit lois décrivant ce cycle d'évolution permanent : une base théorique toujours d'actualité à l'ère du DevOps et de la transformation numérique.
-Ses travaux ont influencé la façon dont on conçoit, maintient et fait évoluer les systèmes — mais aussi, plus largement, la manière dont on pense le changement dans les organisations.
+Ses travaux ont influencé la façon dont on conçoit, maintient et fait évoluer les systèmes - mais aussi, plus largement, la manière dont on pense le changement dans les organisations.
 
 En somme, les lois de Lehman nous rappellent une vérité universelle : **dans le code comme dans la vie, ce qui dure est ce qui sait se transformer**.
 

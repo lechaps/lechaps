@@ -35,7 +35,7 @@ Il n'existe :
 
 L'expression relève donc davantage d'un raccourci conceptuel que d'une paternité scientifique.  
 
-Le lien avec Douglas est essentiellement **analogique** : ses travaux portent sur l'allocation des ressources et sur la tendance des systèmes économiques à utiliser pleinement les capacités disponibles. Par extension — et sans preuve directe — son nom a été associé à cette observation empirique.
+Le lien avec Douglas est essentiellement **analogique** : ses travaux portent sur l'allocation des ressources et sur la tendance des systèmes économiques à utiliser pleinement les capacités disponibles. Par extension - et sans preuve directe - son nom a été associé à cette observation empirique.
 
 Il est donc plus juste de parler d'une règle d'expérience, issue de l'observation des comportements humains et organisationnels, plutôt que d'une loi économique formalisée.
 

@@ -21,5 +21,5 @@ Moi, la **margoulette**, je l'ai souvent menée au ras du gravier, surtout à v�
 * [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9M1096){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/margoulette){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/margoulette){ target="_blank" }
-* [Expression « se casser la margoulette » — Wiktionnaire](https://fr.wiktionary.org/wiki/se_casser_la_margoulette){ target="_blank" }
-* [Origine et sens de l'expression — Expressio](https://www.expressio.fr/expressions/se-casser-la-margoulette/page-6){ target="_blank" }
+* [Expression « se casser la margoulette » - Wiktionnaire](https://fr.wiktionary.org/wiki/se_casser_la_margoulette){ target="_blank" }
+* [Origine et sens de l'expression - Expressio](https://www.expressio.fr/expressions/se-casser-la-margoulette/page-6){ target="_blank" }

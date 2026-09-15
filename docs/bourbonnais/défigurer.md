@@ -14,7 +14,7 @@ Dévisager, fixer, reluquer, regarder de travers, mirer
 
 ## Pour aller plus loin
 
-* [Dévisager pour défigurer — Académie Française](https://www.academie-francaise.fr/devisager-pour-defigurer){ target="_blank" }
+* [Dévisager pour défigurer - Académie Française](https://www.academie-francaise.fr/devisager-pour-defigurer){ target="_blank" }
 * [Définition de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9D0794){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/d%C3%A9figurer){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/d%C3%A9figurer){ target="_blank" }

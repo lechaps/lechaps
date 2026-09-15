@@ -10,7 +10,7 @@ Bienvenue dans **la loi de Swoboda–Fliess–Teltscher**, aussi appelée **thé
 > Human performance and disposition follow three recurring biological cycles:
 > a 23-day physical cycle, a 28-day emotional cycle, and a 33-day intellectual cycle.
 
-Autrement dit : **nos capacités varieraient selon des rythmes réguliers — physique (23 jours), émotionnel (28 jours), intellectuel (33 jours)**, qui montent, descendent et se croisent.
+Autrement dit : **nos capacités varieraient selon des rythmes réguliers - physique (23 jours), émotionnel (28 jours), intellectuel (33 jours)**, qui montent, descendent et se croisent.
 
 Bref : **on n'est pas des machines, on est des rythmes**.
 
@@ -23,7 +23,7 @@ Parce qu'elle décrit quelque chose que l'on vit tous.
 * Et souvent, tu ne sais pas pourquoi.
 
 La théorie des biorythmes met des mots sur un ressenti universel :
-**je ne suis pas constant — et ce n'est pas forcément de la paresse, un manque de volonté ou de discipline.**
+**je ne suis pas constant - et ce n'est pas forcément de la paresse, un manque de volonté ou de discipline.**
 
 Elle soulage.  
 Elle normalise.  

@@ -14,4 +14,4 @@ Corbeau, corneille
 
 ## Pour aller plus loin
 
-* [Patois bourbonnais : mots usuels — Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }
+* [Patois bourbonnais : mots usuels - Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }

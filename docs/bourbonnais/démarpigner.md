@@ -14,4 +14,4 @@ Se défendre, se battre, se débattre, se bagarrer, se chamailler, se castagner
 
 ## Pour aller plus loin
 
-* [Dictionnaire bourbonnais — Projet Babel](https://projetbabel.org/diou/d.htm){ target="_blank" }
+* [Dictionnaire bourbonnais - Projet Babel](https://projetbabel.org/diou/d.htm){ target="_blank" }

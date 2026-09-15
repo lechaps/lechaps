@@ -10,7 +10,7 @@ Un **siau**, c'est un **seau**, le récipient à anse qu'on emportait au puits, 
 
 ## On dit aussi
 
-seau, seille, siau d'iau
+Seau, seille, siau d'iau
 
 ## Souvenir
 
@@ -18,6 +18,6 @@ Je me souviens du siau posé près de la pompe, cabossé sur les côtés et froi
 
 ## Pour aller plus loin
 
-* [« Chau ou siau » au sens de « seau » — Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
-* [Prononciation bourbonnaise de « seau » en « siau » — Petit Recueil du parler de Diou](https://projetbabel.org/diou/prononciation.htm){ target="_blank" }
-* [« Un seau : un siau d'eau » — Parler bourbonnais de Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
+* [« Chau ou siau » au sens de « seau » - Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
+* [Prononciation bourbonnaise de « seau » en « siau » - Petit Recueil du parler de Diou](https://projetbabel.org/diou/prononciation.htm){ target="_blank" }
+* [« Un seau : un siau d'eau » - Parler bourbonnais de Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }

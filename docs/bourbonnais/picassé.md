@@ -1,4 +1,4 @@
-# Picassé
+# Picassé(e)
 
 Être **picassé**, c'est avoir la peau semée de **taches de rousseur**, ces petites éclaboussures de soleil qui s'installent sur le nez, les joues, parfois les épaules, comme si l'été avait piqué un pinceau à Picasso et qu'il avait travaillé sans lunettes. On dit ça sans méchanceté, avec cette manière ancienne de constater les choses sans convoquer trois psychologues et un dermatologue : le ch'ti ou la gâte est piquassé, voilà tout. Et souvent, ma foi, ça lui va très bien.
 
@@ -16,6 +16,6 @@ Rousselé, couvert de rousseurs, éphélides
 
 ## Pour aller plus loin
 
-* [Picassé dans le Glossaire du parler de Diou — Bourbonnais](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Picassé dans le Glossaire du parler de Diou - Bourbonnais](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
 * [Picassé dans le Wiktionnaire](https://fr.wiktionary.org/wiki/picass%C3%A9){ target="_blank" }
 * [Picassé dans le patois de Cosne et du Nivernais](https://www.gennievre.net/wiki/index.php/Patois_Cosne){ target="_blank" }

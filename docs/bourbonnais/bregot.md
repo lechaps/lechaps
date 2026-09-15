@@ -5,9 +5,13 @@ Et puis par un de ces glissements merveilleux dont le parler populaire a le secr
 
 ## Exemple
 
+### Ce qui bourdonne
+
 *Fi d'putain, c'te saloperie de bergot.*
 
 > « Je vous recommande vivement de sécuriser cette ouverture avant que cet impressionnant hyménoptère ne transforme notre repas en scène de panique collective. »
+
+### Ce qui fume
 
 *Va voir le vieux bregot, il saura quoi faire avec c't'essaim dans la grange.*
 

@@ -10,9 +10,9 @@ Un **riau**, c'est un ruisseau, un petit cours d'eau qui se faufile entre les pr
 
 ## On dit aussi
 
-ri, ru, ruisseau
+Ri, ru, ruisseau
 
 ## Pour aller plus loin
 
-* [« Riau » dans le patois machinois — Ville de La Machine](https://ville-la-machine.com/recits/le-patois-machinois?initiale=R){ target="_blank" }
-* [Variante régionale « riau » dans l'étymologie de « ruisseau » — Littré](https://www.littre.org/definition/ruisseau){ target="_blank" }
+* [« Riau » dans le patois machinois - Ville de La Machine](https://ville-la-machine.com/recits/le-patois-machinois?initiale=R){ target="_blank" }
+* [Variante régionale « riau » dans l'étymologie de « ruisseau » - Littré](https://www.littre.org/definition/ruisseau){ target="_blank" }

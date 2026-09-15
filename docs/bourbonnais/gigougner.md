@@ -16,4 +16,4 @@ Gigoter, se tortiller, remuer, frétiller
 
 * [« Gigougner » dans le *Petit Recueil du parler de Diou*](https://projetbabel.org/diou/g.htm){ target="_blank" }
 * [« Gigougner » dans le patois de Cosne-sur-Loire](https://www.gennievre.net/wiki/index.php/Patois_Cosne){ target="_blank" }
-* [Variantes régionales et sens de « gigougner » — Dictionnaire historique du français québécois](https://www.dhfq.org/article/zigonner-ou-zigoner){ target="_blank" }
+* [Variantes régionales et sens de « gigougner » - Dictionnaire historique du français québécois](https://www.dhfq.org/article/zigonner-ou-zigoner){ target="_blank" }

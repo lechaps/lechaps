@@ -4,13 +4,13 @@
 
 Tu as peut-être déjà remarqué un truc étrange dans le développement logiciel.
 
-Les petites applications simples deviennent des monstres. Les systèmes complexes finissent par réinventer un langage — parfois sans que personne ne l'ait voulu. Et à la fin, tout semble inexorablement vouloir finir… dans ton navigateur.
+Les petites applications simples deviennent des monstres. Les systèmes complexes finissent par réinventer un langage - parfois sans que personne ne l'ait voulu. Et à la fin, tout semble inexorablement vouloir finir… dans ton navigateur.
 
 Ce n'est pas un hasard.  
 Ce n'est même pas une erreur de développeur.  
 C'est le résultat d'une physique socio-technique du logiciel.
 
-Trois lois humoristiques — **Zawinski, Greenspun et Atwood** - décrivent ce cycle avec une lucidité troublante :
+Trois lois humoristiques - **Zawinski, Greenspun et Atwood** - décrivent ce cycle avec une lucidité troublante :
 
 1. **Le logiciel grossit.**
 2. **Sa complexité créé un langage.**
@@ -18,7 +18,7 @@ Trois lois humoristiques — **Zawinski, Greenspun et Atwood** - décrivent ce c
 
 Ensemble, elles révèlent un mécanisme profond, beaucoup plus économique qu'informatique.
 
-## 1. La loi de Zawinski — Tout logiciel finit par grossir (car il doit vendre)
+## 1. La loi de Zawinski - Tout logiciel finit par grossir (car il doit vendre)
 
 Jamie Zawinski, figure emblématique de Netscape et d'Emacs, l'a formulé ainsi :
 
@@ -37,11 +37,11 @@ Pas à cause du code, mais à cause du marché, moteurs du "feature creep" :
 Les features génèrent du revenu.
 La simplicité, elle, ne génère pas d'abonnement.
 
-Ce phénomène est directement amplifié par la loi de Goodhart : Si le succès produit est mesuré en fonctionnalités, alors le produit gonfle — qu'elles soient utiles ou non.
+Ce phénomène est directement amplifié par la loi de Goodhart : Si le succès produit est mesuré en fonctionnalités, alors le produit gonfle - qu'elles soient utiles ou non.
 
 Le logiciel enfle non pas par folie technique, mais par incitation économique mesurable.
 
-## 2. La loi de Greenspun — Le logiciel devient un langage (pour survivre)
+## 2. La loi de Greenspun - Le logiciel devient un langage (pour survivre)
 
 Quand le logiciel gonfle, la complexité explose. On multiplie :
 
@@ -73,7 +73,7 @@ Plus il y a de monde → plus il y a d'abstraction → plus il y a de "langage".
 
 Et c'est pour cela que les logiciels no-code, low-code, CRM, ETL… deviennent tous des langages complets. Ils n'ont pas le choix.
 
-## 3. La loi d'Atwood — Tout finit dans un navigateur (car il élimine la friction)
+## 3. La loi d'Atwood - Tout finit dans un navigateur (car il élimine la friction)
 
 Jeff Atwood, cofondateur de Stack Overflow, l'a formulé en 2007 :
 

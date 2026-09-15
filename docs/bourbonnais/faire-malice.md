@@ -15,5 +15,5 @@ Contrarier, déplaire, peiner, vexer, dépiter, rester en travers, faire honte, 
 ## Pour aller plus loin
 
 * [Définition du Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1M0014.html){ target="_blank" }
-* [Dictionnaire bourbonnais — Projet Babel](https://projetbabel.org/diou/m.htm){ target="_blank" }
-* [Petit recueil du parler de Diou — Projet Babel](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Dictionnaire bourbonnais - Projet Babel](https://projetbabel.org/diou/m.htm){ target="_blank" }
+* [Petit recueil du parler de Diou - Projet Babel](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }

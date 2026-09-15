@@ -10,8 +10,8 @@ Un **slip à manches longues**, c'est un caleçon long, celui qu'on enfile sous 
 
 ## On dit aussi
 
-caleçon long, caleçon d'hiver, sous-vêtement long
+Caleçon long, caleçon d'hiver, sous-vêtement long
 
 ## Souvenir
 
-Je me souviens de mon grand-père parlant de son **slip à manches longues** avec le plus grand sérieux, comme si le vêtement avait réellement été pourvu de poignets et de boutons de manchette. Il l'enfilait les matins de gel avant d'aller dehors, puis déclarait qu'avec ça, il ne craignait plus rien — sauf le vent, la pleue et ses rhumatismes, ce qui laissait tout de même une marge. L'expression me faisait rire, mais elle disait bien la rudesse des hivers et les petites inventions de langage qu'on opposait au froid. On n'avait peut-être pas le chauffage partout ; on avait au moins de quoi habiller les mots.
+Je me souviens de mon grand-père parlant de son **slip à manches longues** avec le plus grand sérieux, comme si le vêtement avait réellement été pourvu de poignets et de boutons de manchette. Il l'enfilait les matins de gel avant d'aller dehors, puis déclarait qu'avec ça, il ne craignait plus rien, sauf le vent, la pleue et ses rhumatismes, ce qui laissait tout de même une marge. L'expression me faisait rire, mais elle disait bien la rudesse des hivers et les petites inventions de langage qu'on opposait au froid. On n'avait peut-être pas le chauffage partout ; on avait au moins de quoi habiller les mots.

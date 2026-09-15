@@ -15,7 +15,7 @@ Gorge, gosier, glotte, cou
 ## Pour aller plus loin
 
 * [Définition du Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1C0152.html){ target="_blank" }
-* [Définition du Wiktionnaire — corgnole](https://fr.wiktionary.org/wiki/corgnole){ target="_blank" }
-* [Définition du Wiktionnaire — corniaule](https://fr.wiktionary.org/wiki/corniaule){ target="_blank" }
-* [Définition de La langue française — corgnole](https://www.lalanguefrancaise.com/dictionnaire/definition/corgnole){ target="_blank" }
-* [Définition de La langue française — corniaule](https://www.lalanguefrancaise.com/dictionnaire/definition/corniaule){ target="_blank" }
+* [Définition du Wiktionnaire - corgnole](https://fr.wiktionary.org/wiki/corgnole){ target="_blank" }
+* [Définition du Wiktionnaire - corniaule](https://fr.wiktionary.org/wiki/corniaule){ target="_blank" }
+* [Définition de La langue française - corgnole](https://www.lalanguefrancaise.com/dictionnaire/definition/corgnole){ target="_blank" }
+* [Définition de La langue française - corniaule](https://www.lalanguefrancaise.com/dictionnaire/definition/corniaule){ target="_blank" }

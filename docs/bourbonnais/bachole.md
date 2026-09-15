@@ -6,9 +6,13 @@ Et puis, comme souvent avec les mots, la bachole a fini par désigner aussi le v
 
 ## Exemple
 
+### Ce qui trinque
+
 *Allez, ressers-m'en une bachole.*
 
 > « Mon brave ami, devant les qualités manifestement remarquables de ce breuvage, lequel possède, soit dit en passant, une franchise aromatique que bien des grands crus devraient lui envier, je sollicite humblement un supplément de remplissage dans mon récipient personnel. »
+
+### Ce qui régale
 
 *J'm'en va donner à manger aux coches, la bachole est vide.*
 

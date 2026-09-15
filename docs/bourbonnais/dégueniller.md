@@ -5,9 +5,13 @@ Mais, dans la bouche bourbonnaise, **dégueniller**, c'est aussi être saoul, pa
 
 ## Exemple
 
+### Ce qui craque
+
 *Il a déguenillé son pantalon dans les ronces.*
 
 > « Notre homme a soumis son vêtement à une telle entreprise de démolition végétale qu'il ne porte plus un pantalon, mais les archives textiles d'une campagne militaire contre les haies. »
+
+### Ce qui tangue
 
 *Il était tout déguenillé hier soir, y retrouvait plus la porte du bistrot.*
 

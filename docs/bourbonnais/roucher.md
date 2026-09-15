@@ -1,6 +1,6 @@
 # Roucher
 
-**Roucher**, c'est poser, lancer, jeter ou ranger quelque chose à un endroit, souvent sans s'embarrasser d'un classement, d'une étiquette ni d'un plan directeur approuvé par la préfecture. On rouche un outil dans la remise, une caisse derrière le buffet, tout un tas d'affaires au grenier après le grand **revari** — et l'on prétend ensuite que c'est rangé, puisque rien ne traîne plus au milieu. Le geste peut être vif ou négligent, mais le résultat demeure : l'objet est là, quelque part, confié à la poussière et à la mémoire familiale, deux administrations dont les archives laissent parfois à désirer.
+**Roucher**, c'est poser, lancer, jeter ou ranger quelque chose à un endroit, souvent sans s'embarrasser d'un classement, d'une étiquette ni d'un plan directeur approuvé par la préfecture. On rouche un outil dans la remise, une caisse derrière le buffet, tout un tas d'affaires au grenier après le grand **revari**, et l'on prétend ensuite que c'est rangé, puisque rien ne traîne plus au milieu. Le geste peut être vif ou négligent, mais le résultat demeure : l'objet est là, quelque part, confié à la poussière et à la mémoire familiale, deux administrations dont les archives laissent parfois à désirer.
 
 ## Exemple
 
@@ -10,8 +10,8 @@
 
 ## On dit aussi
 
-poser, jeter, balancer, ranger, lancer
+Poser, jeter, balancer, ranger, lancer
 
 ## Pour aller plus loin
 
-* [« Routser ou roucher » au sens de « lancer ou asséner » — Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }
+* [« Routser ou roucher » au sens de « lancer ou asséner » - Grammaire et dictionnaire du patois bourbonnais de Paul Duchon](https://archive.org/details/grammaireetdicti00duchuoft){ target="_blank" }

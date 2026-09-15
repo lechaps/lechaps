@@ -1,6 +1,6 @@
 # Tavelle
 
-La **tavelle**, c'est une bûche, un rondin, un gourdin : enfin du bois assez sérieux pour chauffer la soupe ou refroidir les enthousiasmes, selon la main qui s'en empare. Elle traîne près du fourneau, tombe du tas avec un bruit de justice sommaire et, lorsqu'elle sert à distribuer quelques horions, devient une **tisane de tavelles** — remède ancien, sans sucre, sans ordonnance et généralement administré à un patient qui n'avait rien demandé.
+La **tavelle**, c'est une bûche, un rondin, un gourdin : enfin du bois assez sérieux pour chauffer la soupe ou refroidir les enthousiasmes, selon la main qui s'en empare. Elle traîne près du fourneau, tombe du tas avec un bruit de justice sommaire et, lorsqu'elle sert à distribuer quelques horions, devient une **tisane de tavelles** : remède ancien, sans sucre, sans ordonnance et généralement administré à un patient qui n'avait rien demandé.
 
 ## Exemple
 
@@ -18,6 +18,7 @@ Tavel, bûche, rondin, gourdin, tisane de tavelles
 
 ## Pour aller plus loin
 
+* [Définition de « tavelle » - Académie française, 1re édition (autre sens : petite dentelle)](https://www.dictionnaire-academie.fr/article/A1T0062-02){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/tavelle){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/tavelle){ target="_blank" }
 * [Lexique bourbonnais du parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }

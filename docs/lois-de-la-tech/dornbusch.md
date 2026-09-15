@@ -18,7 +18,7 @@ Rien ne se passe… jusqu'à ce que tout se passe.
 * Puis, un jour, un seuil est franchi : tout s'accélère, les réactions en chaîne s'enclenchent et ces mêmes mécanismes deviennent des amplificateurs de crise.
 * On retrouve ce schéma dans l'économie, la politique, les entreprises… **et même dans nos vies personnelles**.
 
-C'est comme un barrage qui se fissure petit à petit : **tant qu'il tient, tout semble stable** — jusqu'à l'instant où tout cède brutalement.
+C'est comme un barrage qui se fissure petit à petit : **tant qu'il tient, tout semble stable** - jusqu'à l'instant où tout cède brutalement.
 
 En résumé, la loi de Dornbusch nous rappelle que **les changements radicaux sont presque toujours précédés d'une lente montée de tensions invisibles**.
 Ce n'est pas l'explosion qui est surprenante… c'est le temps passé à croire que la stabilité était réelle.
@@ -35,7 +35,7 @@ Lorsque le seuil est franchi, les ajustements deviennent soudains et violents, c
 Ses idées ont été reprises et popularisées dans les années 1980–1990, notamment par **Paul Krugman**, et sont devenues une référence pour comprendre les retournements rapides des marchés, des organisations et des sociétés.
 
 En somme, la loi de Dornbusch nous rappelle que **les crises ne naissent pas du chaos**,
-mais d'un équilibre fragile maintenu trop longtemps — **et d'une action repoussée jusqu'à ce qu'elle ne soit plus possible**.
+mais d'un équilibre fragile maintenu trop longtemps - **et d'une action repoussée jusqu'à ce qu'elle ne soit plus possible**.
 
 ## Et si les crises et les innovations obéissaient à la même logique ?
 
@@ -46,7 +46,7 @@ On la retrouve aussi dans les **innovations technologiques**.
 
 Là où Dornbusch explique pourquoi **tout s'effondre d'un coup**, une autre loi explique pourquoi **rien ne change pendant longtemps… avant de tout transformer**.
 
-**[Lire la suite : Bascule — Dornbusch × Amara](../humanops/bascule.md)**
+**[Lire la suite : Bascule - Dornbusch × Amara](../humanops/bascule.md)**
 
 ### Références
 

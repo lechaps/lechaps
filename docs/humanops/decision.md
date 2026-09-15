@@ -8,13 +8,13 @@ Elles échouent beaucoup plus souvent par **mauvais timing de décision**.
 Certaines se paralysent à force de ne jamais trancher.  
 D'autres se rigidifient en décidant trop tôt, trop vite, trop définitivement.
 
-C'est exactement là que se croisent deux lois en apparence opposées — mais en réalité profondément complémentaires :
+C'est exactement là que se croisent deux lois en apparence opposées - mais en réalité profondément complémentaires :
 
 * **La loi de Hohpe** : quand on refuse de décider, la complexité décide à notre place.
 * **La loi de Falkland** : quand une décision n'est pas nécessaire, la prendre est souvent une erreur.
 
 Le vrai sujet n'est donc pas *faut-il décider ?*.
-Le vrai sujet est : **quand faut-il décider — et quand faut-il attendre ?**
+Le vrai sujet est : **quand faut-il décider - et quand faut-il attendre ?**
 
 ## Deux lois, un même combat : lutter contre les décisions inconscientes
 
@@ -37,7 +37,7 @@ C'est laisser l'entropie architecturer l'organisation.
 
 ### La loi de Falkland : le prix de la décision prématurée
 
-> *When you don't have to make a decision — don't make a decision.*
+> *When you don't have to make a decision - don't make a decision.*
 
 Falkland, à l'inverse, met en garde contre une autre illusion managériale :
 celle qui consiste à croire que **décider tôt est toujours une preuve de leadership**.
@@ -128,7 +128,7 @@ Dans les deux cas, il faut du courage.
 
 ## Quelques principes opérationnels
 
-* Nommer un **propriétaire de décision** — sinon elle n'existe pas.
+* Nommer un **propriétaire de décision** - sinon elle n'existe pas.
 * Distinguer clairement :
   * décision différée,
   * décision évitée,
@@ -153,4 +153,4 @@ La simplicité n'est jamais naturelle.
 Elle est toujours **le résultat d'un choix courageux**.
 
 Et dans les organisations, **le vrai leadership n'est pas de décider vite,
-mais de décider juste — au bon moment.**
+mais de décider juste - au bon moment.**

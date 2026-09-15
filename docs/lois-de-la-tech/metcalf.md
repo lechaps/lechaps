@@ -5,7 +5,7 @@ Bienvenue dans **la loi de Metcalfe**.
 
 > The value of a network is proportional to the square of the number of its users - Robert Metcalfe
 
-Autrement dit : **Chaque nouvel utilisateur n'ajoute pas juste un peu de valeur, il en ajoute beaucoup — car il connecte tout le monde aux autres**.
+Autrement dit : **Chaque nouvel utilisateur n'ajoute pas juste un peu de valeur, il en ajoute beaucoup - car il connecte tout le monde aux autres**.
 
 Bref : **Plus il y a de monde, plus ça vaut**.
 
@@ -15,7 +15,7 @@ Bref : **Plus il y a de monde, plus ça vaut**.
 * **Chaque connexion crée des possibilités**. Quand tu rejoins un réseau, tu ne gagnes pas qu'un contact, tu accèdes à toutes les combinaisons possibles entre les autres membres.
 * **C'est le secret des plateformes modernes** : plus il y a d'utilisateurs, plus elles deviennent indispensables. Facebook, Uber, LinkedIn, Bitcoin, Internet… tous grandissent selon cette même logique exponentielle.
 
-La loi de Metcalfe nous rappelle que **la puissance ne vient pas des individus isolés, mais des liens qu'ils tissent entre eux**. Chaque connexion compte — et ensemble, elles font exploser la valeur.
+La loi de Metcalfe nous rappelle que **la puissance ne vient pas des individus isolés, mais des liens qu'ils tissent entre eux**. Chaque connexion compte - et ensemble, elles font exploser la valeur.
 
 ## D'où vient la loi de Metcalfe ?
 
@@ -36,7 +36,7 @@ Mais les connexions ne sont qu'une étape : les réseaux modernes créent aussi 
 
 Autrement dit : de l'audience (Sarnoff) à la connexion (Metcalfe), puis à la communauté (Reed) et à l'usage (Beckstrom), il y a une évolution complète de la valeur.
 
-**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom — Réseaux](../humanops/network.md)**
+**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom - Réseaux](../humanops/network.md)**
 
 ### Références
 

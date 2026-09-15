@@ -14,5 +14,5 @@ Déterrer, arracher de terre, sortir de terre, relever
 
 ## Pour aller plus loin
 
-* [Dictionnaire bourbonnais — Projet Babel](https://projetbabel.org/diou/d.htm){ target="_blank" }
-* [Petit recueil du parler de Diou — Projet Babel](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Dictionnaire bourbonnais - Projet Babel](https://projetbabel.org/diou/d.htm){ target="_blank" }
+* [Petit recueil du parler de Diou - Projet Babel](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }

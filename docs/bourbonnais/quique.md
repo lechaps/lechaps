@@ -10,10 +10,10 @@
 
 ## On dit aussi
 
-quique ?, quoi ?, qu'est-ce que tu dis ?
+Quoi ?, qu'est-ce que tu dis ?
 
 ## Pour aller plus loin
 
 * [« Qui que ? » dans le Petit Recueil du parler de Diou](https://projetbabel.org/diou/q.htm){ target="_blank" }
-* [Construction interrogative « Qui que te dis ? » — Grammaire du parler de Diou](https://projetbabel.org/diou/grammaire.htm){ target="_blank" }
-* [« Qui ? » employé pour « que ? » ou « qu'est-ce que ? » — Patrimoine de Diou](https://www.diou03.fr/patrimoine){ target="_blank" }
+* [Construction interrogative « Qui que te dis ? » - Grammaire du parler de Diou](https://projetbabel.org/diou/grammaire.htm){ target="_blank" }
+* [« Qui ? » employé pour « que ? » ou « qu'est-ce que ? » - Patrimoine de Diou](https://www.diou03.fr/patrimoine){ target="_blank" }

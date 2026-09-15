@@ -14,7 +14,7 @@ Tourmenter, tracasser, inquiéter, travailler l'esprit, ronger, hanter
 
 ## Pour aller plus loin
 
-* [Dictionnaire bourbonnais — Projet Babel](https://projetbabel.org/diou/d.htm){ target="_blank" }
-* [Définition de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9D2115){ target="_blank" }
+* [Dictionnaire bourbonnais - Projet Babel](https://projetbabel.org/diou/d.htm){ target="_blank" }
+* [Définition de l'Académie Française](https://www.dictionnaire-academie.fr/article/A9D3005){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/dominer){ target="_blank" }
 * [Définition de Larousse](https://www.larousse.fr/dictionnaires/francais/dominer/26384){ target="_blank" }

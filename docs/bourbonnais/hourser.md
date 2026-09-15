@@ -14,5 +14,5 @@ Tancer, réprimander, sermonner, rabrouer, remettre à sa place, passer un savon
 
 ## Pour aller plus loin
 
-* [Hourser — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/hij.htm){ target="_blank" }
-* [Petit recueil du parler de Diou — Roger Gilliet](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }
+* [Hourser - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/hij.htm){ target="_blank" }
+* [Petit recueil du parler de Diou - Roger Gilliet](https://projetbabel.org/diou/diou_2016.pdf){ target="_blank" }

@@ -10,10 +10,10 @@
 
 ## On dit aussi
 
-faire la sieste, faire un somme, faire un roupillon
+Faire la sieste, faire un somme, faire un roupillon
 
 ## Pour aller plus loin
 
-* [« Prenière » au sens de « sieste » — Petit Recueil du parler de Diou](https://projetbabel.org/diou/p.htm){ target="_blank" }
-* [« Prenière », prononcé « peurnière » — Patois bourbonnais](https://syt58.fr/genealogie/patois.php){ target="_blank" }
-* [« Prénière » au sens de « sieste » — Presses universitaires de Lyon](https://books.openedition.org/pul/54935){ target="_blank" }
+* [« Prenière » au sens de « sieste » - Petit Recueil du parler de Diou](https://projetbabel.org/diou/p.htm){ target="_blank" }
+* [« Prenière », prononcé « peurnière » - Patois bourbonnais](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [« Prénière » au sens de « sieste » - Presses universitaires de Lyon](https://books.openedition.org/pul/54935){ target="_blank" }

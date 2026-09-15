@@ -11,11 +11,11 @@ Ou, plus communément
 
 > Performance increases with arousal only up to a point, after which it begins to decrease.
 
-Autrement dit : **Un certain niveau d'activation te booste — trop d'activation te sabote.**.
+Autrement dit : **Un certain niveau d'activation te booste - trop d'activation te sabote.**.
 
-Bref : **Le stress n'est pas l'ennemi — c'est le dosage qui fait la différence**.
+Bref : **Le stress n'est pas l'ennemi - c'est le dosage qui fait la différence**.
 
-Important : Yerkes-Dodson ne parle pas spécifiquement de *stress* mais d'**activation** (*arousal*). Celle-ci peut être positive (enthousiasme) ou négative (pression). Dans la vie réelle, les deux se confondent souvent — d'où l'intérêt du modèle.
+Important : Yerkes-Dodson ne parle pas spécifiquement de *stress* mais d'**activation** (*arousal*). Celle-ci peut être positive (enthousiasme) ou négative (pression). Dans la vie réelle, les deux se confondent souvent - d'où l'intérêt du modèle.
 
 ## Pourquoi la loi de Yerkes-Dodson est si parlante
 
@@ -78,7 +78,7 @@ Ils publient leurs résultats dans *The Relation of Strength of Stimulus to Rapi
 ### 2. Une interprétation élargie : le U inversé
 
 L'expérience originale ne concerne **ni l'humain**, **ni le stress**, **ni les tâches complexes**.  
-La version moderne — la courbe en U inversé — est une **généralisation** construite au fil des décennies, car elle permet d'expliquer de nombreux phénomènes :
+La version moderne - la courbe en U inversé - est une **généralisation** construite au fil des décennies, car elle permet d'expliquer de nombreux phénomènes :
 
 * motivation et performance au travail
 * concentration en sport
@@ -107,7 +107,7 @@ Elle t'aide à comprendre pourquoi :
 * Trop → tu imploses.
 * Entre les deux → tu es vraiment performant.
 
-Le stress n'est pas un poison — c'est une **énergie**.
+Le stress n'est pas un poison - c'est une **énergie**.
 L'enjeu n'est pas de l'éviter, mais de **bien le doser**.
 
 ### Références

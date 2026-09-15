@@ -14,6 +14,7 @@ Arpion, orteil, doigt de pied, peton
 
 ## Pour aller plus loin
 
-* [Arpion — Le parler bourbonnais de Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
-* [Définition du Wiktionnaire — arpion](https://fr.wiktionary.org/wiki/arpion){ target="_blank" }
-* [Définition de Larousse — arpion](https://www.larousse.fr/dictionnaires/francais/arpion/5338){ target="_blank" }
+* [Définition de « ergo » - Académie française (autre sens : donc)](https://www.dictionnaire-academie.fr/article/A9E2463){ target="_blank" }
+* [Arpion - Le parler bourbonnais de Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
+* [Définition du Wiktionnaire - arpion](https://fr.wiktionary.org/wiki/arpion){ target="_blank" }
+* [Définition de Larousse - arpion](https://www.larousse.fr/dictionnaires/francais/arpion/5338){ target="_blank" }

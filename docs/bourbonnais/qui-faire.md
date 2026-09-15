@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-pourquoi, dans quel but, à cause que, comment que ça se fait
+Pourquoi, dans quel but, à cause que, comment que ça se fait
 
 ## Pour aller plus loin
 

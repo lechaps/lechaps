@@ -10,11 +10,11 @@ La **patouille**, c'est la gadoue, la boue molle, grasse et collante qui s'attac
 
 ## On dit aussi
 
-gadoue, boue, bourbier, margouillis
+Gadoue, boue, bourbier, margouillis
 
 ## Pour aller plus loin
 
 * [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9P0998){ target="_blank" }
 * [Définition et attestations dialectales du CNRTL](https://www.cnrtl.fr/definition/patouille){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/patouille){ target="_blank" }
-* [Usages régionaux — Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1P0039.html){ target="_blank" }
+* [Usages régionauxDictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1P0039.html){ target="_blank" }

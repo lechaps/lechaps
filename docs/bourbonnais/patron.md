@@ -10,7 +10,7 @@ Le **patron**, c'est celui qui tient l'exploitation agricole, qui décide des tr
 
 ## On dit aussi
 
-patron, patronne, chef d'exploitation, la femme du patron
+Chef d'exploitation, la femme du patron
 
 ## Pour aller plus loin
 

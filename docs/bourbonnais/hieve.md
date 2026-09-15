@@ -14,5 +14,5 @@ Lièvre
 
 ## Pour aller plus loin
 
-* [Hiève ou hièvre — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/hij.htm){ target="_blank" }
-* [Variantes bourbonnaises du nom du lièvre — Orbis Linguarum](https://orbis-linguarum.pl/articles/57/37_martin-minaret.pdf){ target="_blank" }
+* [Hiève ou hièvre - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/hij.htm){ target="_blank" }
+* [Variantes bourbonnaises du nom du lièvre - Orbis Linguarum](https://orbis-linguarum.pl/articles/57/37_martin-minaret.pdf){ target="_blank" }

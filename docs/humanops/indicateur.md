@@ -49,7 +49,7 @@ Ensemble, les deux lois décrivent un même cycle :
 ## Le vrai problème : la substitution du sens par l'indicateur
 
 Le cœur du problème n'est ni la triche, ni la malveillance.
-C'est un phénomène beaucoup plus banal — et plus dangereux : **l'adaptation rationnelle**.
+C'est un phénomène beaucoup plus banal - et plus dangereux : **l'adaptation rationnelle**.
 
 Quand un chiffre conditionne :
 
@@ -136,7 +136,7 @@ Il n'existe pas de solution définitive, mais des garde-fous :
 * **Faire évoluer les métriques** avant qu'elles ne se figent.
 * **Redonner du poids au jugement humain**, surtout dans les situations complexes.
 * **Se demander régulièrement** :
-  *Que sommes-nous en train d'optimiser — et qu'avons-nous cessé de voir ?*
+  *Que sommes-nous en train d'optimiser - et qu'avons-nous cessé de voir ?*
 
 ## Conclusion : les chiffres comme outils, pas comme idoles
 

@@ -14,5 +14,5 @@ Faucille, croissant, serpe
 
 ## Pour aller plus loin
 
-* [« Gouillard » : serpe à long manche — Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
-* [« Gouillard » et formes bourbonnaises apparentées — *Archivum Romanicum*](https://archive.org/stream/ArchivumRomanicum6/Archivum_Romanicum_6_djvu.txt){ target="_blank" }
+* [« Gouillard » : serpe à long manche - Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [« Gouillard » et formes bourbonnaises apparentées - *Archivum Romanicum*](https://archive.org/stream/ArchivumRomanicum6/Archivum_Romanicum_6_djvu.txt){ target="_blank" }

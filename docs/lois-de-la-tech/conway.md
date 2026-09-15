@@ -12,7 +12,7 @@ Autrement dit : **l'architecture d'un système tend à refléter la manière don
 Si les équipes sont en silos, l'architecture le sera souvent aussi.
 Si la communication est fluide et cohérente, le produit a de fortes chances de l'être également.
 
-Bref : **on a tendance à construire ce qu'on est** — ou, plus précisément, **ce qu'on pratique au quotidien**.
+Bref : **on a tendance à construire ce qu'on est** - ou, plus précisément, **ce qu'on pratique au quotidien**.
 
 ## Ce que dit vraiment la loi de Conway
 
@@ -79,7 +79,7 @@ Autrement dit :
 * Conway agit par défaut.
 * L'ignorer, c'est le subir.
 
-Certaines organisations parviennent à produire des architectures cohérentes malgré des structures complexes — mais jamais par hasard.
+Certaines organisations parviennent à produire des architectures cohérentes malgré des structures complexes - mais jamais par hasard.
 Elles compensent par :
 
 * des règles d'architecture explicites,
@@ -119,7 +119,7 @@ Exemples classiques :
 * ownership clair par domaine,
 * équipes autonomes mais interopérables.
 
-Dans ces cas-là, Conway ne disparaît pas — **il devient un levier de design**.
+Dans ces cas-là, Conway ne disparaît pas - **il devient un levier de design**.
 
 ## Ce que la loi de Conway nous apprend vraiment
 

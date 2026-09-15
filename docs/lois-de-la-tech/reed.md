@@ -6,14 +6,14 @@ Bienvenue dans **la loi de Reed**.
 
 > The utility of large networks, particularly social networks, scales exponentially with the size of the network - David Patrick Reed, 1999
 
-Autrement dit : **La vraie puissance d'un réseau ne vient pas de ses utilisateurs, mais des groupes qu'ils forment — et des liens qu'ils créent entre eux**.
+Autrement dit : **La vraie puissance d'un réseau ne vient pas de ses utilisateurs, mais des groupes qu'ils forment - et des liens qu'ils créent entre eux**.
 
 Bref : **Les communautés valent plus que la foule**.
 
 ## Pourquoi la loi de Reed est si parlante
 
 * **Metcalfe parlait de connexions, Reed parle de communautés**. Dans un réseau à N utilisateurs, tu peux créer non pas N² liens, mais jusqu'à **2ⁿ sous-groupes possibles**. C'est une explosion combinatoire : chaque groupe, chaque forum, chaque canal de discussion ajoute une nouvelle forme de valeur.
-* **C'est ce qui fait la force des réseaux modernes**. Ce ne sont pas seulement des gens connectés entre eux — c'est une **multiplicité de tribus, d'équipes, de fandoms et de cercles privés** Reddit, Discord, Slack, WhatsApp, ou même les DAO dans la blockchain : tous prospèrent sur la capacité à **former des sous-groupes autonomes**.
+* **C'est ce qui fait la force des réseaux modernes**. Ce ne sont pas seulement des gens connectés entre eux - c'est une **multiplicité de tribus, d'équipes, de fandoms et de cercles privés** Reddit, Discord, Slack, WhatsApp, ou même les DAO dans la blockchain : tous prospèrent sur la capacité à **former des sous-groupes autonomes**.
 * **La valeur vient de la collaboration**. Un grand réseau d'individus peut être chaotique. Mais quand ces individus s'organisent en **groupes qui coopèrent, échangent et s'entraident**, la valeur du système explose.
 
 En somme, Reed montre que la puissance d'un réseau n'est pas dans sa taille brute, mais dans **la diversité de ses communautés internes**.
@@ -25,9 +25,9 @@ Dans son article _The Law of the Pack: Some Thoughts on Network Metcalfe's Law a
 
 L'idée de Reed est simple mais radicale :
 
-> Si Metcalfe mesure la valeur d'un réseau par le nombre de connexions (N²), alors les réseaux modernes — où les gens se regroupent — suivent une croissance encore plus rapide, de l'ordre de **2ⁿ**.
+> Si Metcalfe mesure la valeur d'un réseau par le nombre de connexions (N²), alors les réseaux modernes - où les gens se regroupent - suivent une croissance encore plus rapide, de l'ordre de **2ⁿ**.
 
-C'est une manière de dire que **la valeur d'Internet, des réseaux sociaux ou des communautés collaboratives n'est pas seulement additive ni quadratique — elle est exponentielle**.  
+C'est une manière de dire que **la valeur d'Internet, des réseaux sociaux ou des communautés collaboratives n'est pas seulement additive ni quadratique - elle est exponentielle**.  
 Chaque nouveau membre ne connecte pas seulement plus de gens : **il rend possible une infinité de nouveaux groupes**.  
 
 La loi de Reed a influencé la compréhension de l'**économie des plateformes**, de la **dynamique communautaire**, et plus récemment des **écosystèmes décentralisés** (DAO, Web3, open source).  
@@ -42,7 +42,7 @@ Mais cette logique s'inscrit dans une progression plus large : diffusion, connex
 
 Pour relier ces étages et comprendre ce que chaque loi mesure (et ce qu'elle oublie), il faut les lire ensemble.
 
-**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom — Réseaux](../humanops/network.md)**
+**[Lire la suite : Sarnoff × Metcalfe × Reed × Beckstrom - Réseaux](../humanops/network.md)**
 
 ### Références
 

@@ -14,4 +14,4 @@ Entre, parmi, au milieu de, sur ces entrefaites
 
 ## Pour aller plus loin
 
-* [Entremi — Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/e.htm){ target="_blank" }
+* [Entremi - Dictionnaire bourbonnais de Projet Babel](https://projetbabel.org/diou/e.htm){ target="_blank" }

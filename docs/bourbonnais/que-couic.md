@@ -10,10 +10,10 @@
 
 ## On dit aussi
 
-que pouic, rien, que dalle, pas un traître mot
+Que pouic, rien, que dalle, pas un traître mot
 
 ## Pour aller plus loin
 
-* [Définition de « couic » — CNRTL](https://www.cnrtl.fr/definition/couic){ target="_blank" }
-* [Définition de « que couic » — Wiktionnaire](https://fr.wiktionary.org/wiki/que_couic){ target="_blank" }
-* [Variante « que pouic » — Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/4969){ target="_blank" }
+* [Définition de « couic » - CNRTL](https://www.cnrtl.fr/definition/couic){ target="_blank" }
+* [Définition de « que couic » - Wiktionnaire](https://fr.wiktionary.org/wiki/que_couic){ target="_blank" }
+* [Variante « que pouic » - Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/4969){ target="_blank" }

@@ -10,9 +10,9 @@ Un **rouain**, c'est une ornière, cette trace profonde que les roues creusent d
 
 ## On dit aussi
 
-ornière, trace de roue, rouan
+Ornière, trace de roue, rouan
 
 ## Pour aller plus loin
 
 * [« Rouain » dans un lexique du patois bourbonnais](https://syt58.fr/genealogie/patois.php){ target="_blank" }
-* [Attestation ancienne de « rouain », marque d'une roue ou ornière — Littré](https://www.littre.org/definition/rouanne){ target="_blank" }
+* [Attestation ancienne de « rouain », marque d'une roue ou ornière - Littré](https://www.littre.org/definition/rouanne){ target="_blank" }

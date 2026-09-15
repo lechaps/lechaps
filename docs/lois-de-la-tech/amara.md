@@ -5,17 +5,17 @@ C'est ce qu'on appelle **la loi d'Amara**.
 
 > We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run - Roy Charles Amara, 1978
 
-Autrement dit : **le futur ne se passe jamais comme on l'imagine — il arrive plus lentement… puis d'un coup**.
+Autrement dit : **le futur ne se passe jamais comme on l'imagine - il arrive plus lentement… puis d'un coup**.
 
 ## Pourquoi la loi d'Amara est si parlante
 
 * **Au début, on s'emballe**. Chaque nouvelle technologie déclenche une vague d'euphorie. On promet des révolutions immédiates, des changements radicaux… et souvent, rien ne se passe comme prévu.
 * **Puis, on se lasse**. L'attention baisse, les projets stagnent, les médias se détournent. On pense que la révolution est morte.
-* **Et c'est là que tout bascule**. En silence, la technologie mûrit, s'intègre, devient utile — et finit par transformer tout un secteur.
+* **Et c'est là que tout bascule**. En silence, la technologie mûrit, s'intègre, devient utile - et finit par transformer tout un secteur.
 
 C'est le même scénario à chaque fois :
 
-* L'**Internet** des années 90 semblait lent et marginal — aujourd'hui, il structure nos vies.
+* L'**Internet** des années 90 semblait lent et marginal - aujourd'hui, il structure nos vies.
 * L'**intelligence artificielle** a été annoncée, enterrée, puis réinventée… avant de devenir incontournable.
 * L'**impression 3D**, les **blockchains**, ou la **réalité augmentée** suivent le même cycle : promesse, déception, transformation.
 
@@ -39,13 +39,13 @@ En somme, la loi d'Amara nous rappelle que **l'avenir se construit dans le calme
 ## Et si Amara ne parlait pas que de technologie ?
 
 La loi d'Amara décrit les **innovations**.  
-Mais cette dynamique — lente accumulation, longue attente, bascule soudaine — ne concerne pas que la technologie.
+Mais cette dynamique - lente accumulation, longue attente, bascule soudaine - ne concerne pas que la technologie.
 
 On la retrouve aussi dans les **crises économiques**, les **effondrements politiques**, les **entreprises**, et même les **vies personnelles**.
 
 Là où Amara explique pourquoi **les révolutions mettent du temps à arriver**, une autre loi explique pourquoi **les crises mettent du temps à éclater**.
 
-**[Lire la suite : Bascule — Dornbusch × Amara](../humanops/bascule.md)**
+**[Lire la suite : Bascule - Dornbusch × Amara](../humanops/bascule.md)**
 
 ### Références
 

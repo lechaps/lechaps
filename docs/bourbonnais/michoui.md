@@ -10,4 +10,4 @@ Le **michoui**, c'est le méchoui passé par la bouche du pays, arrondi, apprivo
 
 ## On dit aussi
 
-méchoui
+Méchoui

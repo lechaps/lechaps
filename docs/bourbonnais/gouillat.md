@@ -14,6 +14,6 @@ Mare, flaque, trou d'eau, pièce d'eau, [grenouillat](./gouillat.md)
 
 ## Pour aller plus loin
 
-* [Définition de « gouillat » — Wiktionnaire](https://fr.wiktionary.org/wiki/gouillat){ target="_blank" }
-* [« Gouillas » et ses variantes régionales — Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1G0053.html){ target="_blank" }
-* [« Gouillat » au sens de « flaque » — Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Définition de « gouillat » - Wiktionnaire](https://fr.wiktionary.org/wiki/gouillat){ target="_blank" }
+* [« Gouillas » et ses variantes régionales - Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1G0053.html){ target="_blank" }
+* [« Gouillat » au sens de « flaque » - Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }

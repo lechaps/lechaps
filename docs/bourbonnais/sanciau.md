@@ -16,7 +16,7 @@ Sanciaux
 
 ## Pour aller plus loin
 
-* [« Sanciau » — L'Observatoire des Produits du Terroir, spécialité de Sologne bourbonnaise](https://www.lopt.org/carte/sologne-bourbonnaise/specialites/sanciau-bourbonnais){ target="_blank" }
-* [« Sanciau aux pommes » — Guide des hôtels-restaurants de l'Allier](https://www.allier-hotels-restaurants.com/recette/sanciau-aux-pommes/){ target="_blank" }
-* [« Sanciau » — Guide des hôtels-restaurants de l'Allier](https://www.allier-hotels-restaurants.com/recette/sanciau/){ target="_blank" }
-* [« Sanciau » — Wikipédia](https://fr.wikipedia.org/wiki/Sanciau){ target="_blank" }
+* [« Sanciau » - L'Observatoire des Produits du Terroir, spécialité de Sologne bourbonnaise](https://www.lopt.org/carte/sologne-bourbonnaise/specialites/sanciau-bourbonnais){ target="_blank" }
+* [« Sanciau aux pommes » - Guide des hôtels-restaurants de l'Allier](https://www.allier-hotels-restaurants.com/recette/sanciau-aux-pommes/){ target="_blank" }
+* [« Sanciau » - Guide des hôtels-restaurants de l'Allier](https://www.allier-hotels-restaurants.com/recette/sanciau/){ target="_blank" }
+* [« Sanciau » - Wikipédia](https://fr.wikipedia.org/wiki/Sanciau){ target="_blank" }

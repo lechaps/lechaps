@@ -11,3 +11,7 @@ L'**alléluia**, ce n'est pas tellement une affaire de religion. C'est plutôt t
 ## On dit aussi
 
 Cinéma, comédie, grand tralala, tout le [saint-frusquin](./saint-frusquin.md), tintouin, ramdam
+
+## Pour aller plus loin
+
+* [Définition de « alléluia » - Académie française (sens religieux et botanique)](https://www.dictionnaire-academie.fr/article/A9A1224){ target="_blank" }

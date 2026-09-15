@@ -10,7 +10,7 @@ Une **saucée**, c'est une forte pluie, une averse bien nourrie qui vous tombe d
 
 ## On dit aussi
 
-averse, rincée, trempée, drache
+Averse, rincée, trempée, drache
 
 ## Pour aller plus loin
 

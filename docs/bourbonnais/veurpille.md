@@ -14,4 +14,4 @@ Veurpi, verpi, vipère
 
 ## Pour aller plus loin
 
-* [Mots usuels du patois bourbonnais — Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }
+* [Mots usuels du patois bourbonnais - Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }

@@ -14,7 +14,7 @@ Guenille, loque, chiffon, haillon, [penet](./penet.md)
 
 ## Pour aller plus loin
 
-* [Définition de « guenille » — Académie française](https://www.dictionnaire-academie.fr/article/A9G1654){ target="_blank" }
-* [Définition et étymologie de « guenille » — CNRTL](https://www.cnrtl.fr/definition/guenille){ target="_blank" }
-* [Usages régionaux de « guenille » — Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1G0088.html){ target="_blank" }
-* [Définition de « guenille » — Wiktionnaire](https://fr.wiktionary.org/wiki/guenille){ target="_blank" }
+* [Définition de « guenille » - Académie française](https://www.dictionnaire-academie.fr/article/A9G1654){ target="_blank" }
+* [Définition et étymologie de « guenille » - CNRTL](https://www.cnrtl.fr/definition/guenille){ target="_blank" }
+* [Usages régionaux de « guenille » - Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1G0088.html){ target="_blank" }
+* [Définition de « guenille » - Wiktionnaire](https://fr.wiktionary.org/wiki/guenille){ target="_blank" }

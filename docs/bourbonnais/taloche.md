@@ -14,6 +14,7 @@ Gifle, claque, baffe, calotte, tape, soufflet
 
 ## Pour aller plus loin
 
+* [Définition de « taloche » - Académie française (coup de la main)](https://www.dictionnaire-academie.fr/article/A9T0158){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/taloche){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/taloche){ target="_blank" }
 * [Définition du Larousse](https://www.larousse.fr/dictionnaires/francais/taloche/76487){ target="_blank" }

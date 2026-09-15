@@ -14,5 +14,5 @@ Repas, gueuleton, festin, casse-croûte, bonne mangeaille
 
 ## Pour aller plus loin
 
-* [Mangement — Petit dictionnaire de l'ancien français](https://fr.wikisource.org/wiki/Page%3AVan_Daele_-_Petit_dictionnaire_de_l%27ancien_fran%C3%A7ais.djvu/280){ target="_blank" }
+* [Mangement - Petit dictionnaire de l'ancien français](https://fr.wikisource.org/wiki/Page%3AVan_Daele_-_Petit_dictionnaire_de_l%27ancien_fran%C3%A7ais.djvu/280){ target="_blank" }
 * [Mangement dans les mots berrichons de la cuisine](https://www.gilblog.fr/petit-dictionnaire-berricho/les-mots-de-la-cuisine-en.html){ target="_blank" }

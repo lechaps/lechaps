@@ -6,7 +6,7 @@ Bienvenue dans **la loi de Hanlon**.
 
 > Never attribute to malice that which is adequately explained by stupidity - Robert Hanlon
 
-Autrement dit : **La plupart du temps, les gens ne te veulent pas du mal — ils sont simplement humains**.
+Autrement dit : **La plupart du temps, les gens ne te veulent pas du mal - ils sont simplement humains**.
 
 Dans la réalité, l'erreur, l'oubli, la confusion ou le manque de compétence expliquent bien plus de situations que les plans machiavéliques qu'on imagine parfois.
 
@@ -76,6 +76,6 @@ En une phrase, la loi de Hanlon nous invite à choisir la bienveillance par déf
 
 ### Références
 
-* [Hanlon, R. J. — *Murphy's Law Book Two*, 1980](https://www.amazon.com/Murphys-Law-Book-Two-Reasons/dp/0843106743)
+* [Hanlon, R. J. - *Murphy's Law Book Two*, 1980](https://www.amazon.com/Murphys-Law-Book-Two-Reasons/dp/0843106743)
 * [Murphy's Law Book Two: More Reasons Why Things Go Wrong!](https://fr.scribd.com/document/861525034/Murphys-Law-Book-Two-1980){ target="_blank" }
-* [Wikipedia — Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor){ target="_blank" }
+* [Wikipedia - Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor){ target="_blank" }

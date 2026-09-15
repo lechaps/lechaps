@@ -14,7 +14,8 @@ Faire bon effet, faire mauvais effet, ça fait bien, ça fait mal
 
 ## Pour aller plus loin
 
-* [« Marquer bien » et « marquer mal » — Lexique français-bourbonnais](https://micbourbonnais.free.fr/lexique.htm){ target="_blank" }
-* [Entrée « marque-mal » — Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1M0036.html){ target="_blank" }
-* [Définition de « effet » — CNRTL](https://www.cnrtl.fr/lexicographie/effet){ target="_blank" }
-* [Attestation historique de « marquer mal » — Dictionnaire historique d'argot](https://fr.wikisource.org/wiki/Dictionnaire_historique_d%E2%80%99argot_/%C3%89dition_Dentu/1881/M){ target="_blank" }
+* [Expressions « marquer bien » et « marquer mal »Académie française, article « marquer »](https://www.dictionnaire-academie.fr/article/A9M1186){ target="_blank" }
+* [« Marquer bien » et « marquer mal »Lexique français-bourbonnais](https://micbourbonnais.free.fr/lexique.htm){ target="_blank" }
+* [Entrée « marque-mal » - Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1M0036.html){ target="_blank" }
+* [Définition de « effet » - CNRTL](https://www.cnrtl.fr/lexicographie/effet){ target="_blank" }
+* [Attestation historique de « marquer mal » - Dictionnaire historique d'argot](https://fr.wikisource.org/wiki/Dictionnaire_historique_d%E2%80%99argot_/%C3%89dition_Dentu/1881/M){ target="_blank" }

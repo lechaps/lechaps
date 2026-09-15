@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-se battre, s'empoigner, se chamailler, se castagner
+Se battre, s'empoigner, se chamailler, se castagner
 
 ## Pour aller plus loin
 

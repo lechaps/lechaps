@@ -14,6 +14,7 @@ Ne rien perdre  pour attendre, garder un chien de sa chienne, avoir la mémoire 
 
 ## Pour aller plus loin
 
-* [Définition de « garder un chien de sa chienne » — Wiktionnaire](https://fr.wiktionary.org/wiki/garder_un_chien_de_sa_chienne){ target="_blank" }
-* [Expression « ne rien perdre pour attendre » — Expressio](https://www.expressio.fr/expressions/ne-rien-perdre-pour-attendre){ target="_blank" }
-* [Attestations de « garder un chien de sa chienne » — Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/12130){ target="_blank" }
+* [Définition de « marche » - Académie française (autre sens : déplacement à pied)](https://www.dictionnaire-academie.fr/article/A9M1053){ target="_blank" }
+* [Définition de « garder un chien de sa chienne » - Wiktionnaire](https://fr.wiktionary.org/wiki/garder_un_chien_de_sa_chienne){ target="_blank" }
+* [Expression « ne rien perdre pour attendre » - Expressio](https://www.expressio.fr/expressions/ne-rien-perdre-pour-attendre){ target="_blank" }
+* [Attestations de « garder un chien de sa chienne » - Bob, dictionnaire d'argot](https://www.languefrancaise.net/Bob/12130){ target="_blank" }

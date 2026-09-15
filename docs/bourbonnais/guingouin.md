@@ -10,11 +10,11 @@
 
 ## On dit aussi
 
-[à la va comme j'te pousse](a-la-va-comme-j-te-pousse.md), de guingois, de travers, de biais, de bricole
+[À la va comme j'te pousse](a-la-va-comme-j-te-pousse.md), de guingois, de travers, de biais, de bricole
 
 ## Pour aller plus loin
 
-* [Définition de « guingois » — Académie française](https://www.dictionnaire-academie.fr/article/A9G1759){ target="_blank" }
-* [Définition et étymologie de « guingois » — CNRTL](https://www.cnrtl.fr/definition/guingois){ target="_blank" }
-* [Définition de « de guingois » — Wiktionnaire](https://fr.wiktionary.org/wiki/de_guingois){ target="_blank" }
-* [Définition de « de guingois » — Larousse](https://www.larousse.fr/dictionnaires/francais/de_guingois/38636){ target="_blank" }
+* [Définition de « guingois » - Académie française](https://www.dictionnaire-academie.fr/article/A9G1759){ target="_blank" }
+* [Définition et étymologie de « guingois » - CNRTL](https://www.cnrtl.fr/definition/guingois){ target="_blank" }
+* [Définition de « de guingois » - Wiktionnaire](https://fr.wiktionary.org/wiki/de_guingois){ target="_blank" }
+* [Définition de « de guingois » - Larousse](https://www.larousse.fr/dictionnaires/francais/de_guingois/38636){ target="_blank" }

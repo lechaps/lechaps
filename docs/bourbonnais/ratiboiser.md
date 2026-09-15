@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-couper, tailler, raser, tondre, couper à ras, [racta](./racta.md)
+Couper, tailler, raser, tondre, couper à ras, [racta](./racta.md)
 
 ## Pour aller plus loin
 

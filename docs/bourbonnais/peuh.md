@@ -1,6 +1,6 @@
 # Peuh
 
-**Peuh**, c'est le petit bruit du dégoût, du mépris ou de la contrariété qu'on expédie d'un souffle, sans même faire l'honneur d'une phrase entière à ce qui nous déplaît. Ça veut dire **pouah**, **beurk**, parfois simplement : *gardez-moi donc ça loin du nez*. Une syllabe, un froncement de bouche, et voilà le mets, l'idée ou l'individu condamné sans appel — justice expéditive, certes, mais qui économise beaucoup de salive.
+**Peuh**, c'est le petit bruit du dégoût, du mépris ou de la contrariété qu'on expédie d'un souffle, sans même faire l'honneur d'une phrase entière à ce qui nous déplaît. Ça veut dire **pouah**, **beurk**, parfois simplement : *gardez-moi donc ça loin du nez*. Une syllabe, un froncement de bouche, et voilà le mets, l'idée ou l'individu condamné sans appel : justice expéditive, certes, mais qui économise beaucoup de salive.
 
 ## Exemple
 

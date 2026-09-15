@@ -6,7 +6,7 @@ Parce que le parallélisme ne sert pas d'abord à aller plus vite. Il sert à fa
 
 Bienvenue dans la loi de Gustafson.
 
-> We don't speed up the old problem; we solve bigger problems in the same time. — John Leroy Gustafson, 1988
+> We don't speed up the old problem; we solve bigger problems in the same time. - John Leroy Gustafson, 1988
 
 Autrement dit : **Le parallélisme libère surtout la capacité, pas la vitesse brute**.
 
@@ -56,7 +56,7 @@ La loi fonctionne aussi très bien hors du calcul pur :
 * Plus de GPU = modèles plus grands, plus riches, plus ambitieux.
 * Plus de capacité = questions qu'on n'osait même pas poser avant.
 
-> **Gustafson ne nie pas la limite — il invite à la dépasser en changeant d'échelle.**
+> **Gustafson ne nie pas la limite - il invite à la dépasser en changeant d'échelle.**
 
 ## Pourquoi Gustafson est crucial aujourd'hui
 
@@ -85,7 +85,7 @@ La loi de Gustafson renverse la perspective : le parallélisme ne sert pas seule
 
 Ces trois lois décrivent ensemble le scaling tel qu'il se passe vraiment : **frein, horizon, coût**.
 
-**[Lire la suite : Amdahl × Gustafson × Gunther — Scaling](../humanops/logiciel.md)**
+**[Lire la suite : Amdahl × Gustafson × Gunther - Scaling](../humanops/logiciel.md)**
 
 ### Références
 

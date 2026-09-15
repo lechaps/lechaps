@@ -81,7 +81,7 @@ Aujourd'hui, les indicateurs :
 * conditionnent les carrières,
 * orientent les décisions automatisées.
 
-On n'optimise plus seulement des KPI, on **entraîne des systèmes entiers** à maximiser ce qui est mesuré — clics, temps passé, performance apparente — parfois au détriment :
+On n'optimise plus seulement des KPI, on **entraîne des systèmes entiers** à maximiser ce qui est mesuré - clics, temps passé, performance apparente - parfois au détriment :
 
 * de la qualité,
 * de l'éthique,
@@ -136,9 +136,9 @@ La loi de Campbell révèle comment les indicateurs, lorsqu'ils gouvernent les d
 
 Mais ce phénomène commence plus tôt, à un niveau plus subtil : au moment précis où une mesure devient **une cible explicite**, et cesse alors d'être une bonne mesure.
 
-C'est cette articulation — entre perte de fiabilité et distorsion systémique — qu'éclaire une autre loi fondamentale.
+C'est cette articulation - entre perte de fiabilité et distorsion systémique - qu'éclaire une autre loi fondamentale.
 
-**[Lire la suite : Goodhart × Campbell — Métriques](../humanops/indicateur.md)**
+**[Lire la suite : Goodhart × Campbell - Métriques](../humanops/indicateur.md)**
 
 ### Références
 

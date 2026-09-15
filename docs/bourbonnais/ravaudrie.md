@@ -10,10 +10,11 @@ Une **ravauderie**, c'est quelque chose qu'on a raccommodé grossièrement, rapi
 
 ## On dit aussi
 
-ravaudage, rafistolage, rapiéçage, bricole
+Ravaudage, rafistolage, rapiéçage, bricole
 
 ## Pour aller plus loin
 
-* [Définition de « ravauderie » — CNRTL](https://www.cnrtl.fr/definition/ravauderie){ target="_blank" }
-* [Attestation bourbonnaise de « ravauderie » comme objet de peu de valeur — Persée](https://www.persee.fr/doc/roma_0035-8029_1946_num_69_276_3627){ target="_blank" }
-* [Définition de « ravaudage » — Académie française](https://www.dictionnaire-academie.fr/article/A9R0635){ target="_blank" }
+* [Définition de « ravauderie » - Académie française, 7e édition (autre sens : propos insignifiants)](https://www.dictionnaire-academie.fr/article/A7R0370){ target="_blank" }
+* [Définition de « ravauderie » - CNRTL](https://www.cnrtl.fr/definition/ravauderie){ target="_blank" }
+* [Attestation bourbonnaise de « ravauderie » comme objet de peu de valeur - Persée](https://www.persee.fr/doc/roma_0035-8029_1946_num_69_276_3627){ target="_blank" }
+* [Définition de « ravaudage » - Académie française](https://www.dictionnaire-academie.fr/article/A9R0635){ target="_blank" }

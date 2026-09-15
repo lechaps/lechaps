@@ -8,16 +8,16 @@ Félicitations, tu es sur le point de découvrir **le paradoxe de Jevons**.
 
 > As technological improvements increase the efficiency with which a resource is used, the rate of consumption of that resource tends to increase rather than decrease - William Stanley Jevons, 1865
 
-Oui, c'est contre-intuitif — et pourtant, c'est souvent vrai.
+Oui, c'est contre-intuitif - et pourtant, c'est souvent vrai.
 
 Autrement dit : **rendre une ressource plus efficace ne garantit pas qu'on en consomme moins**.
-Bien souvent, ça la rend plus attractive, plus rentable, plus accessible — donc plus utilisée.
+Bien souvent, ça la rend plus attractive, plus rentable, plus accessible - donc plus utilisée.
 
 Bref : **plus c'est efficace, plus on risque d'en abuser**.
 
 ## Pourquoi le paradoxe de Jevons est si parlant
 
-* **Un moteur qui consomme moins ?** Super — on roule plus loin, plus souvent.
+* **Un moteur qui consomme moins ?** Super - on roule plus loin, plus souvent.
 * **Des appareils plus économes ?** On en achète davantage, on les laisse allumés plus longtemps.
 * **Des procédés plus efficaces ?** Ils réduisent les coûts et ouvrent la porte à de nouveaux usages.
 
@@ -28,14 +28,14 @@ quand quelque chose devient plus facile ou moins cher, le système économique e
 
 Important à noter : ce phénomène n'est pas toujours total.
 Parfois, les gains d'efficacité tiennent.
-Mais **sans limites explicites**, l'efficacité finit très souvent par être rattrapée — voire dépassée — par l'augmentation des usages.
+Mais **sans limites explicites**, l'efficacité finit très souvent par être rattrapée - voire dépassée - par l'augmentation des usages.
 
 ## Une leçon d'humilité
 
 Le paradoxe de Jevons nous rappelle une chose essentielle :
 **on ne résout pas un problème complexe en l'optimisant localement**.
 
-L'efficacité est utile — mais **elle ne suffit pas**.
+L'efficacité est utile - mais **elle ne suffit pas**.
 
 Sans cadre, sans plafond, sans choix collectifs :
 
@@ -81,7 +81,7 @@ l'efficacité technologique **ne sauvera rien à elle seule** si elle n'est pas 
 * de plafonds,
 * de régulation,
 * de sobriété organisée,
-* et de choix politiques explicites sur ce que l'on veut — ou non — développer.
+* et de choix politiques explicites sur ce que l'on veut - ou non - développer.
 
 Faire mieux est nécessaire.
 Mais **apprendre à faire moins** est devenu indispensable.

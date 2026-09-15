@@ -18,6 +18,7 @@ Je me souviens de la maie comme d'un meuble interdit, presque solennel, dont le 
 
 ## Pour aller plus loin
 
+* [Définition de « maie » - Académie française](https://www.dictionnaire-academie.fr/article/A9M0199){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/maies){ target="_blank" }
 * [Définition de l'Académie française](https://www.dictionnaire-academie.fr/article/A9P1835){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/maie){ target="_blank" }

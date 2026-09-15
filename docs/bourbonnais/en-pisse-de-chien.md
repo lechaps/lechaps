@@ -14,5 +14,5 @@ En désordre, bout-ci bout-là, [à la va-comme-je-te-pousse](./a-la-va-comme-j-
 
 ## Pour aller plus loin
 
-* [Dictionnaire bourbonnais — Projet Babel](https://projetbabel.org/diou/p.htm){ target="_blank" }
-* [Expressions bourbonnaises — Projet Babel](https://projetbabel.org/diou/expressions.htm){ target="_blank" }
+* [Dictionnaire bourbonnais - Projet Babel](https://projetbabel.org/diou/p.htm){ target="_blank" }
+* [Expressions bourbonnaises - Projet Babel](https://projetbabel.org/diou/expressions.htm){ target="_blank" }

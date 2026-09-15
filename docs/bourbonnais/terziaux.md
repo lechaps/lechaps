@@ -1,6 +1,6 @@
 # Treziaux ou terziaux
 
-Les **terziaux**, ce sont treize gerbes de blé assemblées dans le champ, treize exactement — pas douze, chiffre d'apôtre, ni quatorze, qui serait de la gourmandise. C'était une mesure de moisson, mais aussi la preuve visible du travail accompli : le blé coupé, lié, relevé, mis à l'abri comme on pouvait avant que le ciel, ce vieux contremaître lunatique, ne décide de renverser son arrosoir sur toute l'entreprise.
+Les **terziaux**, ce sont treize gerbes de blé assemblées dans le champ, treize exactement (pas douze, chiffre d'apôtre, ni quatorze, qui serait de la gourmandise). C'était une mesure de moisson, mais aussi la preuve visible du travail accompli : le blé coupé, lié, relevé, mis à l'abri comme on pouvait avant que le ciel, ce vieux contremaître lunatique, ne décide de renverser son arrosoir sur toute l'entreprise.
 
 ## Exemple
 

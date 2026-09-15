@@ -8,7 +8,7 @@ Elles parlent toutes deux d'échec, mais **pas du même échec, ni du même mome
 * Murphy parle de **ce qui peut casser**.
 * Finagle parle de **quand ça cassera**.
 
-Ensemble, elles forment une lecture complète — et redoutablement lucide — du comportement des systèmes humains, techniques et organisationnels.
+Ensemble, elles forment une lecture complète - et redoutablement lucide - du comportement des systèmes humains, techniques et organisationnels.
 
 ## La loi de Murphy : l'échec comme hypothèse fondamentale
 
@@ -34,7 +34,7 @@ C'est une loi de **préparation**, de **rigueur**, de **design défensif**.
 
 Finagle intervient **après** Murphy.
 
-> *Anything that can go wrong, will — at the worst possible moment.*
+> *Anything that can go wrong, will - at the worst possible moment.*
 
 Si Murphy annonce l'échec, **Finagle choisit la scène**.
 

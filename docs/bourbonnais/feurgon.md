@@ -14,6 +14,6 @@ Tisonnier, fourgon, pique-feu
 
 ## Pour aller plus loin
 
-* [Feurgon — Dictionnaire bourguignon](https://www.dicobourguignon.fr/index.php?lang=bourguignon&recherche=feurgon){ target="_blank" }
-* [Définition de « tisonnier » — CNRTL](https://www.cnrtl.fr/definition/tisonnier){ target="_blank" }
-* [Définition de « fourgonner » — Académie française](https://www.dictionnaire-academie.fr/article/A9F1419){ target="_blank" }
+* [Feurgon - Dictionnaire bourguignon](https://www.dicobourguignon.fr/index.php?lang=bourguignon&recherche=feurgon){ target="_blank" }
+* [Définition de « tisonnier » - CNRTL](https://www.cnrtl.fr/definition/tisonnier){ target="_blank" }
+* [Définition de « fourgonner » - Académie française](https://www.dictionnaire-academie.fr/article/A9F1419){ target="_blank" }

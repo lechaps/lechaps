@@ -10,9 +10,13 @@ Autrement dit, **le pouter est dans la moue ; le peutou est dans l'attitude enti
 
 ## Exemple
 
+### Ce qui se tasse
+
 *Arrête donc de faire le peutou, on va pas y passer l'dimanche !*
 
 > « Je vous invite à mettre un terme à cette démonstration silencieuse de confusion embarrassée, la famille ne pouvant raisonnablement consacrer l'intégralité du repos dominical à l'examen de votre contrition faciale. »
+
+### Ce qui se terre
 
 *Arrête donc de faire le pouter avec ta bouche, on a compris que t'étais pas content !*
 
@@ -21,12 +25,12 @@ Autrement dit, **le pouter est dans la moue ; le peutou est dans l'attitude enti
 ## On dit aussi
 
 1. Faire la moue
-2. bouder, faire la tête, être penaud, se renfrogner
+2. Bouder, faire la tête, être penaud, se renfrogner
 
 ## Pour aller plus loin
 
-* [Peutou, « péteux, honteux » — Dictionnaire gallo-français](https://maisonderetraiteheric.fr/wp-content/uploads/2018/04/Dictionnaire-Gallo-Fran%C3%A7ais-20180330-de-16-pages.pdf){ target="_blank" }
-* [« Peutou » — Dictionnaire Gallo-Français : « péteux, honteux »](https://gallo.maisonderetraiteheric.fr/animations/dictionnaire-motier-2/){ target="_blank" }
-* [« Faire la pote » — Wiktionnaire : bouder, faire la moue](https://fr.wiktionary.org/wiki/faire_la_pote){ target="_blank" }
-* [« Faire la pote » — Larousse](https://www.larousse.fr/dictionnaires/francais/pote/62986){ target="_blank" }
-* [« Pote / potte » — Littré : lèvre, moue et formes régionales apparentées](https://www.littre.org/definition/pote){ target="_blank" }
+* [Peutou, « péteux, honteux » - Dictionnaire gallo-français](https://maisonderetraiteheric.fr/wp-content/uploads/2018/04/Dictionnaire-Gallo-Fran%C3%A7ais-20180330-de-16-pages.pdf){ target="_blank" }
+* [« Peutou » - Dictionnaire Gallo-Français : « péteux, honteux »](https://gallo.maisonderetraiteheric.fr/animations/dictionnaire-motier-2/){ target="_blank" }
+* [« Faire la pote » - Wiktionnaire : bouder, faire la moue](https://fr.wiktionary.org/wiki/faire_la_pote){ target="_blank" }
+* [« Faire la pote » - Larousse](https://www.larousse.fr/dictionnaires/francais/pote/62986){ target="_blank" }
+* [« Pote / potte » - Littré : lèvre, moue et formes régionales apparentées](https://www.littre.org/definition/pote){ target="_blank" }

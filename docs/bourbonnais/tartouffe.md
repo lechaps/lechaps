@@ -1,6 +1,6 @@
 # Tartouffe
 
-La **tartouffe**, c'est la pomme de terre, la vraie reine du Bourbonnais — une souveraine crottée, ventrue, sans couronne ni protocole, mais capable de nourrir toute une maisonnée quand novembre gratte aux vitres. On la tire de terre, on la pèle au-dessus de l'évier, on la jette au four, dans la soupe ou sous la pâte, et elle revient toujours à table avec cette modestie des gens indispensables qui n'ont jamais réclamé leur portrait dans la salle du conseil.
+La **tartouffe**, c'est la pomme de terre, la vraie reine du Bourbonnais : une souveraine crottée, ventrue, sans couronne ni protocole, mais capable de nourrir toute une maisonnée quand novembre gratte aux vitres. On la tire de terre, on la pèle au-dessus de l'évier, on la jette au four, dans la soupe ou sous la pâte, et elle revient toujours à table avec cette modestie des gens indispensables qui n'ont jamais réclamé leur portrait dans la salle du conseil.
 
 ## Exemple
 
@@ -18,6 +18,6 @@ Mon grand-père en mangeait tous les jours, cuites au four jusqu'à ce que leur 
 
 ## Pour aller plus loin
 
-* [Le parler bourbonnais — Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
-* [Dictionnaire bourbonnais — Le parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }
-* [Pâté aux tartouffes — Guide des hôtels et restaurants de l'Allier](https://www.allier-hotels-restaurants.com/recette/pate-aux-tartouffes-tourton-bourbonnais/){ target="_blank" }
+* [Le parler bourbonnais - Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
+* [Dictionnaire bourbonnais - Le parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }
+* [Pâté aux tartouffes - Guide des hôtels et restaurants de l'Allier](https://www.allier-hotels-restaurants.com/recette/pate-aux-tartouffes-tourton-bourbonnais/){ target="_blank" }

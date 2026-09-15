@@ -4,13 +4,19 @@ Le **ch'tit**, c'est un mot qui change de veste selon l'heure, le ton et le nomb
 
 ## Exemple
 
+### Ce qui taille
+
 *Un ch'tit canon avant d'partir ?*
 
 > « Permettez-moi de vous offrir une modeste mais néanmoins indispensable libation avant que nos chemins ne se séparent dans la froide indifférence du destin. »
 
+### Ce qui goutte
+
 *Pouah… c'est ch'ti, ton vin.*
 
 > « Cette boisson présente une agressivité gustative qui évoque moins le terroir que l'entretien d'une batterie de camion. »
+
+### Ce qui pique
 
 *Ah non, celui-là, méfie-toi, il est ch'tit.*
 

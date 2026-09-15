@@ -4,13 +4,19 @@
 
 ## Exemple
 
+### Ce qui brûle
+
 *J'sus passé dans des orties ; ça me dévore.*
 
 > « Ayant traversé imprudemment un massif végétal d'une agressivité urticante, je subis désormais une irritation cutanée d'une intensité telle que mon épiderme semble administré par une colonie de supplices minuscules. »
 
+### Ce qui retourne
+
 *Il paraît qu'les sangliers ont dévoré tout un champ de luzernes.*
 
 > « Il semblerait qu'une délégation porcine non mandatée ait procédé, durant la nuit, à la destruction quasi méthodique d'une parcelle entière de trèfle, avec un zèle de laboureur sans permis. »
+
+### Ce qui chavire
 
 *Il était dévoré hier soir, y tenait plus debout qu'par habitude.*
 

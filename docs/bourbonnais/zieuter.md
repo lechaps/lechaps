@@ -1,6 +1,6 @@
 # Zieuter
 
-**Zieuter**, c'est regarder sans avoir l'air d'y toucher, jeter un œil de côté tout en prétendant s'intéresser passionnément à son assiette, au journal ou à une mouche sur le buffet. Le regard s'attarde, surveille, guette parfois avec une curiosité qu'on voudrait discrète, mais qui se voit comme une tache de vin sur la nappe blanche. On ne contemple pas en zieutant : on observe en douce, avec l'innocence très relative de celui qui ne regarde surtout pas — mais qui n'en perd pas une miette.
+**Zieuter**, c'est regarder sans avoir l'air d'y toucher, jeter un œil de côté tout en prétendant s'intéresser passionnément à son assiette, au journal ou à une mouche sur le buffet. Le regard s'attarde, surveille, guette parfois avec une curiosité qu'on voudrait discrète, mais qui se voit comme une tache de vin sur la nappe blanche. On ne contemple pas en zieutant : on observe en douce, avec l'innocence très relative de celui qui ne regarde surtout pas (mais qui n'en perd pas une miette).
 
 ## Exemple
 

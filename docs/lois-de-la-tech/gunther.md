@@ -1,12 +1,12 @@
 # Gunther
 
-Tu as déjà vécu ce moment où ajouter des ressources rend ton système plus lent ? Plus de nœuds, plus de pods, plus de threads… et pourtant, la latence explose, les timeouts apparaissent, et le throughput stagne — voire recule.
+Tu as déjà vécu ce moment où ajouter des ressources rend ton système plus lent ? Plus de nœuds, plus de pods, plus de threads… et pourtant, la latence explose, les timeouts apparaissent, et le throughput stagne - voire recule.
 
 Bienvenue dans la loi de Gunther.
 
-> A system's capacity is limited by contention and by the coherency delay introduced as the number of processors increases. — Neil Gunther, 1993
+> A system's capacity is limited by contention and by the coherency delay introduced as the number of processors increases. - Neil Gunther, 1993
 
-Autrement dit : **Même quand un système est théoriquement parallélisable, le coût de coordination finit par manger — puis inverser — les gains**.
+Autrement dit : **Même quand un système est théoriquement parallélisable, le coût de coordination finit par manger - puis inverser - les gains**.
 
 Le message est clair : **Scaler, c'est ajouter de la complexité. Et la complexité a un coût**.
 
@@ -89,13 +89,13 @@ Elle rappelle une vérité inconfortable mais essentielle : **Scaler n'est pas u
 
 ## Et si le vrai ennemi du scaling était… la coordination ?
 
-La loi de Gunther explique pourquoi "ajouter des nœuds" finit parfois par ralentir : contention, cohérence, synchronisation — la coordination devient le goulot. Mais elle prend tout son sens quand on la place entre :
+La loi de Gunther explique pourquoi "ajouter des nœuds" finit parfois par ralentir : contention, cohérence, synchronisation - la coordination devient le goulot. Mais elle prend tout son sens quand on la place entre :
 
 * Amdahl, qui montre la limite du séquentiel,
 * Gustafson, qui montre l'horizon quand on change d'échelle.
-* Ensemble, ces lois donnent un cadre simple : scaler, oui — mais avec **lucidité**.
+* Ensemble, ces lois donnent un cadre simple : scaler, oui - mais avec **lucidité**.
 
-**[Lire la suite : Amdahl × Gustafson × Gunther — Scaling](../humanops/logiciel.md)**
+**[Lire la suite : Amdahl × Gustafson × Gunther - Scaling](../humanops/logiciel.md)**
 
 ### Références
 

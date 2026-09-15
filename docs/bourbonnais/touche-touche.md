@@ -1,6 +1,6 @@
 # Touche touche
 
-**À touche touche**, c'est à foison, serré, entassé au point que chaque chose finit par tenir chaud à sa voisine. Il y en a partout : sur les tables, dans les paniers, entre les voitures, jusque dans les coins où l'on jurait pourtant qu'il n'y avait plus de place. L'abondance devient alors un joyeux désordre, une cohue presque fraternelle — le monde entier coude à coude, sans plan de circulation ni autorisation préfectorale.
+**À touche touche**, c'est à foison, serré, entassé au point que chaque chose finit par tenir chaud à sa voisine. Il y en a partout : sur les tables, dans les paniers, entre les voitures, jusque dans les coins où l'on jurait pourtant qu'il n'y avait plus de place. L'abondance devient alors un joyeux désordre, une cohue presque fraternelle : le monde entier coude à coude, sans plan de circulation ni autorisation préfectorale.
 
 ## Exemple
 
@@ -14,6 +14,7 @@
 
 ## Pour aller plus loin
 
+* [Définition de « à touche-touche » - Académie française](https://www.dictionnaire-academie.fr/article/A9T1571){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/touche-touche){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/touche-touche){ target="_blank" }
 * [Dictionnaire bourbonnais du parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }

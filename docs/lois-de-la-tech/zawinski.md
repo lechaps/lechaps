@@ -9,7 +9,7 @@ Puis un système de notifications.
 
 Bienvenue dans **la loi de Zawinski**.
 
-> Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can. — Jamie Zawinski, 1995
+> Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can. - Jamie Zawinski, 1995
 
 On rit…
 Puis on ouvre la roadmap produit, et on rit un peu moins.
@@ -145,7 +145,7 @@ Et une fois qu'ils grossissent, ils franchissent souvent deux étapes quasi iné
 1. ils deviennent **programmables** (donc un langage, comme le décrit Greenspun),
 2. puis ils migrent vers l'environnement le plus universel : le **navigateur** (Atwood).
 
-**[Lire la suite : Zawinski × Greenspun × Atwood — Logiciel](../humanops/logiciel.md)**
+**[Lire la suite : Zawinski × Greenspun × Atwood - Logiciel](../humanops/logiciel.md)**
 
 ### Références
 

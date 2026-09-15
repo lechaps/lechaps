@@ -14,5 +14,5 @@ Bouloches, peluches, bourre de tissu
 
 ## Pour aller plus loin
 
-* [Fluches — Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
-* [Fluches — Quelques mots de patois bourbonnais, ZeroTrois](https://zerotrois.fr/bourbonnais/patois){ target="_blank" }
+* [Fluches - Patois bourbonnais, Syt58](https://syt58.fr/genealogie/patois.php){ target="_blank" }
+* [Fluches - Quelques mots de patois bourbonnais, ZeroTrois](https://zerotrois.fr/bourbonnais/patois){ target="_blank" }

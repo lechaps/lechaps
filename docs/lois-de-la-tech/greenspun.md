@@ -8,9 +8,9 @@ Puis une syntaxe.
 
 Bienvenue dans **la loi de Greenspun**.
 
-> Any sufficiently complicated program in C or Fortran contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp — Philip Greenspun, 1999
+> Any sufficiently complicated program in C or Fortran contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp - Philip Greenspun, 1999
 
-Autrement dit : **les systèmes ambitieux finissent par réinventer des langages — souvent sans le vouloir, et rarement bien**.
+Autrement dit : **les systèmes ambitieux finissent par réinventer des langages - souvent sans le vouloir, et rarement bien**.
 
 ## Pourquoi la loi de Greenspun est si parlante
 
@@ -81,7 +81,7 @@ Car ces langages improvisés sont souvent :
 
 Autrement dit :
 au lieu d'utiliser un vrai langage conçu pour ça,
-on recrée **la moitié d'un langage existant — en moins bien**.
+on recrée **la moitié d'un langage existant - en moins bien**.
 
 C'est là toute l'ironie de la loi de Greenspun :
 
@@ -153,9 +153,9 @@ Ce n'est ni un accident, ni un caprice : c'est une réponse à la complexité, �
 
 Mais cette étape s'inscrit dans un cycle plus large : **le logiciel enfle, devient langage, puis se déplace là où il est le plus facile à distribuer**.
 
-**[Lire la suite : Zawinski × Greenspun × Atwood — Logiciel](../humanops/logiciel.md)**
+**[Lire la suite : Zawinski × Greenspun × Atwood - Logiciel](../humanops/logiciel.md)**
 
 ### Références
 
-* [Philip Greenspun — *Philip and Alex's Guide to Web Publishing* (1999)](http://philip.greenspun.com/panda/){ target="_blank" }
-* [Wikipedia — *Greenspun's Tenth Rule*](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule){ target="_blank" }
+* [Philip Greenspun - *Philip and Alex's Guide to Web Publishing* (1999)](http://philip.greenspun.com/panda/){ target="_blank" }
+* [Wikipedia - *Greenspun's Tenth Rule*](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule){ target="_blank" }

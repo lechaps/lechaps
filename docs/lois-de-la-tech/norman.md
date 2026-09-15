@@ -2,11 +2,11 @@
 
 Tu as déjà tiré une porte marquée « PUSH » ?  
 Ou cliqué dix fois sur un bouton sans comprendre pourquoi "ça ne marche pas" ?  
-Bienvenue dans **la "loi de Norman"** — ou, plus rigoureusement : **la théorie de l'action de Norman**.
+Bienvenue dans **la "loi de Norman"** - ou, plus rigoureusement : **la théorie de l'action de Norman**.
 
 Norman ne résume pas ça en une formule magique. Il propose un modèle très concret : **un humain accomplit une tâche en passant par 7 étapes**, du but à l'évaluation du résultat.
 
-Bref : **si quelqu'un se trompe, ce n'est pas qu'il est "nul" — c'est souvent que le système n'aide pas assez à franchir ces étapes.**
+Bref : **si quelqu'un se trompe, ce n'est pas qu'il est "nul" - c'est souvent que le système n'aide pas assez à franchir ces étapes.**
 
 ## Pourquoi la théorie de l'action est si parlante
 
@@ -95,7 +95,7 @@ Mais ces frictions sont souvent causées en amont :
 
 Ces trois lois décrivent la même réalité, vue à trois étages : qui porte la complexité, comment on décide, et comment on agit et on comprend.
 
-**[Lire la suite : Tesler × Hick-Hyman × Norman — UX](../humanops/ux.md)**
+**[Lire la suite : Tesler × Hick-Hyman × Norman - UX](../humanops/ux.md)**
 
 ### Références
 

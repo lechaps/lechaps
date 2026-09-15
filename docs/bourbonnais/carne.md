@@ -16,5 +16,6 @@ Peau de vache, teigne, peste, vipère, emmerdeur
 
 ## Pour aller plus loin
 
+* [Définition de « carne » - Académie française (viande de mauvaise qualité et cheval usé)](https://www.dictionnaire-academie.fr/article/A9C0862){ target="_blank" }
 * [Définition du wiktionnaire](https://fr.wiktionary.org/wiki/carne){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/carne){ target="_blank" }

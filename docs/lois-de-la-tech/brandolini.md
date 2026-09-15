@@ -7,11 +7,11 @@ Félicitations, tu viens de vivre **la loi de Brandolini**.
 
 > The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it - Alberto Brandolini, 2013
 
-Autrement dit : **créer du bullshit est facile, rapide et gratuit — le corriger demande du temps, de la rigueur et une sacrée dose de patience**.
+Autrement dit : **créer du bullshit est facile, rapide et gratuit - le corriger demande du temps, de la rigueur et une sacrée dose de patience**.
 
 Bref : **le mensonge scale mieux que la vérité**.
 
-Ce principe, aussi appelé **principe d'asymétrie du bullshit**, explique en grande partie pourquoi les fausses informations circulent si vite — surtout à l'ère des réseaux sociaux, de l'instantanéité et de l'économie de l'attention.
+Ce principe, aussi appelé **principe d'asymétrie du bullshit**, explique en grande partie pourquoi les fausses informations circulent si vite - surtout à l'ère des réseaux sociaux, de l'instantanéité et de l'économie de l'attention.
 
 ## Pourquoi la loi de Brandolini est si parlante
 
@@ -31,7 +31,7 @@ La loi de Brandolini est donc à la fois :
 
 ## Mais alors… faut-il toujours corriger le bullshit ?
 
-C'est là que la loi devient intéressante — et inconfortable.
+C'est là que la loi devient intéressante - et inconfortable.
 
 Parce que si corriger coûte cher, **tout ne mérite pas forcément d'être corrigé**.
 
@@ -47,7 +47,7 @@ La loi de Brandolini n'est donc pas une invitation à se taire, mais un **outil 
 * *Pour qui ?*
 * *À quel coût ?*
 
-Dans certains contextes — entreprise, politique, réseaux sociaux — **le silence stratégique est parfois plus efficace que la pédagogie héroïque**.
+Dans certains contextes - entreprise, politique, réseaux sociaux - **le silence stratégique est parfois plus efficace que la pédagogie héroïque**.
 
 ## Brandolini, pouvoir et économie de l'attention
 
@@ -76,7 +76,7 @@ En 2013, il poste ce simple tweet :
 
 > The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
 
-La phrase est courte, juste, immédiatement compréhensible — et devient virale.
+La phrase est courte, juste, immédiatement compréhensible - et devient virale.
 
 Ironie délicieuse : **une phrase sur le bullshit s'est propagée sans en être.**
 

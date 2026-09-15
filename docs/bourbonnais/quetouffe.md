@@ -10,9 +10,9 @@ Une **quetouffe**, c'est une cloque, une ampoule, une boursouflure qui se lève 
 
 ## On dit aussi
 
-quetoufle, ampoule, cloque, boursouflure
+Quetoufle, ampoule, cloque, boursouflure
 
 ## Pour aller plus loin
 
-* [« Quetoufles » au sens d'« ampoules, cloques » — Commune de Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }
-* [« Quetouffes » au sens de « cloques » — Chevagnes en Sologne bourbonnaise](https://association-csb.fr/un-patois/){ target="_blank" }
+* [« Quetoufles » au sens d'« ampoules, cloques » - Commune de Saint-Ennemond](https://www.saint-ennemond.fr/nouv/patois-bourbonnais-mots-usuels/){ target="_blank" }
+* [« Quetouffes » au sens de « cloques » - Chevagnes en Sologne bourbonnaise](https://association-csb.fr/un-patois/){ target="_blank" }

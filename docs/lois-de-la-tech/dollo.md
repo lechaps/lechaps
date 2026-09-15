@@ -11,7 +11,7 @@ Et pourtant… quelque chose ne colle jamais vraiment.
 
 Bienvenue face à **la loi de Dollo**.
 
-> An organism never returns exactly to a former state, even if placed again in identical conditions… it always retains some trace of the intermediate stages through which it has passed — Louis Dollo
+> An organism never returns exactly to a former state, even if placed again in identical conditions… it always retains some trace of the intermediate stages through which it has passed - Louis Dollo
 
 Autrement dit : **un système complexe ne revient jamais exactement à son état d'origine**.
 Même quand on recrée des conditions similaires.
@@ -105,7 +105,7 @@ En étudiant les fossiles, il observe que les espèces peuvent perdre des traits
 
 L'évolution ne fait pas marche arrière. Elle bifurque.
 
-Initialement formulée pour le vivant, cette loi est aujourd'hui une **clé de lecture puissante** des systèmes complexes — biologiques, techniques ou organisationnels.
+Initialement formulée pour le vivant, cette loi est aujourd'hui une **clé de lecture puissante** des systèmes complexes - biologiques, techniques ou organisationnels.
 
 ## Et si l'irréversibilité rencontrait la complexité ?
 
@@ -115,7 +115,7 @@ Mais cette irréversibilité devient particulièrement critique lorsqu'elle s'ap
 
 Une autre loi éclaire précisément ce point : **celle qui explique comment naît la complexité qui fonctionne… et pourquoi elle échoue si on la force**.
 
-**[Lire la suite : Complexité — Gall × Dollo](../humanops/complexite.md)**
+**[Lire la suite : Complexité - Gall × Dollo](../humanops/complexite.md)**
 
 ### Références
 

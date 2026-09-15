@@ -8,18 +8,18 @@ Bienvenue dans **la loi de Brooks**.
 
 > Adding manpower to a late software project makes it later - Fred Brooks
 
-Autrement dit : **plus tu ajoutes de personnes sur un projet déjà en retard, plus tu augmentes les coûts de communication, de coordination et d'intégration — exactement ce que tu voulais éviter**.
+Autrement dit : **plus tu ajoutes de personnes sur un projet déjà en retard, plus tu augmentes les coûts de communication, de coordination et d'intégration - exactement ce que tu voulais éviter**.
 
 Bref : **plus tu staffes tard, plus tu risques d'aggraver la situation**.
 
-Ce principe, formulé dans les années 70, rappelle une vérité universelle du travail collectif : **plus de bras ne signifie pas forcément plus de vitesse** — parfois, c'est juste plus de chaos.
+Ce principe, formulé dans les années 70, rappelle une vérité universelle du travail collectif : **plus de bras ne signifie pas forcément plus de vitesse** - parfois, c'est juste plus de chaos.
 
 ## Pourquoi la loi de Brooks est si parlante
 
 * Quand un projet est en retard, notre premier réflexe est de **renforcer l'équipe**.
 * Mais **plus de monde = plus de coordination**, plus de réunions, plus de dépendances.
 * Les nouveaux arrivants doivent être **onboardés, comprendre le contexte, s'intégrer**, ce qui consomme du temps aux personnes déjà sous pression.
-* Et certaines tâches — conception, arbitrages, décisions critiques — **ne se parallélisent pas facilement** (comme faire un bébé : neuf femmes ne le feront pas en un mois).
+* Et certaines tâches - conception, arbitrages, décisions critiques - **ne se parallélisent pas facilement** (comme faire un bébé : neuf femmes ne le feront pas en un mois).
 
 En résumé : la loi de Brooks nous rappelle que **la productivité d'une équipe n'est pas proportionnelle à sa taille**.
 Elle invite à miser sur **la clarté, l'organisation et la cohérence**, plutôt que sur l'urgence et la surenchère.
@@ -35,7 +35,7 @@ Elle s'applique surtout quand :
 * l'architecture est **peu modulaire**
 * les nouveaux arrivants ne sont **pas immédiatement autonomes**
 
-Autrement dit, **ce n'est pas "ajouter des gens" qui pose problème — c'est le moment et la structure du projet**.
+Autrement dit, **ce n'est pas "ajouter des gens" qui pose problème - c'est le moment et la structure du projet**.
 
 Dans une équipe bien conçue, avec :
 
@@ -57,7 +57,7 @@ La loi de Brooks reste **très vraie** :
 * quand tout repose sur quelques personnes clés,
 * ou quand la dette technique est élevée.
 
-Mais les pratiques modernes — équipes autonomes, découpage par domaines, outils asynchrones — permettent parfois d'en **atténuer les effets**.
+Mais les pratiques modernes - équipes autonomes, découpage par domaines, outils asynchrones - permettent parfois d'en **atténuer les effets**.
 
 Quand ajouter quelqu'un ralentit un projet, ce n'est pas seulement un problème de planning :
 
@@ -72,7 +72,7 @@ En 1975, il publie le livre culte *The Mythical Man-Month*, où il tire les leç
 
 C'est dans ce contexte qu'il énonce sa fameuse observation. Ce constat est devenu un pilier du management de projet et du développement logiciel, mais il s'applique tout aussi bien à la gestion d'équipes, aux startups, ou à toute situation où la collaboration est complexe.
 
-En somme, la loi de Brooks ne dit pas que « plus » est toujours mauvais — elle nous rappelle surtout qu'en gestion de projet, **penser structure avant effectif est souvent la vraie clé**.
+En somme, la loi de Brooks ne dit pas que « plus » est toujours mauvais - elle nous rappelle surtout qu'en gestion de projet, **penser structure avant effectif est souvent la vraie clé**.
 
 ### Références
 

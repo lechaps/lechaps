@@ -8,9 +8,14 @@ Une **margot**, c'est une pie, bien sûr, mais dite ainsi elle devient presque u
 
 > « Notre estimable commère à plumage bicolore tient de nouveau son salon dans les hautes branches du cerisier, d'où elle délivre au voisinage une chronique mondaine dont personne ne lui a demandé le premier mot. »
 
+## On dit aussi
+
+Pie
+
 ## Pour aller plus loin
 
-* [Définition de « margot » — CNRTL](https://www.cnrtl.fr/lexicographie/margot){ target="_blank" }
-* [Définition de « margot » — Wiktionnaire](https://fr.wiktionary.org/wiki/margot){ target="_blank" }
-* [Définition de « margot » — Littré](https://www.littre.org/definition/margot){ target="_blank" }
-* [Histoire du nom d'oiseau « margot » — Université de Sherbrooke](https://nfom.recherche.usherbrooke.ca/margau-margot.html){ target="_blank" }
+* [Mention de « margot », ancien nom d’oiseau - Académie française, étymologie de « margotter »](https://www.dictionnaire-academie.fr/article/A9M1093){ target="_blank" }
+* [Définition de « margot » - CNRTL](https://www.cnrtl.fr/lexicographie/margot){ target="_blank" }
+* [Définition de « margot » - Wiktionnaire](https://fr.wiktionary.org/wiki/margot){ target="_blank" }
+* [Définition de « margot » - Littré](https://www.littre.org/definition/margot){ target="_blank" }
+* [Histoire du nom d'oiseau « margot » - Université de Sherbrooke](https://nfom.recherche.usherbrooke.ca/margau-margot.html){ target="_blank" }

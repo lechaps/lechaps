@@ -14,7 +14,7 @@ Marmonner, marmotter, maugréer, grommeler
 
 ## Pour aller plus loin
 
-* [Définition de « marmonner » — Académie française](https://www.dictionnaire-academie.fr/article/A9M1150){ target="_blank" }
-* [Définition et étymologie de « marmonner » — CNRTL](https://www.cnrtl.fr/definition/marmonner){ target="_blank" }
-* [Attestation de la forme « marmouner » — Littré](https://www.littre.org/definition/marmonner){ target="_blank" }
+* [Définition de « marmonner » - Académie française](https://www.dictionnaire-academie.fr/article/A9M1150){ target="_blank" }
+* [Définition et étymologie de « marmonner » - CNRTL](https://www.cnrtl.fr/definition/marmonner){ target="_blank" }
+* [Attestation de la forme « marmouner » - Littré](https://www.littre.org/definition/marmonner){ target="_blank" }
 * [« Marmouner » dans un lexique français-bourbonnais](https://micbourbonnais.free.fr/lexique.htm){ target="_blank" }

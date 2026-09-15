@@ -10,10 +10,11 @@ Une **pompe**, c'est un gâteau, au sens large et généreux du terme : une pât
 
 ## On dit aussi
 
-gâteau, brioche, pompe aux gratons
+Gâteau, brioche, pompe aux gratons
 
 ## Pour aller plus loin
 
-* [« Pompe » au sens de « galette, brioche » — Petit Recueil du parler de Diou](https://projetbabel.org/diou/p.htm){ target="_blank" }
-* [Recette bourbonnaise de la pompe aux grattons — Montluçon Tourisme](https://www.montlucon-tourisme.fr/decouvrez-le-pays-de-montlucon/gourmandises/recettes-bourbonnaises/la-pompe-aux-grattons/){ target="_blank" }
-* [La pompe aux grattons, spécialité de l'Allier — Gîtes de France Allier](https://www.gites-de-france-allier.com/gastronomie-en-allier.html){ target="_blank" }
+* [Définition de « pompe » - Académie française (pâtisserie sucrée ou salée)](https://www.dictionnaire-academie.fr/article/A9P3327){ target="_blank" }
+* [« Pompe » au sens de « galette, brioche » - Petit Recueil du parler de Diou](https://projetbabel.org/diou/p.htm){ target="_blank" }
+* [Recette bourbonnaise de la pompe aux grattons - Montluçon Tourisme](https://www.montlucon-tourisme.fr/decouvrez-le-pays-de-montlucon/gourmandises/recettes-bourbonnaises/la-pompe-aux-grattons/){ target="_blank" }
+* [La pompe aux grattons, spécialité de l'Allier - Gîtes de France Allier](https://www.gites-de-france-allier.com/gastronomie-en-allier.html){ target="_blank" }

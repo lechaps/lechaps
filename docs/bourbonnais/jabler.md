@@ -20,6 +20,6 @@ Tomber, faire choir, abattre, gauler les noix, faire tomber les fruits, fond du 
 
 ## Pour aller plus loin
 
-* [Définition de « jabler » — Académie Française](https://www.dictionnaire-academie.fr/article/A9J0005){ target="_blank" }
-* [Définition de « jable » — Académie Française](https://www.dictionnaire-academie.fr/article/A9J0004){ target="_blank" }
-* [Définition de « jabler » — CNRTL](https://www.cnrtl.fr/definition/jabler){ target="_blank" }
+* [Définition de « jabler » - Académie Française](https://www.dictionnaire-academie.fr/article/A9J0005){ target="_blank" }
+* [Définition de « jable » - Académie Française](https://www.dictionnaire-academie.fr/article/A9J0004){ target="_blank" }
+* [Définition de « jabler » - CNRTL](https://www.cnrtl.fr/definition/jabler){ target="_blank" }

@@ -10,7 +10,7 @@ La **jument bleue**, c'est la mobylette, la monture moderne des campagnes, avec 
 
 ## On dit aussi
 
-Mobylette, mob, pétrolette, vélomoteur, bécane
+Mobylette, pétrolette, vélomoteur, bécane
 
 ## Souvenir
 

@@ -21,5 +21,5 @@ Je me souviens de la daille comme d'un outil qu'on ne touchait pas sans avoir d'
 * [Définition du Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1D0001.html){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/dail){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/daille){ target="_blank" }
-* [Définition du Littré — dail](https://www.littre.org/definition/dail){ target="_blank" }
-* [Définition du Littré — daille](https://www.littre.org/definition/daille){ target="_blank" }
+* [Définition du Littré - dail](https://www.littre.org/definition/dail){ target="_blank" }
+* [Définition du Littré - daille](https://www.littre.org/definition/daille){ target="_blank" }

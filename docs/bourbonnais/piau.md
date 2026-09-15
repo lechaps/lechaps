@@ -10,8 +10,9 @@ La **piau**, c'est la peau : celle des mains fendillées par le froid, des genou
 
 ## On dit aussi
 
-peau
+Peau
 
 ## Pour aller plus loin
 
+* [Mention de « piau », forme dialectale de « peau »Académie française, étymologie de « dépiauter »](https://www.dictionnaire-academie.fr/article/A9D1488){ target="_blank" }
 * [« Piau » au sens de « peau » dans la *Grammaire et dictionnaire du patois bourbonnais* de Paul Duchon](https://archive.org/stream/grammaireetdicti00duchuoft/grammaireetdicti00duchuoft_djvu.txt){ target="_blank" }

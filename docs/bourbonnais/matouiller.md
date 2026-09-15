@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-mâchonner, mâchouiller, mordiller, ruminer
+Mâchonner, mâchouiller, mordiller, ruminer
 
 ## Pour aller plus loin
 

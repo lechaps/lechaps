@@ -14,5 +14,5 @@ Bonne sœur, religieuse
 
 ## Pour aller plus loin
 
-* [Définition de « boutasse » — CNRTL](https://www.cnrtl.fr/definition/boutasse){ target="_blank" }
-* [Définition de « boutasse » — Wiktionnaire](https://fr.wiktionary.org/wiki/boutasse){ target="_blank" }
+* [Définition de « boutasse » - CNRTL](https://www.cnrtl.fr/definition/boutasse){ target="_blank" }
+* [Définition de « boutasse » - Wiktionnaire](https://fr.wiktionary.org/wiki/boutasse){ target="_blank" }

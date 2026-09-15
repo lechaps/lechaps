@@ -1,6 +1,6 @@
 # Tacaro
 
-Un **tacaro**, c'est un fou, un timbré, un gars dont les idées galopent sans bride dans un pré qui n'est même pas à lui. On le dit rarement avec méchanceté : c'est plutôt une façon de constater, entre l'étonnement et l'affection, que le bonhomme a perdu deux ou trois boulons sur la route — mais qu'il avance encore, et parfois plus joyeusement que les autres.
+Un **tacaro**, c'est un fou, un timbré, un gars dont les idées galopent sans bride dans un pré qui n'est même pas à lui. On le dit rarement avec méchanceté : c'est plutôt une façon de constater, entre l'étonnement et l'affection, que le bonhomme a perdu deux ou trois boulons sur la route mais qu'il avance encore, et parfois plus joyeusement que les autres.
 
 ## Exemple
 

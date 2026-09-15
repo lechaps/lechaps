@@ -18,6 +18,7 @@ Mon grand-père ne pouvait pas voir les Allemands en peinture. Il les appelait t
 
 ## Pour aller plus loin
 
+* [Expression « casque à pointe » - Académie française, article « pointe » (coiffure militaire)](https://www.dictionnaire-academie.fr/article/A9P3093){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/casque_%C3%A0_pointe){ target="_blank" }
 * [Définition du CNRTL – boche](https://www.cnrtl.fr/definition/boche){ target="_blank" }
 * [Article Wikipédia – Pickelhaube](https://fr.wikipedia.org/wiki/Pickelhaube){ target="_blank" }

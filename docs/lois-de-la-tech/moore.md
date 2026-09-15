@@ -20,9 +20,9 @@ Les conséquences sont vertigineuses :
 
 * Des **ordinateurs géants remplacés par des portables ultrafins**.
 * Des **supercalculateurs qui tiennent dans ta poche**.
-* Une explosion des usages numériques ayant rendu possibles le cloud, les objets connectés — et, combinée aux données et aux algorithmes, l'essor spectaculaire de l'intelligence artificielle
+* Une explosion des usages numériques ayant rendu possibles le cloud, les objets connectés - et, combinée aux données et aux algorithmes, l'essor spectaculaire de l'intelligence artificielle
 
-Attention toutefois à un raccourci fréquent : **la loi de Moore ne parle pas directement de « puissance » ou de « vitesse », mais de complexité — le nombre de transistors intégrés**.  
+Attention toutefois à un raccourci fréquent : **la loi de Moore ne parle pas directement de « puissance » ou de « vitesse », mais de complexité - le nombre de transistors intégrés**.  
 Les gains de performance perçus sont une conséquence indirecte, rendue possible par l'architecture des processeurs, l'efficacité énergétique (longtemps décrite par la loi de Dennard) et l'optimisation logicielle.
 
 ## Une exponentielle qui ralentit… mais ne disparaît pas
@@ -57,7 +57,7 @@ Tout commence avec un article publié par **Gordon E. Moore** en 1965 dans *Elec
 
 Et pourtant, cette phrase va changer l'histoire.
 
-L'industrie des semi-conducteurs va transformer cette observation en objectif collectif. Les ingénieurs, les fabricants et les investisseurs vont s'aligner sur ce rythme, l'anticiper, le planifier — et ainsi le rendre vrai.
+L'industrie des semi-conducteurs va transformer cette observation en objectif collectif. Les ingénieurs, les fabricants et les investisseurs vont s'aligner sur ce rythme, l'anticiper, le planifier - et ainsi le rendre vrai.
 
 La loi de Moore devient alors une prophétie auto-réalisatrice : un calendrier implicite du progrès, une boussole pour l'innovation, un mythe fondateur du capitalisme technologique moderne.
 
@@ -73,16 +73,16 @@ Mais ce récit a aussi ses illusions :
 
 Le futur n'avance pas en ligne droite. Il progresse par ruptures, déplacements et recompositions.
 
-La loi de Moore ne nous dit pas que tout ira toujours plus vite — elle nous rappelle que notre capacité à anticiper, comprendre et gouverner le progrès est constamment mise à l'épreuve.
+La loi de Moore ne nous dit pas que tout ira toujours plus vite - elle nous rappelle que notre capacité à anticiper, comprendre et gouverner le progrès est constamment mise à l'épreuve.
 
 ## Et si l'exponentielle ne suffisait pas à produire de la valeur ?
 
 La loi de Moore explique pourquoi la puissance matérielle a longtemps semblé "magique".  
-Mais cette accélération ne se traduit pas mécaniquement en amélioration vécue : une partie des gains est absorbée par des logiciels plus lourds (Wirth), et le reste se heurte à une limite plus fondamentale — la perception humaine (Claasen).
+Mais cette accélération ne se traduit pas mécaniquement en amélioration vécue : une partie des gains est absorbée par des logiciels plus lourds (Wirth), et le reste se heurte à une limite plus fondamentale - la perception humaine (Claasen).
 
 Pour relier l'exponentielle du matériel, la dérive du logiciel et la lenteur de l'utilité, il faut lire ces lois ensemble.
 
-**[Lire la suite : Moore × Wirth × Claasen — Progrès](../humanops/progres.md)**
+**[Lire la suite : Moore × Wirth × Claasen - Progrès](../humanops/progres.md)**
 
 ### Références
 

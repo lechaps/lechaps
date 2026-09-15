@@ -18,7 +18,8 @@ C'est un mot qui me ramène à ces fins de journée où, pendant que les autres 
 
 ## Pour aller plus loin
 
+* [Définition de « ajouter » - Académie française (sens général du verbe)](https://www.dictionnaire-academie.fr/article/A9A1047){ target="_blank" }
 * [Un témoignage bourbonnais autour de « ajouter les vaches »](https://aln03.eklablog.com/c-comme-chant-du-mai-2-a88950909){ target="_blank" }
-* [Paul Duchon — *Grammaire et dictionnaire du patois bourbonnais* (1904) : « Adzuter ou ajuter : traire ; Moulins : ajuter ou ajouter »](https://archive.org/stream/grammaireetdicti00duchuoft/grammaireetdicti00duchuoft_djvu.txt){ target="_blank" }
-* [Lexique français-bourbonnais — « traire : ajouter »](https://micbourbonnais.free.fr/lexique.htm){ target="_blank" }
-* [Bourbonnais (dialectes) — petit lexique : « ajouter : traire »](https://fr.wikipedia.org/wiki/Bourbonnais_%28dialectes%29){ target="_blank" }
+* [Paul Duchon - *Grammaire et dictionnaire du patois bourbonnais* (1904) : « Adzuter ou ajuter : traire ; Moulins : ajuter ou ajouter »](https://archive.org/stream/grammaireetdicti00duchuoft/grammaireetdicti00duchuoft_djvu.txt){ target="_blank" }
+* [Lexique français-bourbonnais - « traire : ajouter »](https://micbourbonnais.free.fr/lexique.htm){ target="_blank" }
+* [Bourbonnais (dialectes) - petit lexique : « ajouter : traire »](https://fr.wikipedia.org/wiki/Bourbonnais_%28dialectes%29){ target="_blank" }

@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-se tremper, se mouiller, prendre une saucée, être trempé comme une soupe, rassouilloux
+Se tremper, se mouiller, prendre une saucée, être trempé comme une soupe, rassouilloux
 
 ## Pour aller plus loin
 

@@ -10,4 +10,4 @@ Le **pourpot**, c'est le pieu planté sur le char de foin, cette grande perche s
 
 ## On dit aussi
 
-pieu de char, montant de char, perche de char
+Pieu de char, montant de char, perche de char
