@@ -120,7 +120,7 @@ Pour approfondir l'histoire de David Marquet et vérifier les faits présentés 
 * [Naval Aviation News - U.S. Navy] (https://navalaviationnews.navy.mil/Editorial-Staff-Tools/Article-Submission/Article/4258451/editors-choice/){ target="_blank" }  
   Publication officielle de l'US Navy décrivant le modèle Leader-Leader, le déplacement de l'autorité vers le niveau où se trouve l'expertise, ainsi que les notions de contrôle, compétence et clarté.
 
-* [David Marquet - “My Story”](https://davidmarquet.com/my-story/){ target="_blank" }  
+* [David Marquet - "My Story"](https://davidmarquet.com/my-story/){ target="_blank" }  
   Source autobiographique essentielle pour l'épisode du « ahead two-thirds », sa préparation initiale pour l'USS *Olympia* et son propre récit de la transformation du *Santa Fe*. Les chiffres très précis issus de cette page doivent néanmoins être considérés comme des affirmations de l'auteur.
 
 * [Penguin Random House - *Turn the Ship Around!*](https://www.penguinrandomhouse.com/books/314163/turn-the-ship-around-by-l-david-marquet/){ target="_blank" }  

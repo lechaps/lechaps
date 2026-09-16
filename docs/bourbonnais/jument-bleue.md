@@ -1,6 +1,6 @@
 # Jument bleue
 
-La **jument bleue**, c'est la mobylette, la monture moderne des campagnes, avec moins de crottin mais davantage de fumée, moins de foin mais un sérieux penchant pour l'essence et les pannes au mauvais moment. On la met en route à coups de pédale, de jurons, de starter et de foi mécanique, puis elle file sur les petites routes avec son bruit de casserole courageuse, portant l'homme, le pain, les commissions et parfois la moitié du canton dans une sacoche fatiguée. Bleue, naturellement, parce que certaines couleurs finissent par devenir des souvenirs avant même que la peinture s'écaille.
+La **jument bleue**, c'est la mobylette, la monture moderne des bourgs de campagne, avec moins de crottin mais davantage de fumée, moins de foin mais un sérieux penchant pour l'essence et les pannes au mauvais moment. On la met en route à coups de pédale, de jurons, de starter et puis elle file sur les petites routes avec son bruit de casserole courageuse, portant l'homme, le pain, les commissions et parfois la moitié du canton dans une sacoche fatiguée. Bleue, naturellement, parce que certaines couleurs finissent par devenir des souvenirs avant même que la peinture s'écaille.
 
 ## Exemple
 
@@ -15,4 +15,4 @@ Mobylette, pétrolette, vélomoteur, bécane
 ## Souvenir
 
 La **jument bleue**, c'était la mobylette de mon grand-père, et surtout son seul moyen de locomotion. Je le revois partir dessus, droit sur la selle, la veste battue par l'air, avec dans son sillage un petit nuage bleu, un peu comme le crottin qu'une vraie jument abandonne sur la route : une preuve modeste, fumante et parfaitement assumée de son passage.  
-Elle l'emmenait partout : aux courses, chez le voisin, au bourg, au réparateur aussi, parce que les vieilles montures ont leurs rhumatismes et les mécaniques leur caractère. Pour moi, elle faisait partie de lui, comme sa voix, ses habitudes, ses outils ; quand je pense à mon grand-père, je le vois encore sur cette mobylette bleue, fidèle, et libre à sa manière.
+Elle l'emmenait partout : aux courses, chez le voisin, au bourg, au réparateur aussi, parce que les vieilles montures ont leurs rhumatismes et les mécaniques leur caractère. Pour moi, elle faisait partie de lui, comme sa voix, ses habitudes, ses outils ; quand je pense à mon grand-père, je le vois encore sur cette mobylette bleue, libre à sa manière.

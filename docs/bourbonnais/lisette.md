@@ -10,7 +10,7 @@ La **lisette**, c'est le lézard, le petit locataire des vieux murs qui se chauf
 
 ## On dit aussi
 
-Lézard, lézard des murailles, lézard gris
+Lézard
 
 ## Pour aller plus loin
 

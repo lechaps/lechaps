@@ -1,6 +1,6 @@
 # Giole
 
-Une **giole**, c'était une cage de grillage sans fond, retournée sur la terre pour garder la poule et ses poussins à l'abri des renards, des fouines et de tous les maraudeurs à museau pointu qui considéraient la basse-cour comme un restaurant sans addition. On la déplaçait dans les chaumes après la moisson, afin que la petite famille picore sans s'éparpiller ni finir au menu d'un prédateur. Le vrai nom était “crenne”, mais “giole” exprime mieux l'enfermement, le grillage et cette justice sommaire de la campagne où huit jours de captivité suffisaient, paraît-il, à rendre appétissant ce qu'on refusait la veille.
+Une **giole**, c'était une cage de grillage sans fond, retournée sur la terre pour garder la poule et ses poussins à l'abri des renards, des fouines et de tous les maraudeurs à museau pointu qui considéraient la basse-cour comme un restaurant sans addition. On la déplaçait dans les chaumes après la moisson, afin que la petite famille picore sans s'éparpiller ni finir au menu d'un prédateur. Le vrai nom était *crenne*, mais **giole** exprime mieux l'enfermement, le grillage et cette justice sommaire de la campagne où huit jours de captivité suffisaient, paraît-il, à rendre appétissant ce qu'on refusait la veille.
 
 ## Exemple
 

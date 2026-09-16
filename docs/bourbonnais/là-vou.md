@@ -1,8 +1,8 @@
 # Là-vou
 
-**Là-vou**, c'est **où**. Deux petites syllabes là où le français officiel se contente d'une seule, mais justement : chez nous, fallait parfois un peu plus de mot pour savoir où l'on avait fichu les choses. *Là-vou ?* Ça cherche un lieu, une cachette, un coin précis : là-vou t'as mis les clés, là-vou qu'il est parti, là-vou qu'elle a rangé le beurre. Et selon le ton, ça peut être une simple question ou le commencement d'une enquête criminelle familiale.
+**Là-vou**, c'est « où ». Deux petites syllabes là où le français officiel se contente d'une seule, mais justement il faut parfois un peu plus de mot pour savoir où l'on avait fichu les choses. *Là-vou ?* Ça cherche un lieu, une cachette, un coin précis : là-vou t'as mis les clés, là-vou qu'il est parti, là-vou qu'elle a rangé le beurre. Et selon le ton, ça peut être une simple question ou le commencement d'une enquête criminelle familiale.
 
-Il y a surtout dans **là-vou** quelque chose de merveilleusement concret. On ne demande pas *où* dans l'abstraction métaphysique des grands penseurs ; on veut savoir là, tout de suite, « à quel endroit ». Dans le buffet ? À la cave ? Sous le torchon ? Derrière le pot de moutarde que personne ne déplace depuis 1978 ? Le mot montre presque du doigt en même temps qu'il interroge.
+Il y a surtout dans **là-vou** quelque chose de merveilleusement concret. On ne demande pas « où » dans l'abstraction métaphysique des grands penseurs ; on veut savoir là, tout de suite, « à quel endroit ». Dans le buffet ? À la cave ? Sous le torchon ? Derrière le pot de moutarde que personne ne déplace depuis 1978 ? Le mot montre presque du doigt en même temps qu'il interroge.
 
 ## Exemple
 
