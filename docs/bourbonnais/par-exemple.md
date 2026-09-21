@@ -1,6 +1,6 @@
 # Par exemple
 
-**Par exemple**, ne sert pas toujours à annoncer une illustration, un cas particulier ou quelque savante démonstration avec tableau noir et craie blanche. L'expression peut signifier **toutefois**, **cependant**, avec souvent une petite réserve cachée derrière : on consent, oui, mais pas sans poser une borne, verrouiller la porte et garder la clef dans sa poche. C'est le frein à main de la conversation : *je veux bien, par exemple…* et aussitôt l'accord, qui galopait déjà vers les prés de la concorde, revient se ranger sagement devant la maison.
+**Par exemple**, ne sert pas toujours à annoncer une illustration, un cas particulier ou quelque savante démonstration avec tableau noir et craie blanche. L'expression peut signifier « toutefois », « cependant », avec souvent une petite réserve cachée derrière : on consent, oui, mais pas sans poser une borne, verrouiller la porte et garder la clef dans sa poche. C'est le frein à main de la conversation : « je veux bien, par exemple… » et aussitôt l'accord, qui galopait déjà vers les prés de la concorde, revient se ranger sagement devant la maison.
 
 ## Exemple
 
@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Toutefois, cependant, néanmoins, quand même
+Toutefois, cependant, néanmoins
 
 ## Pour aller plus loin
 

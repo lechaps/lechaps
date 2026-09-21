@@ -1,6 +1,6 @@
 # Mite
 
-Une **mite**, ce n'est pas la bestiole perfide qui fait des jours de dentelle dans les chandails ; c'est une **mitaine**, un gant tricoté, souvent épais, parfois un peu raide, qu'on enfilait pour aller dehors quand le froid pinçait les doigts comme un créancier mal élevé. La laine grattait, les mailles se détendaient, le pouce n'arrivait jamais tout à fait au bon endroit, mais on avait les mains au chaud, ou du moins assez pour tenir le guidon, porter le seau et prétendre qu'il ne faisait pas si froid.
+Une **mite**, ce n'est pas la bestiole perfide qui fait des jours de dentelle dans les chandails ; c'est une mitaine, un gant qui ne s'embarasse pas des doigts, tricoté, souvent épais, parfois un peu raide, qu'on enfilait pour aller dehors quand le froid pinçait comme un crabe à marée basse. La laine grattait, les mailles se détendaient, le pouce n'arrivait jamais tout à fait au bon endroit, mais on avait les mains au chaud, ou du moins assez pour tenir le guidon, porter le seau et prétendre qu'il ne faisait pas si froid.
 
 ## Exemple
 

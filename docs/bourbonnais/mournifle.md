@@ -1,12 +1,12 @@
 # Mournifle
 
-Une **mournifle**, c'est une gifle, une claque administrée sur la figure avec le plat ou le revers de la main. Le genre de ponctuation qui met brutalement fin à une phrase, à une insolence ou à une carrière diplomatique. Le mot fait déjà entendre le coup : ça part du **museau**, ça **nifle**, ça claque, et l'orgueil arrive par terre une seconde avant la casquette.
+Une **mournifle**, c'est une gifle, une claque administrée sur la figure avec le plat ou le revers de la main. Le genre de ponctuation qui met brutalement fin à une phrase, à une insolence ou à une carrière diplomatique. Le mot fait déjà entendre le coup : ça part du museau, ça nifle, ça claque, et l'orgueil arrive par terre une seconde avant la casquette.
 
 ## Exemple
 
-*Continue donc, tu vas finir par prendre une mournifle !*
+*Continue don', t'vas voir si t'vas pas prendre mournifle !*
 
-> « Je vous invite à persévérer dans cette remarquable entreprise d'insolence, laquelle devrait prochainement vous valoir l'application énergique d'une main ouverte sur la partie la plus visible de votre personne. »
+> « Je vous invite à poursuivre, si tel est votre désir ; vous pourriez alors découvrir, de manière aussi soudaine que pédagogique, les conséquences physiques de l'application énergique d'une main ouverte sur la partie la plus visible de votre personne. »
 
 ## On dit aussi
 

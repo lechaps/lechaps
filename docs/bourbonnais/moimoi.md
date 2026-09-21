@@ -7,3 +7,7 @@
 *Il nous manquait plus que ça ! Voilà Moi-moi qui arrive.*
 
 > « Voici précisément que s'avance vers nous cet homme dont l'attention, déjà considérable, demeure presque exclusivement consacrée à l'étude, à la célébration et à l'administration quotidienne de sa propre personne. »
+
+## On dit aussi
+
+Nombriliste, égocentrique, Narcisse

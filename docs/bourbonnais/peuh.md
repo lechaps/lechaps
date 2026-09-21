@@ -1,16 +1,16 @@
 # Peuh
 
-**Peuh**, c'est le petit bruit du dégoût, du mépris ou de la contrariété qu'on expédie d'un souffle, sans même faire l'honneur d'une phrase entière à ce qui nous déplaît. Ça veut dire **pouah**, **beurk**, parfois simplement : *gardez-moi donc ça loin du nez*. Une syllabe, un froncement de bouche, et voilà le mets, l'idée ou l'individu condamné sans appel : justice expéditive, certes, mais qui économise beaucoup de salive.
+**Peuh !** est une interjection qui marque le dédain, le mépris ou l'indifférence. On la lance pour écarter d'un mot ce qu'on vient d'entendre : **mais non !**, **pas du tout !** Une syllabe suffit pour dire qu'on n'y croit pas ou que cela ne mérite guère d'attention.
 
 ## Exemple
 
-*Peuh ! Mange donc ça toi-même, ça sent mauvais.*
+*Peuh ! Tu crois vraiment qu'il va venir ?*
 
-> « Je décline avec la plus ferme détermination l'invitation à consommer cette préparation dont les effluves, la texture et l'allure générale me paraissent incompatibles avec les convenances culinaires et le bon ordre de la digestion. »
+> « Permettez-moi de douter de votre optimisme : vous imaginez sincèrement que cet homme consentira à nous gratifier de sa présence ? »
 
 ## On dit aussi
 
-Pouah, beurk,
+Mais non, pas du tout.
 
 ## Pour aller plus loin
 

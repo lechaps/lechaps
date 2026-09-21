@@ -1,6 +1,7 @@
 # Pignouf
 
-Un **pignouf**, c'est un individu mal dégrossi, impoli, rustre, un goujat qui entre quelque part avec ses gros sabots, même lorsqu'il porte des souliers vernis. Par image, le mot évoque aussi une allure **ébouriffée**, mal peignée, un peu sortie de la grange avant d'avoir rencontré ni le miroir ni la civilisation : les cheveux en bataille, la chemise de travers et l'air général d'avoir dormi dans une meule de foin poursuivie par le vent. Mais qu'on ne s'y trompe pas : la coiffure ne suffit pas à faire le pignouf ; le vrai pignouf se reconnaît surtout à ses manières, ou plutôt à l'absence consciencieuse de celles-ci.
+Un **pignouf**, c'est un individu mal dégrossi, impoli, rustre, un goujat qui entre quelque part avec ses gros sabots, même lorsqu'il porte des souliers vernis. Par image, le mot évoque aussi une allure *
+ébouriffée, mal peignée, un peu sortie de la grange avant d'avoir rencontré ni le miroir ni la civilisation : les cheveux en bataille, la chemise de travers et l'air général d'avoir dormi dans une meule de foin poursuivie par le vent. Mais qu'on ne s'y trompe pas : la coiffure ne suffit pas à faire le pignouf ; le vrai pignouf se reconnaît surtout à ses manières, ou plutôt à l'absence consciencieuse de celles-ci.
 
 ## Exemple
 

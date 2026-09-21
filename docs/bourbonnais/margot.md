@@ -14,7 +14,7 @@ Pie
 
 ## Pour aller plus loin
 
-* [Mention de « margot », ancien nom d’oiseau - Académie française, étymologie de « margotter »](https://www.dictionnaire-academie.fr/article/A9M1093){ target="_blank" }
+* [Mention de « margot », ancien nom d'oiseau - Académie française, étymologie de « margotter »](https://www.dictionnaire-academie.fr/article/A9M1093){ target="_blank" }
 * [Définition de « margot » - CNRTL](https://www.cnrtl.fr/lexicographie/margot){ target="_blank" }
 * [Définition de « margot » - Wiktionnaire](https://fr.wiktionary.org/wiki/margot){ target="_blank" }
 * [Définition de « margot » - Littré](https://www.littre.org/definition/margot){ target="_blank" }

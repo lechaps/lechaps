@@ -1,6 +1,6 @@
 # Piau
 
-La **piau**, c'est la peau : celle des mains fendillées par le froid, des genoux râpés dans les chemins, des pommes qu'on épluche trop fin ou du lait qui fait une petite croûte en refroidissant. Le mot est plus rude, plus charnel que son cousin français ; il colle aux doigts, aux bêtes, aux saisons. On naît avec sa piau, on la tanne au soleil, on l'écorche parfois, et l'on finit par y porter toute son histoire, rides, cicatrices et coups de soleil compris.
+La **piau**, c'est la peau : celle des mains fendillées par le froid, des genoux râpés dans les chemins, des pommes qu'on épluche trop fin ou du lait qui fait une petite croûte en refroidissant. Le mot est plus rude, plus charnel que son cousin français ; il colle aux doigts, aux bêtes, aux saisons. On naît avec sa **piau**, on la tanne au soleil, on l'écorche parfois, et l'on finit par y porter toute son histoire, rides, cicatrices et coups de soleil compris.
 
 ## Exemple
 

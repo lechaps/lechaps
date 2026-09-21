@@ -4,7 +4,7 @@ La **patouille**, c'est la gadoue, la boue molle, grasse et collante qui s'attac
 
 ## Exemple
 
-*Va mettre tes bottes, y a de la patouille partout.*
+*Va mettre tes bottes, y a de la patouille dans la cour.*
 
 > « Je vous invite à chausser sans délai vos protections imperméables, le terrain alentour s'étant transformé en une vaste composition argileuse dont l'adhérence menace gravement vos souliers, votre pantalon et la patience de la maîtresse de maison. »
 

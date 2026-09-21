@@ -1,6 +1,6 @@
 # Pardi
 
-**Pardi**, c'est **par Dieu** passé par la bouche des gens, raccourci, poli par l'usage et débarrassé de ses habits du dimanche. On le lance pour approuver, s'étonner, protester ou rappeler une évidence qui, franchement, ne méritait pas qu'on dérange toute la théologie. **Pardi que oui**, **pardi que non** : deux syllabes bien plantées sur leurs sabots, et la discussion reprend avec Dieu pour témoin, même s'il n'avait rien demandé.
+**Pardi**, c'est par Dieu (et il n'y en a qu'un par Dieu) passé par la bouche des gens, raccourci, poli par l'usage et débarrassé de ses habits du dimanche. On le lance pour approuver, s'étonner, protester ou rappeler une évidence qui, franchement, ne méritait pas qu'on dérange toute la théologie. Pardi que oui, pardi que non : deux syllabes bien plantées sur leurs sabots, et la discussion reprend avec Dieu pour témoin, même s'il n'avait rien demandé.
 
 ## Exemple
 

@@ -10,4 +10,4 @@ Un **pichiâtre**, c'est un psychiatre passé par l'oreille du village, raccourc
 
 ## On dit aussi
 
-Psychiatre, médecin des nerfs
+Psychiatre

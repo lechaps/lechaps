@@ -14,7 +14,9 @@ Chat, matou, minet
 
 ## Souvenir
 
-Je repense au jour où mon grand-père avait ouvert une boîte de Sheba, persuadé de tenir là une honnête boîte de pâté. Il l'avait examinée, le couteau déjà prêt, puis son regard était tombé sur le chat de l'étiquette. Je me souviens encore de la phrase qui conclut l'affaire, nette, définitive, avec cette logique contre laquelle même les industriels de l'alimentation animale ne peuvent rien : « Je peux te dire que quand j'ai vu la tête de marreau dessus, ça a vite fini à la poubelle. » Depuis, je ne peux plus voir une boîte de pâtée sans penser à lui.
+Je repense au jour où mon grand-père avait ouvert une boîte de Sheba, persuadé de tenir là une honnête boîte de pâté. Il l'avait examinée, le couteau déjà prêt, puis son regard était tombé sur le chat de l'étiquette. Je me souviens encore de la phrase qui conclut l'affaire, nette, définitive, avec cette logique contre laquelle même les industriels de l'alimentation animale ne peuvent rien : « Je peux te dire que quand j'ai vu la tête de marro dessus, ça a vite fini à la poubelle. » Depuis, je ne peux plus voir une boîte de pâtée sans penser à lui.
+
+Mon autre grand-père, lui, s'occupait de tant de chats qu'il avait renoncé à les compter : le temps de finir, il en arrivait un autre, ou bien c'était le même, revenu par derrière pour fausser le recensement. Il n'avais pas tous un nom mais chacun avait son caractère, ses habitudes, et mon grand-père connaissait tout cela bien mieux que leur nombre. Il y avait ceux qui réclamaient, ceux qui attendaient, ceux qui vous faisaient l'honneur d'accepter à manger comme s'ils vous rendaient un service. À cette petite foule, il donnait chaque jour de quoi vivre et, sans en faire grand cas, une place auprès de lui.
 
 ## Pour aller plus loin
 

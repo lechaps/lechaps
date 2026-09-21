@@ -4,13 +4,13 @@
 
 ## Exemple
 
-*Ça fait dix minutes que tu matouilles ton bout de lard, avale-le donc !*
+*Ça fait dix minutes que tu matouilles ton bout de lard, c'est pas un chewing gum !*
 
-> « Voilà un temps considérable que vous soumettez ce fragment de charcuterie à une mastication méditative ; peut-être conviendrait-il désormais de conclure les pourparlers et de lui accorder enfin l'accès à votre estomac. »
+> « Cela fait maintenant dix minutes que vous infligez à cette respectable pièce de salaison un traitement masticatoire dont la durée commence à excéder toute nécessité gastronomique ; il serait opportun de conclure enfin cette entreprise, ladite victuaille n'ayant pas été conçue pour résister indéfiniment à l'assaut de vos maxillaires. »
 
 ## On dit aussi
 
-Mâchonner, mâchouiller, mordiller, ruminer
+Mâchonner, mâchouiller, mordiller, ruminer, [miater](./miater.md)
 
 ## Pour aller plus loin
 

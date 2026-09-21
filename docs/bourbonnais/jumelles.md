@@ -14,4 +14,4 @@ Lunettes, binocles
 
 ## Pour aller plus loin
 
-* [Définition de « jumelle » - Académie française (instrument d’optique pour voir au loin)](https://www.dictionnaire-academie.fr/article/A9J0373){ target="_blank" }
+* [Définition de « jumelle » - Académie française (instrument d'optique pour voir au loin)](https://www.dictionnaire-academie.fr/article/A9J0373){ target="_blank" }

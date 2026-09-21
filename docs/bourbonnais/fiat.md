@@ -10,7 +10,7 @@ Et pour les gens, c'est la même idée qui a quitté le poil pour gagner toute l
 
 *Agadon l'bourri, il a l'poil fiat.*
 
-> « Veuillez donc admirer cet estimable représentant de la gent asine : la richesse et l’éclat de sa robe lui confèrent une prestance que l’on attendrait davantage d’un animal de parade que d’un modeste serviteur des campagnes. »
+> « Veuillez donc admirer cet estimable représentant de la gent asine : la richesse et l'éclat de sa robe lui confèrent une prestance que l'on attendrait davantage d'un animal de parade que d'un modeste serviteur des campagnes. »
 
 ### Ce qui a repris du poil
 
@@ -24,4 +24,4 @@ Avoir bonne mine, avoir repris du poil de la bête
 
 ## Pour aller plus loin
 
-* [Emploi de « fiat » dans « il n’y a point de fiat » - Académie française, 3e édition (autre sens : on ne peut s’y fier)](https://www.dictionnaire-academie.fr/article/A3F0308){ target="_blank" }
+* [Emploi de « fiat » dans « il n'y a point de fiat » - Académie française, 3e édition (autre sens : on ne peut s'y fier)](https://www.dictionnaire-academie.fr/article/A3F0308){ target="_blank" }

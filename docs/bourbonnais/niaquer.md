@@ -1,10 +1,10 @@
 # Niaquer
 
-**Niaquer**, c'est mordre, surtout lorsqu'une bête vous plante les dents avec cette franchise expéditive que les hommes remplacent, eux, par des courriers recommandés et des repas de famille. Le chien niaque le mollet, l'oie niaque les doigts, la chèvre niaque tout ce qui dépasse : manche, ficelle et même l'assurance de celui qui se croyait à l'abri. Ce n'est pas toujours bien méchant, mais ça pince assez pour rappeler que, dans la cour, la diplomatie possède parfois des crocs.
+**Niaquer**, c'est mordre, surtout lorsqu'une bête vous plante les dents avec cette franchise expéditive que les hommes remplacent, eux, par des courriers recommandés. Le chien niaque le mollet, l'oie niaque les doigts, la chèvre niaque tout ce qui dépasse : manche, ficelle et même l'assurance de celui qui se croyait à l'abri. Ce n'est pas toujours bien méchant, mais ça pince assez pour rappeler que, dans la cour, la diplomatie possède parfois des crocs.
 
 ## Exemple
 
-*Approche pas ta main, la bestiole va te niaquer.*
+*Approche pas ta main, c'te carne va t'niaquer.*
 
 > « Je vous déconseille vivement de présenter davantage vos extrémités à cette créature, dont les dispositions affectueuses semblent devoir s'exprimer par une saisie dentaire aussi soudaine que regrettable. »
 

@@ -4,13 +4,13 @@
 
 Il arrivait avec sa meule, son attirail, parfois une carriole ou une machine brinquebalante, et surtout avec cette musique particulière des métiers de passage : un appel lancé fort, un peu chanté, impossible à confondre avec celui du facteur ou du marchand de chiffon. On lui apportait les couteaux de cuisine, les outils, les vieux ciseaux qu'on gardait parce qu'« ils sont encore bons », formule familiale signifiant généralement qu'ils avaient déjà servi sous trois Républiques.
 
-Bref, quand le **bzizi** sort, il travaille, frotte, chauffe et repart. Et le **bzizi** revient, on le rappelle car il affute bien. Parfois il fatigue, il fait des étincelles et demande un peu d’huile. Quand le **bzizi** passe au village, tout le monde sort les lames.
+Bref, quand le **bzizi** sort, il travaille, frotte, chauffe et repart. Et le **bzizi** revient, on le rappelle car il affute bien. Parfois il fatigue, il fait des étincelles et demande un peu d'huile. Quand le **bzizi** passe au village, tout le monde sort les lames.
 
 ## Exemple
 
-*Ah lui c’est un sacré bzizi, pas un de ces arcandiers qu’est passé l’aut’jour !*
+*Ah lui c'est un sacré bzizi, pas un de ces arcandiers qu'est passé l'aut'jour !*
 
-> « Ah, nous avons cette fois affaire à un véritable dépositaire de l’art de l’affûtage, homme de métier dont la science du tranchant ne saurait être confondue avec les errements laborieux de cet artisan d’occasion qui, l’autre jour encore, semblait entretenir avec la compétence des rapports d’une remarquable distance. »
+> « Ah, nous avons cette fois affaire à un véritable dépositaire de l'art de l'affûtage, homme de métier dont la science du tranchant ne saurait être confondue avec les errements laborieux de cet artisan d'occasion qui, l'autre jour encore, semblait entretenir avec la compétence des rapports d'une remarquable distance. »
 
 ## On dit aussi
 

@@ -1,8 +1,6 @@
 # Niau
 
-Le **niau**, c'est cet œuf en plâtre qu'on laissait dans le nid pour donner aux poules l'idée (ou l'illusion car la psychologie de la poule possède des profondeurs que la République n'a jamais totalement explorées) qu'ici, précisément ici, c'était un excellent endroit pour pondre. On le posait dans la paille et il restait là, imperturbable, pendant que les vrais œufs apparaissaient autour de lui. Le niau, en somme, ne pondait rien, mais il encourageait la production : une sorte de contremaître de basse-cour, avec moins de paperasse.
-
-C'était aussi un objet tout simple, presque invisible dans la vie quotidienne, et pourtant parfaitement à sa place dans l'économie de la maison. Rien ne se perdait, rien n'était laissé au hasard, pas même l'endroit où une poule déciderait de déposer son œuf. Il fallait seulement connaître le truc, l'avoir vu faire, puis le refaire à son tour. Et voilà comment un petit œuf de plâtre pouvait traverser les générations sans jamais finir dans une omelette (ce qui, reconnaissons-le, constitue déjà une carrière honorable).
+Le **niau**, c'est cet œuf en plâtre qu'on laisse dans le nid pour donner aux poules l'idée (ou l'illusion car la psychologie de la poule possède des profondeurs que la télé-réalité n'a jamais totalement explorées) qu'ici, précisément ici, c'est un excellent endroit pour pondre. On le pose dans la paille et il reste là, imperturbable, pendant que les vrais œufs apparaissent autour de lui. Le **niau**, en somme, ne pondait rien, mais il encourageait la production : une sorte de contremaître de basse-cour, avec moins de paperasse.
 
 ## Exemple
 

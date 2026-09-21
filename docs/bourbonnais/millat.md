@@ -1,6 +1,6 @@
 # Millat
 
-Le **millat**, ou **meillat**, c'est notre clafoutis bourbonnais : une pâte épaisse de farine, de lait, d'œufs et de sucre, dans laquelle on jette des **greutes** ou des prunes, en leur laissant les noyaux, parce qu'autrefois on avait de bonnes dents, de la patience et moins de formulaires d'assurance. Rien à voir, donc, avec une danse marseillaise : on peut danser le Mia, certes, mais le millat, lui, se mange assis, de préférence après refroidissement et avant que les gourmands ne découvrent le plat. 
+Le **millat**, c'est le clafoutis bourbonnais : une pâte épaisse de farine, de lait, d'œufs et de sucre, dans laquelle on jette des greutes ou des prunes, en leur laissant les noyaux, parce qu'autrefois on avait de bonnes dents, de la patience et moins de formulaires d'assurance. Rien à voir, donc, avec une danse marseillaise : on peut danser le Mia, certes, mais le millat, lui, se mange assis, de préférence après refroidissement et avant que les gourmands ne découvrent le plat.
 
 ## Exemple
 
@@ -10,7 +10,7 @@ Le **millat**, ou **meillat**, c'est notre clafoutis bourbonnais : une pâte ép
 
 ## On dit aussi
 
-Meillat, clafoutis, millard
+Clafoutis, millard, meillat
 
 ## Souvenir
 

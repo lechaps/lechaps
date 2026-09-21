@@ -4,9 +4,9 @@
 
 ## Exemple
 
-*Il a pas pu retenir le repas, ça marque mal devant l'monde.*
+*Il a pas pu s'empêcher de faire une réflexion, ça marque mal devant l'monde.*
 
-> « Le malheureux n'ayant pu conserver avec la dignité requise le contenu de son estomac, sa prestation mondaine s'en trouve quelque peu ternie aux yeux d'une assistance pourtant réputée charitable, mais pas au point d'oublier cela avant Noël. »
+> « Il lui a une fois encore été impossible de contenir cette irrépressible vocation au commentaire, offrant ainsi au public une démonstration aussi spontanée qu'inopportune de son peu de considération pour les convenances. »
 
 ## On dit aussi
 

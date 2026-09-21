@@ -1,6 +1,6 @@
 # Menette
 
-Une **menette**, c'est une chèvre, mais dite comme ça elle entre aussitôt dans la famille. Et puis écoutez donc le mot : **me-nette**… il y a déjà dedans un petit bêlement, une plainte nasillarde, comme si la bête s'était elle-même chargée du baptême. La menette, donc, c'est du caractère sur quatre pattes, deux cornes et un regard de travers qui ferait passer un chameau pour un enfant de chœur. Elle grimpe où il ne faut pas, goûte ce qui ne lui appartient pas et proteste avec l'assurance magnifique de quelqu'un qui a toujours raison.
+Une **menette**, c'est une chèvre, mais dite comme ça elle entre aussitôt dans la famille. Et puis écoutez donc le mot : **me-nette**… il y a déjà dedans un petit bêlement, une plainte nasillarde, comme si la bête s'était elle-même chargée du baptême. La **menette**, donc, c'est du caractère sur quatre pattes, deux cornes et un regard de travers qui ferait passer un chameau pour un enfant de chœur. Elle grimpe où il ne faut pas, goûte ce qui ne lui appartient pas et proteste avec l'assurance magnifique de quelqu'un qui a toujours raison.
 
 ## Exemple
 

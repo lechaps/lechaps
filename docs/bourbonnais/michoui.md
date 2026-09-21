@@ -4,9 +4,9 @@ Le **michoui**, c'est le méchoui passé par la bouche du pays, arrondi, apprivo
 
 ## Exemple
 
-*Dimanche, y font un michoui derrière la salle des fêtes.*
+*Dimanche, ils font un michoui derrière la salle des fêtes.*
 
-> « Les autorités gastronomiques locales ont résolu d'organiser, aux abords de la salle communale, la lente immolation culinaire d'un mouton entier, laquelle devrait réunir le village autour de considérations profondes sur la cuisson, le vin rouge et la taille des portions. »
+> « Le prochain jour dominical verra s'organiser, à l'arrière de la salle des réjouissances communales, une vaste célébration carnée au cours de laquelle un honorable représentant du cheptel ovin sera livré, dans les règles de l'art, aux bienfaits conjugués de la braise et de la convivialité. »
 
 ## On dit aussi
 

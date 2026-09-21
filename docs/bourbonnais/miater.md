@@ -1,6 +1,6 @@
 # Miater
 
-**Miater**, c'est mâcher longtemps, sans se décider à avaler, comme si chaque bouchée exigeait une réunion de famille, un avis du notaire et l'accord du curé. On tourne le morceau dans la bouche, on l'use, on le fatigue, on le réduit à l'état de souvenir alimentaire, mais rien ne descend. Les enfants miatent ce qu'ils n'aiment pas ; les anciens, parfois, ce que leurs dents ne veulent plus négocier.
+**Miater**, c'est mâcher longtemps, sans se décider à avaler, comme si chaque bouchée devait obtenir le laissez-passer A38 avant le grand voyage vers le garganat. On tourne le morceau dans la bouche, on l'use, on le fatigue, on le réduit à l'état de souvenir alimentaire, mais rien ne descend. Les enfants miatent ce qu'ils n'aiment pas ; les anciens, parfois, ce que leurs dents ne veulent plus négocier.
 
 ## Exemple
 
@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Mâchonner, mâchouiller, matouiller, mastiquer
+Mâchonner, mâchouiller, [matouiller](./matouiller.md), mastiquer
 
 ## Pour aller plus loin
 

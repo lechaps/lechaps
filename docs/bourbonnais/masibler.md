@@ -1,6 +1,6 @@
 # Masibler
 
-**Masibler**, c'est abîmer, casser, esquinter quelque chose jusqu'à lui ôter l'air honnête qu'il avait en sortant de chez le marchand. On peut masibler un outil, une bicyclette, un meuble, voire ses propres genoux lorsqu'on possède, comme moi, ce talent particulier pour rencontrer les obstacles avant même de les avoir vus. Ce n'est pas toujours détruit, non ; c'est seulement arrangé de telle manière que personne ne veut plus en prendre la responsabilité.
+**Masibler**, c'est abîmer, casser, esquinter quelque chose jusqu'à lui ôter l'air honnête qu'il avait en sortant de chez le marchand. On peut masibler un outil, une bicyclette, un meuble, voire ses propres genoux lorsqu'on possède ce talent particulier pour rencontrer les obstacles avant même de les avoir vus. Ce n'est pas toujours détruit, non ; c'est seulement arrangé de telle manière que personne ne veut plus en prendre la responsabilité.
 
 ## Exemple
 

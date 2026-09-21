@@ -10,7 +10,7 @@ Une **perlouse**, c'est un pet, mais nommé avec assez de dentelle pour donner a
 
 ## On dit aussi
 
-Pet, vent, caisse, louise
+Pet, vent, caisse, [Louise](./lacher-une-louise.md)
 
 ## Pour aller plus loin
 
