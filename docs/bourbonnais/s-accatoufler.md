@@ -12,10 +12,6 @@ S'**accatoufler**, c'est se laisser tomber d'un coup, sans grâce et sans préca
 
 Tomber, s'écrouler, s'affaler, se vautrer, [s'élarder](./s-elarder.md), [éboueller](./éboueller.md)
 
-## Le souvenir
-
-Je revois mon père s'accatoufler dans son fauteuil après la douche en rentrant du travail, ce geste de pure reddition du corps fatigué. Rien de gracieux, rien de retenu. Juste la gravité qui fait son travail. Et puis il y a eu ce jour à table où j'ai vu quelqu'un s'accatoufler en même temps qu'un autre était déjà assis, créant une sorte de collision involontaire. Tout le monde a ri. Il y a quelque chose d'universel dans ce mot, une vérité du corps qui refuse les convenances.
-
 ## Pour aller plus loin
 
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/accatoufler){target="_blank" }

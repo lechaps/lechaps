@@ -10,8 +10,8 @@ La **princesse Margara**, c'était une princesse de haute naissance, une de ces 
 
 ## On dit aussi
 
-Princesse Margaret, princesse de sang, altesse royale
+Princesse Margaret, son altesse royale
 
 ## Souvenir
 
-Je me souviens de mon grand-père apprenant la mort de Léon Zitrone et lâchant, presque aussitôt : « Oh ben, pour une fois, c'est pas lui qui commentera la princesse Margara ! » La phrase était rude, certes, mais elle contenait toute sa manière de regarder la télévision, les grands de ce monde et la mort elle-même : avec distance, drôlerie et juste ce qu'il fallait d'irrévérence pour ne pas se laisser impressionner. Léon Zitrone avait tellement commenté de mariages et d'enterrements royaux qu'il semblait devoir parler jusque pendant les siens. Mon grand-père, lui, venait de lui offrir sa dernière chute.
+Je me souviens de mon grand-père apprenant la mort de Léon Zitrone et lâchant, presque aussitôt : « Oh ben, pour une fois, c'est pas lui qui commentera la princesse Margara ! » La phrase était rude, certes, mais elle contenait toute sa manière de regarder la télévision, les grands de ce monde et la mort elle-même : avec distance, drôlerie et juste ce qu'il fallait d'irrévérence pour ne pas se laisser impressionner. Léon Zitrone avait tellement commenté de mariages et d'enterrements royaux qu'il semblait naturel devoir parler jusque pendant les siens. Mon grand-père, lui, venait de lui offrir sa dernière chute.

@@ -1,6 +1,6 @@
 # Rapouta
 
-Un **rapouta**, c'est le fait de **rabouter** : joindre deux morceaux bout à bout pour rallonger, réparer ou donner une seconde chance à ce qui menaçait de devenir inutile. On rapoute une corde trop courte, un manche cassé, deux bouts de fil de fer, parfois même une histoire dont il manque le milieu (mais là, ça se voit davantage). Ce n'est pas toujours joli, non ; pourtant, quand le rapouta tient, l'objet repart au travail avec une cicatrice, un peu de travers et toute sa dignité de rescapé.
+Un **rapouta**, c'est le fait de rabouter : joindre deux morceaux bout à bout pour rallonger, réparer ou donner une seconde chance à ce qui menaçait de devenir inutile. On rapoute une corde trop courte, un manche cassé, deux bouts de fil de fer, parfois même une histoire dont il manque le milieu (mais là, ça se voit davantage). Ce n'est pas toujours joli, non ; pourtant, quand le **rapouta** tient, l'objet repart au travail avec une cicatrice, un peu de travers et toute sa dignité de rescapé.
 
 ## Exemple
 

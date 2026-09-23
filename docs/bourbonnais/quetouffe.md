@@ -10,7 +10,7 @@ Une **quetouffe**, c'est une cloque, une ampoule, une boursouflure qui se lève 
 
 ## On dit aussi
 
-Quetoufle, ampoule, cloque, boursouflure
+Ampoule, cloque, boursouflure
 
 ## Pour aller plus loin
 

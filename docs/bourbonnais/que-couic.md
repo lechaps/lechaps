@@ -1,6 +1,6 @@
 # Que couic
 
-**Que couique**, c'est **rien**, pas une miette, pas le commencement d'une lumière dans le brouillard. L'expression s'emploie surtout avec **comprendre**, **entraver**, **piger** ou **connaître** : on vous explique l'affaire trois fois, avec des gestes, un crayon et le renfort d'un cousin réputé savant, mais vous n'y comprenez toujours que couique. Le mot ferme la boutique de l'intelligence avec un petit bruit sec : inutile d'insister, le savoir n'est pas entré.
+**Que couique**, c'est rien, pas une miette, pas le commencement d'une lumière dans le brouillard. L'expression s'emploie surtout avec *comprendre*, *entraver*, *piger* ou *connaître* : on vous explique l'affaire trois fois, avec des gestes, un crayon et le renfort d'un cousin réputé savant, mais vous n'y comprenez toujours **que couic**. Le mot ferme la boutique de l'intelligence avec un petit bruit sec : inutile d'insister, le savoir n'est pas entré.
 
 ## Exemple
 
@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Que pouic, rien, que dalle, pas un traître mot
+Rien, que dalle, pas un traître mot
 
 ## Pour aller plus loin
 

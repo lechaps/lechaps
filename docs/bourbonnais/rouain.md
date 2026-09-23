@@ -10,7 +10,7 @@ Un **rouain**, c'est une ornière, cette trace profonde que les roues creusent d
 
 ## On dit aussi
 
-Ornière, trace de roue, rouan
+Ornière, trace de roue
 
 ## Pour aller plus loin
 

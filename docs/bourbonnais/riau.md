@@ -10,7 +10,7 @@ Un **riau**, c'est un ruisseau, un petit cours d'eau qui se faufile entre les pr
 
 ## On dit aussi
 
-Ri, ru, ruisseau
+Ruisseau
 
 ## Pour aller plus loin
 
