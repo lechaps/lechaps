@@ -1,21 +1,20 @@
 # S'arsouiller
 
-**S'arsouiller**, c'est d'abord être trempé jusqu'aux os, imbibé par la pleue, les vêtements collés à la piau, les souliers pleins comme deux mares communales et l'eau qui vous descend dans le dos avec la délicatesse d'un huissier.
+**S'arsouiller**, c'est boire plus que de raison, à coups de rouge, de gnaule et de tournées généreuses. On commence par un verre pour trinquer, on poursuit pour tenir compagnie, et l'on finit par tenir surtout au bord de la table.
 
-Puis, par extension, et par cette logique populaire qui vaut bien tous les traités de philosophie, le mot en est venu à désigner celui qui s'imbibe autrement, par le dedans cette fois, à coups de rouge, de gnaule et de tournées généreuses.
+Le mot a quelque chose de joyeux et de peu glorieux à la fois : la langue se délie, les histoires s'allongent, et les jambes deviennent moins sûres à mesure que les opinions se raffermissent. L'arsouillé a encore beaucoup de choses à expliquer, mais déjà quelques difficultés à retrouver sa veste.
 
-Dans les deux cas, l'homme est saturé, ruisselant, plus tout à fait étanche : seulement, l'un sent le chien mouillé, l'autre la cave, et les plus accomplis parviennent parfois à cumuler les deux.
+À ne pas confondre avec se rassouiller : là, c'est la pleue qui vous imbibe, vous colle les vêtements à la piau et vous remplit les souliers. On peut toutefois s'arsouiller au comptoir et se rassouiller en rentrant.
 
 ## Exemple
 
-*Hier, il s'est arsouillé au bal, pis en rentrant sous la pleue il s'est arsouillé une deuxième fois.*
+*Hier, il s'est arsouillé au bal, pis en rentrant sous la pleue il s'est rasouiller en rentrant.*
 
 > « Notre homme s'étant d'abord copieusement imprégné de boissons fermentées au cours des réjouissances, les puissances célestes jugèrent ensuite opportun d'achever son imbibition par une pluie si abondante qu'il regagna son domicile saturé de l'intérieur comme de l'extérieur. »
 
 ## On dit aussi
 
-1. Se tremper, être trempé comme une soupe
-2. S'enivrer, se soûler, se cuiter
+S'enivrer, se soûler, se cuiter
 
 ## Pour aller plus loin
 

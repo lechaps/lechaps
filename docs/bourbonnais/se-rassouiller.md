@@ -1,16 +1,16 @@
 # Se rassouiller
 
-**Se rassouiller**, c'est se faire tremper par la pluie, recevoir une de ces saucées qui traversent la veste, la chemise, la piau et jusqu'aux opinions les mieux arrêtées sur la météo. On part sous trois gouttes en disant que ça ne durera pas ; on revient dix minutes plus tard ruisselant comme une gargouille, les cheveux plaqués, les souliers pleins et le pantalon collé aux moltons avec une familiarité franchement déplacée. Le mot ne désigne pas une humidité de demoiselle : quand on s'est rassouillé, on n'a plus un fil de sec et l'on pourrait presque s'essorer au-dessus de l'évier. Cet emploi est attesté dans plusieurs glossaires bourbonnais.
+**Se rassouiller**, c'est se faire tremper par la pluie, recevoir une de ces saucées qui traversent la veste, la chemise, la piau et jusqu'aux opinions les mieux arrêtées sur la météo. On part sous trois gouttes en disant que ça ne durera pas ; on revient dix minutes plus tard ruisselant comme une gargouille, les cheveux plaqués, les souliers pleins et le pantalon collé aux moltons avec une familiarité franchement déplacée. Le mot ne désigne pas une humidité de demoiselle : quand on s'est rassouillé, on n'a plus un fil de sec et l'on pourrait presque s'essorer au-dessus de l'évier.
 
 ## Exemple
 
-*J'me suis rassouillé en rentrant, j'avais pas pris mon caoutchouc.*
+*J'me suis rassouillé en rentrant.*
 
 > « Ayant négligé de me munir d'une protection imperméable, j'ai offert l'intégralité de ma personne à des précipitations si généreuses que mes vêtements pourraient désormais être essorés au même titre que le linge de la lessive. »
 
 ## On dit aussi
 
-Se tremper, se mouiller, prendre une saucée, être trempé comme une soupe, rassouilloux
+Se tremper, se mouiller, prendre une [saucée](./saucee.md)
 
 ## Pour aller plus loin
 

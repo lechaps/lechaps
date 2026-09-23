@@ -6,7 +6,7 @@
 
 *Qui faire que t'as fait ça ?*
 
-> « Auriez-vous l’obligeance de m’expliquer par quel remarquable enchaînement de raisonnements vous en êtes venu à juger cette initiative opportune ? »
+> « Auriez-vous l'obligeance de m'expliquer par quel remarquable enchaînement de raisonnements vous en êtes venu à juger cette initiative opportune ? »
 
 ## On dit aussi
 

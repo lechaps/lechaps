@@ -10,7 +10,7 @@ La **sanguette**, c'est le sang de la volaille recueilli aussitôt après l'abat
 
 ## On dit aussi
 
-Sanquette, sanguet, sanquet, sanglette
+Sanquette
 
 ## Pour aller plus loin
 

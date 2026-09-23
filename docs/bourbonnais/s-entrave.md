@@ -4,16 +4,17 @@
 
 ## Exemple
 
-*Il s'est entravé dans l'pied de l'échelle et il s'est étalé de tout son long.*
+*Il a bien fallu que j'm'entrave dans c'te ravaudrie qu'est restée en en travers du ch'min.*
 
-> « Son pied s'étant malencontreusement engagé dans la partie inférieure de l'échelle, le malheureux poursuivit seul son mouvement vers l'avant avant de confier, avec une remarquable absence de retenue, l'intégralité de sa personne à la dure hospitalité du sol. »
+> « Il a, bien entendu, fallu que ma progression s'achève contre cette construction d'utilité indéterminée, opportunément déposée au milieu de la voie avec une précision telle qu'on l'aurait crue spécialement disposée pour provoquer ma chute. »
 
 ## On dit aussi
 
-S'antraver, trébucher, s'empêtrer, se casser la margoulette, bicher sa grand-mère
+Trébucher, s'empêtrer, se casser la [margoulette](./margoulette.md)
 
 ## Pour aller plus loin
 
 * [Définition de « entraver » - Académie française](https://www.dictionnaire-academie.fr/article/A9E1922){ target="_blank" }
+* [Définition de « s'entraver » - Dictionnaire des régionalismes de France](https://drf.4h-conseil.fr/pages/D1E0030.html){ target="_blank" }
 * [Emploi bourbonnais de « s'entraver » - Petit Recueil du parler de Diou](https://projetbabel.org/diou/b.htm){ target="_blank" }
 * [Définition et attestations de « s'entraver » - CNRTL](https://www.cnrtl.fr/definition/entraver){ target="_blank" }
