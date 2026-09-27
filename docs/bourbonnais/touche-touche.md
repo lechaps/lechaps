@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-À touche-touche, à tout touche, à tenant, à brenonceaux
+À touche-touche, à tout touche
 
 ## Pour aller plus loin
 

@@ -1,6 +1,6 @@
 # Tartouffe
 
-La **tartouffe**, c'est la pomme de terre, la vraie reine du Bourbonnais : une souveraine crottée, ventrue, sans couronne ni protocole, mais capable de nourrir toute une maisonnée quand novembre gratte aux vitres. On la tire de terre, on la pèle au-dessus de l'évier, on la jette au four, dans la soupe ou sous la pâte, et elle revient toujours à table avec cette modestie des gens indispensables qui n'ont jamais réclamé leur portrait dans la salle du conseil.
+La **tartouffe**, c'est la pomme de terre, la vraie reine du Bourbonnais : une souveraine crottée, ventrue, sans couronne ni protocole, mais capable de nourrir toute une maisonnée quand novembre gratte aux vitres. On la tire de terre, on la pèle au-dessus de l'évier, on la jette au four, dans la soupe ou sous la pâte, et elle revient toujours à table avec cette modestie des gens indispensables qui n'ont jamais réclamé leur portrait dans la salle du conseil municipale.
 
 ## Exemple
 
@@ -10,11 +10,11 @@ La **tartouffe**, c'est la pomme de terre, la vraie reine du Bourbonnais : une s
 
 ## On dit aussi
 
-Treffe, patate, tartoufle
+Patate, pomme de terre
 
 ## Souvenir
 
-Mon grand-père en mangeait tous les jours, cuites au four jusqu'à ce que leur peau se fripe et craque sous les doigts. Il les ouvrait en deux, soufflait dessus, ajoutait une noix de beurre qui fondait aussitôt dans la chair brûlante, puis il mangeait sans parler. Ça sentait la terre chaude, la cendre et le sel humide dans sa petite boîte en verre. La tartouffe, une chose précieuse, prouve bien que la richesse dépend surtout de l'heure du repas.
+Mon grand-père mangeait une tartouffe tous les jours, cuite au four jusqu'à ce que la peau se fripe et craque sous les doigts. Il l'ouvrait en deux, soufflait dessus, ajoutait une noix de beurre qui fondait aussitôt dans la chair brûlante, puis il mangeait sans parler. À côté, il y avait presque toujours un morceau de lard, épais, salé, avec ce gras transparent qui commençait à fondre au contact de la chaleur. Ça sentait la pomme de terre chaude, avec au fond cette odeur de terre qu'elle n'abandonne jamais tout à fait, la cendre et le lard. La tartouffe n'avait rien de noble, mais avec un morceau de lard à ses côtés, elle tenait parfaitement son rang.
 
 ## Pour aller plus loin
 

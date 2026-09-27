@@ -8,6 +8,10 @@ La **treue**, c'est la truie, la grosse mère de la porcherie, lourde, grognante
 
 > « Durant les heures nocturnes, notre estimable femelle porcine a mené à bien la délicate entreprise de mettre au monde une nombreuse descendance, sans assistance médicale, sans communiqué officiel et avec davantage de courage que bien des gouvernements. »
 
+## On dit aussi
+
+Truie, cochon, gorette, cochette, [coche](./coche.md)
+
 ## Pour aller plus loin
 
 * [Définition de « treue » du Wiktionnaire](https://fr.wiktionary.org/wiki/treue){ target="_blank" }

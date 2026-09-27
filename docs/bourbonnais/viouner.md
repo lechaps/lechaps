@@ -4,13 +4,13 @@
 
 ## Exemple
 
-*Elle vioune, ta cariole.*
+*Elle vioune ta cariole.*
 
 > « Votre attelage progresse avec une célérité si remarquable que la prudence m'oblige à envisager, derrière cette mécanique d'apparence modeste, la présence clandestine de plusieurs chevaux de compétition. »
 
 ## On dit aussi
 
-Vionner, feuter
+Filer, foncer, cavaler, aller bon train.
 
 ## Pour aller plus loin
 

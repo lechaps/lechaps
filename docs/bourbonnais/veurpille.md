@@ -10,7 +10,7 @@ La **veurpille**, c'est la vipère, le serpent qu'on redoutait bien avant de l'a
 
 ## On dit aussi
 
-Veurpi, verpi, vipère
+Vipère
 
 ## Pour aller plus loin
 

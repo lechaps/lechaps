@@ -7,3 +7,7 @@ Le **trainio**, c'est celui qui traîne les rues, les mains dans les poches et l
 *Encore un trainio qui passe par le chemin du cul-de-sac.*
 
 > « Voici de nouveau l'un de ces promeneurs sans ouvrage connu, parcourant avec une constance admirable cette voie pourtant réputée ne mener absolument nulle part. »
+
+## On dit aussi
+
+Traînard, flâneur, désœuvré, fainéant, bon à rien

@@ -14,7 +14,7 @@ La **coche**, c'est la truie, la vraie, la mère à groin, la matrone de la soue
 
 ## On dit aussi
 
-Truie, cochon, gorette, cochette, vieille coche
+Truie, cochon, gorette, cochette, [treue](./treue.md)
 
 ## Pour aller plus loin
 

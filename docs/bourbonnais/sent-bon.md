@@ -1,12 +1,12 @@
 # Sent-bon
 
-Le **sent-bon**, c'est le parfum, l'eau de Cologne, tout ce qu'on se met sur la piau pour arriver quelque part précédé d'une odeur plus distinguée. Le mot n'a pas les prétentions de la parfumerie parisienne : il dit simplement ce qu'il fait, avec la franchise d'une étiquette écrite par un enfant, inutile de convoquer les orchidées de Madagascar. On en déposait une goutte derrière les oreilles les jours de fête ; deux gouttes, c'était une noce, et trois annonçaient soit un grand amour, soit une tentative désespérée de dissimuler autre chose.
+Le **sent-bon**, c'est le parfum, l'eau de Cologne, tout ce qu'on se met sur la piau pour arriver quelque part précédé d'une odeur plus distinguée. Le mot n'a pas les prétentions de la parfumerie parisienne : il dit simplement ce qu'il fait, avec la franchise d'une étiquette écrite par un enfant, inutile de convoquer les orchidées de Madagascar. On en dépose une goutte derrière les oreilles les jours de fête ; deux gouttes, c'est une noce, et trois annonce soit un grand amour, soit une tentative désespérée de dissimuler autre chose.
 
 ## Exemple
 
-*T'as mis du sent-bon ? On te sent depuis l'autre bout d'la cour !*
+*Bah, t'as mis du sent-bon ? T'es parti où ?*
 
-> « Auriez-vous généreusement parfumé votre personne en prévision de quelque rencontre galante ? Votre sillage olfactif précède en effet votre arrivée avec l'autorité d'une fanfare municipale. »
+> « Voilà qui est singulier : vous exhalez aujourd'hui des effluves qui laissent présager quelque entreprise d'importance. Auriez-vous l'obligeance de nous révéler quelle destination mérite soudain de tels apprêts ? »
 
 ## On dit aussi
 

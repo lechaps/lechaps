@@ -10,11 +10,11 @@ La **trapanelle**, c'est une petite voiture sans permis, une voiturette poussive
 
 ## On dit aussi
 
-Voiturette, pot de yaourt, chicane mobile, suppositoire à poids lourds
+Voiturette, pot de yaourt, suppositoire à poids lourds
 
 ## Souvenir
 
-Mon grand-oncle avait une Ligier, son unique moyen de locomotion, et il montait dedans avec la fierté d'un prince prenant possession de sa Ferrari. Je le revois fermer la portière, redresser les épaules et partir dans un vacarme de tondeuse héroïque, tandis que les voitures le dépassaient sans pitié et que les camions semblaient vouloir l'avaler tout rond. Sa trapanelle était ridicule et attachante, fragile mais vaillante, une souris jaune qui se rêvait cheval de course. Nous nous moquions un peu, bien sûr, mais lorsqu'il disparaissait au bout de la route, j'avais toujours peur qu'un poids lourd ne vienne interrompre cette glorieuse épopée à quarante-cinq kilomètres à l'heure.
+Mon grand-oncle avait une Ligier, son unique moyen de locomotion, et il montait dedans avec la fierté d'un prince prenant possession de sa Ferrari. Je le revois fermer la portière, redresser les épaules et partir dans un vacarme de tondeuse héroïque, tandis que les voitures le dépassaient sans pitié et que les camions semblaient vouloir l'avaler tout rond. Sa trapanelle était ridicule et attachante, fragile mais vaillante, une souris jaune qui se rêvait cheval de course. Nous nous moquions un peu, bien sûr, mais lorsqu'il disparaissait au bout de la petite route, j'avais toujours un peur.
 
 ## Pour aller plus loin
 

@@ -1,12 +1,8 @@
 # Tavelle
 
-La **tavelle**, c'est une bûche, un rondin, un gourdin : enfin du bois assez sérieux pour chauffer la soupe ou refroidir les enthousiasmes, selon la main qui s'en empare. Elle traîne près du fourneau, tombe du tas avec un bruit de justice sommaire et, lorsqu'elle sert à distribuer quelques horions, devient une **tisane de tavelles** : remède ancien, sans sucre, sans ordonnance et généralement administré à un patient qui n'avait rien demandé.
+La **tavelle**, c'est le bâton dont Guignol se sert pour rosser les autres marionnettes : un argument de bois qui abrège les discussions et ponctue les désaccords d'un grand coup sec. C'est aussi, dans un emploi plus laborieux, la barre qui permet d'actionner le tour d'une charrette. Du théâtre à la voiture, voilà donc un outil qui exige surtout une bonne poigne et assez peu d'éloquence. Et lorsqu'il sert à distribuer quelques horions, la **tisane de tavelles** est servie : remède ancien, sans sucre, sans ordonnance et généralement administré à un patient qui n'avait rien demandé.
 
 ## Exemple
-
-*Attention à la tavelle qui traîne là.*
-
-> « Je vous recommande la plus extrême vigilance, une imposante pièce de bois ayant choisi de demeurer étendue sur votre passage avec des intentions dont la bienveillance ne saurait être garantie. »
 
 *Il a sorti la tisane de tavelles.*
 
@@ -14,11 +10,11 @@ La **tavelle**, c'est une bûche, un rondin, un gourdin : enfin du bois assez s�
 
 ## On dit aussi
 
-Tavel, bûche, rondin, gourdin, tisane de tavelles
+Bâton, trique, gourdin ; barre de manœuvre du tour d'une charrette
 
 ## Pour aller plus loin
 
-* [Définition de « tavelle » - Académie française, 1re édition (autre sens : petite dentelle)](https://www.dictionnaire-academie.fr/article/A1T0062-02){ target="_blank" }
+* [Définition de « taveler » - Académie française, 1re édition (autre sens : petite dentelle)](https://www.dictionnaire-academie.fr/article/A9T0431){ target="_blank" }
 * [Définition du CNRTL](https://www.cnrtl.fr/definition/tavelle){ target="_blank" }
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/tavelle){ target="_blank" }
 * [Lexique bourbonnais du parler de Diou](https://projetbabel.org/diou/t.htm){ target="_blank" }

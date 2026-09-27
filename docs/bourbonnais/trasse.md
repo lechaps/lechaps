@@ -10,7 +10,7 @@ La **trasse**, ou **trace**, c'est la haie qui sépare deux prés sans les fâch
 
 ## On dit aussi
 
-Bouchure, tierre, quierre
+Bouchure
 
 ## Pour aller plus loin
 

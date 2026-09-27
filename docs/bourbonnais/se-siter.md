@@ -1,6 +1,6 @@
 # Se siter
 
-**Se siter**, c'est s'asseoir, prendre place, déposer son individu sur une chaise, un banc, un muret ou tout autre meuble capable d'en supporter le poids et les opinions. Le mot ne commande pas seulement de plier les genoux : il invite à rester, à causer, à boire un canon, bref à cesser de faire semblant d'être pressé quand personne n'est dupe. **Site-tu donc !** signifie à peu près : « pose-toi là, la route attendra bien cinq minutes ». Lesquelles, dans les cuisines bourbonnaises, peuvent aisément durer jusqu'à la soupe.
+**Se siter**, c'est s'asseoir, prendre place, déposer son individu sur une chaise, un banc, un muret ou tout autre meuble capable d'en supporter le poids et les opinions. Le mot ne commande pas seulement de plier les genoux : il invite à rester, à causer, à boire un canon, bref à cesser de faire semblant d'être pressé quand personne n'est dupe. **Site-tu donc !** signifie à peu près : « pose-toi là, la route attendra bien cinq minutes ». Lesquelles, dans les cuisines de campagne, peuvent aisément durer jusqu'à la soupe.
 
 ## Exemple
 

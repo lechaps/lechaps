@@ -10,4 +10,4 @@ Un **tacaro**, c'est un fou, un timbré, un gars dont les idées galopent sans b
 
 ## On dit aussi
 
-Fafiot, bredin, bargeot, cinglé, timbré
+[Fafiot](./fafiot.md), [bredin](./bredin.md), bargeot, cinglé, timbré

@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Zyeuter, lorgner, reluquer, guetter, jeter un œil
+Lorgner, reluquer, guetter, jeter un œil
 
 ## Pour aller plus loin
 

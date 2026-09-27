@@ -6,4 +6,13 @@
 
 *Arrête de la tasiner, tu vois bien que tu ne l'intéresses pas.*
 
-> « Veuille renoncer à poursuivre cette malheureuse personne de tes assiduités répétitives : son indifférence, désormais visible depuis le canton voisin, ne semble plus autoriser la moindre espérance diplomatique. »
+> « Je vous invite à renoncer à cette entreprise de séduction dont les perspectives de succès paraissent désormais relever de la pure spéculation ; l'intéressée manifeste à votre endroit une absence d'inclination d'une limpidité difficilement contestable. »
+
+## On dit aussi
+
+Tanner, asticoter, enquiquiner, importuner, casser les pieds
+
+## Pour aller plus loin
+
+* [Le parler bourbonnais - Lexique de Bransat](https://www.bransat.fr/page/patois_dialecte_parler_bourbonnais_lexique){ target="_blank" }
+* [Définition de « tanner » - CNRTL, pour un sens voisin](https://www.cnrtl.fr/definition/tanner){ target="_blank" }

@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Bancal, branlant, instable, précaire, ne tenir qu'à un fil
+Bancal, branlant, instable, précaire, ne tenir qu'à un fil, [À la va comme j'te pousse](a-la-va-comme-j-te-pousse.md), [de guingouin](./guingouin.md)
 
 ## Pour aller plus loin
 

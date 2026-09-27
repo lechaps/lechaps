@@ -10,4 +10,4 @@ Le **zgueudegueu**, c'est le travail fait sans soin, à la va-vite, avec deux cl
 
 ## On dit aussi
 
-Bâclé, fait à l'arrache, fait à la va-comme-je-te-pousse, travail de sagouin
+Bâclé, fait à l'arrache, [à la va-comme-je-te-pousse](./a-la-va-comme-j-te-pousse.md), travail de sagouin
