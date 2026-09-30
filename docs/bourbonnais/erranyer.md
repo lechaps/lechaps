@@ -6,7 +6,7 @@
 
 *Hein donc ! Le chti est revenu tout erranyé, il a encore voulu passer au travers des ronces.*
 
-> « Allons bon ! Le jeune aventurier nous revient couvert de griffures, conséquence prévisible de sa décision héroïque et parfaitement irréfléchie de négocier un passage direct à travers une végétation épineuse. »
+> « Allons bon ! Le jeune aventurier nous revient couvert de griffures, conséquence prévisible de sa décision téméraire et parfaitement irréfléchie de négocier un passage direct à travers une végétation épineuse. »
 
 ## On dit aussi
 

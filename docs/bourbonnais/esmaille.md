@@ -4,7 +4,7 @@
 
 ## Exemple
 
-*J'ai esmaillé les raves avant la pluie, ça devrait lever dru.*
+*J'ai esmaillé les raves avant la pleue, ça devrait lever dru.*
 
 > « J'ai procédé à la dispersion méthodique des semences avant l'arrivée des précipitations, dans l'espoir que la terre, convenablement sollicitée, daigne répondre par une abondance végétale digne des annales du canton. »
 

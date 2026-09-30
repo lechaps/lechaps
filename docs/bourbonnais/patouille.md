@@ -1,6 +1,6 @@
 # Patouille
 
-La **patouille**, c'est la gadoue, la boue molle, grasse et collante qui s'attache aux bottes avec l'obstination d'un emmerdeur venu déjeuner et décidé à rester jusqu'au soir. Elle envahit les chemins, les cours, les entrées de maison, puis finit partout où elle n'était pas invitée : sur le pantalon, sous la chaise, dans la cuisine fraîchement lavée. La patouille, c'est de la terre qui a trop fréquenté la pluie et qui, depuis, ne sait plus se tenir.
+La **patouille**, c'est la gadoue, la boue molle, grasse et collante qui s'attache aux bottes avec la ténacité d'un emmerdeur venu déjeuner et décidé à rester jusqu'au soir. Elle envahit les chemins, les cours, les entrées de maison, puis finit partout où elle n'était pas invitée : sur le pantalon, sous la chaise, dans la cuisine fraîchement lavée. La patouille, c'est de la terre qui a trop fréquenté la pluie et qui, depuis, ne sait plus se tenir.
 
 ## Exemple
 

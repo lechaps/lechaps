@@ -1,6 +1,6 @@
 # Viouner
 
-**Viouner**, c'est aller vite, prendre de l'allure, filer avec ce petit bruit d'air et de mécanique qui annonce que, cette fois, ça ne traîne plus. Une carriole vioune, une mouche vioune autour des oreilles, et l'on peut faire viouner les enfants lorsqu'ils lambinent au lieu de mettre leurs chaussures. Le mot bourdonne autant qu'il avance : il contient le mouvement, l'impatience et cette conviction qu'avec un encouragement suffisamment sonore, même une vieille charrette finira par se croire à Longchamp.
+**Viouner**, c'est aller vite, prendre de l'allure, filer avec ce petit bruit d'air et de mécanique qui annonce que, cette fois, ça ne traîne plus. Une carriole vioune, une mouche vioune autour des oreilles, et l'on peut faire viouner les enfants lorsqu'ils lambinent au lieu de mettre leurs chaussures. Le mot bourdonne autant qu'il avance : il contient le mouvement, l'impatience et cette foie admirable qu'avec un encouragement suffisamment sonore, même une vieille charrette finira par se prendre pour un pur-sang à Longchamp.
 
 ## Exemple
 

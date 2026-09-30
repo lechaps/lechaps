@@ -15,5 +15,5 @@ Bon à rien, escroc, charlatan, tricheur, vaurien, margoulin, fripouille
 ## Pour aller plus loin
 
 * [Définition du Wiktionnaire](https://fr.wiktionary.org/wiki/arcandier){ target="_blank" }
-* [Définition – La langue française](https://www.lalanguefrancaise.com/dictionnaire/definition/arcandier){ target="_blank" }
+* [Définition - La langue française](https://www.lalanguefrancaise.com/dictionnaire/definition/arcandier){ target="_blank" }
 * [Dictionnaire des régionalismes de France : aricandier](https://drf.4h-conseil.fr/pages/D1A0035.html){ target="_blank" }

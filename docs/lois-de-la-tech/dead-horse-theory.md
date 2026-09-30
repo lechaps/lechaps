@@ -35,7 +35,7 @@ Elle relève plutôt de ce que l'on pourrait appeler une métaphore managériale
 
 La citation est fréquemment attribuée à une « sagesse amérindienne », notamment à la culture *dakota*, mais **aucune source historique fiable ne permet de confirmer cette origine**. Cette attribution relève davantage d'un procédé narratif - donner une profondeur ancestrale à une idée moderne - que d'un fait établi.
 
-En réalité, la métaphore s'est surtout diffusée à partir **des années 1980–1990**, dans les milieux du management, de la formation au leadership et de la conduite du changement. Elle apparaît alors comme une illustration humoristique mais percutante d'un phénomène bien documenté par les sciences de la décision : **la tendance des individus et des organisations à persister dans des choix inefficaces**, malgré des signaux clairs d'échec.
+En réalité, la métaphore s'est surtout diffusée à partir **des années 1980-1990**, dans les milieux du management, de la formation au leadership et de la conduite du changement. Elle apparaît alors comme une illustration humoristique mais percutante d'un phénomène bien documenté par les sciences de la décision : **la tendance des individus et des organisations à persister dans des choix inefficaces**, malgré des signaux clairs d'échec.
 
 Ce que la métaphore du cheval mort traduit de manière imagée, des chercheurs comme **Dietrich Dörner, Barry Staw ou Daniel Kahneman** l'ont analysé de façon rigoureuse :
 
@@ -48,4 +48,4 @@ Si la « théorie du cheval mort » a traversé les décennies, ce n'est donc pa
 ### Références
 
 * [Blog ITIL](https://blog.itil.org/2012/12/when-you-discover-youre-riding-a-dead-horse-the-best-strategy-is-to-dismount/#:~:text=There%20is%20an%20old%20Dakota,logical%20given%20the%20above%20situation.){ target="_blank" }
-* Livre de référence (inspiration) : [The Logic of Failure* – Dietrich Dörner (1996) – sur les erreurs de raisonnement en gestion de crise](https://www.amazon.fr/logique-l%C3%A9chec-Dietrich-D%C3%B6rner/dp/208035549X/){ target="_blank" }
+* Livre de référence (inspiration) : [The Logic of Failure* - Dietrich Dörner (1996) - sur les erreurs de raisonnement en gestion de crise](https://www.amazon.fr/logique-l%C3%A9chec-Dietrich-D%C3%B6rner/dp/208035549X/){ target="_blank" }

@@ -14,7 +14,7 @@ Blouse, veste de travail, casaque, cotte
 
 ## Souvenir
 
-Je revois mon grand-père décrocher sa biaude sur le porteau manteau devant la bassie. Elle tenait presque debout toute seule, raidie par des années de terre, de pluie et de travaux. Quand il la mettait, y avait tout un cérémonial silencieux : il passait les bras dedans lentement, boutonnait sans regarder, puis il devenait immédiatement quelqu'un de sérieux. Le travail commençait. Le soir, il revenait avec la biaude couverte de traces impossibles à identifier : graisse, poussière, parfois une plume de poule collée dans le dos. Et parfois il râlait en la secouant dehors avant de l'accrocher.
+Je revois mon grand-père décrocher sa biaude sur le porteau manteau devant la bassie. Elle tenait presque debout toute seule, raidie par des années de terre, de pleue et de travaux. Quand il la mettait, y avait tout un cérémonial silencieux : il passait les bras dedans lentement, boutonnait sans regarder, puis il devenait immédiatement quelqu'un de sérieux. Le travail commençait. Le soir, il revenait avec la biaude couverte de traces impossibles à identifier : graisse, poussière, parfois une plume de poule collée dans le dos. Et parfois il râlait en la secouant dehors avant de l'accrocher.
 
 ## Pour aller plus loin
 

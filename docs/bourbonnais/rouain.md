@@ -1,6 +1,6 @@
 # Rouain
 
-Un **rouain**, c'est une ornière, cette trace profonde que les roues creusent dans les chemins détrempés à force d'y passer, de s'y enfoncer et d'emporter un peu de terre à chaque voyage. Après la pleue, le rouain se remplit d'une eau brune dont on ignore la profondeur jusqu'au moment où la botte, la brouette ou la roue du tracteur s'y engage avec une confiance regrettable. Ce n'est qu'un creux dans le chemin, paraît-il ; mais quand on est pris dedans jusqu'au moyeu, le creux acquiert soudain l'importance géographique du Grand Canyon.
+Un **rouain**, c'est une ornière, cette trace profonde que les roues creusent dans les chemins détrempés à force d'y passer, de s'y enfoncer et d'emporter un peu de terre à chaque voyage. Après la pluie, le rouain se remplit d'une eau brune dont on ignore la profondeur jusqu'au moment où la botte, la brouette ou la roue du tracteur s'y engage avec une confiance regrettable. Ce n'est qu'un creux dans le chemin, paraît-il ; mais quand on est pris dedans jusqu'au moyeu, le creux acquiert soudain l'importance géographique du Grand Canyon.
 
 ## Exemple
 

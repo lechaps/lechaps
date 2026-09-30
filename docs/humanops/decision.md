@@ -69,7 +69,7 @@ Ils décrivent les **deux extrêmes d'un même continuum**.
 Dans les deux cas, le résultat est le même :  
 **une organisation qui se complique inutilement**.
 
-## La clé : décider consciemment... ou attendre consciemment
+## La clé : décider consciemment… ou attendre consciemment
 
 La vraie ligne de fracture n'est pas entre *décider* et *ne pas décider*.
 Elle est entre :
@@ -89,7 +89,7 @@ Elle est entre :
 * une **intention assumée**.
 
 **Décider de ne pas décider est une décision valable.**  
-**... à condition qu'elle soit formalisée.**  
+**… à condition qu'elle soit formalisée.**  
 
 Sinon, ce n'est plus de la sagesse.
 C'est de l'évitement.

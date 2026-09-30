@@ -47,6 +47,6 @@ Pour relier ces étages et comprendre ce que chaque loi mesure (et ce qu'elle ou
 ### Références
 
 * [David P. Reed, The Law of the Pack: Some Thoughts on Metcalfe's Law and Reed's Law, Harvard Business Review, 1999](https://hbr.org/2001/02/the-law-of-the-pack){ target="_blank" }
-* [Wikipedia – Reed's Law](https://en.wikipedia.org/wiki/Reed%27s_law){ target="_blank" }
+* [Wikipedia - Reed's Law](https://en.wikipedia.org/wiki/Reed%27s_law){ target="_blank" }
 * [Dan Richards, The Power of Peer Groups (and How to Start One), 2004](https://hbr.org/2001/02/the-law-of-the-pack){ target="_blank" }
 * [Andrew Odlyzko, The Myth of Exponential Network Value Growth, First Monday, 2005](https://www-users.cse.umn.edu/~odlyzko/doc/internet.growth.myth.pdf){ target="_blank" }

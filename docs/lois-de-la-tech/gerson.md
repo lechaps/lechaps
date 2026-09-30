@@ -42,4 +42,4 @@ En somme : une pub, une phrase mémorable, une culture « prendre avantage » - 
 ### Références
 
 * [Wikipedia](https://en.wikipedia.org/wiki/G%C3%A9rson%27s_law)
-* [Superinteressante – « Viva a lei de Gérson! » (février 2004)](https://super.abril.com.br/saude/viva-a-lei-de-gerson/)
+* [Superinteressante - « Viva a lei de Gérson! » (février 2004)](https://super.abril.com.br/saude/viva-a-lei-de-gerson/)

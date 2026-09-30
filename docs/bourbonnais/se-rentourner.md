@@ -1,6 +1,6 @@
 # Se rentourner
 
-**Se rentourner**, c'est repartir par où l'on est venu, reprendre le chemin de la maison, rebrousser ses pas avant que la nuit, la pleue ou la patronne ne commencent à s'impatienter. Ce n'est pas seulement partir : c'est refermer la visite, remettre la casquette, refuser encore un dernier canon (puis l'accepter, naturellement) avant de s'arracher enfin à la chaise. Le mot semble faire lui-même un petit tour supplémentaire, comme si **retourner** n'avait pas suffi pour ramener tout le monde au bercail.
+**Se rentourner**, c'est repartir par où l'on est venu, reprendre le chemin de la maison, rebrousser ses pas avant que la nuit, la pluie ou la patronne ne commencent à s'impatienter. Ce n'est pas seulement partir : c'est refermer la visite, remettre la casquette, refuser encore un dernier canon (puis l'accepter, naturellement) avant de s'arracher enfin à la chaise. Le mot semble faire lui-même un petit tour supplémentaire, comme si **retourner** n'avait pas suffi pour ramener tout le monde au bercail.
 
 ## Exemple
 

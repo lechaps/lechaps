@@ -6,7 +6,7 @@ La **pleue**, c'est la pluie, celle qu'on voit venir de loin au-dessus des haies
 
 *An z'y dépêchons-nous avant la pleue.*
 
-> « Hâtons-nous d'achever notre ouvrage avant que les puissances célestes ne déversent sur nos personnes, nos outils et notre linge encore étendu une quantité d'eau manifestement disproportionnée. »
+> « Mettons-nous donc en mouvement sans davantage différer, avant que les cieux ne jugent opportunde déverser sur nos personnes, nos outils et notre linge encore étendu une quantité d'eau manifestement disproportionnée. »
 
 ## On dit aussi
 

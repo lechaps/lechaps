@@ -6,7 +6,7 @@
 
 *On démarne samedi, viens donc donner un coup d'main au lieu d'faire l'innocent.*
 
-> « Notre maisonnée procédant samedi prochain à son transfert matériel et sentimental, votre présence serait appréciée afin de participer au déplacement héroïque des meubles, des cartons et des regrets domestiques. »
+> « Notre maisonnée procédant samedi prochain à son transfert matériel et sentimental, votre présence serait appréciée afin de participer au déplacement méthodique des meubles, des cartons et des regrets domestiques. »
 
 ## On dit aussi
 

@@ -15,4 +15,4 @@ Quenotte, dent, chicot, croc
 
 ## Pour aller plus loin
 
-* [Définition – La langue française](http://languefrancaise.net/Bob/55292){ target="_blank" }
+* [Définition - La langue française](http://languefrancaise.net/Bob/55292){ target="_blank" }

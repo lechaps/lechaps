@@ -4,7 +4,7 @@
 
 ## Exemple
 
-*Va donc détaper les patates avant qu'la pluie r'vienne.*
+*Va donc détaper les patates avant qu'la pleue r'vienne.*
 
 > « Veuillez procéder sans délai à l'extraction méthodique de ces tubercules, avant que les conditions météorologiques ne transforment le champ en succursale argileuse de l'enfer. »
 

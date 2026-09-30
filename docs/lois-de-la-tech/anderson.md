@@ -43,5 +43,5 @@ Parce que dans un système complexe, vouloir tout à la fois n'est pas de l'ambi
 
 ### Références
 
-* [Wikipedia – Anderson's rule (computer science)](https://en.wikipedia.org/wiki/Anderson%27s_rule_(computer_science)){ target="_blank" }
+* [Wikipedia - Anderson's rule (computer science)](https://en.wikipedia.org/wiki/Anderson%27s_rule_(computer_science)){ target="_blank" }
 * [Ross Anderson](https://scholar.google.com/citations?user=WgyDcoUAAAAJ){ target="_blank" }

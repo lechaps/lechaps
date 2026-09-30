@@ -149,5 +149,5 @@ Et une fois qu'ils grossissent, ils franchissent souvent deux étapes quasi iné
 
 ### Références
 
-* Jamie Zawinski – [jwz.org](https://www.jwz.org/){ target="_blank" }
+* Jamie Zawinski - [jwz.org](https://www.jwz.org/){ target="_blank" }
 * [Wikipedia](https://en.wikipedia.org/wiki/Zawinski%27s_law){ target="_blank" }

@@ -9,7 +9,7 @@ Et toujours tournée au nord. Le soleil pouvait bien faire le malin sur la faça
 
 *Va m'cher l'fromage à la bassie.*
 
-> « Je vous serais infiniment reconnaissant de bien vouloir descendre jusqu'à cette annexe domestique aux vertus thermiques remarquables afin d'en extraire le fromage destiné à soutenir notre modeste mais néanmoins héroïque repas familial. »
+> « Je vous serais infiniment reconnaissant de bien vouloir descendre jusqu'à cette annexe domestique aux vertus thermiques remarquables afin d'en extraire le fromage destiné à soutenir notre modeste mais néanmoins stratégique repas familial. »
 
 ## On dit aussi
 

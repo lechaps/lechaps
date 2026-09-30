@@ -36,11 +36,11 @@ Le problème commence quand le flou devient un refuge confortable.
 
 * Quand une organisation évite de trancher, elle empile des règles, des processus et des exceptions.
 * Chaque compromis évite un conflit immédiat, mais ajoute une couche de complexité.
-* Et comme aucun choix clair ne simplifie, la structure gonfle...jusqu'à devenir illisible.
+* Et comme aucun choix clair ne simplifie, la structure gonfle…jusqu'à devenir illisible.
 * C'est comme refuser de ranger son grenier parce qu'on ne veut rien jeter : à la fin, on n'y entre même plus.
 
 Dans les organisations nous connaissons ces règles critiques qui comptent des exceptions. Personne ne sait plus pourquoi elles existent - mais tout le monde respecte "au cas où".  
-Résultat : un système rigide, coûteux, et paradoxalement...contourné en permanence.
+Résultat : un système rigide, coûteux, et paradoxalement…contourné en permanence.
 
 Et tu l'as sûrement déjà vécu :
 

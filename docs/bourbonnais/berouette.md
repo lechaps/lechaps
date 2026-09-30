@@ -14,7 +14,7 @@ Brouette, charriote
 
 ## Souvenir
 
-Je devais avoir huit ou neuf ans quand mon grand-père m'a laissé pousser la vieille berouette pour la première fois. Elle était plus lourde qu'un sermon de curé un jour de canicule, et la roue faisait un bruit de clarinette asthmatique à chaque tour. J'étais fier comme un roi de pacotille avec mon chargement de mauvaises herbes et trois bouts de grillage tordu. Au retour, je m'étais renversé dans les orties derrière le poulailler.
+Je devais avoir huit ou neuf ans quand mon grand-père m'a laissé pousser la vieille berouette pour la première fois. Elle était plus lourde qu'un sermon de curé un jour de canicule, et la roue faisait un bruit de porte de grange qui n'a jamais connu l'huile. J'étais fier comme un roi de pacotille avec mon chargement de mauvaises herbes et trois bouts de grillage tordu. Au retour, je m'étais renversé dans les orties derrière le poulailler.
 
 ## Pour aller plus loin
 

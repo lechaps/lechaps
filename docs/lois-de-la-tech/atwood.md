@@ -109,4 +109,4 @@ Et cette migration n'arrive pas seule : elle est souvent précédée par un logi
 ### Références
 
 * [Jeff Atwood - *Any Application That Can Be Written in JavaScript, Will Eventually Be Written in JavaScript* (Coding Horror, 2007)](https://blog.codinghorror.com/the-principle-of-least-power/){ target="_blank" }
-* [Wikipedia – *Atwood's Law*](https://en.wikipedia.org/wiki/Atwood%27s_law){ target="_blank" }
+* [Wikipedia - *Atwood's Law*](https://en.wikipedia.org/wiki/Atwood%27s_law){ target="_blank" }

@@ -4,6 +4,6 @@ Les **terziaux**, ce sont treize gerbes de blé assemblées dans le champ, treiz
 
 ## Exemple
 
-*Il a fait trois terziaux avant la pluie.*
+*Il a fait trois terziaux avant la pleue.*
 
 > « Avant que les puissances météorologiques ne viennent dissoudre ses ambitions de moissonneur, cet homme aura néanmoins procédé à l'assemblage méthodique de trente-neuf gerbes, performance qui mériterait au minimum une médaille, un litre de rouge et le droit de s'asseoir cinq minutes. »

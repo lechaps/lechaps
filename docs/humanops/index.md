@@ -1,6 +1,6 @@
 # Mon carnet des systèmes humains
 
-Il y a ces jours où tout semble fonctionner : les serveurs tiennent, les processus roulent, les plannings s'alignent...  
+Il y a ces jours où tout semble fonctionner : les serveurs tiennent, les processus roulent, les plannings s'alignent….  
 Et pourtant, **quelque chose grince**.  
 Un mot mal compris, une tension qui traîne, une fatigue invisible.  
 C'est souvent là que commence le vrai sujet : pas dans le code ou les outils, mais **dans les humains qui les font vivre**.

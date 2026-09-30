@@ -6,7 +6,7 @@ Une **gounelle**, c'est une guenille arrivée au bout de sa carrière, un morcea
 
 *Jette-moi don' c'tte vieille gounelle, ça tient p'us qu'par les trous.*
 
-> « Je vous prie de vous défaire de ce vestige textile dont la cohésion matérielle repose désormais moins sur ses fibres que sur une forme particulièrement émouvante d'obstination. »
+> « Je vous saurais gré de soustraire définitivement à l'usage cette vénérable relique vestimentaire, dont l'intégrité repose à présent sur un équilibre si précaire entre quelques lambeaux survivants et une remarquable abondance d'espaces vacants qu'il devient difficile de déterminer si elle est encore trouée ou simplement bordée de tissu. »
 
 ## On dit aussi
 

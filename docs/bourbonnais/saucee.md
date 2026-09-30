@@ -1,6 +1,6 @@
 # Saucée
 
-Une **saucée**, c'est une forte pluie, une averse bien nourrie qui vous tombe dessus sans prévenir et vous traverse le paletot, la chemise, la piau et jusqu'aux convictions météorologiques. On part sous trois gouttes en assurant que « ça va passer » ; cinq minutes plus tard, on rentre ruisselant, les souliers pleins, les cheveux collés au front et l'allure générale d'un canard ayant perdu toute confiance dans l'existence. Le mot vient de **saucer** : la pluie ne se contente pas de mouiller, elle vous trempe comme un morceau de pain dans le jus.
+Une **saucée**, c'est une pluie qui n'a pas été élevée dans les bonnes manières, une averse bien nourrie qui vous tombe dessus sans prévenir et vous traverse le paletot, la chemise, la piau et jusqu'aux dernières illusions que vous entreteniez sur la bienveillance du ciel. On part sous trois gouttes en assurant que « ça va passer » ; cinq minutes plus tard, on rentre ruisselant, les souliers pleins, les cheveux collés au front et l'allure générale d'un canard ayant perdu toute confiance en l’imperméabilité. Le mot vient de **saucer** : la pluie ne se contente pas de mouiller, elle vous accommode. Elle vous trempe comme un croûton de pain dans le jus.
 
 ## Exemple
 

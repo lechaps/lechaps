@@ -28,7 +28,7 @@ Et c'est cet équilibre qui distingue les systèmes (et les humains) qui durent�
 
 ## D'où vient la loi de Postel ?
 
-La loi de Postel porte le nom de **Jon Postel** (1943–1998), un des architectes silencieux mais essentiels d'Internet.Il a contribué à la création de TCP/IP, SMTP (les mails) ou DNS (les noms de domaine) - bref, une grande partie de l'infrastructure qui fait tourner le monde numérique.
+La loi de Postel porte le nom de **Jon Postel** (1943-1998), un des architectes silencieux mais essentiels d'Internet.Il a contribué à la création de TCP/IP, SMTP (les mails) ou DNS (les noms de domaine) - bref, une grande partie de l'infrastructure qui fait tourner le monde numérique.
 
 Dans les années 1970, alors que tout était encore expérimental et fragile, il formule cette règle simple et visionnaire. Cette idée a rendu Internet incroyablement robuste : même un message imparfait pouvait passer. L'enjeu était clair : pour connecter le monde, il fallait des systèmes capables de comprendre l'imperfection, mais d'émettre eux-mêmes du signal clair.
 
@@ -45,7 +45,7 @@ En somme, la loi de Postel nous enseigne une chose simple : les systèmes (et le
 ### Références
 
 * [Jon Postel, RFC 760: DoD Standard Internet Protocol](https://www.rfc-editor.org/rfc/rfc760.html){ target="_blank" }
-* [Jon Postel, RFC 1122: Requirements for Internet Hosts – Communication Layers](https://www.rfc-editor.org/rfc/rfc1122.html){ target="_blank" }
+* [Jon Postel, RFC 1122: Requirements for Internet Hosts - Communication Layers](https://www.rfc-editor.org/rfc/rfc1122.html){ target="_blank" }
 * [Internet Engineering Task Force (IETF), The Robustness Principle Reconsidered, RFC 7608](https://www.ietf.org/archive/id/draft-iab-protocol-maintenance-05.html){ target="_blank" }
 * [The Internet Society, Remembering Jon Postel: The Internet's Quiet Architect](https://www.internetsociety.org/grants-and-awards/postel-service-award/){ target="_blank" }
 * [The Robustness Principle Reconsidered](https://www.internetsociety.org/grants-and-awards/postel-service-award/){ target="_blank" }

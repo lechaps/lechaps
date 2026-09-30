@@ -45,5 +45,5 @@ Protéger son attention, ce n'est pas travailler en isolement total, c'est **cho
 
 ### Références
 
-* Sune Carlson (1951), [Executive Behaviour – étude pionnière sur l'emploi du temps des dirigeants](https://www.amazon.fr/Executive-Behaviour-Workload-Managing-Directors/dp/0405123175/){ target="_blank" }
+* Sune Carlson (1951), [Executive Behaviour - étude pionnière sur l'emploi du temps des dirigeants](https://www.amazon.fr/Executive-Behaviour-Workload-Managing-Directors/dp/0405123175/){ target="_blank" }
 * [Wikipedia](https://fr.wikipedia.org/wiki/Loi_de_Carlson){ target="_blank" }

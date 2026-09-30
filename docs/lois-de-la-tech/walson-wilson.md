@@ -43,6 +43,6 @@ En somme, qu'elle soit de Walson, de Wilson, ou de personne en particulier, cett
 ### Références
 
 * [Canon of Life](https://canonish.com/working-smarter-with-walsons-law/){ target="_blank" }
-* [Wilson's Law – the key to success through intellectual growth.](https://trojanczyk.eu/wilsons-law/){ target="_blank" }
+* [Wilson's Law - the key to success through intellectual growth.](https://trojanczyk.eu/wilsons-law/){ target="_blank" }
 * [Behavioural Psychology, Part II - The Only 5 Laws Of The World You Ever Need To Know](https://udaypb.medium.com/the-only-5-laws-of-the-world-you-ever-need-to-know-59c5ae7b4ab7){ target="_blank" }
 * [5 top laws to swear by in life situations](https://medium.com/@sumanas27/5-top-laws-to-swear-by-in-life-situations-7722deea4daa){ target="_blank" }

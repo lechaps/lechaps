@@ -14,7 +14,7 @@ C'est la plus célèbre, mais ce n'est que la première d'une série de principe
 Les **lois de Wiio**, formulées par Osmo A. Wiio, un chercheur et homme politique finlandais, sont un ensemble d'aphorismes sur la communication… et sur la manière dont elle échoue presque systématiquement.
 
 Elles se résument souvent ainsi :
-**tout ce qui peut être mal compris le sera – et souvent pire que ce que tu imaginais**.
+**tout ce qui peut être mal compris le sera - et souvent pire que ce que tu imaginais**.
 
 Mais au-delà de l'humour, ces lois mettent en lumière la complexité des interactions humaines, des projets collectifs et de l'interprétation des messages.
 
@@ -40,7 +40,7 @@ Ces lois ont un parfum de pessimisme… mais aussi une pointe de vérité diffic
 
 ## D'où viennent les lois de Wiio ?
 
-Les lois de Wiio ont été formulées par **Osmo Antero Wiio** (1928–2013), professeur finlandais en communication, journaliste, homme politique et auteur.
+Les lois de Wiio ont été formulées par **Osmo Antero Wiio** (1928-2013), professeur finlandais en communication, journaliste, homme politique et auteur.
 
 Dans les années 1970, il observe un phénomène récurrent :
 malgré toutes les théories, les modèles et les efforts, la communication humaine **reste fondamentalement imprévisible**, imparfaite… et souvent catastrophique.

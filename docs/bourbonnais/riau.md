@@ -1,6 +1,6 @@
 # Riau
 
-Un **riau**, c'est un ruisseau, un petit cours d'eau qui se faufile entre les prés, sous les haies et au fond des chemins, avec son bruit de verre cassé sur les cailloux. Il paraît tranquille, le bougre, mais qu'il tombe trois jours de pleue et le voilà qui gonfle, déborde, emporte les brindilles et se prend soudain pour la Loire. Le mot est ancien, encore vivant et il conserve toute la fraîcheur des lieux qu'il désigne : l'eau claire, les herbes couchées et les bottes qui finissent toujours par prendre l'eau.
+Un **riau**, c'est un ruisseau, un petit cours d'eau qui se faufile entre les prés, sous les haies et au fond des chemins, avec son bruit de verre cassé sur les cailloux. Il paraît tranquille, le bougre, mais qu'il tombe trois jours de pluie et le voilà qui gonfle, déborde, emporte les brindilles et se prend soudain pour la Loire. Le mot est ancien, encore vivant et il conserve toute la fraîcheur des lieux qu'il désigne : l'eau claire, les herbes couchées et les bottes qui finissent toujours par prendre l'eau.
 
 ## Exemple
 

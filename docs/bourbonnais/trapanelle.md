@@ -1,6 +1,6 @@
 # Trapanelle
 
-La **trapanelle**, c'est une petite voiture sans permis, une voiturette poussive qui s'engage sur la nationale avec le courage d'un hanneton traversant une partie de pétanque. Elle vibre, elle bourdonne, elle avance à son idée tandis que les vraies automobiles la doublent avec cette arrogance des gens qui possèdent une cinquième vitesse. On l'appelle parfois, avec une cruauté de routier, **suppositoire à poids lourds** : formule épouvantable, certes, mais qui résume assez bien le rapport de forces entre la pauvre carriole et le trente-huit tonnes lancé derrière elle comme le destin dans une tragédie grecque.
+La **trapanelle**, c'est une petite voiture sans permis, une voiturette poussive qui s'engage sur la nationale avec le courage d'un hanneton traversant une partie de pétanque. Elle vibre, elle bourdonne, elle avance à son idée tandis que les vraies automobiles la doublent avec cette arrogance des gens qui possèdent une cinquième vitesse. On l'appelle parfois, avec une cruauté de routier, suppositoire à poids lourds : formule épouvantable, certes, mais qui résume assez bien le rapport de forces entre la pauvre carriole et le trente-huit tonnes lancé derrière elle comme le destin dans une tragédie grecque.
 
 ## Exemple
 
@@ -14,7 +14,7 @@ Voiturette, pot de yaourt, suppositoire à poids lourds
 
 ## Souvenir
 
-Mon grand-oncle avait une Ligier, son unique moyen de locomotion, et il montait dedans avec la fierté d'un prince prenant possession de sa Ferrari. Je le revois fermer la portière, redresser les épaules et partir dans un vacarme de tondeuse héroïque, tandis que les voitures le dépassaient sans pitié et que les camions semblaient vouloir l'avaler tout rond. Sa trapanelle était ridicule et attachante, fragile mais vaillante, une souris jaune qui se rêvait cheval de course. Nous nous moquions un peu, bien sûr, mais lorsqu'il disparaissait au bout de la petite route, j'avais toujours un peur.
+Mon grand-oncle avait une Ligier, son unique moyen de locomotion, et il montait dedans avec la fierté d'un prince prenant possession de son carrosse. Je le revois fermer la portière, redresser les épaules, accrocher une pince à linge à la ceinture de sécurité pour qu'elle ne lui scie pas le cou, et partir dans un vacarme de caisse à boulons lancée au galop (enfin, au galop de poney). Les voitures le dépassaient sans pitié et les camions semblaient vouloir l'avaler tout rond. Sa trapanelle était ridicule mais attachante, fragile mais vaillante, une petite souris rouge qui se rêvait cheval de course. Nous nous moquions un peu, bien sûr, mais lorsqu'il disparaissait au bout de la petite route, j'avais toujours un peu peur.
 
 ## Pour aller plus loin
 

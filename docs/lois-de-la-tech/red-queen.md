@@ -103,5 +103,5 @@ Elle dit : **si tu ne réfléchis pas pendant que tu cours, tu t'épuiseras pour
 
 * [Lewis Carroll, Through the Looking-Glass, 1871](https://www.amazon.fr/Through-Looking-Glass-Lewis-Carroll/dp/1616402245){ target="_blank" }
 * [Leigh Van Valen, *A New Evolutionary Law*, Evolutionary Theory, 1973](https://www.mn.uio.no/cees/english/services/van-valen/evolutionary-theory/volume-1/vol-1-no-1-pages-1-30-l-van-valen-a-new-evolutionary-law.pdf){ target="_blank" }
-* [Wikipedia – Red Queen Hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothesis){ target="_blank" }
+* [Wikipedia - Red Queen Hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothesis){ target="_blank" }
 * [Matt Ridley, The Red Queen: Sex and the Evolution of Human Nature, Penguin Books](https://www.amazon.com/Red-Queen-Evolution-Human-Nature/dp/0060556579){ target="_blank" }

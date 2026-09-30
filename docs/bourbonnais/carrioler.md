@@ -16,7 +16,7 @@ Transporter, emmener, conduire, trimballer
 
 ## Pour aller plus loin
 
-* [Définition de l'Académie Française – Carriole](https://www.dictionnaire-academie.fr/article/A9C0916){ target="_blank" }
-* [Définition du CNRTL – Carriole](https://www.cnrtl.fr/definition/carriole){ target="_blank" }
-* [Définition du Larousse – Carriole](https://www.larousse.fr/dictionnaires/francais/carriole/13437){ target="_blank" }
-* [Définition de La langue française – Carriole](https://www.lalanguefrancaise.com/dictionnaire/definition/carriole){ target="_blank" }
+* [Définition de l'Académie Française - Carriole](https://www.dictionnaire-academie.fr/article/A9C0916){ target="_blank" }
+* [Définition du CNRTL - Carriole](https://www.cnrtl.fr/definition/carriole){ target="_blank" }
+* [Définition du Larousse - Carriole](https://www.larousse.fr/dictionnaires/francais/carriole/13437){ target="_blank" }
+* [Définition de La langue française - Carriole](https://www.lalanguefrancaise.com/dictionnaire/definition/carriole){ target="_blank" }

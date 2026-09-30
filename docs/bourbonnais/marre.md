@@ -7,7 +7,7 @@ C'est aussi une houe, large, solide, un outil de terre fait pour biner, retourne
 
 *Prends don' la mare et va biner les patates avant qu'il pleuve.*
 
-> « Veuillez vous munir de cet ancestral instrument aratoire et procéder sans délai à l'ameublissement du sol entourant nos précieux tubercules, avant que les puissances célestes ne transforment le potager en bourbier municipal. »
+> « Veuillez vous munir de cet ancestral instrument aratoire et procéder sans délai à l'ameublissement du sol entourant nos précieux tubercules, tant que les éléments nous accordent encore la faveur d'un terrain praticable et d'une besogne accomplie au sec. »
 
 ## On dit aussi
 

@@ -21,10 +21,10 @@ C'est là que **Metcalfe** (les connexions) et **Reed** (les communautés) prenn
 
 ## D'où vient la loi de Sarnoff ?
 
-Cette loi porte le nom de **David Sarnoff** (1891–1971), **pionnier américain de la radiodiffusion** et président de la **RCA (Radio Corporation of America)**.  
+Cette loi porte le nom de **David Sarnoff** (1891-1971), **pionnier américain de la radiodiffusion** et président de la **RCA (Radio Corporation of America)**.  
 Visionnaire, Sarnoff voyait dans la radio et la télévision des réseaux capables de **connecter le monde entier** - mais sous un modèle centralisé, dominé par les grands diffuseurs.  
 
-Il aurait formulé cette idée dans les années **1930–1940**, à l'époque où les réseaux de communication étaient avant tout **des systèmes de diffusion unidirectionnels**.  
+Il aurait formulé cette idée dans les années **1930-1940**, à l'époque où les réseaux de communication étaient avant tout **des systèmes de diffusion unidirectionnels**.  
 Chaque nouvel utilisateur (auditeur, abonné, téléspectateur) augmentait **directement** la valeur du réseau, **sans interaction entre eux**.  
 
 Cette approche a structuré toute l'économie des médias du XXᵉ siècle : **Plus il y a de spectateurs, plus la publicité vaut cher**.  
@@ -46,6 +46,6 @@ Pour comprendre comment on passe de la diffusion aux liens, puis aux communauté
 
 ### Références
 
-* [Wikipedia – Sarnoff's Law](https://en.wikipedia.org/wiki/Sarnoff%27s_law){ target="_blank" }
+* [Wikipedia - Sarnoff's Law](https://en.wikipedia.org/wiki/Sarnoff%27s_law){ target="_blank" }
 * [David Sarnoff, Looking Ahead: The Papers of David Sarnoff, McGraw-Hill, 1968](https://www.worldradiohistory.com/BOOKSHELF-ARH/Business/Looking-Ahead-David-Sarnoff-1968.pdf){ target="_blank" }
 * [Looking Ahead: The Papers of David Sarnoff](https://books.google.fr/books/about/Looking_Ahead.html?id=XNC3AAAAIAAJ&redir_esc=y){ target="_blank" }

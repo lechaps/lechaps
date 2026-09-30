@@ -1,6 +1,6 @@
 # Kroumir
 
-Le **kroumir**, c'est le vieux grincheux, l'ancien encroûté, celui dont les genoux grincent avant la porte et qui regarde les jeunes s'agiter avec la conviction que le monde a commencé à mal tourner le jour où l'on a cessé de lui demander son avis. Toute nouveauté lui paraît suspecte, toute joie un peu bruyante mérite une remontrance, et le bon vieux temps avait surtout cet avantage que personne ne peut venir vérifier ce qu'il en raconte. Le mot se lance sur un ton moqueur, parfois franchement peu charitable : on vise moins le grand âge que le caractère fermé, les idées qui sentent le renfermé et cette façon de recevoir son prochain comme s'il venait réclamer de l'argent. Un kroumir, ça regrette hier, ça condamne aujourd'hui et ça se méfie déjà de demain.
+Le **kroumir**, c'est le vieux grincheux, l'ancien encroûté, celui dont les genoux grincent avant la porte et qui regarde les jeunes s'agiter avec la certitude inébranlable que le monde a commencé à mal tourner le jour où l'on a cessé de lui demander son avis. Toute nouveauté lui paraît suspecte, toute joie un peu bruyante mérite une remontrance, et le bon vieux temps avait surtout cet avantage que personne ne peut venir vérifier ce qu'il en raconte. Le mot se lance sur un ton moqueur, parfois franchement peu charitable : on vise moins le grand âge que le caractère fermé, les idées qui sentent le renfermé et cette façon de recevoir son prochain comme s'il venait réclamer de l'argent. Un kroumir, ça regrette hier, ça condamne aujourd'hui et ça se méfie déjà de demain.
 
 ## Exemple
 

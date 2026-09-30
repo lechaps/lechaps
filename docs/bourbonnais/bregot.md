@@ -24,4 +24,4 @@ Et puis par un de ces glissements merveilleux dont le parler populaire a le secr
 
 ## Pour aller plus loin
 
-* [Définition angevine de « bergot » – Wiki-Anjou](https://www.wiki-anjou.fr/index.php/Bergot){ target="_blank" }
+* [Définition angevine de « bergot » - Wiki-Anjou](https://www.wiki-anjou.fr/index.php/Bergot){ target="_blank" }

@@ -10,7 +10,7 @@ La **luzerne**, c'est cette plante fourragère, cousine du trèfle mais autremen
 
 ## Souvenir
 
-Je me souviens de la luzerne fraîchement coupée, étendue dans le champ, avec cette odeur verte qui semblait rester accrochée aux vêtements longtemps après le retour. Enfant, j'essayais de former des andains à la fourche, persuadé d'aider, alors que je dérangeais surtout l'ouvrage et quelques insectes qui n'avaient rien demandé. Les anciens surveillaient le ciel, retournaient la récolte, parlaient de pluie avec la gravité de généraux préparant une bataille. Moi, je ne voyais qu'une mer d'herbe parfumée ; eux savaient déjà qu'elle nourrirait les bêtes lorsque les prés seraient devenus gris.
+Je me souviens de la luzerne fraîchement coupée, étendue dans le champ, avec cette odeur verte qui semblait rester accrochée aux vêtements longtemps après le retour. Enfant, j'essayais de former des andains à la fourche, persuadé d'aider, alors que je dérangeais surtout l'ouvrage et quelques insectes qui n'avaient rien demandé. Les anciens surveillaient le ciel, retournaient la récolte, parlaient de pleue avec la gravité de généraux préparant une bataille. Moi, je ne voyais qu'une mer d'herbe parfumée ; eux savaient déjà qu'elle nourrirait les bêtes lorsque les prés seraient devenus gris.
 
 ## Pour aller plus loin
 

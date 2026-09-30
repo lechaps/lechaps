@@ -7,7 +7,7 @@ Depuis un siècle, plusieurs chercheurs, ingénieurs et économistes ont tenté 
 Chacun à leur époque, ils ont posé une "loi" pour expliquer ce phénomène.
 Et ensemble, ces lois racontent une histoire : **celle du passage du public à la participation**.
 
-## 1. Sarnoff – L'ère de la diffusion
+## 1. Sarnoff - L'ère de la diffusion
 
 > **La valeur d'un réseau est proportionnelle à son nombre d'utilisateurs**.
 
@@ -16,21 +16,21 @@ Une radio, une télé ou un site d'actu tire sa valeur du nombre de gens qui l'�
 Mais ici, la communication est **à sens unique** : un émetteur, des millions de récepteurs.
 Sarnoff (le patron de RCA) a posé les bases du **modèle de masse**, celui du XXᵉ siècle.
 
-## 2. Metcalfe – L'ère des connexions
+## 2. Metcalfe - L'ère des connexions
 
 > **La valeur d'un réseau croît avec le carré du nombre de ses utilisateurs (N²)**.
 
 **Plus de monde = plus de liens** : Avec Internet, les utilisateurs peuvent désormais **interagir entre eux**.  
 Chaque nouvel utilisateur n'ajoute pas qu'une unité : il **multiplie les connexions possibles**. C'est la logique des téléphones, des emails, des réseaux sociaux :plus il y a de gens, plus chacun y trouve d'intérêt.
 
-## 3. Reed – L'ère des communautés
+## 3. Reed - L'ère des communautés
 
 > **La valeur d'un réseau croît de façon exponentielle (2ⁿ) avec le nombre de groupes qu'il permet de créer**.
 
 **Les connexions créent du lien ; les groupes, du sens** : David Reed pousse la logique encore plus loin : un réseau ne vaut pas seulement par ses connexions, mais par **les sous-groupes, les communautés, les tribus** qu'il rend possibles.  
 Un groupe de passionnés, une équipe projet, un fandom, une DAO (Decentralized Autonomous Organization)… Chaque regroupement ajoute **une nouvelle forme de valeur collective**.
 
-## 4. Beckstrom – L'ère de la valeur d'usage
+## 4. Beckstrom - L'ère de la valeur d'usage
 
 > **La valeur d'un réseau est la somme des bénéfices de toutes les transactions qu'il permet**.
 

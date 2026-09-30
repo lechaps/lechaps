@@ -57,4 +57,4 @@ Pour voir comment ces lois s'emboîtent - et comment elles racontent le passage 
 ### Références
 
 * [Rod Beckstrom, The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations, Penguin, 2006](https://books.google.fr/books?id=be_4LRyepS8C&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false){ target="_blank" }
-* [Wikipedia – Beckstrom's Law](https://en.wikipedia.org/wiki/Beckstrom%27s_law){ target="_blank" }
+* [Wikipedia - Beckstrom's Law](https://en.wikipedia.org/wiki/Beckstrom%27s_law){ target="_blank" }

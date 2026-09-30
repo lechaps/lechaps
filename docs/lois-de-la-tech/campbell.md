@@ -43,7 +43,7 @@ Ce qui devait aider à piloter finit par **remplacer la réalité**, au lieu de 
 
 ## D'où vient la loi de Campbell
 
-La loi porte le nom de **Donald T. Campbell** (1916–1996), psychologue et sociologue américain, spécialiste de la recherche expérimentale et de l'évaluation des politiques publiques.
+La loi porte le nom de **Donald T. Campbell** (1916-1996), psychologue et sociologue américain, spécialiste de la recherche expérimentale et de l'évaluation des politiques publiques.
 
 Il écrit cette loi en **1976**, dans son article fondateur *Assessing the Impact of Planned Social Change*. Campbell observait ce phénomène dans :
 
@@ -143,5 +143,5 @@ C'est cette articulation - entre perte de fiabilité et distorsion systémique -
 ### Références
 
 * [Donald T. Campbell, Assessing the Impact of Planned Social Change, The Public Affairs Center, Dartmouth College, 1976](https://journals.sfu.ca/jmde/index.php/jmde_1/article/view/297/292){ target="_blank" }
-* [Wikipedia – Campbell's Law](https://en.wikipedia.org/wiki/Campbell%27s_law){ target="_blank" }
-* [The Atlantic – "The Trouble with Metrics"](https://www.theatlantic.com/magazine/archive/2016/11/the-metrics-trap/501122/){ target="_blank" }
+* [Wikipedia - Campbell's Law](https://en.wikipedia.org/wiki/Campbell%27s_law){ target="_blank" }
+* [The Atlantic - "The Trouble with Metrics"](https://www.theatlantic.com/magazine/archive/2016/11/the-metrics-trap/501122/){ target="_blank" }

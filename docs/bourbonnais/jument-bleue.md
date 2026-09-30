@@ -1,6 +1,6 @@
 # Jument bleue
 
-La **jument bleue**, c'est la mobylette, la monture moderne des bourgs de campagne, avec moins de crottin mais davantage de fumée, moins de foin mais un sérieux penchant pour l'essence et les pannes au mauvais moment. On la met en route à coups de pédale, de jurons, de starter et puis elle file sur les petites routes avec son bruit de casserole courageuse, portant l'homme, le pain, les commissions et parfois la moitié du canton dans une sacoche fatiguée. Bleue, naturellement, parce que certaines couleurs finissent par devenir des souvenirs avant même que la peinture s'écaille.
+La **jument bleue**, c'est la mobylette, la monture moderne des bourgs de campagne, avec moins de crottin mais davantage de fumée, moins de foin mais un sérieux penchant pour l'essence et les pannes au mauvais moment. On la met en route à coups de pédale, de jurons, de starter et puis elle file sur les petites routes avec son bruit de quincaillerie prise de coliques, portant l'homme, le pain, les commissions et parfois la moitié du canton dans une sacoche fatiguée. Bleue, naturellement, parce que certaines couleurs finissent par devenir des souvenirs avant même que la peinture s'écaille.
 
 ## Exemple
 
