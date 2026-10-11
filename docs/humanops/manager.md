@@ -38,6 +38,8 @@ Une équipe performe mieux quand elle se sent en sécurité :
 
 Faire réellement confiance : Si vous confiez une responsabilité à quelqu'un, laissez-lui la liberté et l'autonomie nécessaires pour la mener à bien. Si vous passez votre temps à demander des comptes, à surveiller ou à remettre en question ses compétences sans lui retirer le dossier, c'est vous le problème. Le manque de confiance bloque l'efficacité et démotive.
 
+Cette idée rejoint l'approche de Jurgen Appelo avec Management 3.0 : le rôle du manager n'est pas de contrôler chaque personne, mais de créer un environnement où les équipes peuvent décider, coopérer et progresser. L'autonomie n'est pas une absence de cadre. C'est une capacité à agir à l'intérieur de responsabilités explicites.
+
 ## Lois et dynamiques associées
 
 Les textes suivants ne proposent pas des méthodes de management.  
@@ -55,6 +57,7 @@ Ils offrent des grilles de lecture pour comprendre pourquoi manager devient diff
 * [Les quatre lois des réseaux](network.md) Une clé de lecture sur la manière dont la valeur collective émerge des interactions, des communautés et de l'usage réel, plutôt que du contrôle ou de la taille.
 * [Une histoire complète du progrès… et de ses limites (Moore × Wirth × Claasen)](progres.md) Une clé de lecture sur le décalage entre accélération technologique, lourdeur des systèmes et lenteur de l'utilité perçue par les humains.
 * [Scaler sans se mentir : frein, horizon, coût (Amdahl × Gustafson × Gunther)](scaling.md) Une clé de lecture sur la différence entre optimiser, scaler, et le coût humain réel de la coordination quand les systèmes grandissent.
+* [Jurgen Appelo — Manager le système, pas les personnes](https://lechaps.com/reperes/jurgen-appelo/)
 
 Ces lois n'expliquent pas comment manager.  
 Elles expliquent pourquoi **manager est difficile** dans des systèmes sous tension.

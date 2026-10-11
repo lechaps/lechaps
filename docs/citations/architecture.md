@@ -30,6 +30,12 @@ Bill Watterson
 
 ---
 
+> La peur n'est pas une vision du monde
+
+Générale Kurt von Hammerstein-Equord
+
+---
+
 > Il vaut mieux penser le changement que changer le pansement
 
 Pierre Dac
@@ -57,3 +63,7 @@ Kevin Kelly
 Donella Meadows (citation attribuée)
 
 ---
+
+> Nous ne pouvons pas arrêter les vagues mais nous pouvons apprendre à surfer
+
+Joseph Goldstein

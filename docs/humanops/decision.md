@@ -126,6 +126,10 @@ Décider, c'est renoncer.
 Attendre, c'est résister à l'anxiété.  
 Dans les deux cas, il faut du courage.
 
+Hohpe et Falkland nous interrogent sur le bon moment pour décider. Appelo ajoute une autre dimension : qui doit réellement prendre la décision ? Avec Delegation Poker, il propose de rendre visible la distribution de l'autorité. Car une décision peut être prise au bon moment, mais au mauvais endroit dans l'organisation.
+
+[Jurgen Appelo — Manager le système, pas les personnes](https://lechaps.com/reperes/jurgen-appelo/)
+
 ## Quelques principes opérationnels
 
 * Nommer un **propriétaire de décision** - sinon elle n'existe pas.

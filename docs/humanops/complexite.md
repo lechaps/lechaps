@@ -135,6 +135,10 @@ C'est un système qui :
 * peut évoluer ensuite,
 * et assume pleinement le chemin parcouru.
 
+Cette lecture rejoint les travaux de Jurgen Appelo sur les systèmes complexes. Une organisation ne peut pas être conçue une fois pour toutes comme une machine dont on aurait anticipé chaque comportement. Elle doit pouvoir expérimenter, apprendre et adapter sa structure. Avec unFIX, Appelo prolonge cette logique en proposant des patterns de conception organisationnelle.
+
+[Jurgen Appelo — Manager le système, pas les personnes](https://lechaps.com/reperes/jurgen-appelo/)
+
 ### Conclusion
 
 > **Gall nous apprend à commencer simple.

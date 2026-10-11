@@ -5,3 +5,7 @@
 Alphonse Allais
 
 ---
+
+> It is difficult to get a man to understand something when his salary depends upon his not understanding it
+
+Upton Sinclair

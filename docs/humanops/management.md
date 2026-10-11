@@ -86,6 +86,10 @@ Ils révèlent que :
 Le problème n'est pas que les managers soient mauvais.
 Le problème est que **les organisations produisent mécaniquement des managers mal préparés, mal choisis ou mal placés**.
 
+Peter et Dilbert nous montrent comment une organisation peut produire ses propres dysfonctionnements managériaux. Jurgen Appelo permet de prolonger la réflexion : si le problème vient aussi de la structure, la réponse ne consiste pas seulement à trouver de meilleurs managers, mais à repenser la manière dont les responsabilités, les décisions et les interactions sont organisées.
+
+[Jurgen Appelo — Manager le système, pas les personnes](https://lechaps.com/reperes/jurgen-appelo/)
+
 ## La leçon finale
 
 Peter et Dilbert convergent vers une même vérité :
