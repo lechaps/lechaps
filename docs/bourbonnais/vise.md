@@ -1,14 +1,14 @@
-# Osier
+# Vise
 
-L'**osier**, c'est le saule qui se plie en quatre pour vous éviter de porter les patates dans votre casquette ; un bois souple, un bois serviable, un brave bougre de bois auquel on confie de lourdes charges sans même lui payer l'apéritif. On récolte ses longues pousses en hiver, quand les feuilles ont quitté la scène et que la campagne, en petite tenue sous le brouillard, attend des jours meilleurs ; puis un vannier s'en empare et entreprend, avec ses dix doigts pour tout état-major, de faire tenir debout ce fagot qui n'avait pourtant demandé aucun avancement. Ça se croise, ça se courbe, ça se serre : voici les murailles, voici les remparts, voici l'anse et tout ce déploiement d'ingéniosité finit au marché, avec six poireaux qui dépassent. Versailles avait ses grandes eaux ; nous, on avait de quoi rapporter les patates. Chacun son faste.
+La **vise** est tout simplement **l'osier**. Voilà qui ne semble pas couler de source, mais qui tombe en plein dans le mille. C'est le saule qui se plie en quatre pour vous éviter de porter les patates dans votre casquette ; un bois souple, un bois serviable, un brave bougre de bois auquel on confie de lourdes charges. Il aurait de quoi être vanné, mais il reste de la vannerie. On récolte ses longues pousses en hiver, quand les feuilles ont quitté la scène et que la campagne, en petite tenue sous le brouillard, attend des jours meilleurs ; puis un vannier s'en empare et entreprend, avec ses dix doigts pour tout état-major, de faire tenir debout ce fagot qui n'avait pourtant demandé aucun avancement. Ça se croise, ça se courbe, ça se serre : voici les murailles, voici les remparts, voici l'anse et tout ce déploiement d'ingéniosité finit au marché, avec six poireaux qui dépassent. Versailles avait ses grandes eaux ; nous, on avait de quoi rapporter les patates. Chacun son faste.
 
 Avec son écorce, c'est l'osier brut, en habit de campagne ; dépouillé de sa peau, c'est l'osier blanc, le même passé en chemise pour recevoir la visite. Une fois séché, il faut le faire tremper pour lui rendre sa souplesse, car on aura beau lui exposer les besoins du foyer, la beauté du geste et l'urgence des commissions, ce petit salaud cassera si l'on prétend brusquer les choses. Alors on attend, on prépare, on tresse ; sous les doigts, les brins humides prennent leur courbe, le panier prend du ventre, et l'on se surprend à trouver de la majesté dans un ouvrage destiné à recevoir des pommes de terre encore crottées. Il reste pourtant quelque chose de ces heures-là, une douceur de bois poli par les mains, et le temps qu'on savait lui donner.
 
 ## Exemple
 
-*Fait attention à ce qu't'fais dans l'écurie, y'a les paniers qui n'sont pas encore fini.*
+*Fait attention à ce qu't'fais dans l'écurie, y'a les vises qui trempent en attendant de finir les paniers.*
 
-> « Veuillez mesurer vos gestes dans cette remise : plusieurs paniers y attendent encore leur achèvement, et il serait fâcheux que vos manœuvres de pachyderme juvénile réduisent trois heures de patience à un fagot de petit bois. »
+> « Veuillez mesurer vos gestes dans cette écurie : les brins d'osier y prennent leur bain en attendant que l'on achève les paniers, et il serait fâcheux que vos manœuvres de pachyderme juvénile transforment cette paisible préparation en naufrage de vannerie. »
 
 ## Souvenir
 
@@ -18,6 +18,8 @@ Il avait appris ce savoir-faire d'un Alsacien qui s'était réfugié dans la ré
 
 ## Pour aller plus loin
 
+* [« Vise » : osier utilisé en vannerie — Dictionnaire bourbonnais du parler de Diou](https://projetbabel.org/diou/uvyz.htm){ target="_blank" }
+* [« Vise » au sens de van en osier en Bourbonnais — Folklore paysan, mai 1938 (PDF)](https://bibliotheque.idbe.bzh/data/cle_265/folklore_paysan_1938_05.pdf){ target="_blank" }
 * [L'osier : matériau, culture et préparation — Wikipédia](https://fr.wikipedia.org/wiki/Osier_(mat%C3%A9riau)){ target="_blank" }
 * [Définition et étymologie du mot « osier » — CNRTL](https://www.cnrtl.fr/definition/osier){ target="_blank" }
 * [Culture de l'osier et métier de vannier — Coopérative de vannerie de Villaines-les-Rochers](https://www.vannerie.com/){ target="_blank" }
