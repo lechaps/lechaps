@@ -2,7 +2,7 @@
 
 **A y t'là**, c'est le petit drapeau planté au sommet des efforts ordinaires. Le cri discret des gens qui viennent enfin d'y arriver après avoir bataillé avec une machine récalcitrante, une marche arrière en biais, une serrure grippée ou une journée entière à courir derrière le temps comme un chien derrière une mobylette. Ça veut dire : *ça y est*, bien sûr. Mais pas seulement. Il y a dedans du soulagement, une fatigue qui redescend, et cette fierté pudique où l'on célèbre les victoires sans jamais faire de discours.
 
-## L'exemple
+## Exemple
 
 *A y t'là, on est pas mal.*
 

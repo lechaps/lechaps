@@ -2,7 +2,7 @@
 
 S'**accatoufler**, c'est se laisser tomber d'un coup, sans grâce et sans précaution. On s'accatoufle sur une chaise, au bord du lit ou même par terre, quand les jambes suivent plus ou quand on n'a simplement plus envie de faire semblant de tenir droit. Le mot est lourd, presque sonore. On entend dedans le choc du corps qui tombe et le vieux fauteuil qui gémit.
 
-## L'exemple
+## Exemple
 
 *J'me suis accatoufler là, comme une merde.*
 

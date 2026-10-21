@@ -2,7 +2,7 @@
 
 Se sentir mal, faible, couver une maladie, bref cet état de fragilité où le corps n'en peut plus. Fatigue profonde, lassitude généralisée, épuisement qui donne envie de retourner au lit. Un mot qui capture ce moment où on n'est pas vraiment malade, mais vraiment pas bien non plus.
 
-## L'exemple
+## Exemple
 
 *Oh là là, ce matin y'a pas moyen. Je suis carrément acabouéler.*
 
