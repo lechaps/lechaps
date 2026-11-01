@@ -10,7 +10,7 @@ Y'adober, ça ne se dit presque jamais sans ce petit *y* devant, planté là com
 
 ## On dit aussi
 
-Accommoder, raccommoder, réparer, arranger, ajuster.
+Accommoder, raccommoder, réparer, arranger, ajuster
 
 ## Souvenir
 

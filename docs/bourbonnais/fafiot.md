@@ -6,7 +6,7 @@
 
 *T'vois bien qu't'es complètement fafiot ?*
 
-> « Vous voez bien vous-même que votre entendement semble avoir pris, depuis quelque temps, des libertés considérables avec les exigences élémentaires de la raison. »
+> « Vous voyez bien vous-même que votre entendement semble avoir pris, depuis quelque temps, des libertés considérables avec les exigences élémentaires de la raison. »
 
 ## On dit aussi
 

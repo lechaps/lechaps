@@ -4,7 +4,7 @@ Une **mournifle**, c'est une gifle, une claque administrée sur la figure avec l
 
 ## Exemple
 
-*Continue don', t'vas voir si t'vas pas prendre mournifle !*
+*Continue don', t'vas voir si t'vas pas prendre une mournifle !*
 
 > « Je vous invite à poursuivre, si tel est votre désir ; vous pourriez alors découvrir, de manière aussi soudaine que pédagogique, les conséquences physiques de l'application énergique d'une main ouverte sur la partie la plus visible de votre personne. »
 

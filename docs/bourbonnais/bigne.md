@@ -20,8 +20,8 @@ Et puis la bigne, c'est aussi le hanneton. Cette espèce de gros imbécile volan
 
 ## On dit aussi
 
-1. Gifle, claque.
-2. Hanneton, maladroit, étourdi.
+1. Gifle, claque
+2. Hanneton, maladroit, étourdi
 
 ## Pour aller plus loin
 

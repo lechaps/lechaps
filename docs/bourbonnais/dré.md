@@ -4,9 +4,9 @@
 
 ## Exemple
 
-*À Cindré, les gens n'sont dré.*
+*Tu te méfieras, ton mur il est pas dré.*
 
-> « Il semblerait que les habitants de cette estimable commune entretiennent avec la rectitude, tant physique que morale ou topographique, des rapports d'une fantaisie suffisamment notable pour mériter transmission orale. »
+> « Je vous invite à la prudence : votre mur prend avec la verticale des libertés que la pesanteur, d'un naturel assez peu conciliant, pourrait bientôt lui faire regretter. »
 
 ## On dit aussi
 

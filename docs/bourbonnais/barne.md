@@ -4,6 +4,7 @@ Terme utilisé pour désigner une barrique ou un tonneau, généralement employ�
 
 Les tailles connues :
 
+* un baril (ou barricot) : 5L
 * une barne : 50L
 * un quart : 100L
 * la pièce : 250L
@@ -17,4 +18,4 @@ Les tailles connues :
 
 ## On dit aussi
 
-Barrique, tonneau, fût, quart, pièce
+Barrique, tonneau

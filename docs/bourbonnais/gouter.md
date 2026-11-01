@@ -4,7 +4,7 @@ Le **goûter**, ce n'était pas la tartine de quatre heures avec son carré de c
 
 ## Exemple
 
-*Viens donc goûter, la soupe va refroidir.*
+*Viens donc goûter, la soupe va refr'dir.*
 
 > « Auriez-vous l'obligeance de venir enfin vous présenter à la table familiale, où vous attend le repas de la mi-journée, dont la température décline aussi dangereusement que la patience de la cuisinière. »
 

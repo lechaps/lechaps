@@ -4,7 +4,7 @@ Le **garganat**, c'est tout l'appareil digestif, la grande tuyauterie intérieur
 
 ## Exemple
 
-*Ah, s'te gnôle me décalamine le garganat !*
+*Ah, c'te gnôle me décalamine le garganat !*
 
 > « Cette eau-de-vie d'une vigueur industrielle semble procéder au nettoyage intégral de mon système digestif, avec une efficacité que l'on rencontre ordinairement dans l'entretien des chaudières collectives. »
 

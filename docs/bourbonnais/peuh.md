@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Mais non, pas du tout.
+Mais non, pas du tout
 
 ## Pour aller plus loin
 

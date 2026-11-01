@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Passable, convenable, moyen, pas si mal, correct.
+Passable, convenable, moyen, pas si mal, correct
 
 ## Pour aller plus loin
 

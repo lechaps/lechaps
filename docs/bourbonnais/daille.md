@@ -14,7 +14,7 @@ Faux
 
 ## Souvenir
 
-Je me souviens de la daille comme d'un outil qu'on ne touchait pas sans avoir d'abord compris qu'on n'était pas là pour faire le zouave. Elle reposait parfois contre un mur, longue, maigre, silencieuse, avec cette élégance dangereuse des choses qui ont beaucoup travaillé et n'ont jamais réclamé de médaille. Les anciens la prenaient d'un geste simple, presque doux, puis venaient ces mouvements réguliers dans l'herbe, ce balancement du corps, cette respiration du champ qu'on ne commande pas : on l'accompagne. Et quand la pierre passait sur le fil, dans un petit bruit clair, on aurait dit que toute la campagne retenait son souffle avant de reprendre sa coupe.
+Je me souviens de la daille comme d'un outil qu'on ne touchait pas sans avoir d'abord compris qu'on n'était pas là pour faire le zouave. Elle reposait parfois contre un mur, longue, maigre, silencieuse, avec cette élégance dangereuse des choses qui ont beaucoup travaillé et n'ont jamais réclamé de médaille. Les anciens la prenaient d'un geste simple, presque doux, puis venaient ces mouvements réguliers dans l'herbe, ce balancement du corps, cette respiration du champ qu'on ne commande pas : on l'accompagne. Et quand la pierre passait sur le fil, dans un petit bruit clair, on aurait dit que toute la campagne retenait son souffle avant de reprendre la coupe.
 
 ## Pour aller plus loin
 

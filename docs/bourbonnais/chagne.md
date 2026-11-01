@@ -2,7 +2,7 @@
 
 Le **chagne**, c'est le chêne , le vrai, le solide, celui qui prend son temps, qui pousse pour durer et qui regarde passer les générations avec l'air de quelqu'un qui a déjà vu pire. Il donne de l'ombre, du bois, des feuilles coriaces, et bien sûr des glands, lesquels ont réussi l'exploit botanique d'être à la fois parfaitement honorables dans la forêt et nettement plus délicats à employer dans une conversation de famille.
 
-Parce qu'un **chagne** sans glands, ça ferait tout de même désordre. À l'automne, ils tombent partout, roulent sous les semelles, nourrissent les cochons et fournissent aux enfants un matériel inépuisable pour fabriquer des bonshommes, des sifflets ou des projectiles dont l'usage n'a jamais été officiellement homologué. Et lorsqu'un ancien disait : « Y a des glands sous le chagne », il parlait évidemment des fruits. Évidemment. Enfin, la plupart du temps.
+Parce qu'un **chagne** sans glands, ça ferait tout de même désordre. À l'automne, ils tombent partout, roulent sous les semelles, nourrissent les cochons et fournissent aux enfants un matériel inépuisable pour fabriquer des bonshommes, des sifflets ou des projectiles dont l'usage n'a jamais été officiellement homologué. Et lorsqu'un ancien disait : « Y a des glands sous le chagne », il parlait évidemment des fruits. Enfin, la plupart du temps.
 
 Le **chagne**, c'est donc un arbre respectable qui a eu la malchance lexicale de produire quelque chose dont le nom fait rire depuis plusieurs siècles. Lui n'y est pour rien : il continue de pousser droit, massif, impassible, comme tous ceux qui ont compris qu'il valait mieux laisser les glands tomber tout seuls.
 

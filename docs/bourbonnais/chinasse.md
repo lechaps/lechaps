@@ -10,4 +10,4 @@ La **chinasse**, c'est la chienne des cours de ferme et des maisons où la porte
 
 ## On dit aussi
 
-Chienne, cabote, cabot, chien de ferme
+Chienne, chien de ferme

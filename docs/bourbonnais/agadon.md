@@ -4,13 +4,13 @@
 
 ## Exemple
 
-*Agadon, comment il s'est accatouflé.*
+*Agadon comme il s'est accatouflé.*
 
 > « Observe donc avec attention la chute des plus spectaculaires de notre ami. »
 
 ## On dit aussi
 
-Regarde donc, observe.
+Regarde donc, observe
 
 ## Le souvenir
 

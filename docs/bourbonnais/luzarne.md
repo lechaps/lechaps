@@ -1,10 +1,10 @@
-# Luzerne
+# Luzarne
 
-La **luzerne**, c'est cette plante fourragère, cousine du trèfle mais autrement plus sérieuse dans son métier, qu'on cultive pour nourrir les bêtes lorsque les prés ne donnent plus assez. On la coupe, on la fait sécher, on la rentre avec son odeur verte et forte, tout un été mis en réserve pour les vaches, les chevaux, les lapins et les longues mâchoires de l'hiver. Riche, généreuse, profondément enracinée, elle travaille sans bruit : elle nourrit le bétail et participe à enrichir la terre, ce qui est déjà beaucoup pour une plante dont les seuls fervents admirateurs finissent par en dire du bien la bouche pleine.
+La **luzarne**, c'est la luzerne, cette plante fourragère cousine du trèfle mais autrement plus sérieuse dans son métier, qu'on cultive pour nourrir les bêtes lorsque les prés ne donnent plus assez. On la coupe, on la fait sécher, on la rentre avec son odeur verte et forte, tout un été mis en réserve pour les vaches, les chevaux, les lapins et les longues mâchoires de l'hiver. Riche, généreuse, profondément enracinée, elle travaille sans bruit : elle nourrit le bétail et participe à enrichir la terre, ce qui est déjà beaucoup pour une plante dont les seuls fervents admirateurs finissent par en dire du bien la bouche pleine.
 
 ## Exemple
 
-*C'est temps de couper la luzerne pour les bêtes.*
+*C'est temps de couper la luzarne pour les bêtes.*
 
 > « L'heure est venue de procéder à la récolte de cette noble légumineuse, afin que notre cheptel puisse traverser les rigueurs futures dans un état de satiété compatible avec la prospérité de la ferme. »
 

@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Filer, foncer, cavaler, aller bon train.
+Filer, foncer, cavaler, aller bon train
 
 ## Pour aller plus loin
 

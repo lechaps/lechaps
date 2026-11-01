@@ -1,11 +1,10 @@
 # Chabrot
 
-Le **chabrot**, c'est la politesse ultime faite à la soupe.
-Pas une recette. Pas une technique de sommelier avec tablier noir et nez qui frétille comme un lapin sous cocaïne œnologique. Non. Un geste. Une manière de dire au bouillon : *« mon vieux, on va pas se quitter comme ça ».*
+Le **chabrot**, c'est la politesse ultime faite à la soupe. Pas une recette, encore moins une de ces cérémonies œnologiques où un monsieur en noir interroge son verre avec la gravité d'un juge d'instruction devant une bouteille suspecte. Non. Un geste. Une dernière marque d'égard. Une manière de dire au bouillon : « Mon vieux, on va pas se quitter comme ça ! »
 
-Quand il reste au fond de l'assiette un peu de soupe grasse, deux haricots qui naviguent encore comme des péniches fatiguées et trois gouttes de bonheur au lard, on verse un trait de rouge. Un vrai. Pas un vin de magazine. Un vin qui tâche les nappes et rend philosophe les gens qui n'ont jamais lu Spinoza. Puis on boit le tout à même l'assiette. Avec bruit parfois. Avec dignité toujours.
+Tout commence au fond de l'assiette, avec une bonne soupe grasse, de celle qui a de gros yeux. Pas ceux qu'on vous fait quand vous dites des conneries, non, ceux du lard qui, après avoir disparu corps et biens, laisse encore à la surface de quoi surveiller les convives. Deux haricots naviguent là-dedans comme des péniches fatiguées, derniers rescapés d'un naufrage culinaire dont personne, rassurez-vous, ne songe à réclamer les indemnités. On pose alors la cuillère à l'envers, puis on verse du rouge jusqu'à en effleurer le dos. Un trait de vin. Un vrai. Pas un vin de magazine, de ceux qui vous racontent leur enfance en fût de chêne avant de consentir à descendre dans le gosier. Du rouge franc du collier, qui tache les nappes, délie les langues et rend philosophes des gens qui n'ont jamais ouvert Spinoza, ce qui ne les empêche nullement d'avoir des opinions définitives sur la marche du monde. Alors on prend l'assiette à deux mains, on l'incline et l'on boit ce dernier traité d'alliance entre la soupe et le vin, avec le sérieux d'un évêque à l'élévation et la discrétion d'une baignoire qu'on vide. Avec du bruit, parfois. Avec dignité, toujours.
 
-Le chabrot, ça sent les cuisines rustiques, les coudes sur la toile cirée, les silences de fin de repas et les vieux qui disaient peu de choses mais les disaient comme on plante un clou : définitivement.
+Puis l'assiette retrouve la toile cirée, avec ce petit bruit sec de faïence qui marque la fin des grandes cérémonies. Le chabrot appartient à ces cuisines où l'on ne fait pas de discours sur l'art de vivre, occupé qu'on est à le pratiquer, entre deux plaisanteries et trois coups de rouge. Il y a là des voix, des gestes, des silences aussi, de ceux qui viennent quand on n'a plus rien à ajouter et qu'on est bien ensemble.
 
 ## Exemple  
 
@@ -15,7 +14,7 @@ Le chabrot, ça sent les cuisines rustiques, les coudes sur la toile cirée, les
 
 ## On dit aussi
 
-Chabrol, faire chabrot, chabroler, godaille, goudale
+Chabrol, faire chabrot, chabroler
 
 ## Pour aller plus loin
 

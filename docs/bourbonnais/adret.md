@@ -14,7 +14,7 @@
 
 ## On dit aussi
 
-Adroit, habile, agile, précis.
+Adroit, habile, agile, précis, avoir des mains en or
 
 ## Le souvenir
 

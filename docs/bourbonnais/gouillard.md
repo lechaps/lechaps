@@ -10,7 +10,7 @@ Le **gouillard**, c'est une faucille, un croissant de fer emmanché, l'outil qu'
 
 ## On dit aussi
 
-Faucille, croissant, serpe
+Faucille, croissant, serpette, [voulant](./voulant.md)
 
 ## Pour aller plus loin
 

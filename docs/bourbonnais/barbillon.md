@@ -10,7 +10,7 @@ Petit poisson d'eau douce, commun dans les rivières et les étangs. Le nom dés
 
 ## On dit aussi
 
-Barbeau, tanche.
+Barbeau, tanche
 
 ## Pour aller plus loin
 

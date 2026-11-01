@@ -20,5 +20,5 @@ Et puis le bisiau, c'est aussi ce vent froid qui vous traverse les vêtements co
 
 ## On dit aussi
 
-1. Bourgeois, notable, parvenu.
-2. Vent glacial, bise.
+1. Bourgeois, notable, parvenu
+2. Vent glacial, bise

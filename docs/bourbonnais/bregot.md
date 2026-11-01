@@ -19,8 +19,8 @@ Et puis par un de ces glissements merveilleux dont le parler populaire a le secr
 
 ## On dit aussi
 
-1. Frelon.
-2. Apiculteur.
+1. Frelon
+2. Apiculteur
 
 ## Pour aller plus loin
 

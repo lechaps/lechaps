@@ -1,13 +1,13 @@
 # Imbranlable
 
-Être **imbranlable**, c'est être incapable, bon à rien sur le moment, sans ressort, sans allant, comme si les bras, la tête et la volonté avaient décidé de prendre congé le même jour. L'imbranlable n'est pas forcément idiot ni paresseux de naissance ; il peut simplement traverser une mauvaise passe où tout lui tombe des mains, où chaque besogne devient une expédition et chaque décision un sommet de l'Himalaya en sabots. Le mot condamne un peu, bien sûr, mais avec cette indulgence bourrue de la campagne : aujourd'hui il ne vaut pas tripette, demain il se reprendra peut-être (faut juste laisser le moteur refroidir).
+Être **imbranlable**, c'est être tellement saoul qu'on n'est plus capable de travailler. Le vin a pris toute la place, et le peu de bonne volonté qui reste ne sait plus retrouver les outils. Les bras sont là, les jambes aussi, mais chacun semble avoir reçu des instructions différentes. On était venu donner un coup de main ; on finit assis sur une marche, à expliquer comment il faudrait s'y prendre à ceux qui font la besogne. L'imbranlable peut encore avoir des idées, surtout sur le travail des autres, mais pour tenir une fourche, pousser une brouette ou simplement se lever sans négocier avec le mur, il faudra repasser. Le constat tombe alors, sec et sans appel : « Laisse-le donc, il est imbranlable. » Et la brouette attendra quelqu'un dont les deux jambes sont d'accord sur la direction.
 
 ## Exemple
 
-*Ah, l'Jean-Marie, il est imbranlable en ce moment.*
+*Compte pas sur l'Jean-Marie pour rentrer le bois, avec le gueleton d'midi, il est complètement imbranlable.*
 
-> « Notre estimable compagnon traverse actuellement une période d'inefficacité si remarquable que la moindre entreprise semble excéder conjointement ses forces, son jugement et les capacités générales de l'espèce humaine. »
+> « Il serait imprudent d'inclure Jean-Marie dans nos prévisions de manutention : sa consommation de boissons fermentées lui permet tout juste d'assurer son propre équilibre, avec un concours appréciable de la maçonnerie environnante. »
 
 ## On dit aussi
 
-Incapable, bon à rien, empoté, empêtré, sans ressort
+Complètement saoul, ivre mort, soûl comme une bourrique, incapable de travailler tant on a bu

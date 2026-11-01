@@ -6,7 +6,7 @@ Le **grenouillat**, c'est une petite étendue d'eau, une mare, une flaque assez 
 
 *Va pas patauger dans l'grenouillat, tu vas encore rentrer crotté jusqu'aux oreilles.*
 
-> « Je vous déconseille vivement dexplorer cette modeste dépression aquatique, sous peine de regagner le foyer dans un état de souillure tel quil faudrait envisager votre décrassage comme une opération de salubrité à part entière. »
+> « Je vous déconseille vivement d'explorer cette modeste dépression aquatique, sous peine de regagner le foyer dans un état de souillure tel qu'il faudrait envisager votre décrassage comme une opération de salubrité à part entière. »
 
 ## On dit aussi
 

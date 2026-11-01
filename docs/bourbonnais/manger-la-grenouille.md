@@ -10,7 +10,7 @@
 
 ## On dit aussi
 
-Mettre la clé sous la porte, vider la caisse, faire faillite, boire le fonds, dilapider le magot
+Mettre la clé sous la porte, vider la caisse, faire faillite, boire le bouillon, dilapider le magot
 
 ## Pour aller plus loin
 

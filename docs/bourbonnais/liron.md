@@ -4,7 +4,7 @@ Le **liron**, c'est le gros rat, celui des granges, des étables et des f'neaux,
 
 ## Exemple
 
-*Le liron fuit l'marreau dans l'fneau.*
+*Le liron fuit l'maro dans l'fneau.*
 
 > « Un rongeur de belle constitution vient d'entreprendre une retraite précipitée à travers le fenil, poursuivi par le chat de la maison, représentant officiel de l'ordre public parmi les bottes de foin. »
 

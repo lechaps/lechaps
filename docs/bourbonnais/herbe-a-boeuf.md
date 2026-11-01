@@ -4,9 +4,9 @@ L'**herbe à bœuf**, c'est le trèfle dans le jeu de cartes, cette couleur noir
 
 ## Exemple
 
-*J'avais le matou, le neuf et la manillon, j'étais obligé d'y aller à herbe à bœuf !*
+*J'avais le matou, le neuf et l'manillon, j'étais obligé d'y aller à herbe à bœuf !*
 
-> « Disposant du valet, du neuf et de la dame dans la couleur des trèfles, je ne pouvais raisonnablement me soustraire à la prise d'atout sans trahir à la fois les règles de la belote, l'honneur familial et plusieurs générations de stratèges. »
+> « Disposant du valet, du neuf et de l'as dans la couleur des trèfles, je ne pouvais raisonnablement me soustraire à la prise d'atout sans trahir à la fois les règles de la belote, l'honneur familial et plusieurs générations de stratèges. »
 
 ## On dit aussi
 

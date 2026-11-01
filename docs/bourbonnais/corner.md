@@ -15,7 +15,7 @@ Klaxonner, donner un coup de klaxon, sonner, avertir
 
 ## Souvenir
 
-Je me souviens de ces coups de klaxon dans les cours de ferme, jamais très longs, jamais très polis, mais reconnus de tous comme une signature. On savait qui arrivait rien qu'à la manière de **corner** : deux petits coups pressés pour un voisin, un grand beuglement pour l'impatient, trois notes ridicules pour celui qui se croyait drôle et l'était parfois, par accident. Les chiens répondaient avant les humains, les poules s'écartaient avec l'indignation des vieilles dames, et quelqu'un finissait par sortir, en tablier, en bottes ou en mauvaise humeur. Ce n'était pas seulement du bruit : c'était une façon d'entrer dans la maison sans descendre encore de voiture.
+Je me souviens de ces coups de klaxon dans les cours de ferme, jamais très longs, jamais très polis, mais reconnus de tous comme une signature. On savait qui arrivait rien qu'à la manière de **corner** : deux petits coups pressés pour un voisin, un grand beuglement pour l'impatient, trois notes ridicules pour celui qui se croyait drôle et l'était parfois, par accident. Les chiens répondaient avant les humains, les poules s'écartaient avec l'indignation des vieilles dames, et quelqu'un finissait par sortir, en tablier, en bottes ou en mauvaise humeur. Ce n'était pas seulement du bruit : c'était une façon d'entrer dans la maison sans descendre encore de voiture, comme le pilleraud pouvait le faire.
 
 ## Pour aller plus loin
 
