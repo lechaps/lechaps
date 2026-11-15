@@ -14,7 +14,7 @@
 
 ## Souvenir
 
-J'entendais cette expression au moment des récoltes, quand les paniers de pommes s'alignaient dans la remise et qu'on ne savait déjà plus où poser les suivants. Mon grand-père regardait tout ça, puis disait : « Ah ben c't'année, y'en a à t'nant la bise », avec la satisfaction grave d'un ministre annonçant l'excédent national. Ça sentait le fruit mûr et la paile. Après, il fallait tout rentrer, et l'abondance, comme toujours, devenait surtout une affaire de reins.
+J'entendais cette expression au moment des récoltes, quand les paniers de pommes s'alignaient dans la remise et qu'on ne savait déjà plus où poser les suivants. Mon grand-père regardait tout ça, puis disait : « Ah ben c't'année, y'en a à t'nant la bise », avec la satisfaction grave d'un ministre annonçant l'excédent national. Ça sentait le fruit mûr et la paille. Après, il fallait tout rentrer, et l'abondance, comme toujours, devenait surtout une affaire de reins.
 
 ## Pour aller plus loin
 

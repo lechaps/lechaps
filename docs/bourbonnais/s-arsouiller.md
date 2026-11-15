@@ -1,6 +1,6 @@
 # S'arsouiller
 
-**S'arsouiller**, c'est boire plus que de raison, à coups de rouge, de gnaule et de tournées généreuses. On commence par un verre pour trinquer, on poursuit pour tenir compagnie, et l'on finit par tenir surtout au bord de la table.
+**S'arsouiller**, c'est boire plus que de raison, à coups de rouge, de gnôle et de tournées généreuses. On commence par un verre pour trinquer, on poursuit pour tenir compagnie, et l'on finit par tenir surtout au bord de la table.
 
 Le mot a quelque chose de joyeux et de peu glorieux à la fois : la langue se délie, les histoires s'allongent, et les jambes deviennent moins sûres à mesure que les opinions se raffermissent. L'arsouillé a encore beaucoup de choses à expliquer, mais déjà quelques difficultés à retrouver sa veste.
 
@@ -8,7 +8,7 @@ Le mot a quelque chose de joyeux et de peu glorieux à la fois : la langue se d�
 
 ## Exemple
 
-*Hier, il s'est arsouillé au bal, pis en rentrant sous la pleue il s'est rasouiller en rentrant.*
+*Hier, il s'est arsouillé au bal, pis en rentrant sous la pleue il s'est rasouiller.*
 
 > « Notre homme s'étant d'abord consciencieusement saturé l'intérieur de boissons fermentées au cours des réjouissances, il a trouvé moyen, sur le chemin du retour, de confier aux intempéries le soin d'assurer une imprégnation tout aussi complète de l'extérieur »
 

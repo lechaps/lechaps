@@ -4,10 +4,10 @@
 
 ## Exemple
 
-*Avec toute c'te patouille, ça piasse.*
+*Avec toute c'te patouille, ça piasse dans la borbe.*
 
 > « En raison de cette abondante boue, la terre adhère à nos chaussures avec une telle ferveur qu'elle semble résolue à nous accompagner jusque dans la cuisine, sur le tapis et probablement jusqu'au prochain lavage du sol. »
 
 ## On dit aussi
 
-Coller aux chaussures, s'empâter, s'engluer
+Coller aux chaussures, s'empâter, s'engluer, [patouiller](./patouille.md)

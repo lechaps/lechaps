@@ -1,6 +1,6 @@
 # Se dresser
 
-**Se dresser**, c'est prendre de grands airs, redresser le menton, bomber le torse et regarder le voisinage depuis une hauteur que la naissance, la fortune ou la simple réalité ne justifient pas toujours. Le geste est d'abord physique : on se tient plus droit, on se rengorge, on gagne soudain trois centimètres d'importance. Mais l'orgueil suit aussitôt, installé sur les épaules comme un coq sur son tas de fumier. Il suffit parfois d'une carriole neuve, d'un petit avancement ou d'un veston du dimanche pour que l'homme se dresse au-dessus du commun ; la vanité, cette plante robuste, pousse avec fort peu d'engrais.
+**Se dresser**, où plutot se **dersser** comme le veut la règle « *er* inverser» du bourbonnais, c'est prendre de grands airs, redresser le menton, bomber le torse et regarder le voisinage depuis une hauteur que la naissance, la fortune ou la simple réalité ne justifient pas toujours. Le geste est d'abord physique : on se tient plus droit, on se rengorge, on gagne soudain trois centimètres d'importance. Mais l'orgueil suit aussitôt, installé sur les épaules comme un coq sur son tas de fumier. Il suffit parfois d'une carriole neuve, d'un petit avancement ou d'un veston du dimanche pour que l'homme se dresse au-dessus du commun ; la vanité, cette plante robuste, pousse avec fort peu d'engrais.
 
 ## Exemple
 

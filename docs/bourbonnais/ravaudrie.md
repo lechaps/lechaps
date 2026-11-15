@@ -10,7 +10,7 @@ Une **ravauderie**, c'est quelque chose qu'on a raccommodé grossièrement, rapi
 
 ## On dit aussi
 
-Ravaudage, rafistolage, rapiéçage, bricole
+Ravaudage, rafistolage, rapiéçage, bricole, oripeaux
 
 ## Pour aller plus loin
 

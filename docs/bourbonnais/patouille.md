@@ -10,7 +10,7 @@ La **patouille**, c'est la gadoue, la boue molle, grasse et collante qui s'attac
 
 ## On dit aussi
 
-Gadoue, boue, bourbier, margouillis
+Gadoue, boue, bourbier, margouillis, borbe
 
 ## Pour aller plus loin
 

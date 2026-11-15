@@ -6,7 +6,7 @@ Le **patron**, c'est celui qui tient l'exploitation agricole, qui décide des tr
 
 *Ah ben, si tu veux, on passera dimanche, mais attends, j'en parle d'abord à la patronne.*
 
-> « Votre visite dominicale paraît tout à fait envisageable ; je dois néanmoins soumettre préalablement ce projet à l'autorité domestique compétente, dont l'assentiment conditionne, en pratique, l'ensemble de mes décisions prétendument souveraines. »
+> « Notre visite dominicale paraît tout à fait envisageable ; je dois néanmoins soumettre préalablement ce projet à l'autorité domestique compétente, dont l'assentiment conditionne, en pratique, l'ensemble de mes décisions prétendument souveraines. »
 
 ## On dit aussi
 

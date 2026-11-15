@@ -12,7 +12,7 @@ Le **voulant**, c'est une faucille, une serpette à manche court, l'outil qu'on 
 
 ## On dit aussi
 
-Faucille, serpette, [gouillard](./gouillard.md) pour l'outil apparenté à manche long
+Faucille, serpette, [gouillard](./gouillard.md) pour l'outil apparenté à manche long, [gouillette](./gouillette.md)
 
 ## Pour aller plus loin
 

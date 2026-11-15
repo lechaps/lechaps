@@ -10,7 +10,7 @@ Un **rapiat**, c'est un radin, un de ces particuliers qui ouvrent leur porte-mon
 
 ## On dit aussi
 
-Radin, pingre, grippe-sou, avare
+Radin, pingre, grippe-sou, avare, rat
 
 ## Pour aller plus loin
 

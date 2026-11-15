@@ -1,10 +1,10 @@
 # S'entraver
 
-**S'entraver**, c'est se prendre les pieds dans une racine, un barreau d'échelle, une ficelle, parfois dans le vide. Les maladroits possèdent des obstacles que la science n'a pas encore répertoriés, et finir par **se casser la gueule** avec une ampleur variable. Le pied reste, le reste du corps poursuit sa route, et la pesanteur, vieille fonctionnaire incorruptible, règle aussitôt le différend. On peut trébucher avec discrétion ; quand on s'entrave, généralement, les bras moulinent, la casquette s'envole et toute la cour profite de la représentation.
+**S'entraver**, c'est se prendre les pieds dans une racine, un barreau d'échelle, une ficelle, parfois dans le vide. Les maladroits possèdent des obstacles que la science n'a pas encore répertoriés, et finissent par se casser la gueule avec une ampleur variable. Le pied reste, le reste du corps poursuit sa route, et la pesanteur, vieille fonctionnaire incorruptible, règle aussitôt le différend. On peut trébucher avec discrétion ; quand on s'entrave, généralement, les bras moulinent, la casquette s'envole et toute la cour profite de la représentation.
 
 ## Exemple
 
-*Il a bien fallu que j'm'entrave dans c'te ravaudrie qu'est restée en en travers du ch'min.*
+*Il a bien fallu que j'm'entrave dans c'te ravaudrie qu'est restée en travers du ch'min.*
 
 > « Il a, bien entendu, fallu que ma progression s'achève contre cette construction d'utilité indéterminée, opportunément déposée au milieu de la voie avec une précision telle qu'on l'aurait crue spécialement disposée pour provoquer ma chute. »
 

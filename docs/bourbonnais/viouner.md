@@ -4,7 +4,7 @@
 
 ## Exemple
 
-*Elle vioune ta cariole.*
+*Elle vioune ta carriole.*
 
 > « Votre attelage progresse avec une célérité si remarquable que la prudence m'oblige à envisager, derrière cette mécanique d'apparence modeste, la présence clandestine de plusieurs chevaux de compétition. »
 

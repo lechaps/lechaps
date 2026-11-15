@@ -10,4 +10,4 @@
 
 ## On dit aussi
 
-Tripoter, patouiller, trifouiller, farfouiller
+Farfouiller, tripoter, patouiller, trifouiller, [tripatouiller](./tripatouiller.md)

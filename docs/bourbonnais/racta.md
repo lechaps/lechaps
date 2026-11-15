@@ -4,7 +4,7 @@
 
 ## Exemple
 
-*J'y ai coupé le tilleul racta, ça risque plus de poser de question.*
+*J'y ai coupé le tilleul racta, ça risque plus de poser de problème.*
 
 > « J'ai procédé à une réduction si radicale de cet arbre que son feuillage, ses branches et toute velléité future de contestation ont été ramenés à leur plus simple expression. »
 

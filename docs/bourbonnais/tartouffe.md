@@ -1,10 +1,10 @@
 # Tartouffe
 
-La **tartouffe**, c'est la pomme de terre, la vraie reine du Bourbonnais : une souveraine crottée, ventrue, sans couronne ni protocole, mais capable de nourrir toute une maisonnée quand novembre gratte aux vitres. On la tire de terre, on la pèle au-dessus de l'évier, on la jette au four, dans la soupe ou sous la pâte, et elle revient toujours à table avec cette modestie des gens indispensables qui n'ont jamais réclamé leur portrait dans la salle du conseil municipale.
+La **tartouffe**, c'est la pomme de terre, la vraie reine du Bourbonnais : une souveraine crottée, ventrue, sans couronne ni protocole, mais capable de nourrir toute une maisonnée quand novembre gratte aux vitres. On la tire de terre, on la pèle au-dessus de l'évier, on la jette au four, dans la soupe ou sous la pâte, et elle revient toujours à table avec cette modestie des gens indispensables qui n'ont jamais réclamé leur portrait dans la salle du conseil municipal.
 
 ## Exemple
 
-*Une tartouffe au fourneau, c'est extra.*
+*Une tartouffe au four, c'est extra.*
 
 > « Il suffit parfois qu'un modeste tubercule soit confié à la bienveillance calorifique du fourneau pour que le repas tout entier s'élève soudain jusqu'aux plus hautes dignités de la gastronomie nationale. »
 

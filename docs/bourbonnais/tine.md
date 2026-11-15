@@ -10,7 +10,7 @@ La **tine**, c'est ce grand récipient de bois cerclé de fer qui sert à tout, 
 
 ## On dit aussi
 
-Baquet, cuve, tonneau ouvert
+Baquet, cuve, charge
 
 ## Pour aller plus loin
 
